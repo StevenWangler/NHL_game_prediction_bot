@@ -1,0 +1,89 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Washington Capitals,4,28,50.0,2.0,4.0,40.0,11,3,5,13,3,Buffalo Sabres,4
+Philadelphia Flyers,2,27,33.3,1.0,3.0,44.7,11,4,9,22,1,Washington Capitals,3
+Detroit Red Wings,6,31,0.0,0.0,2.0,55.6,11,2,5,31,0,Washington Capitals,2
+Columbus Blue Jackets,4,35,0.0,0.0,3.0,47.4,6,6,9,15,2,Washington Capitals,1
+Washington Capitals,9,33,25.0,1.0,4.0,46.7,13,5,4,22,4,Detroit Red Wings,2
+Washington Capitals,8,39,25.0,1.0,4.0,53.6,19,6,9,22,4,Columbus Blue Jackets,3
+Washington Capitals,8,30,33.3,1.0,3.0,62.7,20,6,8,32,2,Boston Bruins,5
+Toronto Maple Leafs,6,26,0.0,0.0,5.0,46.4,9,10,14,33,3,Washington Capitals,2
+Washington Capitals,13,22,0.0,0.0,3.0,59.6,20,7,14,21,3,Montréal Canadiens,1
+Washington Capitals,8,30,100.0,1.0,1.0,48.3,15,7,8,34,6,Vancouver Canucks,4
+Ottawa Senators,15,24,50.0,2.0,4.0,35.8,21,3,6,24,5,Washington Capitals,2
+Washington Capitals,6,26,0.0,0.0,1.0,64.3,18,8,9,16,4,Los Angeles Kings,3
+New Jersey Devils,8,22,33.3,1.0,3.0,49.3,12,3,6,31,3,Washington Capitals,6
+Dallas Stars,8,27,0.0,0.0,3.0,31.6,15,10,4,21,2,Washington Capitals,0
+Nashville Predators,10,35,0.0,0.0,3.0,38.7,14,7,5,28,0,Washington Capitals,3
+Carolina Hurricanes,16,20,25.0,1.0,4.0,45.0,20,4,6,32,2,Washington Capitals,2
+Washington Capitals,6,31,50.0,1.0,2.0,41.4,23,8,7,27,2,Vegas Golden Knights,3
+Detroit Red Wings,8,34,0.0,0.0,4.0,63.6,7,4,8,19,3,Washington Capitals,1
+Washington Capitals,6,26,0.0,0.0,3.0,43.9,18,12,7,20,2,Arizona Coyotes,3
+Washington Capitals,12,29,0.0,0.0,1.0,47.8,19,5,7,21,5,Edmonton Oilers,4
+Washington Capitals,13,28,0.0,0.0,3.0,50.9,19,16,9,32,1,Pittsburgh Penguins,4
+Washington Capitals,41,29,0.0,0.0,3.0,62.2,25,7,5,15,5,Tampa Bay Lightning,1
+Tampa Bay Lightning,20,22,0.0,0.0,6.0,54.7,15,17,11,45,6,Washington Capitals,3
+Florida Panthers,4,43,0.0,0.0,5.0,55.0,16,4,10,24,5,Washington Capitals,2
+St. Louis Blues,8,51,33.3,1.0,3.0,35.3,10,5,1,17,4,Washington Capitals,4
+Washington Capitals,4,29,33.3,1.0,3.0,40.7,18,9,10,22,0,Colorado Avalanche,4
+Washington Capitals,6,23,0.0,0.0,4.0,42.3,20,4,8,35,3,Philadelphia Flyers,2
+Washington Capitals,4,32,0.0,0.0,2.0,50.0,17,7,9,28,3,Calgary Flames,0
+New Jersey Devils,8,38,25.0,1.0,4.0,48.1,4,6,5,11,5,Washington Capitals,1
+Vancouver Canucks,6,28,0.0,0.0,1.0,46.9,12,7,1,13,1,Washington Capitals,5
+Seattle Kraken,9,23,25.0,1.0,4.0,57.4,25,7,7,21,3,Washington Capitals,2
+Calgary Flames,6,29,25.0,1.0,4.0,55.7,20,6,4,24,5,Washington Capitals,2
+Edmonton Oilers,2,50,33.3,1.0,3.0,51.8,15,7,10,27,2,Washington Capitals,3
+Philadelphia Flyers,6,27,25.0,1.0,4.0,53.6,9,9,8,20,1,Washington Capitals,4
+Washington Capitals,9,26,0.0,0.0,2.0,43.2,10,12,1,29,4,Seattle Kraken,1
+Winnipeg Jets,6,36,50.0,1.0,2.0,51.9,19,2,9,12,2,Washington Capitals,5
+Chicago Blackhawks,6,30,100.0,1.0,1.0,39.0,14,11,7,16,3,Washington Capitals,7
+Washington Capitals,4,26,50.0,1.0,2.0,46.9,14,2,5,15,1,Dallas Stars,2
+Washington Capitals,4,36,0.0,0.0,2.0,60.5,10,5,9,17,5,Toronto Maple Leafs,2
+Washington Capitals,8,19,33.3,1.0,3.0,44.7,14,11,7,24,4,Detroit Red Wings,3
+Ottawa Senators,12,40,33.3,1.0,3.0,44.1,25,1,12,14,2,Washington Capitals,3
+Washington Capitals,8,26,0.0,0.0,2.0,44.6,16,8,8,30,4,Winnipeg Jets,1
+New York Rangers,10,30,33.3,1.0,3.0,55.6,16,7,7,19,0,Washington Capitals,4
+Washington Capitals,4,45,0.0,0.0,1.0,53.7,14,14,0,36,3,Ottawa Senators,4
+Washington Capitals,12,33,50.0,1.0,2.0,49.2,14,11,7,22,9,Montréal Canadiens,2
+Washington Capitals,2,29,33.3,1.0,3.0,30.6,10,5,8,21,4,Buffalo Sabres,5
+Columbus Blue Jackets,4,37,100.0,2.0,2.0,65.3,12,6,6,16,2,Washington Capitals,6
+Washington Capitals,6,21,0.0,0.0,2.0,60.0,21,3,6,28,2,Nashville Predators,3
+Washington Capitals,9,38,0.0,0.0,2.0,37.5,15,6,2,32,1,Columbus Blue Jackets,0
+Philadelphia Flyers,12,29,0.0,0.0,1.0,44.4,7,4,9,28,5,Washington Capitals,3
+Washington Capitals,10,25,33.3,1.0,3.0,45.1,25,4,5,31,1,Philadelphia Flyers,3
+New York Islanders,4,35,0.0,0.0,1.0,56.9,13,3,19,37,3,Washington Capitals,4
+Washington Capitals,8,22,0.0,0.0,2.0,50.9,15,6,6,33,2,Minnesota Wild,4
+Arizona Coyotes,6,33,25.0,1.0,4.0,52.8,8,6,8,21,0,Washington Capitals,4
+Vegas Golden Knights,4,22,0.0,0.0,3.0,42.9,9,8,9,40,6,Washington Capitals,2
+Colorado Avalanche,0,39,0.0,0.0,2.0,47.5,15,2,4,22,3,Washington Capitals,2
+Washington Capitals,10,37,0.0,0.0,1.0,53.8,20,8,5,23,2,Pittsburgh Penguins,2
+Toronto Maple Leafs,6,24,25.0,1.0,4.0,50.0,8,6,10,40,5,Washington Capitals,1
+Columbus Blue Jackets,8,34,0.0,0.0,1.0,54.1,22,5,6,15,3,Washington Capitals,4
+Boston Bruins,12,23,25.0,1.0,4.0,44.8,14,12,20,37,1,Washington Capitals,2
+Washington Capitals,6,33,25.0,1.0,4.0,62.5,18,9,10,21,1,San Jose Sharks,4
+Washington Capitals,6,30,100.0,1.0,1.0,41.4,14,12,10,19,2,Carolina Hurricanes,3
+Washington Capitals,12,36,0.0,0.0,2.0,43.9,22,10,9,15,3,Florida Panthers,6
+Carolina Hurricanes,13,25,0.0,0.0,2.0,50.0,22,6,13,25,4,Washington Capitals,1
+Washington Capitals,19,25,0.0,0.0,2.0,48.9,28,7,10,23,1,Detroit Red Wings,3
+Washington Capitals,16,21,0.0,0.0,3.0,50.0,19,4,13,6,2,Anaheim Ducks,4
+Washington Capitals,11,26,20.0,1.0,5.0,52.8,14,8,10,25,6,New York Rangers,3
+Buffalo Sabres,13,30,50.0,1.0,2.0,42.1,10,0,4,17,7,Washington Capitals,4
+Anaheim Ducks,9,39,0.0,0.0,3.0,45.8,9,9,6,14,2,Washington Capitals,3
+San Jose Sharks,8,30,33.3,1.0,3.0,61.0,20,14,6,28,3,Washington Capitals,8
+Los Angeles Kings,10,22,20.0,1.0,5.0,49.1,11,3,11,20,4,Washington Capitals,2
+Washington Capitals,4,40,33.3,1.0,3.0,54.7,15,6,6,12,2,New Jersey Devils,2
+New York Islanders,10,27,0.0,0.0,4.0,41.7,19,3,12,24,1,Washington Capitals,5
+New York Rangers,6,31,0.0,0.0,4.0,52.5,14,5,8,16,5,Washington Capitals,3
+Washington Capitals,6,27,0.0,0.0,2.0,38.5,20,6,7,10,4,Buffalo Sabres,4
+Washington Capitals,8,22,0.0,0.0,1.0,36.0,23,9,6,16,2,St. Louis Blues,5
+Minnesota Wild,40,36,50.0,2.0,4.0,56.7,9,5,8,28,5,Washington Capitals,3
+Washington Capitals,4,39,100.0,1.0,1.0,42.4,18,5,6,14,6,Columbus Blue Jackets,7
+Washington Capitals,8,28,0.0,0.0,5.0,44.4,13,5,10,20,6,Chicago Blackhawks,1
+Pittsburgh Penguins,13,34,33.3,1.0,3.0,57.6,14,13,10,31,4,Washington Capitals,3
+Washington Capitals,2,29,0.0,0.0,1.0,54.4,15,6,7,24,1,New York Islanders,1
+Tampa Bay Lightning,4,31,0.0,0.0,4.0,46.3,16,9,4,36,5,Washington Capitals,1
+Washington Capitals,19,34,25.0,1.0,4.0,58.9,12,5,5,19,2,New York Rangers,5
+Montréal Canadiens,21,26,20.0,1.0,5.0,44.4,19,4,11,17,6,Washington Capitals,2
+Washington Capitals,8,37,25.0,1.0,4.0,52.9,14,6,8,10,2,Florida Panthers,4
+Washington Capitals,2,40,0.0,0.0,3.0,61.4,13,5,13,16,5,New York Islanders,2
+Boston Bruins,4,27,50.0,1.0,2.0,30.4,17,8,10,25,5,Washington Capitals,2
+Washington Capitals,11,34,50.0,1.0,2.0,52.4,7,6,5,19,4,New Jersey Devils,5

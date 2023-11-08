@@ -1,0 +1,91 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Pittsburgh Penguins,18,21,100.0,2.0,2.0,55.3,15,20,3,39,2,Detroit Red Wings,6
+Detroit Red Wings,6,22,25.0,1.0,4.0,43.2,10,14,7,25,2,Chicago Blackhawks,4
+Detroit Red Wings,6,31,0.0,0.0,2.0,55.6,11,2,5,31,0,Washington Capitals,2
+Chicago Blackhawks,8,35,0.0,0.0,4.0,43.5,10,16,8,15,0,Detroit Red Wings,3
+Detroit Red Wings,4,24,100.0,2.0,2.0,54.0,16,4,11,22,2,Pittsburgh Penguins,3
+Washington Capitals,9,33,25.0,1.0,4.0,46.7,13,5,4,22,4,Detroit Red Wings,2
+Detroit Red Wings,4,23,0.0,0.0,2.0,39.6,11,3,4,27,4,Toronto Maple Leafs,2
+Toronto Maple Leafs,10,19,0.0,0.0,5.0,41.9,17,5,10,36,5,Detroit Red Wings,1
+Detroit Red Wings,6,29,0.0,0.0,3.0,58.5,16,3,10,24,3,Montréal Canadiens,0
+New Jersey Devils,10,22,0.0,0.0,4.0,45.5,20,2,9,23,2,Detroit Red Wings,5
+Detroit Red Wings,8,36,0.0,0.0,4.0,64.5,11,7,7,13,4,Los Angeles Kings,5
+Chicago Blackhawks,10,28,20.0,1.0,5.0,38.2,14,8,3,13,4,Detroit Red Wings,3
+Detroit Red Wings,14,33,0.0,0.0,4.0,50.8,8,6,10,19,5,Anaheim Ducks,1
+Detroit Red Wings,6,41,100.0,1.0,1.0,58.6,13,2,13,16,2,New Jersey Devils,6
+Boston Bruins,14,29,0.0,0.0,5.0,51.7,9,8,5,34,5,Detroit Red Wings,1
+Detroit Red Wings,6,31,0.0,0.0,1.0,55.0,13,4,8,25,2,Minnesota Wild,1
+Buffalo Sabres,12,18,0.0,0.0,1.0,50.8,12,9,3,20,8,Detroit Red Wings,3
+Detroit Red Wings,8,34,0.0,0.0,4.0,63.6,7,4,8,19,3,Washington Capitals,1
+Detroit Red Wings,10,24,0.0,0.0,3.0,60.4,10,1,6,34,3,New York Islanders,0
+New York Rangers,4,36,25.0,1.0,4.0,52.5,22,3,4,23,2,Detroit Red Wings,3
+Detroit Red Wings,35,33,0.0,0.0,1.0,52.7,17,2,10,13,2,Montréal Canadiens,2
+Detroit Red Wings,4,33,33.3,1.0,3.0,48.9,11,3,7,25,2,New York Rangers,8
+Los Angeles Kings,6,21,50.0,2.0,4.0,42.3,22,2,5,35,4,Detroit Red Wings,3
+Anaheim Ducks,10,33,25.0,1.0,4.0,55.2,25,4,10,19,3,Detroit Red Wings,2
+San Jose Sharks,2,21,0.0,0.0,3.0,49.1,19,7,10,24,4,Detroit Red Wings,7
+Columbus Blue Jackets,6,37,66.7,2.0,3.0,41.9,13,8,2,11,1,Detroit Red Wings,6
+Detroit Red Wings,4,26,0.0,0.0,3.0,39.5,9,3,8,18,3,Nashville Predators,0
+Detroit Red Wings,15,24,0.0,0.0,4.0,43.4,11,3,5,24,3,Arizona Coyotes,3
+Detroit Red Wings,6,25,50.0,1.0,2.0,56.0,23,1,7,18,2,Toronto Maple Leafs,4
+Detroit Red Wings,16,34,50.0,1.0,2.0,31.9,10,3,6,10,4,Buffalo Sabres,4
+Detroit Red Wings,6,25,100.0,1.0,1.0,46.2,23,4,7,20,1,Vegas Golden Knights,4
+Columbus Blue Jackets,6,35,40.0,2.0,5.0,51.7,11,6,8,13,2,Detroit Red Wings,4
+Tampa Bay Lightning,6,26,0.0,0.0,1.0,44.0,11,13,1,31,2,Detroit Red Wings,4
+Florida Panthers,16,20,25.0,1.0,4.0,45.6,17,4,8,20,5,Detroit Red Wings,1
+Dallas Stars,8,26,0.0,0.0,2.0,44.8,14,3,5,27,3,Detroit Red Wings,2
+Detroit Red Wings,6,27,50.0,1.0,2.0,49.2,11,4,4,13,0,Carolina Hurricanes,1
+Minnesota Wild,13,17,0.0,0.0,3.0,47.2,12,6,2,27,4,Detroit Red Wings,1
+Detroit Red Wings,14,28,60.0,3.0,5.0,62.7,17,2,7,18,3,Ottawa Senators,6
+Washington Capitals,8,19,33.3,1.0,3.0,44.7,14,11,7,24,4,Detroit Red Wings,3
+Detroit Red Wings,10,38,0.0,0.0,4.0,62.3,14,3,3,17,7,Tampa Bay Lightning,4
+Pittsburgh Penguins,4,46,50.0,2.0,4.0,51.9,14,9,5,30,4,Detroit Red Wings,5
+Buffalo Sabres,10,31,33.3,1.0,3.0,46.0,16,5,3,15,6,Detroit Red Wings,3
+Detroit Red Wings,8,23,0.0,0.0,4.0,46.8,17,4,5,31,4,Ottawa Senators,2
+Detroit Red Wings,4,27,66.7,2.0,3.0,39.4,13,2,4,17,1,New Jersey Devils,5
+Detroit Red Wings,10,20,100.0,2.0,2.0,35.2,16,1,4,20,2,Florida Panthers,3
+Toronto Maple Leafs,10,23,0.0,0.0,4.0,48.1,13,6,5,38,4,Detroit Red Wings,1
+Detroit Red Wings,6,37,33.3,1.0,3.0,52.3,11,9,4,20,7,Winnipeg Jets,5
+Detroit Red Wings,10,33,0.0,0.0,3.0,45.8,10,0,4,18,4,Toronto Maple Leafs,1
+Detroit Red Wings,4,25,0.0,0.0,1.0,53.1,17,4,9,27,3,Columbus Blue Jackets,4
+Colorado Avalanche,10,29,0.0,0.0,2.0,62.3,24,5,2,23,6,Detroit Red Wings,3
+Arizona Coyotes,4,40,33.3,1.0,3.0,44.4,21,6,4,27,3,Detroit Red Wings,3
+Vegas Golden Knights,0,25,100.0,1.0,1.0,40.7,15,8,6,31,2,Detroit Red Wings,3
+Detroit Red Wings,8,25,0.0,0.0,1.0,40.7,31,3,7,27,1,Philadelphia Flyers,2
+Detroit Red Wings,6,30,0.0,0.0,1.0,44.1,9,5,4,15,3,San Jose Sharks,2
+Montréal Canadiens,9,42,50.0,1.0,2.0,47.4,19,7,9,25,3,Detroit Red Wings,4
+New York Islanders,10,23,0.0,0.0,4.0,52.0,12,4,6,21,2,Detroit Red Wings,0
+Detroit Red Wings,18,27,25.0,1.0,4.0,49.1,12,2,6,20,2,Edmonton Oilers,5
+Detroit Red Wings,10,36,0.0,0.0,3.0,51.1,11,7,1,12,2,Calgary Flames,1
+Detroit Red Wings,12,34,33.3,1.0,3.0,53.1,10,4,5,19,5,Vancouver Canucks,2
+Vancouver Canucks,8,23,100.0,1.0,1.0,43.2,13,5,11,16,1,Detroit Red Wings,6
+Edmonton Oilers,6,23,100.0,2.0,2.0,46.2,19,4,9,28,4,Detroit Red Wings,4
+Calgary Flames,4,24,50.0,2.0,4.0,55.9,23,11,6,16,2,Detroit Red Wings,5
+Seattle Kraken,16,23,0.0,0.0,3.0,45.9,15,5,0,10,4,Detroit Red Wings,2
+Washington Capitals,19,25,0.0,0.0,2.0,48.9,28,7,10,23,1,Detroit Red Wings,3
+Detroit Red Wings,15,31,0.0,0.0,2.0,47.4,9,5,14,12,4,New York Rangers,1
+Detroit Red Wings,8,18,0.0,0.0,2.0,51.9,29,3,5,9,0,Tampa Bay Lightning,3
+Ottawa Senators,12,24,25.0,1.0,4.0,46.4,16,7,1,31,6,Detroit Red Wings,2
+Ottawa Senators,33,17,0.0,0.0,8.0,50.8,13,5,12,34,6,Detroit Red Wings,1
+Detroit Red Wings,11,37,20.0,1.0,5.0,39.7,7,4,10,20,4,Seattle Kraken,5
+New York Islanders,4,23,33.3,1.0,3.0,31.7,11,1,10,18,4,Detroit Red Wings,1
+Philadelphia Flyers,8,26,0.0,0.0,2.0,61.1,20,6,8,22,3,Detroit Red Wings,1
+Detroit Red Wings,6,20,33.3,1.0,3.0,42.2,11,1,4,18,4,Chicago Blackhawks,3
+Boston Bruins,8,31,50.0,1.0,2.0,40.0,24,11,9,27,3,Detroit Red Wings,2
+Detroit Red Wings,12,33,0.0,0.0,3.0,51.9,7,6,8,14,5,Boston Bruins,3
+Nashville Predators,10,29,25.0,1.0,4.0,41.8,12,10,13,20,2,Detroit Red Wings,1
+Detroit Red Wings,8,23,33.3,1.0,3.0,37.0,14,1,4,10,1,Colorado Avalanche,5
+Detroit Red Wings,4,25,50.0,1.0,2.0,54.8,8,2,3,19,2,Florida Panthers,5
+St. Louis Blues,6,30,33.3,1.0,3.0,54.0,13,16,10,13,2,Detroit Red Wings,2
+Detroit Red Wings,7,22,0.0,0.0,4.0,47.4,18,6,9,20,3,St. Louis Blues,4
+Philadelphia Flyers,6,29,0.0,0.0,7.0,51.8,8,10,4,27,3,Detroit Red Wings,0
+Detroit Red Wings,6,39,33.3,2.0,6.0,52.9,17,3,6,6,7,Pittsburgh Penguins,4
+Detroit Red Wings,6,33,0.0,0.0,3.0,49.2,6,3,4,7,3,Carolina Hurricanes,2
+Winnipeg Jets,6,25,100.0,1.0,1.0,49.0,22,8,9,14,6,Detroit Red Wings,2
+Toronto Maple Leafs,8,24,0.0,0.0,1.0,35.6,17,7,6,23,2,Detroit Red Wings,5
+Montréal Canadiens,8,21,33.3,1.0,3.0,59.0,6,7,6,12,0,Detroit Red Wings,5
+Detroit Red Wings,8,36,33.3,1.0,3.0,41.9,12,6,8,9,6,Buffalo Sabres,6
+Detroit Red Wings,6,28,25.0,1.0,4.0,35.4,17,4,2,8,1,Pittsburgh Penguins,5
+Detroit Red Wings,6,22,33.3,1.0,3.0,67.4,11,5,4,10,1,Dallas Stars,6
+Carolina Hurricanes,2,21,0.0,0.0,2.0,54.7,10,6,5,15,4,Detroit Red Wings,1
+Tampa Bay Lightning,6,32,0.0,0.0,2.0,35.8,17,13,4,36,5,Detroit Red Wings,0

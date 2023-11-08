@@ -1,0 +1,101 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Toronto Maple Leafs,8,20,0.0,0.0,2.0,0.36,12,2,17,47,4,Ottawa Senators,1
+Toronto Maple Leafs,8,27,0.33299999999999996,1.0,3.0,0.5489999999999999,14,8,8,46,2,Ottawa Senators,4
+Toronto Maple Leafs,8,27,0.0,0.0,3.0,0.4,14,8,8,39,3,Montréal Canadiens,0
+Ottawa Senators,13,39,0.25,1.0,4.0,0.0,0,0,0,0,3,Toronto Maple Leafs,6
+Montréal Canadiens,10,31,0.667,2.0,3.0,0.35,18,11,13,24,1,Toronto Maple Leafs,5
+Detroit Red Wings,4,23,0.0,0.0,2.0,0.396,11,3,4,27,4,Toronto Maple Leafs,2
+Toronto Maple Leafs,10,19,0.0,0.0,5.0,0.419,17,5,10,36,5,Detroit Red Wings,1
+Montréal Canadiens,8,32,0.0,0.0,4.0,0.49,15,12,11,19,4,Toronto Maple Leafs,3
+Toronto Maple Leafs,6,26,0.0,0.0,5.0,0.46399999999999997,9,10,14,33,3,Washington Capitals,2
+Toronto Maple Leafs,4,28,0.5,1.0,2.0,0.508,19,10,8,53,3,Ottawa Senators,2
+Toronto Maple Leafs,12,19,0.4,2.0,5.0,0.408,18,1,10,23,2,Arizona Coyotes,4
+Toronto Maple Leafs,16,28,0.25,1.0,4.0,0.479,15,14,14,41,3,Dallas Stars,2
+Winnipeg Jets,15,28,0.667,2.0,3.0,0.522,12,6,12,17,1,Toronto Maple Leafs,4
+Vegas Golden Knights,6,23,0.0,0.0,2.0,0.509,18,8,7,29,3,Toronto Maple Leafs,1
+San Jose Sharks,8,25,0.25,1.0,4.0,0.5,10,12,8,11,4,Toronto Maple Leafs,3
+Los Angeles Kings,12,28,0.25,1.0,4.0,0.436,13,0,5,22,4,Toronto Maple Leafs,2
+Anaheim Ducks,6,36,0.5,1.0,2.0,0.491,12,8,6,9,4,Toronto Maple Leafs,3
+Toronto Maple Leafs,39,25,0.16699999999999998,1.0,6.0,0.532,19,8,8,45,5,Philadelphia Flyers,2
+Toronto Maple Leafs,6,21,0.33299999999999996,1.0,3.0,0.455,9,6,6,47,2,Boston Bruins,1
+Carolina Hurricanes,4,21,0.0,0.0,1.0,0.5,14,2,6,17,1,Toronto Maple Leafs,3
+Toronto Maple Leafs,4,20,0.0,0.0,2.0,0.38799999999999996,12,9,17,42,3,Vegas Golden Knights,4
+Toronto Maple Leafs,6,23,0.0,0.0,1.0,0.5,19,8,13,41,2,Pittsburgh Penguins,4
+Toronto Maple Leafs,4,29,0.25,1.0,4.0,0.43799999999999994,13,9,12,38,3,Vancouver Canucks,2
+Pittsburgh Penguins,8,33,0.0,0.0,1.0,0.451,27,6,7,25,2,Toronto Maple Leafs,5
+Toronto Maple Leafs,10,33,0.0,0.0,2.0,0.4,17,8,14,30,2,New Jersey Devils,3
+Toronto Maple Leafs,6,34,0.33299999999999996,2.0,6.0,0.38,11,7,14,28,5,Buffalo Sabres,2
+Toronto Maple Leafs,13,24,0.0,0.0,1.0,0.475,12,9,10,51,2,New York Islanders,3
+New Jersey Devils,6,20,0.0,0.0,4.0,0.41,21,6,3,9,1,Toronto Maple Leafs,2
+Minnesota Wild,4,28,0.0,0.0,3.0,0.556,22,4,4,12,3,Toronto Maple Leafs,4
+Pittsburgh Penguins,4,41,0.0,0.0,3.0,0.509,12,11,9,23,1,Toronto Maple Leafs,4
+Detroit Red Wings,6,25,0.5,1.0,2.0,0.56,23,1,7,18,2,Toronto Maple Leafs,4
+Toronto Maple Leafs,6,24,0.0,0.0,0.0,0.392,24,6,8,49,3,San Jose Sharks,1
+Tampa Bay Lightning,16,39,0.2,1.0,5.0,0.607,10,8,5,31,4,Toronto Maple Leafs,3
+Dallas Stars,14,29,0.0,0.0,2.0,0.596,27,7,6,22,0,Toronto Maple Leafs,4
+Toronto Maple Leafs,11,29,0.0,0.0,2.0,0.5,11,5,12,39,5,Los Angeles Kings,0
+Toronto Maple Leafs,16,26,0.5,1.0,2.0,0.49200000000000005,13,5,4,34,5,Calgary Flames,4
+Toronto Maple Leafs,8,28,0.0,0.0,1.0,0.42200000000000004,14,5,7,35,7,Anaheim Ducks,0
+New York Rangers,2,23,0.0,0.0,3.0,0.49,11,11,29,8,3,Toronto Maple Leafs,1
+Washington Capitals,4,36,0.0,0.0,2.0,0.605,10,5,9,17,5,Toronto Maple Leafs,2
+Toronto Maple Leafs,6,19,0.0,0.0,1.0,0.489,5,4,11,33,4,Tampa Bay Lightning,1
+Toronto Maple Leafs,12,19,0.2,1.0,5.0,0.44,13,4,12,33,4,Philadelphia Flyers,3
+St. Louis Blues,8,37,0.0,0.0,2.0,0.528,15,9,4,11,4,Toronto Maple Leafs,5
+Arizona Coyotes,13,32,1.0,2.0,2.0,0.45299999999999996,10,4,11,27,6,Toronto Maple Leafs,3
+Colorado Avalanche,6,32,0.25,1.0,4.0,0.588,25,10,8,12,2,Toronto Maple Leafs,6
+Toronto Maple Leafs,6,32,1.0,2.0,2.0,0.377,17,5,10,52,5,St. Louis Blues,5
+Toronto Maple Leafs,10,26,0.5,1.0,2.0,0.429,12,13,8,32,1,Seattle Kraken,5
+Toronto Maple Leafs,10,23,0.0,0.0,4.0,0.48100000000000004,13,6,5,38,4,Detroit Red Wings,1
+Philadelphia Flyers,10,35,0.5,1.0,2.0,0.556,17,4,6,17,2,Toronto Maple Leafs,6
+Toronto Maple Leafs,10,33,0.0,0.0,2.0,0.46299999999999997,13,9,7,36,2,Nashville Predators,1
+Detroit Red Wings,10,33,0.0,0.0,3.0,0.45799999999999996,10,0,4,18,4,Toronto Maple Leafs,1
+Boston Bruins,21,21,0.5,1.0,2.0,0.491,16,14,8,35,4,Toronto Maple Leafs,3
+Toronto Maple Leafs,18,19,0.33299999999999996,1.0,3.0,0.41700000000000004,14,6,9,28,5,Florida Panthers,4
+Toronto Maple Leafs,2,38,0.25,1.0,4.0,0.589,5,7,8,26,4,Winnipeg Jets,1
+Montréal Canadiens,10,38,0.0,0.0,2.0,0.633,14,3,7,14,3,Toronto Maple Leafs,2
+Toronto Maple Leafs,6,33,0.0,0.0,2.0,0.547,13,10,8,49,5,New York Islanders,2
+Toronto Maple Leafs,6,29,0.0,0.0,2.0,0.5,16,8,8,35,3,New York Rangers,2
+Toronto Maple Leafs,8,34,0.2,1.0,5.0,0.6,15,5,15,22,2,Ottawa Senators,6
+Toronto Maple Leafs,6,24,0.25,1.0,4.0,0.5,8,6,10,40,5,Washington Capitals,1
+Toronto Maple Leafs,11,29,0.0,0.0,1.0,0.49,22,9,10,31,2,Boston Bruins,5
+Columbus Blue Jackets,6,41,0.25,1.0,4.0,0.41100000000000003,14,8,3,6,0,Toronto Maple Leafs,3
+Toronto Maple Leafs,4,40,0.0,0.0,4.0,0.509,18,6,8,40,3,Columbus Blue Jackets,4
+Toronto Maple Leafs,6,29,0.0,0.0,3.0,0.442,11,14,8,42,5,Chicago Blackhawks,2
+Toronto Maple Leafs,6,30,0.0,0.0,1.0,0.397,14,15,8,27,5,Montréal Canadiens,1
+Chicago Blackhawks,6,35,0.5,1.0,2.0,0.5579999999999999,7,10,5,20,5,Toronto Maple Leafs,3
+Buffalo Sabres,4,29,0.5,1.0,2.0,0.589,18,15,1,16,3,Toronto Maple Leafs,6
+Toronto Maple Leafs,4,25,0.0,0.0,1.0,0.28800000000000003,18,9,13,42,2,Minnesota Wild,1
+Seattle Kraken,4,33,0.0,0.0,1.0,0.7140000000000001,18,12,8,10,1,Toronto Maple Leafs,5
+Edmonton Oilers,13,28,0.33299999999999996,1.0,3.0,0.565,13,5,6,22,5,Toronto Maple Leafs,2
+Calgary Flames,4,34,0.0,0.0,2.0,0.556,18,7,9,18,1,Toronto Maple Leafs,2
+Vancouver Canucks,21,37,0.25,1.0,4.0,0.54,16,2,7,16,4,Toronto Maple Leafs,1
+New Jersey Devils,8,25,0.5,1.0,2.0,0.56,15,7,2,14,3,Toronto Maple Leafs,4
+Toronto Maple Leafs,20,26,0.33299999999999996,1.0,3.0,0.46399999999999997,12,7,14,23,7,Edmonton Oilers,4
+Toronto Maple Leafs,2,29,0.33299999999999996,1.0,3.0,0.344,10,18,10,24,3,Buffalo Sabres,4
+Toronto Maple Leafs,6,29,0.2,1.0,5.0,0.456,12,6,10,22,1,Colorado Avalanche,1
+Toronto Maple Leafs,2,34,0.0,0.0,3.0,0.442,9,6,7,20,5,Carolina Hurricanes,2
+Ottawa Senators,6,29,0.5,1.0,2.0,0.462,20,1,15,25,4,Toronto Maple Leafs,4
+New York Islanders,9,27,0.0,0.0,1.0,0.40399999999999997,9,3,19,15,7,Toronto Maple Leafs,2
+Florida Panthers,6,27,0.25,1.0,4.0,0.456,12,5,3,18,2,Toronto Maple Leafs,6
+Carolina Hurricanes,4,44,0.0,0.0,3.0,0.40700000000000003,10,8,11,16,5,Toronto Maple Leafs,3
+Nashville Predators,8,34,0.4,2.0,5.0,0.611,11,5,8,21,2,Toronto Maple Leafs,3
+Toronto Maple Leafs,10,29,0.25,1.0,4.0,0.34600000000000003,12,5,14,23,2,Florida Panthers,3
+Ottawa Senators,4,20,0.0,0.0,1.0,0.45299999999999996,22,2,4,30,0,Toronto Maple Leafs,3
+Toronto Maple Leafs,8,24,0.0,0.0,1.0,0.35600000000000004,17,7,6,23,2,Detroit Red Wings,5
+Toronto Maple Leafs,6,26,0.0,0.0,2.0,0.439,16,9,13,40,4,Columbus Blue Jackets,2
+Boston Bruins,13,32,0.0,0.0,3.0,0.451,13,7,6,28,2,Toronto Maple Leafs,1
+Toronto Maple Leafs,21,21,0.0,0.0,4.0,0.5489999999999999,10,3,16,28,7,Montréal Canadiens,1
+Florida Panthers,4,25,0.0,0.0,1.0,0.521,23,10,7,25,1,Toronto Maple Leafs,2
+Tampa Bay Lightning,28,24,0.33299999999999996,2.0,6.0,0.46799999999999997,17,13,3,23,3,Toronto Maple Leafs,4
+New York Rangers,4,21,0.0,0.0,1.0,0.5870000000000001,11,9,10,14,2,Toronto Maple Leafs,3
+Toronto Maple Leafs,8,34,0.5,4.0,8.0,0.444,20,7,9,39,3,Tampa Bay Lightning,7
+Toronto Maple Leafs,49,22,0.0,0.0,3.0,0.5,16,7,3,53,7,Tampa Bay Lightning,2
+Tampa Bay Lightning,18,27,0.0,0.0,3.0,0.516,26,13,7,62,3,Toronto Maple Leafs,4
+Tampa Bay Lightning,8,37,0.5,2.0,4.0,0.5,28,7,3,46,4,Toronto Maple Leafs,5
+Toronto Maple Leafs,4,38,0.0,0.0,2.0,0.424,13,7,8,37,2,Tampa Bay Lightning,4
+Tampa Bay Lightning,4,22,0.0,0.0,2.0,0.42100000000000004,29,23,11,42,1,Toronto Maple Leafs,2
+Toronto Maple Leafs,10,28,0.0,0.0,1.0,0.491,8,3,10,47,2,Florida Panthers,4
+Toronto Maple Leafs,6,29,0.0,0.0,1.0,0.315,15,15,14,42,2,Florida Panthers,3
+Florida Panthers,4,24,0.0,0.0,0.0,0.61,24,3,14,26,3,Toronto Maple Leafs,2
+Florida Panthers,16,25,0.5,1.0,2.0,0.622,21,9,11,26,1,Toronto Maple Leafs,2
+Toronto Maple Leafs,4,43,0.5,1.0,2.0,0.382,20,16,19,49,2,Florida Panthers,3

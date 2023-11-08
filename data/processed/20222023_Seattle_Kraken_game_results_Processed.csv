@@ -1,0 +1,103 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Seattle Kraken,14,29,0.0,0.0,4.0,0.444,12,5,2,19,3,Edmonton Oilers,0
+Seattle Kraken,6,25,0.0,0.0,6.0,0.509,15,2,1,9,3,Calgary Flames,0
+Vancouver Canucks,24,29,0.33299999999999996,1.0,3.0,0.5710000000000001,16,4,2,30,3,Seattle Kraken,4
+Seattle Kraken,10,17,0.0,0.0,2.0,0.542,16,6,1,21,4,Vancouver Canucks,0
+Calgary Flames,4,22,0.2,1.0,5.0,0.314,11,7,6,19,4,Seattle Kraken,1
+Edmonton Oilers,4,33,0.5,1.0,2.0,0.491,18,2,7,24,5,Seattle Kraken,3
+Anaheim Ducks,11,48,0.6,3.0,5.0,0.429,12,4,6,22,5,Seattle Kraken,4
+Los Angeles Kings,19,22,0.16699999999999998,1.0,6.0,0.423,15,2,8,44,1,Seattle Kraken,4
+Seattle Kraken,4,30,0.5,2.0,4.0,0.652,20,6,4,12,2,Vegas Golden Knights,5
+Seattle Kraken,10,34,0.4,2.0,5.0,0.517,10,4,0,18,1,Carolina Hurricanes,5
+Seattle Kraken,6,28,0.0,0.0,3.0,0.545,15,9,3,15,3,St. Louis Blues,4
+Colorado Avalanche,9,38,0.2,1.0,5.0,0.368,15,6,5,17,2,Seattle Kraken,3
+Chicago Blackhawks,6,34,0.0,0.0,4.0,0.305,10,17,5,8,5,Seattle Kraken,4
+Seattle Kraken,6,16,0.0,0.0,4.0,0.6729999999999999,7,5,7,12,5,Buffalo Sabres,1
+Seattle Kraken,23,19,1.0,2.0,2.0,0.5820000000000001,16,13,4,21,4,Vancouver Canucks,5
+Seattle Kraken,4,33,0.0,0.0,2.0,0.478,16,1,10,25,3,Pittsburgh Penguins,1
+Calgary Flames,13,26,0.25,1.0,4.0,0.385,19,16,9,18,4,Seattle Kraken,5
+Minnesota Wild,4,23,0.5,1.0,2.0,0.511,14,8,6,20,0,Seattle Kraken,4
+Pittsburgh Penguins,6,28,0.0,0.0,3.0,0.429,18,13,5,35,2,Seattle Kraken,3
+Seattle Kraken,2,25,0.0,0.0,2.0,0.5870000000000001,15,6,12,21,5,Nashville Predators,1
+Seattle Kraken,8,21,0.0,0.0,3.0,0.42,22,8,3,20,0,Minnesota Wild,1
+Seattle Kraken,10,30,0.28600000000000003,2.0,7.0,0.435,11,5,9,19,2,Winnipeg Jets,3
+Seattle Kraken,8,30,0.5,2.0,4.0,0.449,9,6,1,24,3,New York Rangers,2
+Seattle Kraken,6,29,0.0,0.0,1.0,0.41700000000000004,8,10,3,28,3,Los Angeles Kings,2
+Seattle Kraken,8,26,0.5,1.0,2.0,0.544,18,3,3,19,8,San Jose Sharks,5
+Vegas Golden Knights,2,28,0.0,0.0,2.0,0.426,15,17,10,29,2,Seattle Kraken,4
+Anaheim Ducks,8,25,0.5,1.0,2.0,0.414,14,8,9,21,4,Seattle Kraken,5
+Los Angeles Kings,8,30,0.75,3.0,4.0,0.371,11,4,4,32,8,Seattle Kraken,9
+Seattle Kraken,9,23,0.25,1.0,4.0,0.574,25,7,7,21,3,Washington Capitals,2
+Seattle Kraken,6,28,0.75,3.0,4.0,0.5,12,8,6,19,1,Florida Panthers,5
+Seattle Kraken,6,16,0.0,0.0,4.0,0.5,19,8,7,25,2,Montréal Canadiens,4
+Washington Capitals,9,26,0.0,0.0,2.0,0.43200000000000005,10,12,1,29,4,Seattle Kraken,1
+Florida Panthers,8,32,0.16699999999999998,1.0,6.0,0.344,10,4,5,22,2,Seattle Kraken,5
+Tampa Bay Lightning,29,38,0.0,0.0,3.0,0.531,10,20,3,39,6,Seattle Kraken,2
+Carolina Hurricanes,4,17,0.0,0.0,2.0,0.47100000000000003,16,9,9,28,3,Seattle Kraken,2
+Seattle Kraken,6,17,0.667,2.0,3.0,0.42,16,3,7,14,3,Winnipeg Jets,2
+Seattle Kraken,6,24,0.33299999999999996,1.0,3.0,0.396,10,6,5,18,5,St. Louis Blues,2
+Vancouver Canucks,11,36,0.0,0.0,1.0,0.5,19,7,5,12,5,Seattle Kraken,5
+Seattle Kraken,2,44,0.25,1.0,4.0,0.556,14,6,3,21,2,Calgary Flames,3
+Seattle Kraken,13,32,1.0,2.0,2.0,0.446,20,15,5,13,2,Edmonton Oilers,7
+Seattle Kraken,4,19,0.0,0.0,2.0,0.655,15,10,3,27,4,New York Islanders,1
+Edmonton Oilers,6,24,0.33299999999999996,1.0,3.0,0.387,18,6,3,38,2,Seattle Kraken,5
+Toronto Maple Leafs,10,26,0.5,1.0,2.0,0.429,12,13,8,32,1,Seattle Kraken,5
+Ottawa Senators,6,24,0.0,0.0,1.0,0.41,19,7,12,32,4,Seattle Kraken,8
+Montréal Canadiens,9,41,0.16699999999999998,1.0,6.0,0.5429999999999999,20,1,9,15,0,Seattle Kraken,4
+Buffalo Sabres,10,22,1.0,1.0,1.0,0.5539999999999999,13,8,1,21,3,Seattle Kraken,4
+Boston Bruins,2,31,0.0,0.0,3.0,0.268,19,12,8,26,0,Seattle Kraken,3
+Chicago Blackhawks,4,30,0.0,0.0,2.0,0.516,5,9,5,17,5,Seattle Kraken,8
+Seattle Kraken,6,31,0.0,0.0,2.0,0.605,13,5,5,18,1,Tampa Bay Lightning,4
+Edmonton Oilers,6,31,0.25,1.0,4.0,0.5,13,15,12,43,5,Seattle Kraken,2
+Seattle Kraken,6,30,0.0,0.0,1.0,0.508,19,12,11,18,4,New Jersey Devils,3
+Seattle Kraken,4,27,0.0,0.0,2.0,0.46799999999999997,13,12,1,24,1,Colorado Avalanche,1
+Seattle Kraken,13,20,0.0,0.0,5.0,0.444,18,12,3,20,6,Vancouver Canucks,1
+Seattle Kraken,12,38,0.0,0.0,2.0,0.613,15,9,9,19,2,Calgary Flames,5
+Seattle Kraken,4,25,0.0,0.0,2.0,0.5479999999999999,15,4,4,12,3,Columbus Blue Jackets,1
+New York Islanders,2,32,0.0,0.0,1.0,0.41200000000000003,13,4,7,31,4,Seattle Kraken,0
+New Jersey Devils,8,34,0.0,0.0,3.0,0.397,11,3,6,15,3,Seattle Kraken,1
+New York Rangers,6,29,0.2,1.0,5.0,0.40399999999999997,10,7,6,23,6,Seattle Kraken,3
+Philadelphia Flyers,4,21,0.0,0.0,1.0,0.5579999999999999,15,14,5,29,3,Seattle Kraken,4
+Winnipeg Jets,6,29,0.25,1.0,4.0,0.45899999999999996,12,7,8,18,2,Seattle Kraken,2
+Seattle Kraken,11,19,0.0,0.0,1.0,0.61,19,11,5,18,6,Philadelphia Flyers,2
+Seattle Kraken,16,23,0.0,0.0,3.0,0.45899999999999996,15,5,0,10,4,Detroit Red Wings,2
+San Jose Sharks,4,26,0.0,0.0,2.0,0.5660000000000001,7,14,3,24,4,Seattle Kraken,0
+Seattle Kraken,12,33,0.0,0.0,1.0,0.603,11,7,6,18,5,Boston Bruins,6
+Seattle Kraken,4,33,0.0,0.0,1.0,0.7140000000000001,18,12,8,10,1,Toronto Maple Leafs,5
+St. Louis Blues,8,26,0.0,0.0,2.0,0.5770000000000001,16,12,4,16,3,Seattle Kraken,5
+Detroit Red Wings,11,37,0.2,1.0,5.0,0.397,7,4,10,20,4,Seattle Kraken,5
+Columbus Blue Jackets,8,35,0.5,2.0,4.0,0.484,10,4,4,11,2,Seattle Kraken,4
+Colorado Avalanche,4,35,0.0,0.0,5.0,0.42100000000000004,9,9,7,24,2,Seattle Kraken,3
+Seattle Kraken,6,22,0.0,0.0,3.0,0.491,10,9,7,9,5,Anaheim Ducks,2
+Seattle Kraken,4,31,0.0,0.0,4.0,0.642,8,8,3,11,4,Ottawa Senators,5
+Seattle Kraken,8,25,0.0,0.0,1.0,0.564,13,8,6,13,3,Dallas Stars,4
+Seattle Kraken,4,32,0.75,3.0,4.0,0.593,12,14,3,5,2,Dallas Stars,5
+San Jose Sharks,6,32,0.0,0.0,3.0,0.426,18,5,11,17,1,Seattle Kraken,2
+Seattle Kraken,11,23,0.33299999999999996,1.0,3.0,0.5,11,14,3,16,4,Edmonton Oilers,6
+Dallas Stars,8,27,0.0,0.0,2.0,0.4,17,13,5,12,4,Seattle Kraken,5
+Nashville Predators,4,28,0.0,0.0,2.0,0.444,17,6,8,29,1,Seattle Kraken,1
+Nashville Predators,8,39,0.25,1.0,4.0,0.462,12,6,7,22,2,Seattle Kraken,7
+Minnesota Wild,18,36,0.0,0.0,3.0,0.528,7,5,2,16,5,Seattle Kraken,1
+Seattle Kraken,6,19,0.0,0.0,2.0,0.561,17,3,8,8,4,Anaheim Ducks,1
+Seattle Kraken,4,19,0.0,0.0,1.0,0.6409999999999999,15,6,1,13,1,Los Angeles Kings,3
+Seattle Kraken,49,21,0.0,0.0,3.0,0.44799999999999995,12,10,3,15,8,Arizona Coyotes,1
+Vancouver Canucks,15,28,0.25,1.0,4.0,0.48100000000000004,11,2,3,27,2,Seattle Kraken,5
+Seattle Kraken,40,29,0.0,0.0,2.0,0.561,8,8,2,9,4,Arizona Coyotes,2
+Seattle Kraken,8,29,0.33299999999999996,1.0,3.0,0.581,12,3,6,13,7,Chicago Blackhawks,3
+Arizona Coyotes,15,37,0.5,2.0,4.0,0.45799999999999996,9,6,10,18,1,Seattle Kraken,4
+Vegas Golden Knights,6,21,0.0,0.0,2.0,0.45799999999999996,19,10,8,39,4,Seattle Kraken,1
+Seattle Kraken,12,19,0.0,0.0,2.0,0.54,27,11,6,13,1,Vegas Golden Knights,3
+Colorado Avalanche,4,30,0.0,0.0,3.0,0.436,23,4,9,40,1,Seattle Kraken,3
+Colorado Avalanche,8,29,0.0,0.0,2.0,0.44799999999999995,10,2,3,40,3,Seattle Kraken,2
+Seattle Kraken,12,34,0.0,0.0,3.0,0.5760000000000001,10,12,3,31,4,Colorado Avalanche,6
+Seattle Kraken,12,22,0.33299999999999996,1.0,3.0,0.439,18,9,4,37,3,Colorado Avalanche,2
+Colorado Avalanche,4,29,0.0,0.0,2.0,0.40399999999999997,14,5,6,39,2,Seattle Kraken,3
+Seattle Kraken,8,39,0.0,0.0,5.0,0.5579999999999999,12,13,3,31,1,Colorado Avalanche,4
+Colorado Avalanche,2,27,0.0,0.0,0.0,0.418,29,7,7,46,1,Seattle Kraken,2
+Dallas Stars,4,44,0.0,0.0,3.0,0.418,20,11,12,47,4,Seattle Kraken,5
+Dallas Stars,10,27,0.0,0.0,1.0,0.312,13,5,7,45,4,Seattle Kraken,2
+Seattle Kraken,54,26,0.0,0.0,3.0,0.5670000000000001,14,6,7,20,7,Dallas Stars,2
+Seattle Kraken,12,25,0.667,2.0,3.0,0.5379999999999999,17,5,1,24,3,Dallas Stars,6
+Dallas Stars,4,31,0.0,0.0,2.0,0.40399999999999997,13,8,8,39,5,Seattle Kraken,2
+Seattle Kraken,18,23,0.33299999999999996,1.0,3.0,0.522,15,14,4,46,6,Dallas Stars,3
+Dallas Stars,2,23,0.0,0.0,1.0,0.46,21,3,8,39,2,Seattle Kraken,1

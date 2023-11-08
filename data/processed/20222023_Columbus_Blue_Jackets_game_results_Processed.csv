@@ -1,0 +1,91 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Pittsburgh Penguins,9,28,0.667,2.0,3.0,0.519,18,5,5,32,3,Columbus Blue Jackets,2
+Columbus Blue Jackets,11,34,0.0,0.0,5.0,0.466,11,10,3,18,5,Pittsburgh Penguins,1
+Columbus Blue Jackets,2,23,0.0,0.0,4.0,0.5,11,3,3,10,4,Buffalo Sabres,1
+St. Louis Blues,18,35,0.0,0.0,3.0,0.5489999999999999,10,8,4,28,4,Columbus Blue Jackets,2
+Columbus Blue Jackets,4,35,0.0,0.0,3.0,0.474,6,6,9,15,2,Washington Capitals,1
+Carolina Hurricanes,12,26,0.0,0.0,1.0,0.484,16,6,4,23,8,Columbus Blue Jackets,1
+Columbus Blue Jackets,9,24,0.0,0.0,2.0,0.436,13,2,3,9,7,St. Louis Blues,0
+Washington Capitals,8,39,0.25,1.0,4.0,0.536,19,6,9,22,4,Columbus Blue Jackets,3
+Carolina Hurricanes,4,32,0.0,0.0,2.0,0.39,22,10,11,26,4,Columbus Blue Jackets,1
+Columbus Blue Jackets,8,39,0.5,1.0,2.0,0.28600000000000003,4,2,4,18,2,Tampa Bay Lightning,5
+St. Louis Blues,6,25,0.0,0.0,2.0,0.574,13,11,10,14,5,Columbus Blue Jackets,2
+Columbus Blue Jackets,9,35,0.0,0.0,3.0,0.38299999999999995,14,11,3,13,4,Vancouver Canucks,3
+Columbus Blue Jackets,6,26,0.0,0.0,5.0,0.544,19,6,6,15,5,Nashville Predators,3
+Columbus Blue Jackets,2,39,0.0,0.0,3.0,0.5329999999999999,17,7,4,12,3,Pittsburgh Penguins,6
+New York Rangers,6,21,0.0,0.0,1.0,0.33299999999999996,21,9,6,15,1,Columbus Blue Jackets,5
+Columbus Blue Jackets,14,19,0.33299999999999996,2.0,6.0,0.46299999999999997,15,7,4,14,3,Arizona Coyotes,6
+Columbus Blue Jackets,6,35,0.0,0.0,2.0,0.5820000000000001,19,4,4,23,0,Boston Bruins,4
+New Jersey Devils,8,21,0.0,0.0,2.0,0.446,21,5,4,27,7,Columbus Blue Jackets,1
+Colorado Avalanche,10,39,0.14300000000000002,1.0,7.0,0.642,13,4,2,18,6,Columbus Blue Jackets,3
+Columbus Blue Jackets,7,45,0.0,0.0,1.0,0.569,13,3,2,10,1,Colorado Avalanche,5
+Columbus Blue Jackets,11,34,0.0,0.0,0.0,0.47600000000000003,12,6,6,15,5,Philadelphia Flyers,2
+New York Islanders,4,29,0.5,1.0,2.0,0.44299999999999995,20,5,7,19,4,Columbus Blue Jackets,3
+Columbus Blue Jackets,4,37,0.5,1.0,2.0,0.475,18,4,0,27,5,Philadelphia Flyers,4
+Columbus Blue Jackets,9,42,0.33299999999999996,1.0,3.0,0.485,15,4,2,8,6,Montréal Canadiens,4
+Columbus Blue Jackets,6,37,0.667,2.0,3.0,0.419,13,8,2,11,1,Detroit Red Wings,6
+Columbus Blue Jackets,4,50,0.0,0.0,3.0,0.467,4,2,2,16,5,Florida Panthers,3
+Columbus Blue Jackets,11,29,0.0,0.0,3.0,0.455,21,3,3,13,1,Montréal Canadiens,3
+Columbus Blue Jackets,15,24,0.25,1.0,4.0,0.483,14,7,4,22,2,New York Islanders,3
+Columbus Blue Jackets,4,36,0.0,0.0,4.0,0.556,15,6,2,16,2,Vegas Golden Knights,2
+Winnipeg Jets,10,26,0.0,0.0,3.0,0.522,27,6,14,19,1,Columbus Blue Jackets,4
+Columbus Blue Jackets,6,35,0.4,2.0,5.0,0.517,11,6,8,13,2,Detroit Red Wings,4
+Pittsburgh Penguins,10,39,0.0,0.0,5.0,0.526,9,5,4,27,4,Columbus Blue Jackets,1
+Columbus Blue Jackets,6,30,0.6,3.0,5.0,0.40399999999999997,10,3,4,8,4,Buffalo Sabres,9
+Columbus Blue Jackets,14,32,0.0,0.0,5.0,0.527,5,2,1,12,3,Calgary Flames,1
+Columbus Blue Jackets,6,38,0.0,0.0,2.0,0.47700000000000004,20,3,4,15,6,Los Angeles Kings,5
+Florida Panthers,6,22,0.0,0.0,3.0,0.489,13,6,11,23,4,Columbus Blue Jackets,0
+Tampa Bay Lightning,6,25,0.0,0.0,1.0,0.518,18,13,8,37,4,Columbus Blue Jackets,1
+Boston Bruins,8,33,0.4,2.0,5.0,0.29600000000000004,22,7,12,26,4,Columbus Blue Jackets,2
+Columbus Blue Jackets,2,34,0.0,0.0,0.0,0.627,12,5,4,9,1,Dallas Stars,2
+Philadelphia Flyers,2,33,0.0,0.0,1.0,0.442,16,8,7,22,5,Columbus Blue Jackets,3
+Chicago Blackhawks,21,29,0.25,1.0,4.0,0.354,12,2,5,17,5,Columbus Blue Jackets,2
+New York Islanders,8,21,0.0,0.0,2.0,0.371,13,6,10,16,2,Columbus Blue Jackets,1
+Columbus Blue Jackets,6,28,0.0,0.0,5.0,0.594,17,6,3,19,4,Chicago Blackhawks,1
+Ottawa Senators,12,22,0.0,0.0,3.0,0.475,15,6,12,32,4,Columbus Blue Jackets,0
+Columbus Blue Jackets,4,37,1.0,2.0,2.0,0.653,12,6,6,16,2,Washington Capitals,6
+Columbus Blue Jackets,12,42,0.33299999999999996,2.0,6.0,0.596,5,5,3,12,3,Carolina Hurricanes,3
+Washington Capitals,9,38,0.0,0.0,2.0,0.375,15,6,2,32,1,Columbus Blue Jackets,0
+Tampa Bay Lightning,10,24,0.0,0.0,1.0,0.33299999999999996,13,5,3,41,6,Columbus Blue Jackets,3
+Columbus Blue Jackets,8,41,0.0,0.0,4.0,0.562,8,3,3,12,2,Carolina Hurricanes,6
+Detroit Red Wings,4,25,0.0,0.0,1.0,0.531,17,4,9,27,3,Columbus Blue Jackets,4
+Columbus Blue Jackets,8,33,0.2,1.0,5.0,0.491,14,6,3,13,1,New York Rangers,3
+Nashville Predators,6,40,0.0,0.0,3.0,0.51,12,7,7,29,2,Columbus Blue Jackets,1
+Columbus Blue Jackets,7,33,0.0,0.0,3.0,0.527,12,3,2,15,3,Anaheim Ducks,5
+Columbus Blue Jackets,9,25,0.0,0.0,1.0,0.474,13,7,1,15,5,San Jose Sharks,3
+Calgary Flames,11,25,0.5,2.0,4.0,0.423,21,3,12,11,4,Columbus Blue Jackets,3
+Edmonton Oilers,2,27,0.0,0.0,2.0,0.434,24,10,10,32,2,Columbus Blue Jackets,3
+Vancouver Canucks,8,26,0.5,2.0,4.0,0.40700000000000003,10,1,2,22,5,Columbus Blue Jackets,2
+Seattle Kraken,4,25,0.0,0.0,2.0,0.5479999999999999,15,4,4,12,3,Columbus Blue Jackets,1
+Columbus Blue Jackets,8,34,0.0,0.0,1.0,0.541,22,5,6,15,3,Washington Capitals,4
+Columbus Blue Jackets,6,41,0.25,1.0,4.0,0.41100000000000003,14,8,3,6,0,Toronto Maple Leafs,3
+Toronto Maple Leafs,4,40,0.0,0.0,4.0,0.509,18,6,8,40,3,Columbus Blue Jackets,4
+Columbus Blue Jackets,6,32,0.0,0.0,2.0,0.462,11,10,1,13,2,New Jersey Devils,3
+Columbus Blue Jackets,10,38,0.14300000000000002,1.0,7.0,0.45799999999999996,11,2,3,13,3,Winnipeg Jets,1
+Dallas Stars,2,36,0.0,0.0,1.0,0.536,18,4,8,25,1,Columbus Blue Jackets,4
+Arizona Coyotes,12,36,0.33299999999999996,1.0,3.0,0.534,19,9,3,36,3,Columbus Blue Jackets,2
+Columbus Blue Jackets,2,25,0.0,0.0,1.0,0.28800000000000003,25,7,4,19,0,Minnesota Wild,2
+Columbus Blue Jackets,10,47,0.25,1.0,4.0,0.639,8,4,4,17,6,Edmonton Oilers,5
+Minnesota Wild,4,24,0.0,0.0,2.0,0.509,16,5,5,16,3,Columbus Blue Jackets,2
+Buffalo Sabres,6,36,1.0,1.0,1.0,0.467,14,9,15,25,3,Columbus Blue Jackets,5
+Columbus Blue Jackets,8,35,0.5,2.0,4.0,0.484,10,4,4,11,2,Seattle Kraken,4
+Ottawa Senators,6,21,0.5,1.0,2.0,0.40700000000000003,14,6,14,24,5,Columbus Blue Jackets,2
+Pittsburgh Penguins,4,27,0.5,1.0,2.0,0.5,28,13,15,43,5,Columbus Blue Jackets,4
+Columbus Blue Jackets,6,24,0.0,0.0,2.0,0.349,14,9,2,15,2,St. Louis Blues,5
+San Jose Sharks,6,48,0.33299999999999996,1.0,3.0,0.478,18,7,13,18,5,Columbus Blue Jackets,6
+Los Angeles Kings,6,30,0.0,0.0,2.0,0.40399999999999997,18,4,3,33,4,Columbus Blue Jackets,1
+Anaheim Ducks,4,42,0.5,2.0,4.0,0.38299999999999995,12,3,12,16,7,Columbus Blue Jackets,4
+Vegas Golden Knights,4,37,0.0,0.0,2.0,0.397,14,6,6,35,7,Columbus Blue Jackets,2
+Washington Capitals,4,39,1.0,1.0,1.0,0.424,18,5,6,14,6,Columbus Blue Jackets,7
+Columbus Blue Jackets,8,38,1.0,1.0,1.0,0.5379999999999999,15,8,1,27,5,New York Islanders,4
+Montréal Canadiens,6,23,0.0,0.0,4.0,0.62,17,3,13,18,8,Columbus Blue Jackets,2
+New York Rangers,4,30,0.25,1.0,4.0,0.586,11,7,7,15,6,Columbus Blue Jackets,2
+Boston Bruins,25,26,0.0,0.0,5.0,0.5379999999999999,14,14,5,21,2,Columbus Blue Jackets,1
+Columbus Blue Jackets,8,49,0.33299999999999996,1.0,3.0,0.5710000000000001,11,2,5,18,0,Florida Panthers,7
+Columbus Blue Jackets,4,27,0.0,0.0,2.0,0.39299999999999996,11,2,2,20,4,Ottawa Senators,3
+Toronto Maple Leafs,6,26,0.0,0.0,2.0,0.439,16,9,13,40,4,Columbus Blue Jackets,2
+New Jersey Devils,20,17,0.0,0.0,5.0,0.617,14,12,8,20,8,Columbus Blue Jackets,1
+Columbus Blue Jackets,4,28,0.0,0.0,2.0,0.585,14,5,3,16,0,New York Rangers,4
+Philadelphia Flyers,10,31,0.33299999999999996,1.0,3.0,0.527,15,6,9,18,4,Columbus Blue Jackets,3
+Columbus Blue Jackets,8,36,1.0,2.0,2.0,0.5,11,5,3,14,3,Pittsburgh Penguins,2
+Columbus Blue Jackets,2,35,0.0,0.0,1.0,0.58,12,5,3,5,2,Buffalo Sabres,5

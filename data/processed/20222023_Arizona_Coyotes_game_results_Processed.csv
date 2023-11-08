@@ -1,0 +1,90 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Arizona Coyotes,4,25,0.16699999999999998,1.0,6.0,0.0,0,0,0,0,4,St. Louis Blues,5
+Arizona Coyotes,6,24,0.25,1.0,4.0,0.0,0,0,0,0,2,Anaheim Ducks,3
+Dallas Stars,15,22,0.667,2.0,3.0,0.0,0,0,0,0,4,Arizona Coyotes,3
+Anaheim Ducks,54,29,0.0,0.0,4.0,0.48100000000000004,12,7,10,22,3,Arizona Coyotes,1
+Vegas Golden Knights,8,53,0.33299999999999996,1.0,3.0,0.507,8,8,5,29,4,Arizona Coyotes,3
+Vancouver Canucks,62,7,0.0,0.0,4.0,0.37,17,4,8,21,4,Arizona Coyotes,0
+Vegas Golden Knights,10,24,0.0,0.0,2.0,0.0,0,0,0,0,5,Arizona Coyotes,1
+Pittsburgh Penguins,14,28,0.4,2.0,5.0,0.415,9,9,5,35,6,Arizona Coyotes,2
+Boston Bruins,11,24,0.33299999999999996,1.0,3.0,0.446,18,6,5,29,6,Arizona Coyotes,3
+Toronto Maple Leafs,12,19,0.4,2.0,5.0,0.408,18,1,10,23,2,Arizona Coyotes,4
+Montréal Canadiens,7,27,0.0,0.0,3.0,0.5329999999999999,14,10,22,26,6,Arizona Coyotes,2
+Ottawa Senators,17,22,0.2,1.0,5.0,0.375,14,3,14,24,6,Arizona Coyotes,2
+Columbus Blue Jackets,14,19,0.33299999999999996,2.0,6.0,0.46299999999999997,15,7,4,14,3,Arizona Coyotes,6
+Arizona Coyotes,6,35,0.0,0.0,5.0,0.40700000000000003,11,4,7,18,2,Winnipeg Jets,3
+Arizona Coyotes,2,39,0.33299999999999996,1.0,3.0,0.544,11,5,9,34,2,New York Rangers,3
+Arizona Coyotes,12,42,0.0,0.0,3.0,0.569,8,3,10,16,3,Florida Panthers,1
+Arizona Coyotes,2,36,0.25,1.0,4.0,0.49200000000000005,12,1,7,13,2,Dallas Stars,7
+Washington Capitals,6,26,0.0,0.0,3.0,0.439,18,12,7,20,2,Arizona Coyotes,3
+Buffalo Sabres,12,24,0.33299999999999996,1.0,3.0,0.397,9,6,5,15,1,Arizona Coyotes,4
+New York Islanders,11,28,0.33299999999999996,1.0,3.0,0.298,18,5,8,27,0,Arizona Coyotes,2
+New Jersey Devils,18,18,0.5,2.0,4.0,0.418,10,8,3,18,4,Arizona Coyotes,2
+New York Rangers,10,32,0.16699999999999998,1.0,6.0,0.615,13,7,13,19,4,Arizona Coyotes,1
+Vegas Golden Knights,15,26,0.0,0.0,4.0,0.528,11,3,9,31,4,Arizona Coyotes,1
+Nashville Predators,21,27,0.0,0.0,2.0,0.45299999999999996,13,7,8,34,3,Arizona Coyotes,3
+Carolina Hurricanes,13,27,0.0,0.0,3.0,0.429,30,5,4,29,0,Arizona Coyotes,4
+Detroit Red Wings,15,24,0.0,0.0,4.0,0.434,11,3,5,24,3,Arizona Coyotes,3
+Minnesota Wild,13,23,0.0,0.0,2.0,0.44799999999999995,17,8,7,14,4,Arizona Coyotes,3
+Los Angeles Kings,10,21,0.0,0.0,3.0,0.526,15,2,7,32,5,Arizona Coyotes,3
+Vancouver Canucks,16,23,0.33299999999999996,1.0,3.0,0.40700000000000003,20,2,3,13,3,Arizona Coyotes,2
+Calgary Flames,6,20,0.0,0.0,2.0,0.474,16,4,13,13,3,Arizona Coyotes,2
+Edmonton Oilers,27,18,0.0,0.0,2.0,0.49,16,8,10,29,8,Arizona Coyotes,2
+Arizona Coyotes,8,46,0.33299999999999996,2.0,6.0,0.623,8,4,13,27,4,Boston Bruins,3
+Arizona Coyotes,9,41,0.0,0.0,2.0,0.467,13,3,6,25,5,Philadelphia Flyers,4
+San Jose Sharks,4,22,0.2,1.0,5.0,0.44799999999999995,10,9,8,18,3,Arizona Coyotes,2
+Arizona Coyotes,12,34,0.0,0.0,5.0,0.516,17,3,3,23,5,New York Islanders,4
+Arizona Coyotes,12,43,0.4,2.0,5.0,0.475,13,10,5,17,2,Buffalo Sabres,5
+Arizona Coyotes,4,26,0.0,0.0,2.0,0.5670000000000001,13,5,12,19,2,Montréal Canadiens,3
+Vegas Golden Knights,8,23,0.0,0.0,2.0,0.46299999999999997,23,13,5,29,5,Arizona Coyotes,2
+Arizona Coyotes,16,27,0.5,1.0,2.0,0.578,18,7,9,22,1,Los Angeles Kings,1
+Arizona Coyotes,6,31,1.0,1.0,1.0,0.6,9,3,8,27,6,Colorado Avalanche,3
+Arizona Coyotes,13,32,1.0,2.0,2.0,0.45299999999999996,10,4,11,27,6,Toronto Maple Leafs,3
+Tampa Bay Lightning,11,31,0.0,0.0,1.0,0.34600000000000003,10,7,4,24,5,Arizona Coyotes,3
+Florida Panthers,6,36,0.5,1.0,2.0,0.418,10,3,15,22,5,Arizona Coyotes,3
+Philadelphia Flyers,6,23,0.0,0.0,1.0,0.447,17,2,5,26,6,Arizona Coyotes,2
+Chicago Blackhawks,4,22,0.0,0.0,1.0,0.3,13,6,5,19,2,Arizona Coyotes,0
+Arizona Coyotes,4,28,0.0,0.0,6.0,0.5,13,3,10,20,1,Pittsburgh Penguins,4
+Arizona Coyotes,13,33,0.0,0.0,2.0,0.517,18,12,11,25,2,San Jose Sharks,4
+Arizona Coyotes,6,47,0.25,1.0,4.0,0.45799999999999996,22,4,7,39,3,Ottawa Senators,5
+Minnesota Wild,4,28,0.0,0.0,1.0,0.426,7,3,6,17,2,Arizona Coyotes,1
+Winnipeg Jets,4,21,0.0,0.0,3.0,0.37,10,6,10,16,2,Arizona Coyotes,1
+Arizona Coyotes,4,40,0.33299999999999996,1.0,3.0,0.444,21,6,4,27,3,Detroit Red Wings,3
+Arizona Coyotes,6,33,0.25,1.0,4.0,0.528,8,6,8,21,0,Washington Capitals,4
+Dallas Stars,8,33,0.0,0.0,3.0,0.38799999999999996,7,4,9,24,4,Arizona Coyotes,0
+Arizona Coyotes,2,36,0.25,1.0,4.0,0.625,11,4,2,25,4,Vegas Golden Knights,1
+Arizona Coyotes,18,43,0.33299999999999996,1.0,3.0,0.49200000000000005,19,3,8,17,2,Anaheim Ducks,5
+Arizona Coyotes,9,33,0.0,0.0,3.0,0.5660000000000001,10,6,9,20,5,St. Louis Blues,0
+Anaheim Ducks,10,34,0.0,0.0,4.0,0.557,19,5,10,11,2,Arizona Coyotes,1
+Arizona Coyotes,12,35,0.0,0.0,4.0,0.46399999999999997,17,5,7,26,3,Minnesota Wild,2
+Chicago Blackhawks,4,26,0.0,0.0,2.0,0.462,10,7,8,25,4,Arizona Coyotes,3
+St. Louis Blues,10,28,0.5,2.0,4.0,0.33299999999999996,14,14,6,14,6,Arizona Coyotes,5
+Nashville Predators,10,19,1.0,1.0,1.0,0.306,12,6,8,29,2,Arizona Coyotes,4
+Arizona Coyotes,4,47,0.0,0.0,5.0,0.479,14,4,9,20,0,Tampa Bay Lightning,0
+Los Angeles Kings,10,32,0.33299999999999996,1.0,3.0,0.48100000000000004,22,3,10,31,5,Arizona Coyotes,5
+Arizona Coyotes,12,36,0.33299999999999996,1.0,3.0,0.534,19,9,3,36,3,Columbus Blue Jackets,2
+Arizona Coyotes,4,51,0.6,3.0,5.0,0.525,11,5,5,25,3,Calgary Flames,6
+Arizona Coyotes,10,34,0.667,2.0,3.0,0.518,16,7,6,21,2,Nashville Predators,6
+Arizona Coyotes,7,24,0.0,0.0,2.0,0.562,13,3,5,21,4,Chicago Blackhawks,1
+Dallas Stars,8,20,0.2,1.0,5.0,0.358,13,7,11,20,4,Arizona Coyotes,2
+Arizona Coyotes,6,42,0.75,3.0,4.0,0.564,10,4,4,20,1,Carolina Hurricanes,6
+Arizona Coyotes,4,40,1.0,1.0,1.0,0.47100000000000003,15,10,11,22,4,New Jersey Devils,5
+Arizona Coyotes,4,42,0.0,0.0,6.0,0.478,11,2,7,24,6,St. Louis Blues,2
+Arizona Coyotes,13,40,0.0,0.0,6.0,0.639,12,1,7,25,4,Nashville Predators,1
+Colorado Avalanche,6,20,0.0,0.0,1.0,0.508,21,1,4,17,3,Arizona Coyotes,2
+Arizona Coyotes,24,34,0.0,0.0,4.0,0.456,10,4,8,33,5,Minnesota Wild,4
+Arizona Coyotes,2,45,0.0,0.0,2.0,0.5710000000000001,10,3,8,39,4,Calgary Flames,3
+Arizona Coyotes,6,31,0.0,0.0,5.0,0.40399999999999997,15,4,4,19,3,Vancouver Canucks,2
+Arizona Coyotes,6,34,0.2,1.0,5.0,0.622,8,5,5,24,4,Chicago Blackhawks,2
+Winnipeg Jets,17,30,0.0,0.0,3.0,0.396,14,4,10,18,2,Arizona Coyotes,1
+Edmonton Oilers,8,17,0.5,1.0,2.0,0.396,13,9,15,27,4,Arizona Coyotes,3
+Colorado Avalanche,6,18,0.0,0.0,1.0,0.48100000000000004,20,8,3,24,3,Arizona Coyotes,1
+Arizona Coyotes,6,32,0.33299999999999996,1.0,3.0,0.47600000000000003,19,4,8,11,3,Colorado Avalanche,3
+Arizona Coyotes,8,29,0.5,2.0,4.0,0.475,10,3,4,22,4,Edmonton Oilers,5
+Arizona Coyotes,4,31,0.2,1.0,5.0,0.635,14,4,4,17,2,Dallas Stars,5
+Arizona Coyotes,4,31,0.429,3.0,7.0,0.591,19,10,10,25,2,San Jose Sharks,7
+Seattle Kraken,49,21,0.0,0.0,3.0,0.44799999999999995,12,10,3,15,8,Arizona Coyotes,1
+Seattle Kraken,40,29,0.0,0.0,2.0,0.561,8,8,2,9,4,Arizona Coyotes,2
+Arizona Coyotes,15,29,0.25,1.0,4.0,0.484,14,2,9,15,5,Anaheim Ducks,4
+Arizona Coyotes,15,37,0.5,2.0,4.0,0.45799999999999996,9,6,10,18,1,Seattle Kraken,4
+Arizona Coyotes,13,24,0.5,2.0,4.0,0.532,11,2,7,24,4,Vancouver Canucks,5

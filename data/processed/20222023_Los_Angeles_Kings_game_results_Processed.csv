@@ -1,0 +1,96 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+San Jose Sharks,14,45,0.0,0.0,8.0,0.5920000000000001,6,7,4,23,3,Los Angeles Kings,2
+Vegas Golden Knights,8,18,0.33299999999999996,1.0,3.0,0.462,11,6,6,38,1,Los Angeles Kings,2
+Los Angeles Kings,10,17,0.5,2.0,4.0,0.0,0,0,0,0,1,San Jose Sharks,3
+Los Angeles Kings,8,25,0.0,0.0,4.0,0.491,12,2,5,23,2,Anaheim Ducks,1
+Anaheim Ducks,10,36,0.5,1.0,2.0,0.5710000000000001,13,7,8,13,5,Los Angeles Kings,4
+Los Angeles Kings,6,33,0.33299999999999996,1.0,3.0,0.0,0,0,0,0,4,Vegas Golden Knights,6
+Los Angeles Kings,8,28,0.25,1.0,4.0,0.379,8,3,1,25,6,Anaheim Ducks,3
+Los Angeles Kings,6,51,0.2,1.0,5.0,0.508,13,2,3,25,3,Vegas Golden Knights,4
+Los Angeles Kings,19,22,0.16699999999999998,1.0,6.0,0.423,15,2,8,44,1,Seattle Kraken,4
+Minnesota Wild,14,34,0.33299999999999996,2.0,6.0,0.536,20,7,4,5,6,Los Angeles Kings,7
+Detroit Red Wings,8,36,0.0,0.0,4.0,0.645,11,7,7,13,4,Los Angeles Kings,5
+Nashville Predators,12,35,0.125,1.0,8.0,0.377,12,5,5,20,3,Los Angeles Kings,3
+Pittsburgh Penguins,8,40,0.16699999999999998,1.0,6.0,0.418,17,7,12,28,6,Los Angeles Kings,1
+Washington Capitals,6,26,0.0,0.0,1.0,0.643,18,8,9,16,4,Los Angeles Kings,3
+Los Angeles Kings,10,25,0.0,0.0,4.0,0.451,20,2,2,16,4,Tampa Bay Lightning,2
+Los Angeles Kings,8,19,0.4,2.0,5.0,0.33299999999999996,22,3,4,25,4,Winnipeg Jets,6
+Los Angeles Kings,12,28,0.25,1.0,4.0,0.436,13,0,5,22,4,Toronto Maple Leafs,2
+St. Louis Blues,8,30,0.33299999999999996,1.0,3.0,0.491,12,15,4,17,1,Los Angeles Kings,5
+Dallas Stars,8,32,0.33299999999999996,1.0,3.0,0.47700000000000004,22,1,7,23,5,Los Angeles Kings,2
+Chicago Blackhawks,7,33,0.0,0.0,2.0,0.604,9,12,8,21,2,Los Angeles Kings,1
+Los Angeles Kings,22,38,0.0,0.0,2.0,0.478,15,4,9,22,5,Florida Panthers,4
+Los Angeles Kings,11,21,0.0,0.0,1.0,0.429,22,2,4,31,1,Minnesota Wild,0
+Los Angeles Kings,8,32,0.25,1.0,4.0,0.684,22,4,10,35,2,Chicago Blackhawks,1
+Los Angeles Kings,6,21,0.5,2.0,4.0,0.423,22,2,5,35,4,Detroit Red Wings,3
+Calgary Flames,8,29,0.5,1.0,2.0,0.507,17,4,12,24,6,Los Angeles Kings,5
+Edmonton Oilers,6,32,0.0,0.0,3.0,0.556,29,6,11,27,1,Los Angeles Kings,3
+Vancouver Canucks,6,38,0.0,0.0,2.0,0.5,17,1,6,14,4,Los Angeles Kings,1
+Seattle Kraken,6,29,0.0,0.0,1.0,0.41700000000000004,8,10,3,28,3,Los Angeles Kings,2
+Los Angeles Kings,4,25,0.0,0.0,0.0,0.475,14,2,9,41,3,New York Rangers,5
+San Jose Sharks,6,29,0.5,1.0,2.0,0.522,23,15,8,23,2,Los Angeles Kings,5
+Los Angeles Kings,4,39,0.5,1.0,2.0,0.485,17,5,5,37,2,Ottawa Senators,3
+Los Angeles Kings,8,30,0.75,3.0,4.0,0.371,11,4,4,32,8,Seattle Kraken,9
+Los Angeles Kings,10,21,0.0,0.0,3.0,0.526,15,2,7,32,5,Arizona Coyotes,3
+Los Angeles Kings,8,31,0.33299999999999996,1.0,3.0,0.431,17,5,4,19,2,Carolina Hurricanes,4
+Ottawa Senators,8,28,0.667,2.0,3.0,0.429,21,4,14,16,2,Los Angeles Kings,5
+Toronto Maple Leafs,11,29,0.0,0.0,2.0,0.5,11,5,12,39,5,Los Angeles Kings,0
+Montréal Canadiens,6,35,0.0,0.0,4.0,0.607,21,2,19,15,2,Los Angeles Kings,4
+Columbus Blue Jackets,6,38,0.0,0.0,2.0,0.47700000000000004,20,3,4,15,6,Los Angeles Kings,5
+Buffalo Sabres,12,40,0.0,0.0,3.0,0.5,22,7,8,19,6,Los Angeles Kings,0
+Boston Bruins,14,30,0.16699999999999998,1.0,6.0,0.508,20,12,15,13,2,Los Angeles Kings,2
+Los Angeles Kings,8,25,0.33299999999999996,1.0,3.0,0.508,20,1,3,36,2,San Jose Sharks,2
+Los Angeles Kings,12,25,0.2,1.0,5.0,0.375,17,4,3,23,4,Anaheim Ducks,1
+Los Angeles Kings,8,30,0.5,1.0,2.0,0.544,13,3,4,31,4,Calgary Flames,3
+Arizona Coyotes,16,27,0.5,1.0,2.0,0.578,18,7,9,22,1,Los Angeles Kings,1
+Los Angeles Kings,4,25,0.33299999999999996,1.0,3.0,0.462,16,2,1,21,4,Vegas Golden Knights,2
+Colorado Avalanche,12,27,0.5,2.0,4.0,0.526,22,5,5,24,4,Los Angeles Kings,4
+Los Angeles Kings,10,23,0.33299999999999996,1.0,3.0,0.386,22,2,3,38,2,Philadelphia Flyers,4
+Los Angeles Kings,6,30,0.0,0.0,3.0,0.431,15,3,5,39,3,Dallas Stars,2
+Los Angeles Kings,7,22,1.0,1.0,1.0,0.449,21,5,5,30,2,Boston Bruins,5
+Vegas Golden Knights,6,23,0.0,0.0,1.0,0.604,13,8,6,23,1,Los Angeles Kings,5
+Los Angeles Kings,41,31,0.0,0.0,6.0,0.426,9,7,8,22,6,Edmonton Oilers,3
+Los Angeles Kings,4,30,0.5,1.0,2.0,0.526,13,4,4,34,4,San Jose Sharks,3
+Los Angeles Kings,8,28,0.33299999999999996,1.0,3.0,0.478,13,3,5,32,2,New Jersey Devils,5
+Los Angeles Kings,8,24,0.0,0.0,4.0,0.423,21,2,4,29,0,Dallas Stars,4
+Nashville Predators,9,34,0.25,1.0,4.0,0.451,15,5,11,27,5,Los Angeles Kings,3
+Chicago Blackhawks,6,27,0.0,0.0,0.0,0.395,13,6,4,16,1,Los Angeles Kings,2
+Philadelphia Flyers,8,38,0.2,1.0,5.0,0.6609999999999999,9,4,3,13,3,Los Angeles Kings,4
+Florida Panthers,15,33,0.0,0.0,2.0,0.483,19,8,11,17,3,Los Angeles Kings,4
+Tampa Bay Lightning,14,28,0.0,0.0,2.0,0.414,17,7,4,30,5,Los Angeles Kings,2
+Carolina Hurricanes,4,21,0.5,1.0,2.0,0.431,14,10,4,16,5,Los Angeles Kings,4
+Los Angeles Kings,30,25,0.0,0.0,5.0,0.54,11,2,3,20,6,Pittsburgh Penguins,0
+Los Angeles Kings,8,29,0.2,1.0,5.0,0.397,10,6,5,17,5,Buffalo Sabres,2
+Anaheim Ducks,13,41,0.75,3.0,4.0,0.6920000000000001,10,4,7,11,3,Los Angeles Kings,6
+Los Angeles Kings,10,32,0.33299999999999996,1.0,3.0,0.48100000000000004,22,3,10,31,5,Arizona Coyotes,5
+Minnesota Wild,6,34,0.0,0.0,1.0,0.575,13,4,1,15,2,Los Angeles Kings,1
+New Jersey Devils,8,22,0.0,0.0,1.0,0.4,19,8,7,16,4,Los Angeles Kings,3
+New York Islanders,6,28,0.0,0.0,2.0,0.579,14,9,4,11,2,Los Angeles Kings,3
+New York Rangers,8,28,0.25,1.0,4.0,0.561,11,2,6,9,5,Los Angeles Kings,2
+Winnipeg Jets,8,37,0.25,1.0,4.0,0.541,23,4,7,25,5,Los Angeles Kings,5
+Los Angeles Kings,8,21,0.33299999999999996,1.0,3.0,0.491,12,5,7,19,3,Montréal Canadiens,2
+Los Angeles Kings,6,26,0.0,0.0,3.0,0.49,15,4,4,26,4,St. Louis Blues,2
+Los Angeles Kings,10,22,0.2,1.0,5.0,0.491,11,3,11,20,4,Washington Capitals,2
+Colorado Avalanche,6,31,0.0,0.0,4.0,0.6,14,7,6,24,2,Los Angeles Kings,5
+Los Angeles Kings,8,30,0.5,1.0,2.0,0.451,21,2,5,33,1,Nashville Predators,1
+Los Angeles Kings,6,28,0.0,0.0,3.0,0.444,13,3,3,30,5,New York Islanders,2
+Los Angeles Kings,6,30,0.0,0.0,2.0,0.40399999999999997,18,4,3,33,4,Columbus Blue Jackets,1
+Los Angeles Kings,4,17,1.0,1.0,1.0,0.38799999999999996,19,7,6,32,2,Vancouver Canucks,2
+Los Angeles Kings,20,18,0.25,1.0,4.0,0.45799999999999996,12,3,2,30,8,Calgary Flames,2
+Los Angeles Kings,6,26,0.16699999999999998,1.0,6.0,0.33299999999999996,12,4,2,36,4,Winnipeg Jets,1
+Los Angeles Kings,20,22,1.0,2.0,2.0,0.475,5,5,6,21,7,St. Louis Blues,6
+Calgary Flames,6,33,0.0,0.0,2.0,0.5660000000000001,19,8,9,21,2,Los Angeles Kings,1
+Edmonton Oilers,4,43,0.0,0.0,3.0,0.561,10,11,10,18,2,Los Angeles Kings,0
+Seattle Kraken,4,19,0.0,0.0,1.0,0.6409999999999999,15,6,1,13,1,Los Angeles Kings,3
+Vancouver Canucks,8,25,0.5,1.0,2.0,0.48100000000000004,14,3,1,30,1,Los Angeles Kings,4
+Los Angeles Kings,10,33,0.5,2.0,4.0,0.596,9,4,1,39,1,Edmonton Oilers,3
+Vegas Golden Knights,14,32,1.0,1.0,1.0,0.5,17,7,5,45,5,Los Angeles Kings,2
+Los Angeles Kings,16,23,0.0,0.0,2.0,0.442,18,5,8,22,3,Colorado Avalanche,4
+Los Angeles Kings,12,20,0.0,0.0,2.0,0.419,15,5,6,38,3,Vancouver Canucks,0
+Anaheim Ducks,8,36,0.25,2.0,8.0,0.611,10,5,8,12,3,Los Angeles Kings,5
+Edmonton Oilers,8,35,0.33299999999999996,2.0,6.0,0.425,17,8,12,49,3,Los Angeles Kings,4
+Edmonton Oilers,2,24,0.0,0.0,4.0,0.439,20,11,11,52,4,Los Angeles Kings,2
+Los Angeles Kings,14,40,0.5,2.0,4.0,0.524,17,5,8,40,3,Edmonton Oilers,2
+Los Angeles Kings,4,42,0.667,2.0,3.0,0.478,21,2,8,27,4,Edmonton Oilers,5
+Edmonton Oilers,16,28,0.0,0.0,1.0,0.444,8,4,10,43,6,Los Angeles Kings,3
+Los Angeles Kings,6,26,0.5,1.0,2.0,0.569,18,6,12,22,4,Edmonton Oilers,5

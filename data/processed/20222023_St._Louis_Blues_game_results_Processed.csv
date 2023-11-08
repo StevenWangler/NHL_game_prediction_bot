@@ -1,0 +1,91 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Arizona Coyotes,4,25,0.16699999999999998,1.0,6.0,0.0,0,0,0,0,4,St. Louis Blues,5
+Dallas Stars,6,28,0.0,0.0,1.0,0.43799999999999994,21,4,4,28,0,St. Louis Blues,4
+Chicago Blackhawks,10,22,1.0,3.0,3.0,0.44,13,14,9,16,1,St. Louis Blues,4
+St. Louis Blues,18,35,0.0,0.0,3.0,0.5489999999999999,10,8,4,28,4,Columbus Blue Jackets,2
+St. Louis Blues,6,27,0.0,0.0,1.0,0.0,0,0,0,0,2,Dallas Stars,5
+St. Louis Blues,14,28,0.0,0.0,4.0,0.389,22,12,4,37,4,Minnesota Wild,2
+Columbus Blue Jackets,9,24,0.0,0.0,2.0,0.436,13,2,3,9,7,St. Louis Blues,0
+St. Louis Blues,8,24,0.0,0.0,5.0,0.391,8,17,2,20,6,Chicago Blackhawks,0
+St. Louis Blues,6,25,0.0,0.0,2.0,0.574,13,11,10,14,5,Columbus Blue Jackets,2
+Seattle Kraken,6,28,0.0,0.0,3.0,0.545,15,9,3,15,3,St. Louis Blues,4
+Edmonton Oilers,2,22,1.0,1.0,1.0,0.581,25,6,11,29,0,St. Louis Blues,2
+Winnipeg Jets,12,25,0.0,0.0,2.0,0.604,16,6,9,19,4,St. Louis Blues,0
+St. Louis Blues,6,28,0.0,0.0,2.0,0.5670000000000001,9,9,4,8,1,Edmonton Oilers,3
+Nashville Predators,4,35,0.33299999999999996,1.0,3.0,0.479,19,7,11,25,6,St. Louis Blues,2
+St. Louis Blues,6,25,0.667,2.0,3.0,0.509,11,16,10,16,4,Montréal Canadiens,7
+St. Louis Blues,8,30,0.33299999999999996,1.0,3.0,0.491,12,15,4,17,1,Los Angeles Kings,5
+St. Louis Blues,11,30,0.5,1.0,2.0,0.431,9,17,6,20,2,New York Islanders,5
+Boston Bruins,6,27,0.0,0.0,3.0,0.434,19,6,11,33,3,St. Louis Blues,1
+Philadelphia Flyers,12,28,0.0,0.0,2.0,0.6,9,4,14,34,5,St. Louis Blues,1
+St. Louis Blues,4,30,0.0,0.0,0.0,0.515,10,8,10,19,5,San Jose Sharks,3
+Vegas Golden Knights,0,28,0.0,0.0,4.0,0.397,23,5,7,29,2,St. Louis Blues,3
+Colorado Avalanche,10,39,0.5,1.0,2.0,0.516,15,4,6,16,2,St. Louis Blues,3
+Chicago Blackhawks,6,35,0.0,0.0,2.0,0.42,18,8,1,10,2,St. Louis Blues,5
+St. Louis Blues,8,51,0.33299999999999996,1.0,3.0,0.353,10,5,1,17,4,Washington Capitals,4
+St. Louis Blues,11,32,0.5,2.0,4.0,0.517,10,14,2,14,6,Anaheim Ducks,2
+St. Louis Blues,6,28,0.0,0.0,2.0,0.38,15,9,6,13,3,Anaheim Ducks,1
+Buffalo Sabres,8,36,0.33299999999999996,1.0,3.0,0.462,12,4,4,26,6,St. Louis Blues,2
+Tampa Bay Lightning,11,27,0.33299999999999996,1.0,3.0,0.542,10,16,8,29,5,St. Louis Blues,2
+Florida Panthers,11,37,0.0,0.0,4.0,0.54,7,6,9,21,4,St. Louis Blues,5
+St. Louis Blues,7,24,0.0,0.0,1.0,0.638,8,14,9,15,1,Dallas Stars,4
+St. Louis Blues,6,36,1.0,1.0,1.0,0.596,4,8,3,12,4,Carolina Hurricanes,6
+Pittsburgh Penguins,18,28,0.0,0.0,2.0,0.491,16,4,3,36,6,St. Louis Blues,2
+New York Rangers,4,29,0.25,1.0,4.0,0.452,12,4,4,21,6,St. Louis Blues,4
+New York Islanders,4,28,0.0,0.0,2.0,0.41,17,3,20,18,4,St. Louis Blues,7
+St. Louis Blues,4,20,1.0,1.0,1.0,0.46799999999999997,18,10,9,22,2,Winnipeg Jets,5
+St. Louis Blues,8,31,0.0,0.0,3.0,0.4,11,11,7,21,2,Colorado Avalanche,3
+St. Louis Blues,6,25,0.0,0.0,4.0,0.511,17,11,6,30,1,Nashville Predators,0
+Edmonton Oilers,10,32,0.0,0.0,4.0,0.526,10,16,13,26,3,St. Louis Blues,3
+Calgary Flames,6,24,0.5,1.0,2.0,0.53,15,9,15,11,2,St. Louis Blues,5
+Vancouver Canucks,10,27,0.667,2.0,3.0,0.545,6,1,1,21,1,St. Louis Blues,5
+Seattle Kraken,6,24,0.33299999999999996,1.0,3.0,0.396,10,6,5,18,5,St. Louis Blues,2
+Vegas Golden Knights,4,29,0.33299999999999996,1.0,3.0,0.457,13,13,3,23,4,St. Louis Blues,4
+St. Louis Blues,8,37,0.0,0.0,2.0,0.528,15,9,4,11,4,Toronto Maple Leafs,5
+St. Louis Blues,6,22,0.5,1.0,2.0,0.512,10,12,10,17,3,Chicago Blackhawks,1
+St. Louis Blues,20,32,0.0,0.0,2.0,0.28600000000000003,18,15,5,19,2,Minnesota Wild,5
+Toronto Maple Leafs,6,32,1.0,2.0,2.0,0.377,17,5,10,52,5,St. Louis Blues,5
+New Jersey Devils,8,19,0.5,1.0,2.0,0.364,21,10,5,21,3,St. Louis Blues,5
+Montréal Canadiens,8,22,0.33299999999999996,1.0,3.0,0.556,10,5,16,12,5,St. Louis Blues,4
+Minnesota Wild,6,24,0.25,1.0,4.0,0.489,25,5,4,19,0,St. Louis Blues,3
+St. Louis Blues,4,31,0.0,0.0,2.0,0.547,4,5,4,25,4,Calgary Flames,3
+St. Louis Blues,6,40,0.0,0.0,1.0,0.5,8,9,3,27,1,Calgary Flames,4
+St. Louis Blues,6,30,0.5,1.0,2.0,0.5820000000000001,12,19,8,15,2,Tampa Bay Lightning,4
+St. Louis Blues,9,33,0.0,0.0,1.0,0.315,19,9,3,25,2,Ottawa Senators,1
+St. Louis Blues,15,26,0.0,0.0,4.0,0.28600000000000003,10,9,6,30,5,Nashville Predators,2
+St. Louis Blues,15,18,0.0,0.0,2.0,0.48,15,15,3,33,3,Chicago Blackhawks,5
+St. Louis Blues,6,31,0.0,0.0,2.0,0.426,5,9,5,13,3,Buffalo Sabres,5
+Arizona Coyotes,9,33,0.0,0.0,3.0,0.5660000000000001,10,6,9,20,5,St. Louis Blues,0
+Colorado Avalanche,10,28,0.5,1.0,2.0,0.45799999999999996,14,7,0,24,4,St. Louis Blues,2
+Winnipeg Jets,12,26,0.5,1.0,2.0,0.508,19,7,9,21,4,St. Louis Blues,2
+St. Louis Blues,10,28,0.5,2.0,4.0,0.33299999999999996,14,14,6,14,6,Arizona Coyotes,5
+St. Louis Blues,4,36,0.0,0.0,2.0,0.48100000000000004,9,12,6,13,6,Florida Panthers,2
+St. Louis Blues,8,36,0.0,0.0,1.0,0.5,16,12,8,15,4,New Jersey Devils,2
+St. Louis Blues,6,33,0.5,2.0,4.0,0.434,10,14,7,10,1,Colorado Avalanche,4
+Ottawa Senators,25,32,0.0,0.0,6.0,0.435,5,1,7,23,7,St. Louis Blues,2
+Carolina Hurricanes,0,36,0.0,0.0,3.0,0.406,18,11,7,27,4,St. Louis Blues,1
+St. Louis Blues,11,41,0.0,0.0,4.0,0.469,12,6,1,10,2,Vancouver Canucks,3
+St. Louis Blues,6,48,0.0,0.0,2.0,0.534,14,7,4,26,2,Pittsburgh Penguins,3
+St. Louis Blues,8,26,0.0,0.0,2.0,0.5770000000000001,16,12,4,16,3,Seattle Kraken,5
+San Jose Sharks,2,23,0.667,2.0,3.0,0.41100000000000003,16,13,9,30,3,St. Louis Blues,6
+Los Angeles Kings,6,26,0.0,0.0,3.0,0.49,15,4,4,26,4,St. Louis Blues,2
+Arizona Coyotes,4,42,0.0,0.0,6.0,0.478,11,2,7,24,6,St. Louis Blues,2
+St. Louis Blues,8,34,0.0,0.0,4.0,0.623,10,19,5,12,4,San Jose Sharks,2
+Columbus Blue Jackets,6,24,0.0,0.0,2.0,0.349,14,9,2,15,2,St. Louis Blues,5
+St. Louis Blues,2,31,0.0,0.0,2.0,0.469,16,11,4,10,3,Vegas Golden Knights,5
+St. Louis Blues,14,35,0.5,2.0,4.0,0.621,10,8,3,15,5,Minnesota Wild,8
+Washington Capitals,8,22,0.0,0.0,1.0,0.36,23,9,6,16,2,St. Louis Blues,5
+St. Louis Blues,17,34,0.0,0.0,3.0,0.633,8,14,6,14,3,Winnipeg Jets,0
+St. Louis Blues,6,30,0.33299999999999996,1.0,3.0,0.54,13,16,10,13,2,Detroit Red Wings,2
+Detroit Red Wings,7,22,0.0,0.0,4.0,0.474,18,6,9,20,3,St. Louis Blues,4
+Anaheim Ducks,10,36,0.0,0.0,4.0,0.424,14,3,9,11,3,St. Louis Blues,6
+Los Angeles Kings,20,22,1.0,2.0,2.0,0.475,5,5,6,21,7,St. Louis Blues,6
+St. Louis Blues,7,37,0.667,2.0,3.0,0.588,9,16,5,15,6,Vancouver Canucks,5
+Chicago Blackhawks,6,29,0.0,0.0,2.0,0.609,19,6,11,24,3,St. Louis Blues,5
+Nashville Predators,10,22,0.0,0.0,4.0,0.25,13,3,5,20,6,St. Louis Blues,1
+St. Louis Blues,12,31,0.5,1.0,2.0,0.5,20,14,5,15,3,Boston Bruins,3
+St. Louis Blues,6,34,0.0,0.0,3.0,0.462,14,12,5,21,4,Philadelphia Flyers,2
+St. Louis Blues,2,24,1.0,2.0,2.0,0.6509999999999999,12,14,7,11,3,New York Rangers,2
+Minnesota Wild,8,40,0.0,0.0,2.0,0.51,14,1,1,9,5,St. Louis Blues,3
+St. Louis Blues,6,37,0.6,3.0,5.0,0.556,10,11,5,16,2,Dallas Stars,5
+Dallas Stars,4,25,0.0,0.0,2.0,0.327,18,12,14,15,1,St. Louis Blues,0

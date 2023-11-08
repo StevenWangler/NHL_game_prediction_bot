@@ -1,0 +1,96 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+New York Rangers,6,24,0.0,0.0,4.0,0.457,5,9,7,35,4,New York Islanders,1
+Boston Bruins,2,26,0.0,0.0,4.0,0.519,10,3,6,32,3,New York Rangers,2
+New York Rangers,6,36,0.0,0.0,5.0,0.614,6,5,4,23,2,New Jersey Devils,5
+New Jersey Devils,2,37,0.0,0.0,2.0,0.47100000000000003,9,3,9,12,1,New York Rangers,2
+New York Rangers,8,26,0.0,0.0,2.0,0.447,8,5,1,27,4,Boston Bruins,5
+New York Islanders,15,29,0.0,0.0,4.0,0.382,17,7,13,24,3,New York Rangers,1
+New York Rangers,8,26,0.16699999999999998,1.0,6.0,0.36200000000000004,22,8,15,19,3,Tampa Bay Lightning,1
+Minnesota Wild,17,35,0.2,1.0,5.0,0.5,13,4,1,27,3,New York Rangers,7
+Winnipeg Jets,6,41,0.0,0.0,2.0,0.491,18,3,20,25,4,New York Rangers,1
+New York Rangers,8,22,0.0,0.0,1.0,0.483,12,4,10,17,6,Anaheim Ducks,4
+New York Rangers,10,27,0.33299999999999996,1.0,3.0,0.579,11,5,6,19,2,San Jose Sharks,3
+New York Rangers,6,21,0.0,0.0,1.0,0.33299999999999996,21,9,6,15,1,Columbus Blue Jackets,5
+New York Rangers,8,44,0.33299999999999996,1.0,3.0,0.435,12,5,3,24,2,Colorado Avalanche,2
+New York Islanders,6,41,0.0,0.0,3.0,0.49,14,4,15,43,3,New York Rangers,0
+Dallas Stars,12,27,0.4,2.0,5.0,0.5379999999999999,16,8,8,18,3,New York Rangers,6
+Arizona Coyotes,2,39,0.33299999999999996,1.0,3.0,0.544,11,5,9,34,2,New York Rangers,3
+New York Rangers,10,19,0.0,0.0,3.0,0.58,15,5,12,14,1,Philadelphia Flyers,0
+New York Rangers,24,37,0.0,0.0,3.0,0.61,11,9,18,21,2,Boston Bruins,5
+New York Rangers,4,36,0.25,1.0,4.0,0.525,22,3,4,23,2,Detroit Red Wings,3
+New York Rangers,8,26,0.667,2.0,3.0,0.429,17,7,8,18,3,New York Islanders,4
+Detroit Red Wings,4,33,0.33299999999999996,1.0,3.0,0.489,11,3,7,25,2,New York Rangers,8
+Nashville Predators,20,35,0.0,0.0,5.0,0.51,16,4,4,32,2,New York Rangers,1
+New York Rangers,10,32,0.16699999999999998,1.0,6.0,0.615,13,7,13,19,4,Arizona Coyotes,1
+Seattle Kraken,8,30,0.5,2.0,4.0,0.449,9,6,1,24,3,New York Rangers,2
+San Jose Sharks,2,43,0.0,0.0,3.0,0.4,8,12,9,32,1,New York Rangers,2
+Los Angeles Kings,4,25,0.0,0.0,0.0,0.475,14,2,9,41,3,New York Rangers,5
+Anaheim Ducks,6,43,0.0,0.0,4.0,0.478,10,9,8,21,3,New York Rangers,2
+New York Rangers,6,32,0.33299999999999996,1.0,3.0,0.509,9,4,8,17,3,Edmonton Oilers,4
+New York Rangers,10,38,0.0,0.0,3.0,0.596,15,11,8,12,3,New Jersey Devils,5
+Ottawa Senators,8,36,0.0,0.0,2.0,0.294,19,3,10,30,1,New York Rangers,3
+New York Rangers,14,37,0.25,1.0,4.0,0.514,19,7,9,26,2,Ottawa Senators,3
+New York Rangers,35,21,0.75,3.0,4.0,0.46299999999999997,20,6,6,30,2,Chicago Blackhawks,5
+New York Rangers,4,29,0.25,1.0,4.0,0.452,12,4,4,21,6,St. Louis Blues,4
+Vegas Golden Knights,13,37,0.4,2.0,5.0,0.45899999999999996,26,6,9,32,1,New York Rangers,5
+Colorado Avalanche,2,29,0.0,0.0,1.0,0.49,16,3,7,24,1,New York Rangers,1
+New York Rangers,6,29,0.0,0.0,2.0,0.585,10,3,9,19,4,New Jersey Devils,3
+New York Rangers,2,23,0.0,0.0,3.0,0.49,11,11,29,8,3,Toronto Maple Leafs,1
+Philadelphia Flyers,8,34,0.0,0.0,1.0,0.519,18,9,5,20,3,New York Rangers,6
+Chicago Blackhawks,2,26,1.0,1.0,1.0,0.4,15,7,5,15,1,New York Rangers,7
+Pittsburgh Penguins,6,28,0.0,0.0,3.0,0.439,12,8,6,26,3,New York Rangers,2
+New York Rangers,12,18,0.0,0.0,2.0,0.442,14,5,6,26,5,New York Islanders,3
+New York Rangers,10,30,0.33299999999999996,1.0,3.0,0.556,16,7,7,19,0,Washington Capitals,4
+Tampa Bay Lightning,2,46,0.0,0.0,3.0,0.382,22,4,5,40,1,New York Rangers,1
+Florida Panthers,8,28,0.5,2.0,4.0,0.429,14,6,5,16,3,New York Rangers,5
+New York Rangers,12,23,0.0,0.0,3.0,0.47200000000000003,12,3,11,14,5,Carolina Hurricanes,3
+Montréal Canadiens,4,31,0.33299999999999996,1.0,3.0,0.51,17,5,9,17,1,New York Rangers,4
+New Jersey Devils,8,34,0.0,0.0,2.0,0.544,30,1,4,19,4,New York Rangers,3
+New York Rangers,8,32,0.0,0.0,1.0,0.435,29,3,5,26,3,Minnesota Wild,3
+New York Rangers,8,25,1.0,1.0,1.0,0.429,22,5,10,16,2,Dallas Stars,1
+New York Rangers,4,31,0.5,1.0,2.0,0.452,24,9,6,14,1,Montréal Canadiens,2
+Columbus Blue Jackets,8,33,0.2,1.0,5.0,0.491,14,6,3,13,1,New York Rangers,3
+New York Rangers,6,27,0.0,0.0,4.0,0.509,25,3,4,21,1,Boston Bruins,3
+New York Rangers,2,35,0.5,1.0,2.0,0.493,13,6,16,16,6,Florida Panthers,2
+Toronto Maple Leafs,6,29,0.0,0.0,2.0,0.5,16,8,8,35,3,New York Rangers,2
+New York Rangers,9,34,0.0,0.0,2.0,0.5539999999999999,8,6,3,31,4,Vegas Golden Knights,1
+New York Rangers,41,32,0.33299999999999996,1.0,3.0,0.5670000000000001,13,4,14,25,5,Calgary Flames,4
+New York Rangers,6,25,0.0,0.0,1.0,0.5,14,11,11,21,4,Vancouver Canucks,3
+New York Rangers,6,29,0.2,1.0,5.0,0.40399999999999997,10,7,6,23,6,Seattle Kraken,3
+Carolina Hurricanes,4,19,1.0,1.0,1.0,0.435,15,8,19,23,2,New York Rangers,6
+Vancouver Canucks,4,28,0.0,0.0,1.0,0.368,17,5,4,24,4,New York Rangers,6
+Edmonton Oilers,8,38,0.5,2.0,4.0,0.484,17,9,7,29,4,New York Rangers,4
+Calgary Flames,6,20,0.5,1.0,2.0,0.511,13,5,20,26,3,New York Rangers,2
+New York Rangers,13,21,1.0,1.0,1.0,0.45899999999999996,11,6,7,19,1,Winnipeg Jets,4
+Detroit Red Wings,15,31,0.0,0.0,2.0,0.474,9,5,14,12,4,New York Rangers,1
+Washington Capitals,11,26,0.2,1.0,5.0,0.528,14,8,10,25,6,New York Rangers,3
+New York Rangers,8,28,0.25,1.0,4.0,0.561,11,2,6,9,5,Los Angeles Kings,2
+Philadelphia Flyers,6,25,1.0,1.0,1.0,0.5870000000000001,7,2,10,30,2,New York Rangers,3
+New York Rangers,21,34,0.0,0.0,3.0,0.51,17,12,10,18,3,Ottawa Senators,5
+Boston Bruins,11,26,0.33299999999999996,1.0,3.0,0.431,16,13,11,24,4,New York Rangers,2
+Montréal Canadiens,6,33,0.5,2.0,4.0,0.537,24,11,17,19,3,New York Rangers,3
+Buffalo Sabres,4,26,0.33299999999999996,1.0,3.0,0.611,22,5,6,24,1,New York Rangers,2
+Pittsburgh Penguins,10,29,0.0,0.0,2.0,0.47,16,5,18,44,3,New York Rangers,2
+New York Rangers,6,31,0.0,0.0,4.0,0.525,14,5,8,16,5,Washington Capitals,3
+New York Rangers,4,32,0.0,0.0,0.0,0.528,16,11,14,21,4,Pittsburgh Penguins,2
+New York Rangers,12,33,0.0,0.0,5.0,0.491,12,7,9,15,6,Pittsburgh Penguins,0
+New York Rangers,8,22,0.0,0.0,1.0,0.667,12,5,6,20,7,Nashville Predators,0
+New York Rangers,6,39,0.0,0.0,1.0,0.49200000000000005,8,6,7,9,2,Carolina Hurricanes,3
+Carolina Hurricanes,6,16,0.0,0.0,3.0,0.40700000000000003,18,6,7,18,1,New York Rangers,2
+Florida Panthers,4,42,0.0,0.0,3.0,0.44799999999999995,23,6,4,20,3,New York Rangers,4
+New York Rangers,4,30,0.25,1.0,4.0,0.586,11,7,7,15,6,Columbus Blue Jackets,2
+New Jersey Devils,4,25,0.5,1.0,2.0,0.519,19,7,9,19,2,New York Rangers,1
+Buffalo Sabres,4,33,0.0,0.0,1.0,0.509,15,5,1,30,3,New York Rangers,2
+Washington Capitals,19,34,0.25,1.0,4.0,0.589,12,5,5,19,2,New York Rangers,5
+New York Rangers,42,31,0.33299999999999996,1.0,3.0,0.5529999999999999,11,7,14,21,6,Tampa Bay Lightning,3
+St. Louis Blues,2,24,1.0,2.0,2.0,0.6509999999999999,12,14,7,11,3,New York Rangers,2
+Columbus Blue Jackets,4,28,0.0,0.0,2.0,0.585,14,5,3,16,0,New York Rangers,4
+New York Rangers,4,39,0.0,0.0,2.0,0.43799999999999994,12,8,7,13,2,Buffalo Sabres,2
+New York Rangers,4,21,0.0,0.0,1.0,0.5870000000000001,11,9,10,14,2,Toronto Maple Leafs,3
+New Jersey Devils,8,23,0.667,2.0,3.0,0.478,23,7,3,32,1,New York Rangers,5
+New Jersey Devils,65,30,0.28600000000000003,2.0,7.0,0.441,16,1,6,39,1,New York Rangers,5
+New York Rangers,12,28,0.33299999999999996,1.0,3.0,0.40299999999999997,17,10,15,31,1,New Jersey Devils,2
+New York Rangers,6,23,0.0,0.0,2.0,0.5920000000000001,13,5,7,21,1,New Jersey Devils,3
+New Jersey Devils,29,23,0.0,0.0,2.0,0.5,14,11,8,43,4,New York Rangers,0
+New York Rangers,18,36,0.33299999999999996,1.0,3.0,0.5329999999999999,11,5,12,14,5,New Jersey Devils,2
+New Jersey Devils,6,31,0.0,0.0,4.0,0.49,20,3,6,23,4,New York Rangers,0

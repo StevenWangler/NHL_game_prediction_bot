@@ -1,0 +1,89 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Pittsburgh Penguins,9,28,0.667,2.0,3.0,0.519,18,5,5,32,3,Columbus Blue Jackets,2
+Columbus Blue Jackets,11,34,0.0,0.0,5.0,0.466,11,10,3,18,5,Pittsburgh Penguins,1
+Pittsburgh Penguins,18,21,1.0,2.0,2.0,0.5529999999999999,15,20,3,39,2,Detroit Red Wings,6
+Buffalo Sabres,14,33,0.0,0.0,3.0,0.439,9,2,5,8,3,Pittsburgh Penguins,1
+Detroit Red Wings,4,24,1.0,2.0,2.0,0.54,16,4,11,22,2,Pittsburgh Penguins,3
+Pittsburgh Penguins,4,23,0.0,0.0,0.0,0.537,14,7,5,19,7,Buffalo Sabres,1
+Pittsburgh Penguins,14,28,0.4,2.0,5.0,0.415,9,9,5,35,6,Arizona Coyotes,2
+Pittsburgh Penguins,8,36,0.25,1.0,4.0,0.38299999999999995,14,4,11,21,6,Tampa Bay Lightning,2
+Montréal Canadiens,6,28,0.0,0.0,3.0,0.519,17,2,19,17,3,Pittsburgh Penguins,2
+Pittsburgh Penguins,8,40,0.16699999999999998,1.0,6.0,0.418,17,7,12,28,6,Los Angeles Kings,1
+Columbus Blue Jackets,2,39,0.0,0.0,3.0,0.5329999999999999,17,7,4,12,3,Pittsburgh Penguins,6
+Edmonton Oilers,6,35,0.2,1.0,5.0,0.46,8,8,10,32,6,Pittsburgh Penguins,3
+Calgary Flames,6,33,0.2,1.0,5.0,0.359,19,7,4,18,4,Pittsburgh Penguins,1
+Vancouver Canucks,10,35,0.25,1.0,4.0,0.491,9,3,8,22,5,Pittsburgh Penguins,1
+Seattle Kraken,4,33,0.0,0.0,2.0,0.478,16,1,10,25,3,Pittsburgh Penguins,1
+Pittsburgh Penguins,8,40,0.33299999999999996,1.0,3.0,0.551,21,6,4,38,5,Boston Bruins,6
+Buffalo Sabres,10,21,0.33299999999999996,1.0,3.0,0.542,12,3,3,12,6,Pittsburgh Penguins,3
+Pittsburgh Penguins,6,28,0.0,0.0,3.0,0.429,18,13,5,35,2,Seattle Kraken,3
+Washington Capitals,13,28,0.0,0.0,3.0,0.509,19,16,9,32,1,Pittsburgh Penguins,4
+Toronto Maple Leafs,6,23,0.0,0.0,1.0,0.5,19,8,13,41,2,Pittsburgh Penguins,4
+Montréal Canadiens,12,24,0.33299999999999996,1.0,3.0,0.54,21,0,15,20,5,Pittsburgh Penguins,4
+Pittsburgh Penguins,8,33,0.0,0.0,1.0,0.451,27,6,7,25,2,Toronto Maple Leafs,5
+Minnesota Wild,6,32,0.4,2.0,5.0,0.5760000000000001,12,4,5,25,4,Pittsburgh Penguins,6
+Winnipeg Jets,4,32,0.0,0.0,2.0,0.47600000000000003,7,7,11,22,0,Pittsburgh Penguins,3
+Chicago Blackhawks,18,25,0.0,0.0,2.0,0.5479999999999999,15,6,9,19,3,Pittsburgh Penguins,5
+Pittsburgh Penguins,6,34,0.0,0.0,3.0,0.45799999999999996,21,10,4,41,1,Calgary Flames,1
+Philadelphia Flyers,11,29,0.0,0.0,3.0,0.63,10,3,7,28,1,Pittsburgh Penguins,4
+Pittsburgh Penguins,4,41,0.0,0.0,3.0,0.509,12,11,9,23,1,Toronto Maple Leafs,4
+Pittsburgh Penguins,4,39,0.0,0.0,2.0,0.526,15,15,15,23,2,Carolina Hurricanes,3
+Pittsburgh Penguins,12,37,0.667,2.0,3.0,0.519,29,5,3,30,4,Vegas Golden Knights,3
+Pittsburgh Penguins,18,28,0.0,0.0,2.0,0.491,16,4,3,36,6,St. Louis Blues,2
+Pittsburgh Penguins,10,39,0.0,0.0,5.0,0.526,9,5,4,27,4,Columbus Blue Jackets,1
+Buffalo Sabres,10,33,0.4,2.0,5.0,0.627,11,11,6,19,3,Pittsburgh Penguins,4
+Pittsburgh Penguins,6,38,0.0,0.0,3.0,0.451,7,2,7,38,3,Buffalo Sabres,1
+Pittsburgh Penguins,6,27,0.0,0.0,2.0,0.534,19,8,2,33,2,Dallas Stars,1
+Florida Panthers,6,39,0.667,2.0,3.0,0.521,9,9,12,12,2,Pittsburgh Penguins,4
+Carolina Hurricanes,6,25,0.2,1.0,5.0,0.46299999999999997,12,13,11,30,3,Pittsburgh Penguins,2
+Pittsburgh Penguins,6,28,0.0,0.0,3.0,0.439,12,8,6,26,3,New York Rangers,2
+Pittsburgh Penguins,8,36,0.0,0.0,5.0,0.47100000000000003,7,8,2,21,3,Carolina Hurricanes,4
+New York Islanders,6,21,0.0,0.0,1.0,0.48100000000000004,19,7,15,17,5,Pittsburgh Penguins,1
+Pittsburgh Penguins,4,46,0.5,2.0,4.0,0.519,14,9,5,30,4,Detroit Red Wings,5
+Pittsburgh Penguins,18,28,0.16699999999999998,1.0,6.0,0.55,18,7,3,25,2,New Jersey Devils,4
+Boston Bruins,6,27,0.0,0.0,3.0,0.562,17,11,7,19,2,Pittsburgh Penguins,1
+Vegas Golden Knights,2,40,0.0,0.0,3.0,0.484,12,15,5,34,5,Pittsburgh Penguins,2
+Arizona Coyotes,4,28,0.0,0.0,6.0,0.5,13,3,10,20,1,Pittsburgh Penguins,4
+Pittsburgh Penguins,12,24,0.0,0.0,5.0,0.37,17,10,6,20,5,Vancouver Canucks,4
+Pittsburgh Penguins,9,40,0.5,1.0,2.0,0.45799999999999996,11,7,3,33,1,Winnipeg Jets,4
+Carolina Hurricanes,4,35,0.16699999999999998,1.0,6.0,0.439,9,6,14,33,2,Pittsburgh Penguins,1
+Pittsburgh Penguins,8,29,0.5,2.0,4.0,0.431,21,5,5,25,4,Anaheim Ducks,3
+Ottawa Senators,18,19,0.4,2.0,5.0,0.517,9,4,11,34,5,Pittsburgh Penguins,4
+Pittsburgh Penguins,26,45,0.0,0.0,3.0,0.344,14,2,6,28,4,Ottawa Senators,1
+New Jersey Devils,4,26,0.0,0.0,2.0,0.48,19,4,2,16,2,Pittsburgh Penguins,1
+Pittsburgh Penguins,10,39,0.33299999999999996,1.0,3.0,0.413,28,11,4,27,7,Florida Panthers,6
+Washington Capitals,10,37,0.0,0.0,1.0,0.5379999999999999,20,8,5,23,2,Pittsburgh Penguins,2
+Pittsburgh Penguins,13,32,0.0,0.0,2.0,0.49200000000000005,24,14,4,40,4,San Jose Sharks,6
+Pittsburgh Penguins,2,42,0.0,0.0,4.0,0.509,24,4,2,21,2,Colorado Avalanche,1
+Anaheim Ducks,6,59,0.25,1.0,4.0,0.545,6,4,10,10,3,Pittsburgh Penguins,6
+Los Angeles Kings,30,25,0.0,0.0,5.0,0.54,11,2,3,20,6,Pittsburgh Penguins,0
+San Jose Sharks,4,28,0.0,0.0,3.0,0.33299999999999996,13,5,8,20,1,Pittsburgh Penguins,3
+New York Islanders,4,44,0.0,0.0,1.0,0.5710000000000001,14,6,14,19,5,Pittsburgh Penguins,4
+Pittsburgh Penguins,10,43,0.33299999999999996,1.0,3.0,0.48100000000000004,20,11,7,21,2,New Jersey Devils,5
+Pittsburgh Penguins,32,32,0.0,0.0,3.0,0.607,15,7,3,29,2,New York Islanders,4
+Pittsburgh Penguins,8,44,0.667,2.0,3.0,0.41100000000000003,11,8,6,18,2,Edmonton Oilers,7
+St. Louis Blues,6,48,0.0,0.0,2.0,0.534,14,7,4,26,2,Pittsburgh Penguins,3
+Pittsburgh Penguins,4,29,0.33299999999999996,1.0,3.0,0.455,15,6,14,28,7,Tampa Bay Lightning,3
+Nashville Predators,4,34,0.0,0.0,3.0,0.636,20,10,10,26,1,Pittsburgh Penguins,3
+Tampa Bay Lightning,10,32,0.0,0.0,5.0,0.5,9,8,9,28,4,Pittsburgh Penguins,5
+Florida Panthers,32,32,0.2,1.0,5.0,0.6,13,5,10,14,4,Pittsburgh Penguins,1
+Pittsburgh Penguins,4,27,0.5,1.0,2.0,0.5,28,13,15,43,5,Columbus Blue Jackets,4
+Pittsburgh Penguins,8,28,0.25,1.0,4.0,0.551,10,6,8,35,3,New York Islanders,4
+Pittsburgh Penguins,8,32,0.0,0.0,3.0,0.509,18,9,1,30,5,Philadelphia Flyers,1
+Pittsburgh Penguins,10,29,0.0,0.0,2.0,0.47,16,5,18,44,3,New York Rangers,2
+Pittsburgh Penguins,10,22,0.0,0.0,2.0,0.315,22,7,6,32,4,Montréal Canadiens,6
+New York Rangers,4,32,0.0,0.0,0.0,0.528,16,11,14,21,4,Pittsburgh Penguins,2
+New York Rangers,12,33,0.0,0.0,5.0,0.491,12,7,9,15,6,Pittsburgh Penguins,0
+Pittsburgh Penguins,6,21,0.5,1.0,2.0,0.424,28,4,6,36,1,Ottawa Senators,2
+Colorado Avalanche,8,45,0.5,2.0,4.0,0.5870000000000001,17,11,12,12,2,Pittsburgh Penguins,5
+Dallas Stars,6,42,0.0,0.0,2.0,0.44299999999999995,16,8,12,21,3,Pittsburgh Penguins,2
+Pittsburgh Penguins,13,34,0.33299999999999996,1.0,3.0,0.5760000000000001,14,13,10,31,4,Washington Capitals,3
+Detroit Red Wings,6,39,0.33299999999999996,2.0,6.0,0.529,17,3,6,6,7,Pittsburgh Penguins,4
+Pittsburgh Penguins,8,28,0.0,0.0,3.0,0.491,19,5,5,36,2,Nashville Predators,0
+Pittsburgh Penguins,12,35,0.667,2.0,3.0,0.456,15,3,6,29,3,Boston Bruins,4
+Pittsburgh Penguins,12,33,0.0,0.0,5.0,0.518,7,12,5,30,4,Philadelphia Flyers,2
+New Jersey Devils,8,23,0.0,0.0,4.0,0.462,16,6,6,19,5,Pittsburgh Penguins,1
+Pittsburgh Penguins,8,28,0.2,1.0,5.0,0.433,11,4,3,23,4,Minnesota Wild,1
+Detroit Red Wings,6,28,0.25,1.0,4.0,0.354,17,4,2,8,1,Pittsburgh Penguins,5
+Pittsburgh Penguins,10,27,0.0,0.0,2.0,0.39299999999999996,26,6,9,30,2,Chicago Blackhawks,5
+Columbus Blue Jackets,8,36,1.0,2.0,2.0,0.5,11,5,3,14,3,Pittsburgh Penguins,2

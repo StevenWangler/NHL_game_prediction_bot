@@ -1,0 +1,103 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Edmonton Oilers,6,29,0.0,0.0,4.0,0.462,9,5,8,27,4,Winnipeg Jets,0
+Seattle Kraken,14,29,0.0,0.0,4.0,0.444,12,5,2,19,3,Edmonton Oilers,0
+Calgary Flames,6,21,0.0,0.0,3.0,0.525,16,7,8,13,4,Edmonton Oilers,0
+Edmonton Oilers,18,22,0.0,0.0,3.0,0.45,20,12,8,30,2,Calgary Flames,1
+Winnipeg Jets,19,27,0.2,1.0,5.0,0.5,15,4,7,24,2,Edmonton Oilers,2
+Edmonton Oilers,8,30,0.2,1.0,5.0,0.371,15,6,15,25,7,Vancouver Canucks,2
+Vancouver Canucks,20,21,0.0,0.0,3.0,0.0,0,0,0,0,5,Edmonton Oilers,4
+Edmonton Oilers,4,33,0.5,1.0,2.0,0.491,18,2,7,24,5,Seattle Kraken,3
+Edmonton Oilers,8,36,0.125,1.0,8.0,0.521,17,9,10,31,5,Vancouver Canucks,3
+Edmonton Oilers,10,42,0.25,1.0,4.0,0.455,14,10,7,36,3,Calgary Flames,4
+Edmonton Oilers,10,24,0.25,1.0,4.0,0.444,13,12,11,16,2,Buffalo Sabres,4
+Edmonton Oilers,10,40,0.4,2.0,5.0,0.48700000000000004,11,9,7,18,6,Carolina Hurricanes,4
+Edmonton Oilers,2,22,1.0,1.0,1.0,0.581,25,6,11,29,0,St. Louis Blues,2
+Edmonton Oilers,6,35,0.2,1.0,5.0,0.46,8,8,10,32,6,Pittsburgh Penguins,3
+St. Louis Blues,6,28,0.0,0.0,2.0,0.5670000000000001,9,9,4,8,1,Edmonton Oilers,3
+Chicago Blackhawks,22,38,0.429,3.0,7.0,0.45299999999999996,7,5,2,14,5,Edmonton Oilers,6
+Calgary Flames,6,26,0.25,1.0,4.0,0.515,16,14,12,29,2,Edmonton Oilers,3
+Edmonton Oilers,17,23,1.0,2.0,2.0,0.46299999999999997,24,11,10,60,7,Nashville Predators,4
+Edmonton Oilers,4,43,0.0,0.0,3.0,0.43799999999999994,10,11,17,24,3,New Jersey Devils,4
+Edmonton Oilers,12,36,0.667,2.0,3.0,0.5,13,9,4,25,2,Dallas Stars,6
+Washington Capitals,12,29,0.0,0.0,1.0,0.478,19,5,7,21,5,Edmonton Oilers,4
+Tampa Bay Lightning,10,29,0.5,2.0,4.0,0.467,19,9,4,33,2,Edmonton Oilers,3
+Carolina Hurricanes,8,22,0.5,1.0,2.0,0.444,17,4,4,21,7,Edmonton Oilers,2
+Florida Panthers,6,32,0.2,1.0,5.0,0.534,14,8,8,15,2,Edmonton Oilers,4
+Edmonton Oilers,6,32,0.0,0.0,3.0,0.556,29,6,11,27,1,Los Angeles Kings,3
+Edmonton Oilers,6,34,0.0,0.0,3.0,0.556,13,10,11,20,4,Vegas Golden Knights,3
+New Jersey Devils,6,30,0.25,1.0,4.0,0.537,13,1,4,18,5,Edmonton Oilers,2
+New York Islanders,4,49,0.0,0.0,5.0,0.479,9,3,17,17,3,Edmonton Oilers,0
+New York Rangers,6,32,0.33299999999999996,1.0,3.0,0.509,9,4,8,17,3,Edmonton Oilers,4
+Edmonton Oilers,10,28,0.25,1.0,4.0,0.42200000000000004,16,11,11,26,4,Florida Panthers,3
+Chicago Blackhawks,12,41,0.0,0.0,4.0,0.391,16,4,6,14,4,Edmonton Oilers,5
+Minnesota Wild,6,21,0.33299999999999996,1.0,3.0,0.526,14,6,8,19,5,Edmonton Oilers,3
+Edmonton Oilers,23,33,0.667,2.0,3.0,0.6,12,11,12,32,5,Montréal Canadiens,3
+Edmonton Oilers,2,50,0.33299999999999996,1.0,3.0,0.518,15,7,10,27,2,Washington Capitals,3
+Edmonton Oilers,27,18,0.0,0.0,2.0,0.49,16,8,10,29,8,Arizona Coyotes,2
+Edmonton Oilers,6,44,0.2,1.0,5.0,0.506,13,4,8,24,5,Minnesota Wild,2
+Minnesota Wild,6,21,0.2,1.0,5.0,0.608,7,4,3,11,2,Edmonton Oilers,1
+Nashville Predators,10,37,1.0,2.0,2.0,0.483,15,9,4,23,3,Edmonton Oilers,6
+Edmonton Oilers,10,32,0.0,0.0,4.0,0.526,10,16,13,26,3,St. Louis Blues,3
+Edmonton Oilers,16,17,0.5,1.0,2.0,0.5670000000000001,13,11,18,18,3,Anaheim Ducks,4
+Nashville Predators,4,33,0.667,2.0,3.0,0.462,9,7,5,22,4,Edmonton Oilers,3
+Dallas Stars,10,34,0.5,1.0,2.0,0.40700000000000003,12,6,9,28,3,Edmonton Oilers,6
+Edmonton Oilers,6,30,0.5,1.0,2.0,0.415,20,8,11,24,2,Vancouver Canucks,5
+Calgary Flames,2,22,0.33299999999999996,1.0,3.0,0.466,25,12,9,13,1,Edmonton Oilers,2
+Seattle Kraken,13,32,1.0,2.0,2.0,0.446,20,15,5,13,2,Edmonton Oilers,7
+Edmonton Oilers,10,17,0.33299999999999996,1.0,3.0,0.5529999999999999,20,8,13,23,1,Winnipeg Jets,2
+Edmonton Oilers,6,24,0.33299999999999996,1.0,3.0,0.387,18,6,3,38,2,Seattle Kraken,5
+Edmonton Oilers,8,22,0.0,0.0,3.0,0.529,20,15,7,44,4,New York Islanders,2
+Edmonton Oilers,12,46,0.0,0.0,4.0,0.455,13,4,9,21,2,Colorado Avalanche,3
+Los Angeles Kings,41,31,0.0,0.0,6.0,0.426,9,7,8,22,6,Edmonton Oilers,3
+Anaheim Ducks,6,53,0.33299999999999996,1.0,3.0,0.54,8,8,5,15,2,Edmonton Oilers,6
+San Jose Sharks,8,41,0.5,2.0,4.0,0.349,13,16,5,11,1,Edmonton Oilers,7
+Vegas Golden Knights,4,37,0.0,0.0,1.0,0.531,13,11,9,30,3,Edmonton Oilers,4
+Edmonton Oilers,6,31,0.25,1.0,4.0,0.5,13,15,12,43,5,Seattle Kraken,2
+Edmonton Oilers,24,31,0.0,0.0,2.0,0.55,19,6,15,27,5,Tampa Bay Lightning,3
+Vancouver Canucks,6,29,1.0,1.0,1.0,0.547,12,6,4,16,2,Edmonton Oilers,4
+Edmonton Oilers,2,27,0.0,0.0,2.0,0.434,24,10,10,32,2,Columbus Blue Jackets,3
+Edmonton Oilers,11,29,0.33299999999999996,1.0,3.0,0.426,17,8,16,27,7,Chicago Blackhawks,3
+Detroit Red Wings,18,27,0.25,1.0,4.0,0.491,12,2,6,20,2,Edmonton Oilers,5
+Philadelphia Flyers,6,35,0.0,0.0,0.0,0.48100000000000004,17,5,8,13,1,Edmonton Oilers,1
+Ottawa Senators,13,40,0.2,1.0,5.0,0.508,13,4,11,25,3,Edmonton Oilers,6
+Montréal Canadiens,15,31,0.16699999999999998,1.0,6.0,0.725,14,6,13,9,6,Edmonton Oilers,2
+Edmonton Oilers,6,23,1.0,2.0,2.0,0.462,19,4,9,28,4,Detroit Red Wings,4
+Edmonton Oilers,8,38,0.5,2.0,4.0,0.484,17,9,7,29,4,New York Rangers,4
+Colorado Avalanche,8,40,0.0,0.0,1.0,0.46799999999999997,15,7,2,27,6,Edmonton Oilers,5
+Edmonton Oilers,8,26,0.0,0.0,3.0,0.44799999999999995,17,9,12,20,4,Philadelphia Flyers,2
+Pittsburgh Penguins,8,44,0.667,2.0,3.0,0.41100000000000003,11,8,6,18,2,Edmonton Oilers,7
+Columbus Blue Jackets,10,47,0.25,1.0,4.0,0.639,8,4,4,17,6,Edmonton Oilers,5
+Edmonton Oilers,4,28,0.0,0.0,5.0,0.429,15,10,21,23,2,Boston Bruins,3
+Edmonton Oilers,13,28,0.33299999999999996,1.0,3.0,0.565,13,5,6,22,5,Toronto Maple Leafs,2
+Edmonton Oilers,20,28,0.33299999999999996,1.0,3.0,0.49200000000000005,12,13,11,25,6,Winnipeg Jets,3
+Winnipeg Jets,11,35,0.667,2.0,3.0,0.493,15,6,6,13,7,Edmonton Oilers,5
+Buffalo Sabres,4,37,0.0,0.0,1.0,0.647,7,7,6,24,2,Edmonton Oilers,3
+Boston Bruins,4,22,0.0,0.0,1.0,0.531,13,10,11,31,2,Edmonton Oilers,3
+Toronto Maple Leafs,20,26,0.33299999999999996,1.0,3.0,0.46399999999999997,12,7,14,23,7,Edmonton Oilers,4
+Edmonton Oilers,6,32,0.2,1.0,5.0,0.397,16,7,10,19,6,Ottawa Senators,3
+Edmonton Oilers,8,26,0.0,0.0,3.0,0.574,11,15,10,27,4,Dallas Stars,1
+Seattle Kraken,11,23,0.33299999999999996,1.0,3.0,0.5,11,14,3,16,4,Edmonton Oilers,6
+Edmonton Oilers,6,32,0.0,0.0,2.0,0.385,15,14,21,31,5,San Jose Sharks,4
+Edmonton Oilers,8,17,0.5,1.0,2.0,0.396,13,9,15,27,4,Arizona Coyotes,3
+Edmonton Oilers,6,34,0.5,1.0,2.0,0.523,24,4,10,25,3,Vegas Golden Knights,4
+Arizona Coyotes,8,29,0.5,2.0,4.0,0.475,10,3,4,22,4,Edmonton Oilers,5
+Vegas Golden Knights,6,39,1.0,3.0,3.0,0.594,8,5,3,28,4,Edmonton Oilers,7
+Edmonton Oilers,4,43,0.0,0.0,3.0,0.561,10,11,10,18,2,Los Angeles Kings,0
+Edmonton Oilers,8,36,0.0,0.0,3.0,0.49200000000000005,10,7,11,20,6,Anaheim Ducks,0
+Los Angeles Kings,10,33,0.5,2.0,4.0,0.596,9,4,1,39,1,Edmonton Oilers,3
+Anaheim Ducks,2,33,0.0,0.0,1.0,0.585,14,4,14,18,1,Edmonton Oilers,3
+San Jose Sharks,4,35,0.0,0.0,1.0,0.392,19,12,6,21,1,Edmonton Oilers,6
+Colorado Avalanche,6,40,0.25,1.0,4.0,0.5,14,9,4,25,1,Edmonton Oilers,2
+Edmonton Oilers,6,29,0.25,1.0,4.0,0.455,15,7,8,10,5,San Jose Sharks,2
+Edmonton Oilers,8,35,0.33299999999999996,2.0,6.0,0.425,17,8,12,49,3,Los Angeles Kings,4
+Edmonton Oilers,2,24,0.0,0.0,4.0,0.439,20,11,11,52,4,Los Angeles Kings,2
+Los Angeles Kings,14,40,0.5,2.0,4.0,0.524,17,5,8,40,3,Edmonton Oilers,2
+Los Angeles Kings,4,42,0.667,2.0,3.0,0.478,21,2,8,27,4,Edmonton Oilers,5
+Edmonton Oilers,16,28,0.0,0.0,1.0,0.444,8,4,10,43,6,Los Angeles Kings,3
+Los Angeles Kings,6,26,0.5,1.0,2.0,0.569,18,6,12,22,4,Edmonton Oilers,5
+Vegas Golden Knights,10,27,0.667,2.0,3.0,0.516,10,7,10,46,6,Edmonton Oilers,4
+Vegas Golden Knights,54,36,0.5,3.0,6.0,0.47700000000000004,13,8,2,33,1,Edmonton Oilers,5
+Edmonton Oilers,6,33,0.0,0.0,4.0,0.484,23,6,16,25,1,Vegas Golden Knights,5
+Edmonton Oilers,64,26,0.0,0.0,4.0,0.5,9,3,10,36,4,Vegas Golden Knights,1
+Vegas Golden Knights,14,35,0.75,3.0,4.0,0.433,13,10,14,24,4,Edmonton Oilers,3
+Edmonton Oilers,4,22,0.0,0.0,2.0,0.5,28,7,11,22,2,Vegas Golden Knights,5

@@ -1,0 +1,90 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Arizona Coyotes,6,24,25.0,1.0,4.0,0.0,0,0,0,0,2,Anaheim Ducks,3
+San Jose Sharks,8,30,0.0,0.0,3.0,58.0,8,14,8,28,5,Anaheim Ducks,4
+Anaheim Ducks,54,29,0.0,0.0,4.0,48.1,12,7,10,22,3,Arizona Coyotes,1
+Anaheim Ducks,12,31,20.0,1.0,5.0,66.0,10,2,4,22,4,San Jose Sharks,1
+Los Angeles Kings,8,25,0.0,0.0,4.0,49.1,12,2,5,23,2,Anaheim Ducks,1
+Anaheim Ducks,10,36,50.0,1.0,2.0,57.1,13,7,8,13,5,Los Angeles Kings,4
+Los Angeles Kings,8,28,25.0,1.0,4.0,37.9,8,3,1,25,6,Anaheim Ducks,3
+Anaheim Ducks,11,48,60.0,3.0,5.0,42.9,12,4,6,22,5,Seattle Kraken,4
+New York Islanders,10,23,0.0,0.0,4.0,43.1,14,2,9,14,7,Anaheim Ducks,1
+New York Rangers,8,22,0.0,0.0,1.0,48.3,12,4,10,17,6,Anaheim Ducks,4
+New Jersey Devils,23,20,0.0,0.0,4.0,46.3,13,7,10,22,4,Anaheim Ducks,2
+Boston Bruins,10,31,0.0,0.0,4.0,36.4,15,7,6,18,1,Anaheim Ducks,1
+Detroit Red Wings,14,33,0.0,0.0,4.0,50.8,8,6,10,19,5,Anaheim Ducks,1
+Anaheim Ducks,4,30,33.3,1.0,3.0,45.3,19,5,5,15,2,Tampa Bay Lightning,4
+Vegas Golden Knights,9,29,0.0,0.0,2.0,47.5,12,5,7,26,4,Anaheim Ducks,0
+Anaheim Ducks,6,36,50.0,1.0,2.0,49.1,12,8,6,9,4,Toronto Maple Leafs,3
+San Jose Sharks,23,44,0.0,0.0,4.0,55.4,9,10,10,19,5,Anaheim Ducks,5
+Vancouver Canucks,11,31,66.7,2.0,3.0,39.7,6,5,8,13,8,Anaheim Ducks,5
+San Jose Sharks,19,25,0.0,0.0,0.0,44.3,19,14,7,15,4,Anaheim Ducks,4
+Anaheim Ducks,6,48,40.0,2.0,5.0,60.0,12,7,9,14,3,Florida Panthers,5
+Anaheim Ducks,53,39,33.3,2.0,6.0,50.0,12,4,8,16,1,Minnesota Wild,4
+Anaheim Ducks,8,22,0.0,0.0,1.0,62.9,15,4,12,30,2,Chicago Blackhawks,3
+Anaheim Ducks,10,33,25.0,1.0,4.0,55.2,25,4,10,19,3,Detroit Red Wings,2
+Winnipeg Jets,11,31,0.0,0.0,1.0,41.5,16,6,7,9,3,Anaheim Ducks,2
+St. Louis Blues,11,32,50.0,2.0,4.0,51.7,10,14,2,14,6,Anaheim Ducks,2
+St. Louis Blues,6,28,0.0,0.0,2.0,38.0,15,9,6,13,3,Anaheim Ducks,1
+Anaheim Ducks,6,43,0.0,0.0,4.0,47.8,10,9,8,21,3,New York Rangers,2
+Anaheim Ducks,17,33,37.5,3.0,8.0,56.3,17,4,12,11,1,Ottawa Senators,5
+Anaheim Ducks,8,25,50.0,1.0,2.0,41.4,14,8,9,21,4,Seattle Kraken,5
+Nashville Predators,4,35,0.0,0.0,0.0,41.8,20,10,7,15,2,Anaheim Ducks,1
+Dallas Stars,13,31,0.0,0.0,3.0,35.8,22,9,6,25,5,Anaheim Ducks,0
+Minnesota Wild,8,33,66.7,2.0,3.0,46.9,18,7,1,19,4,Anaheim Ducks,4
+Winnipeg Jets,8,30,0.0,0.0,3.0,47.4,12,3,9,12,5,Anaheim Ducks,2
+Anaheim Ducks,4,37,0.0,0.0,2.0,55.7,19,5,9,12,4,Carolina Hurricanes,3
+Anaheim Ducks,13,28,25.0,1.0,4.0,51.6,14,3,5,16,1,San Jose Sharks,6
+Ottawa Senators,10,32,0.0,0.0,3.0,41.3,16,5,7,28,3,Anaheim Ducks,0
+Toronto Maple Leafs,8,28,0.0,0.0,1.0,42.2,14,5,7,35,7,Anaheim Ducks,0
+Montréal Canadiens,10,32,50.0,1.0,2.0,49.1,16,4,10,15,2,Anaheim Ducks,5
+Edmonton Oilers,16,17,50.0,1.0,2.0,56.7,13,11,18,18,3,Anaheim Ducks,4
+Los Angeles Kings,12,25,20.0,1.0,5.0,37.5,17,4,3,23,4,Anaheim Ducks,1
+Anaheim Ducks,6,42,16.7,1.0,6.0,55.4,8,5,8,15,1,Minnesota Wild,4
+Anaheim Ducks,15,45,0.0,0.0,4.0,56.9,15,5,9,13,2,Calgary Flames,3
+Anaheim Ducks,10,51,0.0,0.0,5.0,57.6,19,6,8,19,2,Vegas Golden Knights,2
+Anaheim Ducks,2,43,100.0,1.0,1.0,51.1,9,5,5,23,1,Nashville Predators,6
+Anaheim Ducks,10,33,0.0,0.0,2.0,53.2,12,5,7,21,1,Philadelphia Flyers,4
+Anaheim Ducks,2,35,0.0,0.0,4.0,61.8,15,6,8,23,2,Dallas Stars,0
+Anaheim Ducks,13,41,0.0,0.0,2.0,37.5,17,6,7,21,5,San Jose Sharks,4
+Anaheim Ducks,6,42,50.0,1.0,2.0,53.6,22,12,7,18,1,Boston Bruins,7
+Anaheim Ducks,6,53,33.3,1.0,3.0,54.0,8,8,5,15,2,Edmonton Oilers,6
+Anaheim Ducks,15,39,50.0,1.0,2.0,57.7,13,7,7,22,2,New Jersey Devils,6
+Pittsburgh Penguins,8,29,50.0,2.0,4.0,43.1,21,5,5,25,4,Anaheim Ducks,3
+Philadelphia Flyers,15,27,33.3,1.0,3.0,53.8,12,3,8,17,5,Anaheim Ducks,2
+Columbus Blue Jackets,7,33,0.0,0.0,3.0,52.7,12,3,2,15,3,Anaheim Ducks,5
+Buffalo Sabres,9,37,0.0,0.0,1.0,50.9,9,10,5,18,6,Anaheim Ducks,3
+Arizona Coyotes,18,43,33.3,1.0,3.0,49.2,19,3,8,17,2,Anaheim Ducks,5
+Colorado Avalanche,4,32,0.0,0.0,2.0,45.2,15,5,7,15,3,Anaheim Ducks,5
+Anaheim Ducks,10,34,0.0,0.0,4.0,55.7,19,5,10,11,2,Arizona Coyotes,1
+Dallas Stars,20,34,25.0,1.0,4.0,34.5,24,8,14,11,2,Anaheim Ducks,2
+Chicago Blackhawks,6,26,0.0,0.0,2.0,40.4,17,6,4,15,2,Anaheim Ducks,3
+Anaheim Ducks,6,59,25.0,1.0,4.0,54.5,6,4,10,10,3,Pittsburgh Penguins,6
+Vegas Golden Knights,4,25,0.0,0.0,3.0,41.2,13,1,4,16,7,Anaheim Ducks,2
+Anaheim Ducks,18,44,20.0,1.0,5.0,42.1,10,4,5,7,3,Buffalo Sabres,7
+Anaheim Ducks,13,41,75.0,3.0,4.0,69.2,10,4,7,11,3,Los Angeles Kings,6
+Florida Panthers,8,32,50.0,1.0,2.0,46.8,24,2,9,10,4,Anaheim Ducks,3
+Tampa Bay Lightning,30,25,0.0,0.0,4.0,38.2,13,6,3,31,6,Anaheim Ducks,1
+Washington Capitals,16,21,0.0,0.0,3.0,50.0,19,4,13,6,2,Anaheim Ducks,4
+Carolina Hurricanes,8,16,0.0,0.0,3.0,50.8,20,7,12,5,2,Anaheim Ducks,3
+Anaheim Ducks,10,26,50.0,2.0,4.0,46.4,15,7,6,12,4,Chicago Blackhawks,2
+Anaheim Ducks,9,39,0.0,0.0,3.0,45.8,9,9,6,14,2,Washington Capitals,3
+Anaheim Ducks,6,28,0.0,0.0,3.0,53.7,19,5,7,11,3,Montréal Canadiens,2
+Seattle Kraken,6,22,0.0,0.0,3.0,49.1,10,9,7,9,5,Anaheim Ducks,2
+Vancouver Canucks,0,22,0.0,0.0,2.0,42.6,12,3,3,12,3,Anaheim Ducks,2
+Calgary Flames,4,18,0.0,0.0,0.0,38.1,22,11,7,11,1,Anaheim Ducks,3
+Anaheim Ducks,7,36,100.0,1.0,1.0,60.4,9,4,6,14,4,Nashville Predators,5
+Anaheim Ducks,4,33,0.0,0.0,1.0,54.3,10,5,6,15,3,New York Islanders,6
+Anaheim Ducks,4,42,50.0,2.0,4.0,38.3,12,3,12,16,7,Columbus Blue Jackets,4
+Anaheim Ducks,6,40,25.0,1.0,4.0,57.8,11,4,7,13,1,Vancouver Canucks,2
+Anaheim Ducks,6,43,40.0,2.0,5.0,54.8,9,5,7,13,1,Calgary Flames,5
+Anaheim Ducks,4,33,0.0,0.0,2.0,46.6,10,8,10,8,2,Winnipeg Jets,3
+Anaheim Ducks,10,36,0.0,0.0,4.0,42.4,14,3,9,11,3,St. Louis Blues,6
+Anaheim Ducks,6,44,33.3,1.0,3.0,46.4,10,7,9,7,1,Colorado Avalanche,5
+Seattle Kraken,6,19,0.0,0.0,2.0,56.1,17,3,8,8,4,Anaheim Ducks,1
+Edmonton Oilers,8,36,0.0,0.0,3.0,49.2,10,7,11,20,6,Anaheim Ducks,0
+Calgary Flames,4,22,0.0,0.0,1.0,46.4,18,10,11,16,5,Anaheim Ducks,4
+Anaheim Ducks,2,33,0.0,0.0,1.0,58.5,14,4,14,18,1,Edmonton Oilers,3
+Arizona Coyotes,15,29,25.0,1.0,4.0,48.4,14,2,9,15,5,Anaheim Ducks,4
+Anaheim Ducks,6,46,37.5,3.0,8.0,52.2,14,7,10,9,4,Colorado Avalanche,5
+Anaheim Ducks,10,36,50.0,2.0,4.0,44.6,12,5,6,16,2,Vancouver Canucks,3
+Anaheim Ducks,8,36,25.0,2.0,8.0,61.1,10,5,8,12,3,Los Angeles Kings,5

@@ -1,0 +1,91 @@
+home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
+Vancouver Canucks,19,45,0.125,1.0,8.0,0.5,20,4,5,23,2,Calgary Flames,3
+Calgary Flames,14,19,0.0,0.0,5.0,0.615,4,8,2,17,4,Vancouver Canucks,0
+Seattle Kraken,6,25,0.0,0.0,6.0,0.509,15,2,1,9,3,Calgary Flames,0
+Calgary Flames,6,21,0.0,0.0,3.0,0.525,16,7,8,13,4,Edmonton Oilers,0
+Edmonton Oilers,18,22,0.0,0.0,3.0,0.45,20,12,8,30,2,Calgary Flames,1
+Calgary Flames,4,22,0.2,1.0,5.0,0.314,11,7,6,19,4,Seattle Kraken,1
+Winnipeg Jets,12,37,0.0,0.0,6.0,0.5539999999999999,11,4,13,14,5,Calgary Flames,0
+Calgary Flames,16,16,0.25,1.0,4.0,0.444,8,4,6,14,3,Winnipeg Jets,5
+Calgary Flames,14,25,0.25,1.0,4.0,0.415,15,9,12,17,5,Colorado Avalanche,3
+Edmonton Oilers,10,42,0.25,1.0,4.0,0.455,14,10,7,36,3,Calgary Flames,4
+Calgary Flames,12,21,0.0,0.0,4.0,0.46399999999999997,23,5,8,13,3,Vegas Golden Knights,2
+Calgary Flames,2,32,0.2,1.0,5.0,0.561,12,8,6,11,3,Buffalo Sabres,6
+Calgary Flames,8,27,0.0,0.0,4.0,0.52,7,10,3,19,3,Carolina Hurricanes,2
+Calgary Flames,6,33,0.2,1.0,5.0,0.359,19,7,4,18,4,Pittsburgh Penguins,1
+Calgary Flames,6,26,0.25,1.0,4.0,0.515,16,14,12,29,2,Edmonton Oilers,3
+Calgary Flames,13,26,0.25,1.0,4.0,0.385,19,16,9,18,4,Seattle Kraken,5
+Calgary Flames,6,32,0.25,1.0,4.0,0.588,24,2,9,25,1,Nashville Predators,4
+Calgary Flames,8,35,0.2,1.0,5.0,0.522,15,10,14,14,3,New Jersey Devils,4
+New York Islanders,4,46,0.0,0.0,0.0,0.45799999999999996,19,8,11,28,4,Calgary Flames,3
+New Jersey Devils,15,35,0.5,2.0,4.0,0.49200000000000005,18,5,5,27,3,Calgary Flames,2
+Boston Bruins,15,32,0.0,0.0,6.0,0.321,7,6,6,25,3,Calgary Flames,1
+Calgary Flames,10,23,0.0,0.0,3.0,0.534,15,4,7,16,3,Winnipeg Jets,2
+Calgary Flames,8,29,0.5,1.0,2.0,0.507,17,4,12,24,6,Los Angeles Kings,5
+Tampa Bay Lightning,6,40,0.33299999999999996,1.0,3.0,0.486,13,18,11,46,4,Calgary Flames,1
+Florida Panthers,13,35,0.33299999999999996,1.0,3.0,0.541,16,6,6,33,4,Calgary Flames,4
+Philadelphia Flyers,13,30,0.0,0.0,2.0,0.5,20,6,5,24,2,Calgary Flames,5
+Pittsburgh Penguins,6,34,0.0,0.0,3.0,0.45799999999999996,21,10,4,41,1,Calgary Flames,1
+Washington Capitals,4,32,0.0,0.0,2.0,0.5,17,7,9,28,3,Calgary Flames,0
+Carolina Hurricanes,8,20,0.33299999999999996,1.0,3.0,0.5710000000000001,13,8,9,31,3,Calgary Flames,2
+Calgary Flames,12,33,0.0,0.0,4.0,0.373,13,4,8,13,6,Florida Panthers,2
+Calgary Flames,8,19,0.33299999999999996,1.0,3.0,0.536,23,9,11,9,1,Montréal Canadiens,2
+Calgary Flames,6,29,0.25,1.0,4.0,0.557,20,6,4,24,5,Washington Capitals,2
+Calgary Flames,6,20,0.0,0.0,2.0,0.474,16,4,13,13,3,Arizona Coyotes,2
+Calgary Flames,12,28,0.0,0.0,4.0,0.433,12,7,9,14,5,Minnesota Wild,3
+Columbus Blue Jackets,14,32,0.0,0.0,5.0,0.527,5,2,1,12,3,Calgary Flames,1
+Toronto Maple Leafs,16,26,0.5,1.0,2.0,0.49200000000000005,13,5,4,34,5,Calgary Flames,4
+Montréal Canadiens,21,35,0.16699999999999998,1.0,6.0,0.494,22,4,7,25,1,Calgary Flames,1
+Calgary Flames,12,27,0.0,0.0,2.0,0.5,13,10,9,26,3,Vancouver Canucks,3
+Calgary Flames,6,24,0.5,1.0,2.0,0.53,15,9,15,11,2,St. Louis Blues,5
+San Jose Sharks,21,25,0.25,1.0,4.0,0.452,6,10,6,23,2,Calgary Flames,5
+San Jose Sharks,11,39,0.0,0.0,2.0,0.552,15,9,7,16,3,Calgary Flames,7
+Los Angeles Kings,8,30,0.5,1.0,2.0,0.544,13,3,4,31,4,Calgary Flames,3
+Anaheim Ducks,15,45,0.0,0.0,4.0,0.569,15,5,9,13,2,Calgary Flames,3
+Calgary Flames,2,22,0.33299999999999996,1.0,3.0,0.466,25,12,9,13,1,Edmonton Oilers,2
+Seattle Kraken,2,44,0.25,1.0,4.0,0.556,14,6,3,21,2,Calgary Flames,3
+Calgary Flames,4,24,0.0,0.0,4.0,0.41700000000000004,8,10,7,19,3,Vancouver Canucks,2
+Winnipeg Jets,10,35,0.0,0.0,2.0,0.544,17,7,9,20,3,Calgary Flames,2
+Calgary Flames,4,25,0.0,0.0,1.0,0.58,19,11,15,31,4,New York Islanders,1
+Chicago Blackhawks,9,47,0.667,2.0,3.0,0.5379999999999999,14,7,5,21,4,Calgary Flames,3
+St. Louis Blues,4,31,0.0,0.0,2.0,0.547,4,5,4,25,4,Calgary Flames,3
+St. Louis Blues,6,40,0.0,0.0,1.0,0.5,8,9,3,27,1,Calgary Flames,4
+Dallas Stars,4,36,0.4,2.0,5.0,0.508,12,6,7,22,5,Calgary Flames,6
+Nashville Predators,6,39,0.0,0.0,4.0,0.397,22,4,6,28,2,Calgary Flames,1
+Calgary Flames,4,30,0.33299999999999996,1.0,3.0,0.436,13,12,7,12,1,Colorado Avalanche,4
+Calgary Flames,27,24,0.0,0.0,6.0,0.645,18,6,15,20,6,Tampa Bay Lightning,3
+Calgary Flames,11,25,0.5,2.0,4.0,0.423,21,3,12,11,4,Columbus Blue Jackets,3
+Calgary Flames,6,29,0.0,0.0,1.0,0.561,18,11,16,17,1,Chicago Blackhawks,5
+Seattle Kraken,12,38,0.0,0.0,2.0,0.613,15,9,9,19,2,Calgary Flames,5
+New York Rangers,41,32,0.33299999999999996,1.0,3.0,0.5670000000000001,13,4,14,25,5,Calgary Flames,4
+Detroit Red Wings,10,36,0.0,0.0,3.0,0.511,11,7,1,12,2,Calgary Flames,1
+Buffalo Sabres,10,40,0.33299999999999996,1.0,3.0,0.5,22,7,4,25,2,Calgary Flames,7
+Ottawa Senators,10,37,0.25,1.0,4.0,0.5710000000000001,11,1,3,23,4,Calgary Flames,3
+Calgary Flames,4,24,0.5,2.0,4.0,0.5589999999999999,23,11,6,16,2,Detroit Red Wings,5
+Calgary Flames,6,20,0.5,1.0,2.0,0.511,13,5,20,26,3,New York Rangers,2
+Calgary Flames,13,22,0.0,0.0,2.0,0.419,30,0,6,15,3,Philadelphia Flyers,4
+Arizona Coyotes,4,51,0.6,3.0,5.0,0.525,11,5,5,25,3,Calgary Flames,6
+Vegas Golden Knights,4,28,0.25,1.0,4.0,0.473,19,7,6,50,4,Calgary Flames,3
+Colorado Avalanche,15,29,0.2,1.0,5.0,0.5,10,5,3,24,4,Calgary Flames,1
+Calgary Flames,13,20,0.33299999999999996,1.0,3.0,0.522,23,7,10,11,3,Boston Bruins,4
+Calgary Flames,4,34,0.0,0.0,2.0,0.556,18,7,9,18,1,Toronto Maple Leafs,2
+Calgary Flames,4,33,0.0,0.0,2.0,0.609,20,3,8,18,0,Minnesota Wild,3
+Dallas Stars,8,37,0.0,0.0,2.0,0.556,13,10,12,33,4,Calgary Flames,5
+Minnesota Wild,12,26,0.0,0.0,3.0,0.525,10,2,3,23,0,Calgary Flames,0
+Calgary Flames,4,18,0.0,0.0,0.0,0.381,22,11,7,11,1,Anaheim Ducks,3
+Calgary Flames,6,31,0.0,0.0,4.0,0.507,27,9,13,28,5,Ottawa Senators,1
+Arizona Coyotes,2,45,0.0,0.0,2.0,0.5710000000000001,10,3,8,39,4,Calgary Flames,3
+Vegas Golden Knights,13,30,0.5,1.0,2.0,0.44,19,5,1,37,2,Calgary Flames,7
+Calgary Flames,2,26,0.0,0.0,3.0,0.41700000000000004,14,7,5,24,5,Dallas Stars,6
+Los Angeles Kings,20,18,0.25,1.0,4.0,0.45799999999999996,12,3,2,30,8,Calgary Flames,2
+Anaheim Ducks,6,43,0.4,2.0,5.0,0.5479999999999999,9,5,7,13,1,Calgary Flames,5
+Calgary Flames,4,32,0.0,0.0,1.0,0.588,32,5,10,12,2,Vegas Golden Knights,3
+Calgary Flames,2,31,0.0,0.0,3.0,0.524,15,5,14,15,5,San Jose Sharks,3
+Calgary Flames,6,33,0.0,0.0,2.0,0.5660000000000001,19,8,9,21,2,Los Angeles Kings,1
+Vancouver Canucks,4,41,0.16699999999999998,1.0,6.0,0.455,12,2,1,30,4,Calgary Flames,5
+Calgary Flames,4,22,0.0,0.0,1.0,0.46399999999999997,18,10,11,16,5,Anaheim Ducks,4
+Calgary Flames,2,23,0.0,0.0,0.0,0.527,23,8,7,29,3,Chicago Blackhawks,4
+Winnipeg Jets,14,35,0.0,0.0,6.0,0.46299999999999997,13,4,6,33,1,Calgary Flames,3
+Vancouver Canucks,6,43,0.5,1.0,2.0,0.429,13,3,1,31,2,Calgary Flames,2
+Calgary Flames,8,29,0.0,0.0,6.0,0.48100000000000004,27,10,10,16,2,Nashville Predators,2
+Calgary Flames,2,24,0.0,0.0,2.0,0.514,23,4,8,15,3,San Jose Sharks,1
