@@ -51,9 +51,8 @@ def generate_chat_completions(grading_criteria, model_name=os.getenv('NHL_ENGINE
         logging.info('Returning the completed message')
         return completion_message
 
-    except openai.error.OpenAIError as ex:
+    except Exception as ex:
         logging.error('An error occurred while calling the OpenAI chat completion endpoint: %s', ex)
-
         if 'Rate limit reached' in str(ex) and retries < MAX_RETRIES:
             logging.info('Rate limit reached for model %s. Retrying with a different model...', model_name)
             return generate_chat_completions(grading_criteria, model_name=os.getenv('NHL_ENGINE_NAME'), retries=retries+1)

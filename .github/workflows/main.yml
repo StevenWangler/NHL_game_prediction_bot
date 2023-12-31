@@ -1,0 +1,38 @@
+name: NHL Predictions Daily Runner
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # Runs daily at 11:00 AM UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.NHL_OPENAI_API_KEY }}
+      TUNED_ENGINE_NAME: ${{ secrets.NHL_ENGINE_NAME }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.11.2
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run Python app
+      run: python src/main.py
+
+    - name: Commit and push if changes
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
+      run: |
+        git config --local user.name 'StevenWangler'
+        git config --local user.email 'Wangler.Steven@outlook.com'
+        git add src/predictions.json
+        git commit -m "Update daily prediction" -a || echo "No changes to commit"
+        git push https://github.com/StevenWangler/NHL_game_prediction_bot.git HEAD:main
