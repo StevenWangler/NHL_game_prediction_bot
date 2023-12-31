@@ -5,6 +5,8 @@ of a file with a provided message and format the resulting message.
 Additional functionalities related to message formatting for OpenAI may be added in the future.
 """
 
+import os
+
 def combine_contents_into_message(message):
     """
     Combine the contents of two strings and format the message.
@@ -22,8 +24,11 @@ def combine_contents_into_message(message):
     If any errors occur during the process, the function returns None.
     """
     try:
+        # Get the current working directory, which will be the project root in most cases
+        base_path = os.getcwd()
+
         # Specify the path to your file
-        file_path = "/Users/steven/Source/NHL_game_prediction_bot/src/gptInstrictions.txt"
+        file_path = os.path.join(base_path, "src", "gptInstrictions.txt")
 
         # Open the file in read mode ('r')
         with open(file_path, 'r', encoding="utf-8") as file:
