@@ -1,0 +1,101 @@
+[
+    {
+        "venue": "Xcel Energy Center",
+        "home team name": "MIN",
+        "home team percentage chance of winning": 0.458,
+        "predicted home team goals": 3,
+        "away team name": "WPG",
+        "away team percentage chance of winning": 0.542,
+        "predicted away team goals": 3,
+        "reason": "The home team is close in skill and record to the away team",
+        "confidence rating": "low"
+    },
+    {
+        "venue": "Little Caesars Arena",
+        "home team name": "DET",
+        "home team percentage chance of winning": 0.3763139207367859,
+        "predicted home team goals": 2.745296760877606,
+        "away team name": "BOS",
+        "away team percentage chance of winning": 0.6236860792632141,
+        "predicted away team goals": 3.0663746885963774,
+        "reason": "The away team is favored because they have a better record, BOS  maintains a 2 win lead",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Canadian Tire Centre",
+        "home team name": "OTT",
+        "home team percentage chance of winning": 0.5194194073990503,
+        "predicted home team goals": 3.062571406608579,
+        "away team name": "BUF",
+        "away team percentage chance of winning": 0.4805805926009497,
+        "predicted away team goals": 2.9374285933914206,
+        "reason": "Both teams are closely matched",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "PPG Paints Arena",
+        "home team name": "Pittsburgh Penguins",
+        "home team percentage chance of winning": 0.641,
+        "predicted home team goals": 3,
+        "away team name": "New York Islanders",
+        "away team percentage chance of winning": 0.359,
+        "predicted away team goals": 2,
+        "reason": "The home team is favored due to a higher win percentage",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Amalie Arena",
+        "home team name": "TBL",
+        "home team percentage chance of winning": 0.5581870677288114,
+        "predicted home team goals": 3.087643985399974,
+        "away team name": "MTL",
+        "away team percentage chance of winning": 0.4418129322711886,
+        "predicted away team goals": 2.712356014600026,
+        "reason": "The home team is the is the favorite",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Honda Center",
+        "home team name": "ANA",
+        "home team percentage chance of winning": 0.4544,
+        "predicted home team goals": 3.0,
+        "away team name": "EDM",
+        "away team percentage chance of winning": 0.5456,
+        "predicted away team goals": 3.0,
+        "reason": "The away team is favored to win this one. This is a closely matched game, with the home team having a small edge. However, the away teams recent performance is superior and it is likely they will win",
+        "confidence rating": "low"
+    },
+    {
+        "venue": "Scotiabank Saddledome",
+        "home team name": "CGY",
+        "home team percentage chance of winning": 0.4925197665621567,
+        "predicted home team goals": 3.0,
+        "away team name": "PHI",
+        "away team percentage chance of winning": 0.5074802334378433,
+        "predicted away team goals": 3.0,
+        "reason": "The home team has 14 wins, 16 losses, 5 Overtime losses, and the away team has 19 wins, 11 losses, 5 Overtime losses",
+        "confidence rating": "low"
+    },
+    {
+        "venue": "Ball Arena",
+        "home team name": "COL",
+        "home team percentage chance of winning": 0.6470383998651505,
+        "predicted home team goals": 3.083290233438491,
+        "away team name": "SJS",
+        "away team percentage chance of winning": 0.3529616001348495,
+        "predicted away team goals": 2.21938339222908,
+        "reason": "The home team is favored because they have the higher winning percentage on the season",
+        "confidence rating": "high"
+    },
+    {
+        "venue": "American Airlines Center",
+        "home team name": "DAL",
+        "home team percentage chance of winning": 0.8341328604774475,
+        "predicted home team goals": 3.4156850351200103,
+        "away team name": "CHI",
+        "away team percentage chance of winning": 0.1658671395225525,
+        "predicted away team goals": 2.3143149648799892,
+        "reason": "DAL is the stronger team",
+        "confidence rating": "high"
+    }
+]

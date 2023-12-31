@@ -49,18 +49,20 @@ def unique_predictions(predictions_list):
             unique_list.append(prediction)
     return unique_list
 
-def write_predictions_to_file(predictions, filename='predictions.json'):
+def write_predictions_to_file(predictions, filename='src/predictions.json'):
     """
     Writes a list of predictions to a specified JSON file.
 
-    This function processes a list of predictions by first attempting to convert each prediction into a dictionary object,
-    if necessary. It handles any errors that occur during this conversion. After conversion, it flattens the list in case
-    each element is a list. It then removes any duplicate dictionaries from this list and writes the unique predictions
+    This function processes a list of predictions by first attempting to convert
+    each prediction into a dictionary object, if necessary. It handles any errors that occur
+    during this conversion. After conversion, it flattens the list in case each element is a list.
+    It then removes any duplicate dictionaries from this list and writes the unique predictions
     to a specified JSON file.
 
     Args:
     predictions (list): A list of predictions, which may be strings or dictionary objects.
-    filename (str, optional): The name of the file to write the predictions to. Defaults to 'predictions.json'.
+    filename (str, optional): The name of the file to write the predictions to. Defaults to
+    'predictions.json'.
 
     Raises:
     Exception: If an error occurs during the conversion of a prediction.
