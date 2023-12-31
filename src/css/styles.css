@@ -1,0 +1,95 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Change background color to black */
+    color: #fff; /* Change text color for readability */
+    line-height: 1.6;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+}
+
+#predictions {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+    width: 80%;
+    max-width: 1000px;
+    margin: 40px auto;
+}
+
+.prediction {
+    background-color: white; /* Keeps prediction cards white */
+    color: #333; /* Text color for content inside cards */
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.prediction h2 {
+    color: limegreen;
+    margin: 0;
+}
+
+.prediction p {
+    margin: 5px 0;
+}
+
+.prediction:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+    transform: translateY(-5px);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.detail-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+    #predictions {
+        width: 90%;
+    }
+
+    .detail-section {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+.confidence {
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block; /* This makes the box fit the content */
+    font-weight: bold;
+    margin-top: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.high-confidence {
+    background-color: #4CAF50; /* Green for high confidence */
+    color: black;
+}
+
+.medium-confidence {
+    background-color: #FFC107; /* Amber for medium confidence */
+    color: black;
+}
+
+.low-confidence {
+    background-color: #F44336; /* Red for low confidence */
+    color: black;
+}

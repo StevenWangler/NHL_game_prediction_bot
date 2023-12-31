@@ -22,7 +22,7 @@ import requests
 print('Running NHL game data fetching script')
 
 # Define the base URL for the NHL API and the season of interest
-NHL_API_BASE_URL = "https://statsapi.web.nhl.com/api/v1"
+NHL_API_BASE_URL = "https://api-web.nhle.com/v1/"
 SEASON = "20222023"
 DATA_DIRECTORY = 'data/raw'
 

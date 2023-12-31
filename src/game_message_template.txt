@@ -1,0 +1,13 @@
+Home team: {home}
+Home team wins in their last 10: {hL10W}
+Home team losses in their last 10: {hL10L}
+Home team record on the year: {hWins} wins, {hLosses} losses, {hOTLosses} Overtime losses
+-------------------------------------------
+
+Away team: {away}
+Away team wins in their last 10: {aL10W}
+Away team losses in their last 10: {aL10L}
+Away team record on the year: {aWins} wins, {aLosses} losses, {aOTLosses} Overtime losses
+
+-------------------------------------------
+Venue: {venue}
