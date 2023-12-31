@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     setTitleWithCurrentDate();
-    fetch('predictions.json')
+    fetch('src/predictions.json')
         .then(response => response.json())
         .then(data => {
             const uniqueData = removeDuplicates(data);
