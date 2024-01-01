@@ -51,26 +51,3 @@ jobs:
           pr_body: "Automated PR to update predictions.json"
           source_branch: "update-predictions-${{ github.run_id }}"
           destination_branch: "main"
-        # Ensure this action can output the PR number
-
-  auto-merge:
-    needs: build
-    if: always() && needs.build.outputs.pr_number
-    runs-on: ubuntu-latest
-    steps:
-      - name: Auto-merge PR
-        uses: pascalgn/automerge-action@v0.14.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-
-  cleanup:
-    needs: auto-merge
-    if: github.event_name == 'pull_request' && github.event.pull_request.merged == true && !(contains(fromJSON('["dev", "uat"]'), github.event.pull_request.head.ref))
-    runs-on: ubuntu-latest
-    steps:
-      - name: Delete branch
-        run: |
-          curl -X DELETE \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/${{ github.repository }}/git/refs/heads/${{ github.event.pull_request.head.ref }}
