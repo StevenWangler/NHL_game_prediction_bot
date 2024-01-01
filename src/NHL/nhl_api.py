@@ -4,7 +4,8 @@ Module: nhl_data_fetch.py
 This module provides functions for fetching NHL game data and standings from the NHL API.
 """
 
-from datetime import date
+from datetime import datetime
+import pytz
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -43,19 +44,23 @@ def safe_request(url, max_retries=3, backoff_factor=0.5, timeout=10):
 
 def get_games_today():
     """
-    Fetch games scheduled for the current day.
+    Fetch games scheduled for the current day based on EST time zone.
     
     Returns:
         list: A list of dictionaries containing information about today's games, 
         or an empty list if no games are scheduled.
     """
-    current_date = date.today().strftime("%Y-%m-%d")
-    schedule_endpoint = f"{NHL_API_BASE_URL}schedule/{current_date}"
+    # Convert current UTC time to EST
+    utc_now = datetime.now(pytz.utc)
+    est_now = utc_now.astimezone(pytz.timezone("America/New_York"))
+    current_date_est = est_now.strftime("%Y-%m-%d")
+
+    schedule_endpoint = f"{NHL_API_BASE_URL}schedule/{current_date_est}"
     schedule_data = safe_request(schedule_endpoint)
 
     if schedule_data and 'gameWeek' in schedule_data:
         for day_info in schedule_data['gameWeek']:
-            if day_info['date'] == current_date:  # Check if the date matches today's date
+            if day_info['date'] == current_date_est:  # Check if the date matches today's date in EST
                 games_today = day_info.get('games', [])
                 return format_games_today_response(games_today)
     return []
