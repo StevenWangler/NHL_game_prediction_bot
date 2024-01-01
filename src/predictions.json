@@ -2,12 +2,12 @@
     {
         "venue": "T-Mobile Park",
         "home team name": "SEA",
-        "home team percentage chance of winning": 0.40870398833599375,
-        "predicted home team goals": 3.0,
+        "home team percentage chance of winning": 0.47,
+        "predicted home team goals": 2.0,
         "away team name": "VGK",
-        "away team percentage chance of winning": 0.5912960116640062,
-        "predicted away team goals": 3.0,
-        "reason": "The away team is favored to win at the away team's home venue",
-        "confidence rating": "medium"
+        "away team percentage chance of winning": 0.53,
+        "predicted away team goals": 2.0,
+        "reason": "The away team is expected to win as they have a better record and have been performing better recently",
+        "confidence rating": "low"
     }
 ]
