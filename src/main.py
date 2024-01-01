@@ -1,5 +1,5 @@
 """
-Main script for generating NHL game predictions.
+The Main script for generating NHL game predictions.
 
 This script fetches today's NHL games and current team standings, and then generates predictions
 for the games using the OpenAI API and other NHL data processing modules.
