@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      OPENAI_API_KEY: ${{ secrets.NHL_OPENAI_API_KEY }}
-      TUNED_ENGINE_NAME: ${{ secrets.NHL_ENGINE_NAME }}
+      NHL_OPENAI_API_KEY: ${{ secrets.NHL_OPENAI_API_KEY }}
+      NHL_ENGINE_NAME: ${{ secrets.NHL_ENGINE_NAME }}
 
     steps:
     - name: Checkout code
