@@ -8,54 +8,72 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      pr_number: ${{ steps.create-pr.outputs.pr_number }}
     env:
       NHL_OPENAI_API_KEY: ${{ secrets.NHL_OPENAI_API_KEY }}
       NHL_ENGINE_NAME: ${{ secrets.NHL_ENGINE_NAME }}
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.11.2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11.2
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Run Python app
-      run: python src/main.py
+      - name: Run Python app
+        run: python src/main.py
 
-    - name: Create and switch to a new branch
-      run: git checkout -b update-predictions-${{ github.run_id }}
+      - name: Create and switch to a new branch
+        run: git checkout -b update-predictions-${{ github.run_id }}
 
-    - name: Commit changes
-      run: |
-        git config --local user.name 'StevenWangler'
-        git config --local user.email 'Wangler.Steven@outlook.com'
-        git add src/predictions.json
-        git commit -m "Update daily prediction" -a || echo "No changes to commit"
+      - name: Commit changes
+        run: |
+          git config --local user.name 'StevenWangler'
+          git config --local user.email 'Wangler.Steven@outlook.com'
+          git add src/predictions.json
+          git commit -m "Update daily prediction" -a || echo "No changes to commit"
 
-    - name: Push changes
-      run: git push origin update-predictions-${{ github.run_id }}
+      - name: Push changes
+        run: git push origin update-predictions-${{ github.run_id }}
 
-    - name: Create Pull Request
-      uses: repo-sync/pull-request@v2
-      with:
-        github_token: ${{ secrets.GH_PAT }}
-        pr_title: "Update daily prediction"
-        pr_body: "Automated PR to update predictions.json"
-        source_branch: "update-predictions-${{ github.run_id }}"
-        destination_branch: "main"
+      - name: Create Pull Request
+        id: create-pr
+        uses: repo-sync/pull-request@v2
+        with:
+          github_token: ${{ secrets.GH_PAT }}
+          pr_title: "Update daily prediction"
+          pr_body: "Automated PR to update predictions.json"
+          source_branch: "update-predictions-${{ github.run_id }}"
+          destination_branch: "main"
+        # Ensure this action can output the PR number
+
+  auto-merge:
+    needs: build
+    if: github.event_name == 'pull_request' && github.event.action == 'opened'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-merge PR
+        uses: pascalgn/automerge-action@v0.14.3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          mergeMethod: squash
+          pullRequest: ${{ needs.build.outputs.pr_number }}
+        # Ensure you have the correct PR number here
 
   cleanup:
-    runs-on: ubuntu-latest
+    needs: auto-merge
     if: github.event_name == 'pull_request' && github.event.pull_request.merged == true && !(contains(fromJSON('["dev", "uat"]'), github.event.pull_request.head.ref))
+    runs-on: ubuntu-latest
     steps:
-    - name: Delete branch
-      run: |
-        curl -X DELETE \
-        -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-        -H "Accept: application/vnd.github.v3+json" \
-        https://api.github.com/repos/${{ github.repository }}/git/refs/heads/${{ github.event.pull_request.head.ref }}
+      - name: Delete branch
+        run: |
+          curl -X DELETE \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/git/refs/heads/${{ github.event.pull_request.head.ref }}
