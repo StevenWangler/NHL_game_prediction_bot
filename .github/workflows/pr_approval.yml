@@ -1,4 +1,4 @@
-name: Auto-Approve and Merge PR
+name: Auto Merge PR
 
 on:
   schedule:
@@ -8,24 +8,14 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
-  auto-approve-and-merge:
+  auto-merge:
     runs-on: ubuntu-latest
     steps:
-      - name: Auto-approve PR
-        run: |
-          PR_NUMBER=$(curl -H "Authorization: token ${{ secrets.GH_PAT }}" \
-          "https://api.github.com/repos/${{ github.repository }}/pulls?state=open&sort=created&direction=desc" \
-          | jq '.[0].number')
-          
-          if [ ! -z "$PR_NUMBER" ] && [ "$PR_NUMBER" != "null" ]; then
-            curl -X POST -H "Authorization: token ${{ secrets.GH_PAT }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/pulls/$PR_NUMBER/reviews" \
-            -d '{"event":"APPROVE"}'
-          else
-            echo "No open PR found"
-          fi
       - name: Auto-merge PR
         uses: pascalgn/automerge-action@v0.14.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          mergeMethod: squash # or 'merge' or 'rebase'
+          token: ${{ secrets.GH_PAT }}
+          # Additional conditions can be added here
+          # requiredLabels: ["automerge"]
+          # requiredChecks: ["ci-build"]
