@@ -41,7 +41,7 @@ jobs:
 
       - name: Push changes
         run: git push origin update-predictions-${{ github.run_id }}
-
+        
       - name: Create Pull Request
         id: create-pr
         uses: repo-sync/pull-request@v2
@@ -51,3 +51,11 @@ jobs:
           pr_body: "Automated PR to update predictions.json"
           source_branch: "update-predictions-${{ github.run_id }}"
           destination_branch: "main"
+
+      - name: Add automerge label to PR
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.GH_PAT }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          "https://api.github.com/repos/${{ github.repository }}/issues/${{ steps.create-pr.outputs.pr_number }}/labels" \
+          -d '{"labels":["automerge"]}'
+
