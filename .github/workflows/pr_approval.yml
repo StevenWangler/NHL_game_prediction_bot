@@ -1,6 +1,9 @@
 name: Auto-Approve and Merge PR
 
 on:
+  schedule:
+    - cron: '10 16 * * *'  # Runs daily at 11:10 AM EST (16:10 UTC)
+  workflow_dispatch:  # Allows manual triggering
   pull_request:
     types: [opened, synchronize, reopened]
 
