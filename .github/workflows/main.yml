@@ -27,12 +27,35 @@ jobs:
     - name: Run Python app
       run: python src/main.py
 
-    - name: Commit and push if changes
-      env:
-        GH_PAT: ${{ secrets.GH_PAT }}
+    - name: Create and switch to a new branch
+      run: git checkout -b update-predictions-${{ github.run_id }}
+
+    - name: Commit changes
       run: |
         git config --local user.name 'StevenWangler'
         git config --local user.email 'Wangler.Steven@outlook.com'
         git add src/predictions.json
         git commit -m "Update daily prediction" -a || echo "No changes to commit"
-        git push https://github.com/StevenWangler/NHL_game_prediction_bot.git HEAD:main
+
+    - name: Push changes
+      run: git push origin update-predictions-${{ github.run_id }}
+
+    - name: Create Pull Request
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.GH_PAT }}
+        pr_title: "Update daily prediction"
+        pr_body: "Automated PR to update predictions.json"
+        source_branch: "update-predictions-${{ github.run_id }}"
+        destination_branch: "main"
+
+  cleanup:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' && github.event.pull_request.merged == true && !(contains(fromJSON('["dev", "uat"]'), github.event.pull_request.head.ref))
+    steps:
+    - name: Delete branch
+      run: |
+        curl -X DELETE \
+        -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+        -H "Accept: application/vnd.github.v3+json" \
+        https://api.github.com/repos/${{ github.repository }}/git/refs/heads/${{ github.event.pull_request.head.ref }}
