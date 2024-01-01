@@ -8,11 +8,28 @@ body {
 }
 
 h1 {
-    background-color: #333;
-    color: white;
+    font-family: 'Arial', sans-serif; /* A more dynamic font */
+    font-size: 2.5em; /* Larger font size for desktop */
+    background-color: #0077cc; /* A deep blue background */
+    color: white; /* White text for contrast */
     text-align: center;
-    padding: 20px 0;
+    padding: 30px 0; /* Increased padding */
     margin: 0;
+    text-shadow: 2px 2px 4px #000000; /* Text shadow for depth */
+    border-bottom: 3px solid #005fa3; /* Bottom border for definition */
+}
+
+/* Responsive Design for Mobile Devices */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.8em; /* Smaller font size for tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5em; /* Even smaller font size for mobile phones */
+    }
 }
 
 #predictions {
@@ -36,7 +53,7 @@ h1 {
 }
 
 .prediction h2 {
-    color: limegreen;
+    color: #0077cc;
     margin: 0;
 }
 
@@ -92,4 +109,22 @@ h1 {
 .low-confidence {
     background-color: #F44336; /* Red for low confidence */
     color: black;
+}
+
+footer {
+    background-color: #333; /* Dark background for footer */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px 0; /* Some padding for spacing */
+    font-size: 0.8em; /* Smaller font size for the disclaimer */
+    position: sticky; /* Sticky position */
+    bottom: 0; /* Stick to the bottom */
+    width: 100%;
+}
+
+/* Responsive adjustments for the footer */
+@media (max-width: 600px) {
+    footer {
+        font-size: 0.7em; /* Slightly smaller font on mobile devices */
+    }
 }
