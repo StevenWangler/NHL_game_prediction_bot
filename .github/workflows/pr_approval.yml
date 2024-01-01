@@ -12,11 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Auto-merge PR
-        uses: pascalgn/automerge-action@v0.14.3
+        uses: pascalgn/automerge-action@v0.15.6
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          mergeMethod: squash # or 'merge' or 'rebase'
-          # Additional conditions can be added here
-          # requiredLabels: ["automerge"]
-          # requiredChecks: ["ci-build"]
+          MERGE_METHOD: squash
