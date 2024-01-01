@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "venue": "T-Mobile Park",
+        "home team name": "SEA",
+        "home team percentage chance of winning": 0.424,
+        "predicted home team goals": 2.0,
+        "away team name": "VGK",
+        "away team percentage chance of winning": 0.5760000000000001,
+        "predicted away team goals": 3.0,
+        "reason": "The away team is favored because they have a better win percentage on the season",
+        "confidence rating": "low"
+    }
+]
