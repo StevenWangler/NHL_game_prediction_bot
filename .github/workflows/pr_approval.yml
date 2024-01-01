@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           MERGE_METHOD: squash
-          MERGE_LABELS: ""
+          
