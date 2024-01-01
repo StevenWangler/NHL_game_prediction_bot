@@ -60,11 +60,8 @@ jobs:
     steps:
       - name: Auto-merge PR
         uses: pascalgn/automerge-action@v0.14.3
-        with:
-          token: ${{ secrets.GH_PAT }}  # Consider using a personal access token if GITHUB_TOKEN lacks permissions
-          mergeMethod: squash
-          pullRequest: ${{ needs.build.outputs.pr_number }}
-        
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
   cleanup:
     needs: auto-merge
