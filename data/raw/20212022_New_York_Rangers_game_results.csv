@@ -1,0 +1,109 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+NYR,NYI,4,10,46.3,21,2,Islanders,8,1/4,8,53.7,23,0,3,Rangers,21,0/3
+NYR,BOS,2,11,44.2,20,6,Bruins,10,0/5,11,55.8,37,3,3,Rangers,10,0/5
+NJD,NYR,1,9,47.4,23,3,Rangers,8,1/5,6,52.6,14,7,1,Devils,10,2/4
+BOS,NYR,4,12,41.5,34,3,Rangers,8,1/2,7,58.5,18,3,6,Bruins,4,1/4
+NYR,NJD,2,13,49.1,31,1,Devils,23,0/2,8,50.9,36,6,3,Rangers,31,1/3
+NYI,NYR,5,0,0.0,0,3,Rangers,8,3/5,0,0.0,0,4,2,Islanders,12,1/3
+WSH,NYR,1,8,60.8,27,3,Rangers,18,1/5,15,39.2,12,5,15,Capitals,16,3/6
+NYR,DAL,3,25,50.0,23,25,Stars,10,1/2,13,50.0,32,2,3,Rangers,6,0/4
+MTL,NYR,3,18,39.3,23,3,Rangers,6,1/4,13,60.7,31,1,8,Canadiens,8,0/3
+TOR,NYR,2,14,24.1,33,3,Rangers,6,0/3,12,75.9,19,1,10,Maple Leafs,6,0/3
+NSH,NYR,3,10,45.3,15,3,Rangers,8,0/4,4,54.7,10,1,18,Predators,10,0/3
+OTT,NYR,3,13,40.0,45,3,Rangers,20,1/4,18,60.0,33,2,9,Senators,20,0/4
+NYR,CGY,5,16,39.2,20,20,Flames,6,1/2,18,60.8,27,1,3,Rangers,6,0/2
+NYR,CBJ,0,13,57.7,11,29,Blue Jackets,8,0/3,16,42.3,26,4,3,Rangers,8,2/3
+SEA,NYR,3,21,45.6,26,3,Rangers,8,0/2,13,54.4,21,1,55,Kraken,4,0/4
+VAN,NYR,2,18,47.7,24,3,Rangers,12,2/5,12,52.3,24,3,23,Canucks,10,0/6
+EDM,NYR,5,23,41.5,21,3,Rangers,4,1/2,12,58.5,27,6,22,Oilers,4,2/2
+CGY,NYR,0,12,51.0,27,3,Rangers,11,0/3,10,49.0,13,6,20,Flames,11,1/3
+NYR,FLA,3,8,47.3,18,13,Panthers,6,0/2,21,52.7,26,4,3,Rangers,6,1/2
+CBJ,NYR,5,12,52.7,28,3,Rangers,8,1/2,7,47.3,10,3,29,Blue Jackets,4,1/3
+NYR,NJD,3,11,49.3,15,1,Devils,4,1/1,19,50.7,22,4,3,Rangers,2,0/2
+NYR,MTL,2,9,50.9,27,8,Canadiens,26,0/2,23,49.1,23,3,3,Rangers,14,0/3
+TOR,NYR,1,7,19.6,31,3,Rangers,4,0/1,12,80.4,19,2,10,Maple Leafs,4,1/1
+NYR,BUF,4,15,56.0,16,7,Sabres,2,1/3,10,44.0,34,5,3,Rangers,6,1/1
+NYI,NYR,4,16,41.7,23,3,Rangers,19,1/5,9,58.3,31,1,2,Islanders,17,0/6
+BOS,NYR,5,17,42.9,23,3,Rangers,18,0/2,4,57.1,21,2,6,Bruins,16,0/3
+NYR,PHI,1,10,51.0,11,4,Flyers,4,0/3,15,49.0,21,4,3,Rangers,19,1/2
+NYR,SJS,0,17,57.8,14,28,Sharks,6,0/2,9,42.2,22,1,3,Rangers,4,1/3
+NYR,CHI,2,15,57.4,26,16,Blackhawks,8,0/1,17,42.6,28,3,3,Rangers,2,1/4
+CHI,NYR,6,16,44.1,39,3,Rangers,27,2/2,10,55.9,29,2,16,Blackhawks,13,0/4
+NYR,COL,7,11,49.0,16,21,Avalanche,27,1/5,19,51.0,20,3,3,Rangers,17,1/5
+BUF,NYR,2,16,52.7,17,3,Rangers,11,1/2,10,47.3,5,1,7,Sabres,11,0/2
+NYR,NSH,1,14,54.2,39,18,Predators,4,0/1,13,45.8,22,0,3,Rangers,2,0/2
+COL,NYR,2,18,53.6,19,3,Rangers,17,0/2,13,46.4,13,4,21,Avalanche,9,1/6
+ARI,NYR,3,9,66.1,27,3,Rangers,6,2/3,8,33.9,29,2,53,Coyotes,8,0/2
+NYR,VGK,3,8,39.0,12,54,Golden Knights,4,0/1,17,61.0,23,2,3,Rangers,2,1/2
+FLA,NYR,3,16,44.8,30,3,Rangers,6,0/2,9,55.2,40,4,13,Panthers,6,0/2
+TBL,NYR,4,13,49.2,29,3,Rangers,10,0/4,11,50.8,31,3,14,Lightning,10,1/4
+NYR,TBL,0,3,38.8,33,14,Lightning,8,0/2,18,61.2,23,4,3,Rangers,6,2/3
+NYR,EDM,1,3,61.8,12,22,Oilers,10,0/2,22,38.2,29,4,3,Rangers,4,1/5
+VGK,NYR,1,16,46.8,45,3,Rangers,6,0/2,16,53.2,17,5,54,Golden Knights,4,1/3
+ANA,NYR,4,13,50.0,22,3,Rangers,6,0/5,9,50.0,17,1,24,Ducks,10,0/3
+LAK,NYR,1,15,60.8,25,3,Rangers,6,0/2,12,39.2,24,3,26,Kings,4,0/3
+SJS,NYR,3,14,49.0,21,3,Rangers,11,0/1,11,51.0,11,0,28,Sharks,9,0/2
+PHI,NYR,3,18,50.0,23,3,Rangers,2,1/2,15,50.0,33,2,4,Flyers,4,0/1
+NYR,TOR,3,14,54.7,12,10,Maple Leafs,4,1/4,15,45.3,31,6,3,Rangers,8,0/2
+CAR,NYR,3,14,46.6,39,3,Rangers,6,2/3,14,53.4,23,6,12,Hurricanes,8,2/2
+NYR,ARI,3,14,62.0,16,53,Coyotes,8,0/5,19,38.0,24,7,3,Rangers,10,2/4
+NYR,LAK,2,10,46.9,26,26,Kings,21,1/4,15,53.1,26,3,3,Rangers,10,1/5
+CBJ,NYR,3,13,60.0,23,3,Rangers,4,1/3,9,40.0,32,5,29,Blue Jackets,6,1/2
+NYR,MIN,3,8,52.9,23,30,Wild,6,1/2,16,47.1,18,2,3,Rangers,6,0/2
+NYR,SEA,2,12,43.9,24,55,Kraken,6,1/5,22,56.1,23,3,3,Rangers,10,1/3
+NYR,FLA,2,16,54.7,25,13,Panthers,15,1/3,14,45.3,38,5,3,Rangers,11,3/5
+NYR,BOS,1,13,45.2,25,6,Bruins,6,0/1,13,54.8,36,2,3,Rangers,6,0/1
+NYR,DET,3,17,54.5,15,17,Red Wings,4,0/3,12,45.5,13,2,3,Rangers,8,1/1
+OTT,NYR,2,17,49.0,26,3,Rangers,2,1/2,13,51.0,30,1,9,Senators,4,0/1
+NYR,WSH,1,10,62.7,17,15,Capitals,8,0/4,10,37.3,24,4,3,Rangers,12,0/2
+PIT,NYR,0,16,54.2,43,3,Rangers,10,0/2,19,45.8,39,1,5,Penguins,10,1/2
+NYR,VAN,5,12,53.7,18,23,Canucks,6,1/1,10,46.3,26,2,3,Rangers,2,0/3
+NYR,STL,3,6,66.7,25,19,Blues,9,0/3,23,33.3,24,5,3,Rangers,11,1/2
+NYR,NJD,1,11,40.0,19,1,Devils,13,0/3,18,60.0,27,3,3,Rangers,13,0/3
+WPG,NYR,4,10,39.0,18,3,Rangers,12,1/2,9,61.0,26,1,52,Jets,4,1/6
+MIN,NYR,2,11,44.2,18,3,Rangers,2,0/0,10,55.8,19,5,30,Wild,0,1/1
+STL,NYR,2,13,40.0,27,3,Rangers,13,2/3,10,60.0,18,6,19,Blues,13,0/3
+DAL,NYR,7,13,37.3,19,3,Rangers,4,1/2,10,62.7,23,4,25,Stars,4,1/2
+NYR,ANA,3,11,48.1,16,24,Ducks,4,1/3,8,51.9,20,4,3,Rangers,6,1/2
+NYR,NYI,2,16,42.1,21,2,Islanders,6,1/3,9,57.9,27,1,3,Rangers,6,1/3
+TBL,NYR,2,10,44.0,30,3,Rangers,13,1/6,9,56.0,36,1,14,Lightning,19,1/3
+CAR,NYR,2,23,44.9,39,3,Rangers,6,0/2,7,55.1,16,0,12,Hurricanes,4,0/3
+NJD,NYR,4,9,48.2,24,3,Rangers,6,1/1,17,51.8,18,7,1,Devils,2,1/3
+NYR,PIT,1,18,61.9,24,5,Penguins,2,1/4,13,38.1,25,5,3,Rangers,8,0/1
+NYR,BUF,4,9,41.5,20,7,Sabres,2,1/1,14,58.5,18,5,3,Rangers,2,0/1
+PIT,NYR,3,13,45.8,38,3,Rangers,8,1/1,19,54.2,32,2,5,Penguins,4,1/3
+DET,NYR,5,10,51.1,22,3,Rangers,6,1/2,15,48.9,21,4,17,Red Wings,4,2/3
+NYR,NYI,3,15,47.9,19,2,Islanders,8,0/4,12,52.1,19,0,3,Rangers,10,0/3
+NYR,PHI,4,20,58.8,28,4,Flyers,6,0/3,3,41.2,19,3,3,Rangers,6,0/3
+NJD,NYR,3,6,58.7,20,3,Rangers,9,2/3,9,41.3,18,1,1,Devils,21,0/2
+NYR,PIT,0,16,47.9,28,5,Penguins,6,0/3,17,52.1,22,3,3,Rangers,8,0/2
+NYR,OTT,1,19,47.4,29,9,Senators,2,0/1,3,52.6,23,5,3,Rangers,2,0/1
+NYR,CAR,4,11,55.2,19,12,Hurricanes,8,0/2,15,44.8,19,2,3,Rangers,4,0/4
+PHI,NYR,4,15,55.8,22,3,Rangers,18,0/3,12,44.2,33,0,4,Flyers,20,0/2
+NYR,DET,0,15,40.0,18,17,Red Wings,8,0/1,9,60.0,18,4,3,Rangers,2,1/4
+NYR,WPG,0,15,44.4,16,52,Jets,4,0/1,14,55.6,20,3,3,Rangers,2,1/2
+NYI,NYR,6,10,45.0,27,3,Rangers,4,1/1,13,55.0,26,3,2,Islanders,4,1/1
+BOS,NYR,1,17,38.0,34,3,Rangers,8,1/3,11,62.0,24,3,6,Bruins,8,0/3
+NYR,CAR,4,11,64.9,24,12,Hurricanes,13,0/2,8,35.1,28,3,3,Rangers,11,0/3
+NYR,MTL,4,11,45.1,11,8,Canadiens,6,0/2,16,54.9,21,3,3,Rangers,4,0/3
+NYR,WSH,2,7,39.1,15,15,Capitals,6,1/5,16,60.9,15,3,3,Rangers,12,0/2
+NYR,PIT,4,21,52.9,33,5,Penguins,2,1/4,31,47.1,43,3,3,Rangers,8,1/1
+NYR,PIT,2,12,53.4,27,5,Penguins,12,0/2,8,46.6,40,5,3,Rangers,8,1/4
+PIT,NYR,4,9,41.1,34,3,Rangers,6,0/3,15,58.9,33,7,5,Penguins,6,2/3
+PIT,NYR,2,10,39.6,49,3,Rangers,6,0/1,18,60.4,54,7,5,Penguins,2,1/3
+NYR,PIT,3,19,67.2,24,5,Penguins,8,0/3,12,32.8,32,5,3,Rangers,8,1/3
+PIT,NYR,5,16,41.8,21,3,Rangers,8,2/3,12,58.2,26,3,5,Penguins,8,0/3
+NYR,PIT,3,20,50.8,14,5,Penguins,10,2/5,18,49.2,25,4,3,Rangers,12,1/4
+CAR,NYR,1,18,40.8,31,3,Rangers,2,0/1,13,59.2,40,2,12,Hurricanes,2,0/1
+CAR,NYR,0,15,43.5,22,3,Rangers,10,0/4,24,56.5,31,2,12,Hurricanes,12,0/3
+NYR,CAR,1,10,58.7,17,12,Hurricanes,6,0/3,17,41.3,23,3,3,Rangers,6,1/2
+NYR,CAR,1,12,64.7,23,12,Hurricanes,27,0/2,13,35.3,30,4,3,Rangers,13,1/4
+CAR,NYR,1,21,44.6,31,3,Rangers,4,1/2,19,55.4,30,3,12,Hurricanes,4,1/2
+NYR,CAR,2,14,60.7,26,12,Hurricanes,14,0/3,23,39.3,32,5,3,Rangers,12,2/5
+CAR,NYR,6,25,33.3,22,3,Rangers,8,2/3,8,66.7,23,2,12,Hurricanes,6,1/4
+NYR,TBL,2,15,40.0,26,14,Lightning,14,0/3,13,60.0,26,6,3,Rangers,16,1/2
+NYR,TBL,2,17,58.3,32,14,Lightning,8,1/1,18,41.7,23,3,3,Rangers,2,0/4
+TBL,NYR,2,19,50.9,37,3,Rangers,12,2/5,9,49.1,38,3,14,Lightning,12,2/4
+TBL,NYR,1,11,48.3,35,3,Rangers,13,1/2,17,51.7,27,4,14,Lightning,11,0/3
+NYR,TBL,3,14,55.8,27,14,Lightning,9,0/2,17,44.2,31,1,3,Rangers,13,0/1
+TBL,NYR,1,18,57.7,42,3,Rangers,4,1/2,17,42.3,34,2,14,Lightning,6,0/1

@@ -1,14 +1,13 @@
 [
     {
-        "venue": "Nationwide Arena",
-        "home team name": "CBJ",
-        "home team percentage chance of winning": 0.25999999999999995,
-        "predicted home team goals (cannot be the same as away team goals)": 2,
-        "away team name": "BOS",
-        "away team percentage chance of winning": 0.74,
-        "predicted away team goals (cannot be the same as home team goals)": 3,
-        "reason": "The away team has this game, they have been performing exceptionally well this season and are the favorites to win this game",
-        "confidence rating": "medium"
+        "venue": "T-Mobile Park",
+        "home team name": "SEA",
+        "home team percentage chance of winning": 0.4427607514850569,
+        "predicted home team goals": 2.0,
+        "away team name": "VGK",
+        "away team percentage chance of winning": 0.557239248514943,
+        "predicted away team goals": 3.0,
+        "reason": "The away team is expected to win because they have a more wins than the home team. The home team SEA has had 14 wins, 14 losses, 9 Overtime losses overall, while the away team VGK 22 wins, 10 losses, 5 Overtime losses overall.",
     },
     {
         "venue": "Madison Square Garden",
@@ -84,7 +83,6 @@
         "away team name": "FLA",
         "away team percentage chance of winning": 0.5329887280464172,
         "predicted away team goals (cannot be the same as home team goals)": 4,
-        "reason": "The away team has the better record this season and is therefore the favorite.",
         "confidence rating": "low"
     },
     {

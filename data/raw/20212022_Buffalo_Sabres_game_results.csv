@@ -1,0 +1,89 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+CBJ,BUF,5,18,42.4,13,7,Sabres,8,0/2,10,57.6,24,4,29,Blue Jackets,4,1/4
+DET,BUF,2,11,43.1,20,7,Sabres,10,1/2,9,56.9,19,6,17,Red Wings,16,0/4
+BUF,PIT,2,14,50.0,7,5,Penguins,9,0/2,8,50.0,9,1,7,Sabres,9,1/2
+BUF,CBJ,5,7,56.6,8,29,Blue Jackets,2,2/3,8,43.4,4,3,7,Sabres,6,0/1
+PIT,BUF,4,11,46.3,19,7,Sabres,4,1/2,9,53.7,19,5,5,Penguins,4,0/2
+BUF,DET,1,10,48.1,7,17,Red Wings,2,0/1,6,51.9,2,3,7,Sabres,2,0/1
+BUF,MTL,1,9,47.5,18,8,Canadiens,12,0/4,16,52.5,9,5,7,Sabres,8,3/6
+BUF,ARI,1,10,42.5,15,53,Coyotes,4,0/2,9,57.5,15,2,7,Sabres,4,1/2
+BUF,VAN,2,10,47.9,10,23,Canucks,6,0/3,5,52.1,14,5,7,Sabres,6,0/3
+BUF,BOS,4,22,63.0,14,6,Bruins,8,1/2,6,37.0,12,1,7,Sabres,4,0/4
+NJD,BUF,1,13,34.0,30,7,Sabres,8,1/2,10,66.0,25,2,1,Devils,6,1/3
+BUF,TBL,1,8,45.1,17,14,Lightning,4,0/2,18,54.9,12,5,7,Sabres,6,0/1
+ANA,BUF,4,9,36.0,13,7,Sabres,2,1/2,11,64.0,23,3,24,Ducks,4,0/1
+LAK,BUF,2,12,42.9,20,7,Sabres,17,0/2,8,57.1,17,3,26,Kings,9,1/6
+SJS,BUF,3,12,34.6,19,7,Sabres,4,0/2,11,65.4,24,5,28,Sharks,6,0/1
+SEA,BUF,2,7,58.6,16,7,Sabres,19,1/3,13,41.4,20,5,55,Kraken,17,0/4
+BUF,DET,4,12,57.1,13,17,Red Wings,4,0/1,12,42.9,7,3,7,Sabres,2,1/2
+WSH,BUF,3,6,44.1,11,7,Sabres,6,0/3,15,55.9,20,5,15,Capitals,6,1/3
+BUF,EDM,2,6,64.9,8,22,Oilers,6,2/6,21,35.1,6,3,7,Sabres,12,0/3
+BUF,TOR,5,12,63.6,7,10,Maple Leafs,4,1/1,9,36.4,7,4,7,Sabres,2,0/2
+PIT,BUF,2,18,44.8,25,7,Sabres,13,0/5,7,55.2,31,1,5,Penguins,15,1/4
+BUF,CGY,5,15,58.3,14,20,Flames,4,1/2,16,41.7,12,0,7,Sabres,4,0/2
+NYR,BUF,4,15,56.0,16,7,Sabres,2,1/3,10,44.0,34,5,3,Rangers,6,1/1
+BUF,CBJ,7,13,45.3,8,29,Blue Jackets,10,0/3,13,54.7,13,4,7,Sabres,8,2/4
+BUF,BOS,5,10,68.8,27,6,Bruins,7,2/3,10,31.3,18,1,7,Sabres,22,0/1
+BUF,MTL,1,13,50.9,18,8,Canadiens,2,0/2,10,49.1,7,4,7,Sabres,4,0/1
+DET,BUF,2,8,44.2,9,7,Sabres,8,0/0,15,55.8,12,3,17,Red Wings,2,0/3
+BUF,SEA,7,11,46.8,9,55,Kraken,8,0/0,9,53.2,21,4,7,Sabres,0,1/4
+FLA,BUF,4,20,52.4,15,7,Sabres,8,0/3,15,47.6,16,7,13,Panthers,8,1/3
+CAR,BUF,2,11,37.1,16,7,Sabres,0,1/3,11,62.9,19,6,12,Hurricanes,17,0/0
+BUF,ANA,2,24,51.0,14,24,Ducks,6,0/1,10,49.0,9,0,7,Sabres,2,0/3
+BUF,NYR,2,16,52.7,17,3,Rangers,11,1/2,10,47.3,5,1,7,Sabres,11,0/2
+BUF,WSH,3,8,38.3,20,15,Capitals,2,0/3,14,61.7,10,2,7,Sabres,6,0/1
+WPG,BUF,4,11,38.8,17,7,Sabres,6,1/2,3,61.2,27,2,52,Jets,4,0/3
+MIN,BUF,3,8,49.1,20,7,Sabres,4,0/2,11,50.9,23,2,30,Wild,4,0/2
+PIT,BUF,2,12,45.5,32,7,Sabres,18,0/3,8,54.5,28,3,5,Penguins,16,1/4
+BUF,NJD,4,13,51.3,6,1,Devils,7,1/2,15,48.7,17,3,7,Sabres,19,0/1
+NYI,BUF,1,10,34.0,12,7,Sabres,4,1/2,11,66.0,24,4,2,Islanders,4,1/2
+BOS,BUF,3,10,48.6,15,7,Sabres,8,1/4,10,51.4,14,4,6,Bruins,8,0/4
+BUF,SJS,3,21,40.4,16,28,Sharks,11,0/1,7,59.6,10,2,7,Sabres,7,1/3
+BUF,TBL,6,11,45.8,7,14,Lightning,8,1/2,8,54.2,12,1,7,Sabres,4,1/4
+NSH,BUF,4,11,44.0,21,7,Sabres,8,1/4,13,56.0,45,1,18,Predators,8,1/4
+DET,BUF,0,9,38.5,7,7,Sabres,10,0/5,17,61.5,11,4,17,Red Wings,10,2/5
+BUF,DET,3,6,65.2,9,17,Red Wings,8,0/1,13,34.8,10,2,7,Sabres,6,0/2
+OTT,BUF,3,15,52.4,10,7,Sabres,25,0/2,17,47.6,22,1,9,Senators,9,1/5
+BUF,DAL,5,8,57.9,23,25,Stars,6,4/5,14,42.1,12,4,7,Sabres,10,1/3
+BUF,PHI,3,9,50.0,13,4,Flyers,10,1/5,14,50.0,16,6,7,Sabres,12,3/4
+OTT,BUF,0,17,42.2,23,7,Sabres,12,0/5,9,57.8,38,5,9,Senators,14,1/4
+ARI,BUF,3,13,48.9,16,7,Sabres,6,1/3,10,51.1,20,1,53,Coyotes,8,1/2
+COL,BUF,1,11,48.5,15,7,Sabres,13,0/4,19,51.5,19,4,21,Avalanche,13,1/4
+VGK,BUF,2,14,53.1,26,7,Sabres,18,0/2,21,46.9,15,5,54,Golden Knights,14,1/4
+BUF,CBJ,4,8,51.9,19,29,Blue Jackets,2,1/2,9,48.1,12,3,7,Sabres,4,0/1
+MTL,BUF,5,15,37.5,19,7,Sabres,6,1/3,8,62.5,24,3,8,Canadiens,6,0/3
+BUF,NYI,3,13,57.6,17,2,Islanders,4,0/2,8,42.4,9,6,7,Sabres,4,1/2
+BUF,OTT,3,12,55.4,13,9,Senators,17,0/2,13,44.6,12,1,7,Sabres,19,1/6
+BUF,COL,5,12,42.2,8,21,Avalanche,2,0/2,9,57.8,9,3,7,Sabres,4,0/1
+CBJ,BUF,3,8,50.7,15,7,Sabres,6,0/1,12,49.3,17,7,29,Blue Jackets,4,0/2
+MTL,BUF,0,7,44.2,14,7,Sabres,9,0/2,17,55.8,13,4,8,Canadiens,11,0/1
+STL,BUF,3,9,49.0,11,7,Sabres,8,1/5,13,51.0,15,5,19,Blues,12,1/3
+DAL,BUF,2,5,42.9,15,7,Sabres,6,0/1,18,57.1,15,4,25,Stars,2,1/3
+TOR,BUF,5,16,45.1,20,7,Sabres,2,1/2,9,54.9,17,1,10,Maple Leafs,4,0/1
+BUF,MIN,4,9,56.9,14,30,Wild,13,1/2,17,43.1,11,5,7,Sabres,21,2/3
+BUF,LAK,3,6,61.7,8,26,Kings,2,0/1,8,38.3,17,0,7,Sabres,2,0/1
+BUF,FLA,6,12,47.3,6,13,Panthers,12,2/3,7,52.7,12,1,7,Sabres,18,0/5
+BUF,VGK,1,14,66.0,14,54,Golden Knights,20,0/4,13,34.0,11,3,7,Sabres,20,1/4
+BUF,TOR,2,7,61.5,30,10,Maple Leafs,32,0/3,17,38.5,30,5,7,Sabres,30,0/4
+EDM,BUF,1,16,55.2,29,7,Sabres,6,0/1,11,44.8,25,6,22,Oilers,2,1/3
+CGY,BUF,1,8,49.0,17,7,Sabres,4,0/3,9,51.0,23,0,20,Flames,8,0/1
+VAN,BUF,3,7,45.5,14,7,Sabres,8,0/2,11,54.5,24,2,23,Canucks,6,1/3
+BUF,PIT,3,13,48.2,14,5,Penguins,6,2/2,10,51.8,4,4,7,Sabres,4,0/3
+BUF,WSH,4,12,54.0,20,15,Capitals,4,0/1,9,46.0,12,3,7,Sabres,4,0/1
+NYR,BUF,4,9,41.5,20,7,Sabres,2,1/1,14,58.5,18,5,3,Rangers,2,0/1
+CHI,BUF,6,13,49.0,24,7,Sabres,4,2/3,21,51.0,33,5,16,Blackhawks,6,2/2
+BUF,WPG,3,12,54.0,15,52,Jets,6,0/1,5,46.0,14,2,7,Sabres,4,0/2
+BUF,NSH,3,7,44.0,12,18,Predators,4,0/1,11,56.0,20,4,7,Sabres,2,1/2
+BUF,FLA,5,8,47.4,28,13,Panthers,4,1/3,6,52.6,12,3,7,Sabres,6,2/2
+BUF,CAR,2,7,57.1,22,12,Hurricanes,6,0/2,14,42.9,12,4,7,Sabres,4,1/3
+CAR,BUF,3,8,36.0,16,7,Sabres,4,0/3,5,64.0,37,5,12,Hurricanes,6,0/2
+FLA,BUF,3,13,51.0,20,7,Sabres,4,1/4,13,49.0,22,4,13,Panthers,10,2/2
+TBL,BUF,0,11,39.6,30,7,Sabres,4,0/2,8,60.4,27,5,14,Lightning,4,0/2
+TOR,BUF,5,14,31.1,35,7,Sabres,10,2/4,11,68.9,23,2,10,Maple Leafs,8,0/5
+BUF,STL,6,13,45.1,7,19,Blues,4,2/3,4,54.9,4,2,7,Sabres,6,0/2
+BUF,PHI,3,14,48.1,14,4,Flyers,10,0/4,6,51.9,10,4,7,Sabres,10,2/4
+PHI,BUF,5,14,43.5,31,7,Sabres,4,2/2,16,56.5,29,3,4,Flyers,4,0/2
+NJD,BUF,5,10,50.0,13,7,Sabres,8,0/1,7,50.0,22,2,1,Devils,4,0/4
+BUF,NYI,3,10,60.0,14,2,Islanders,34,0/2,10,40.0,5,5,7,Sabres,16,1/6
+BOS,BUF,0,4,41.1,21,7,Sabres,14,0/3,17,58.9,19,5,6,Bruins,8,2/6
+BUF,CHI,2,8,52.2,9,16,Blackhawks,6,0/1,3,47.8,8,3,7,Sabres,2,0/3

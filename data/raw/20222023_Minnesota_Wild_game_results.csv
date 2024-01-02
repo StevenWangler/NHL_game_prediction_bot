@@ -1,96 +1,96 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Minnesota Wild,8,25,0.0,0.0,4.0,35.2,16,1,2,39,3,Colorado Avalanche,2
-Colorado Avalanche,14,26,37.5,3.0,8.0,40.7,10,4,3,22,2,Minnesota Wild,5
-Dallas Stars,24,28,20.0,1.0,5.0,40.0,16,9,4,12,2,Minnesota Wild,5
-Chicago Blackhawks,14,33,0.0,0.0,3.0,0.0,0,0,0,0,0,Minnesota Wild,3
-St. Louis Blues,14,28,0.0,0.0,4.0,38.9,22,12,4,37,4,Minnesota Wild,2
-Minnesota Wild,6,26,0.0,0.0,6.0,48.9,6,5,3,15,4,Chicago Blackhawks,1
-Minnesota Wild,17,23,0.0,0.0,3.0,58.2,14,5,1,15,5,Dallas Stars,1
-Minnesota Wild,17,35,20.0,1.0,5.0,50.0,13,4,1,27,3,New York Rangers,7
-Minnesota Wild,14,34,33.3,2.0,6.0,53.6,20,7,4,5,6,Los Angeles Kings,7
-Minnesota Wild,14,38,50.0,1.0,2.0,44.8,17,2,6,23,3,Colorado Avalanche,6
-Minnesota Wild,13,26,0.0,0.0,2.0,49.0,14,10,1,12,4,Vancouver Canucks,3
-Boston Bruins,10,27,20.0,1.0,5.0,39.0,20,4,4,21,4,Minnesota Wild,3
-Montréal Canadiens,10,31,0.0,0.0,3.0,47.9,21,5,20,19,1,Minnesota Wild,3
-Ottawa Senators,22,40,25.0,1.0,4.0,51.6,24,7,5,25,2,Minnesota Wild,4
-Detroit Red Wings,6,31,0.0,0.0,1.0,55.0,13,4,8,25,2,Minnesota Wild,1
-Chicago Blackhawks,11,35,0.0,0.0,2.0,37.5,11,10,4,15,3,Minnesota Wild,3
-Minnesota Wild,45,35,50.0,1.0,2.0,62.0,15,2,6,16,4,Montréal Canadiens,1
-Minnesota Wild,4,23,50.0,1.0,2.0,51.1,14,8,6,20,0,Seattle Kraken,4
-Los Angeles Kings,11,21,0.0,0.0,1.0,42.9,22,2,4,31,1,Minnesota Wild,0
-Anaheim Ducks,53,39,33.3,2.0,6.0,50.0,12,4,8,16,1,Minnesota Wild,4
-Seattle Kraken,8,21,0.0,0.0,3.0,42.0,22,8,3,20,0,Minnesota Wild,1
-Minnesota Wild,4,37,0.0,0.0,3.0,51.8,12,4,6,12,2,San Jose Sharks,2
-Nashville Predators,22,33,0.0,0.0,5.0,45.3,10,8,6,22,2,Minnesota Wild,1
-Minnesota Wild,6,32,40.0,2.0,5.0,57.6,12,4,5,25,4,Pittsburgh Penguins,6
-Minnesota Wild,4,21,0.0,0.0,2.0,38.5,13,3,3,21,2,Carolina Hurricanes,1
-Minnesota Wild,19,29,0.0,0.0,2.0,42.1,12,3,5,14,6,Winnipeg Jets,1
-Minnesota Wild,4,28,0.0,0.0,3.0,55.6,22,4,4,12,3,Toronto Maple Leafs,4
-Minnesota Wild,13,23,0.0,0.0,2.0,44.8,17,8,7,14,4,Arizona Coyotes,3
-Minnesota Wild,6,21,33.3,1.0,3.0,52.6,14,6,8,19,5,Edmonton Oilers,3
-Minnesota Wild,8,33,66.7,2.0,3.0,46.9,18,7,1,19,4,Anaheim Ducks,4
-Dallas Stars,13,31,25.0,1.0,4.0,51.9,21,5,6,28,5,Minnesota Wild,5
-Calgary Flames,12,28,0.0,0.0,4.0,43.3,12,7,9,14,5,Minnesota Wild,3
-Edmonton Oilers,6,44,20.0,1.0,5.0,50.6,13,4,8,24,5,Minnesota Wild,2
-Vancouver Canucks,11,33,50.0,1.0,2.0,50.9,22,4,3,13,0,Minnesota Wild,3
-Minnesota Wild,6,21,20.0,1.0,5.0,60.8,7,4,3,11,2,Edmonton Oilers,1
-Minnesota Wild,13,17,0.0,0.0,3.0,47.2,12,6,2,27,4,Detroit Red Wings,1
-Minnesota Wild,6,30,20.0,1.0,5.0,60.7,18,5,8,13,4,Chicago Blackhawks,1
-Minnesota Wild,6,28,0.0,0.0,3.0,51.0,16,3,4,27,4,Ottawa Senators,2
-Anaheim Ducks,6,42,16.7,1.0,6.0,55.4,8,5,8,15,1,Minnesota Wild,4
-San Jose Sharks,28,26,0.0,0.0,4.0,49.1,20,7,9,15,5,Minnesota Wild,2
-Winnipeg Jets,6,28,100.0,1.0,1.0,40.3,11,5,5,22,1,Minnesota Wild,4
-Minnesota Wild,6,43,66.7,2.0,3.0,71.9,17,4,1,11,1,Dallas Stars,4
-St. Louis Blues,20,32,0.0,0.0,2.0,28.6,18,15,5,19,2,Minnesota Wild,5
-Minnesota Wild,10,35,25.0,1.0,4.0,63.2,12,2,3,18,5,Tampa Bay Lightning,1
-Buffalo Sabres,6,44,50.0,2.0,4.0,51.7,16,5,0,21,6,Minnesota Wild,5
-Minnesota Wild,6,24,25.0,1.0,4.0,48.9,25,5,4,19,0,St. Louis Blues,3
-New York Rangers,8,32,0.0,0.0,1.0,43.5,29,3,5,26,3,Minnesota Wild,3
-New York Islanders,8,36,0.0,0.0,5.0,59.3,18,5,5,19,1,Minnesota Wild,3
-Minnesota Wild,4,28,0.0,0.0,1.0,42.6,7,3,6,17,2,Arizona Coyotes,1
-Washington Capitals,8,22,0.0,0.0,2.0,50.9,15,6,6,33,2,Minnesota Wild,4
-Carolina Hurricanes,24,31,25.0,1.0,4.0,49.2,18,9,3,14,5,Minnesota Wild,2
-Florida Panthers,9,32,100.0,2.0,2.0,50.9,16,4,12,24,5,Minnesota Wild,3
-Tampa Bay Lightning,15,35,25.0,1.0,4.0,45.6,16,17,6,26,4,Minnesota Wild,2
-Minnesota Wild,28,30,0.0,0.0,3.0,44.2,21,4,5,19,3,Philadelphia Flyers,2
-Minnesota Wild,8,31,0.0,0.0,1.0,47.4,11,6,4,5,2,Buffalo Sabres,2
-Arizona Coyotes,12,35,0.0,0.0,4.0,46.4,17,5,7,26,3,Minnesota Wild,2
-Dallas Stars,2,39,33.3,1.0,3.0,40.0,16,5,10,24,4,Minnesota Wild,1
-Minnesota Wild,8,31,0.0,0.0,1.0,51.5,17,8,3,12,1,Vegas Golden Knights,5
-Minnesota Wild,13,29,0.0,0.0,2.0,52.5,22,7,4,20,2,New Jersey Devils,2
-Minnesota Wild,12,34,0.0,0.0,7.0,43.1,14,4,5,14,1,Florida Panthers,1
-Minnesota Wild,9,19,0.0,0.0,1.0,42.3,22,2,3,22,2,Colorado Avalanche,3
-Minnesota Wild,8,30,0.0,0.0,4.0,53.4,13,8,3,13,1,Dallas Stars,1
-Minnesota Wild,10,26,0.0,0.0,2.0,53.1,18,4,3,25,4,Nashville Predators,3
-Minnesota Wild,6,34,0.0,0.0,1.0,57.5,13,4,1,15,2,Los Angeles Kings,1
-Columbus Blue Jackets,2,25,0.0,0.0,1.0,28.8,25,7,4,19,0,Minnesota Wild,2
-Toronto Maple Leafs,4,25,0.0,0.0,1.0,28.8,18,9,13,42,2,Minnesota Wild,1
-Minnesota Wild,4,24,0.0,0.0,2.0,50.9,16,5,5,16,3,Columbus Blue Jackets,2
-Minnesota Wild,7,40,0.0,0.0,0.0,59.5,16,3,5,27,1,New York Islanders,1
-Vancouver Canucks,11,36,0.0,0.0,5.0,52.5,18,3,1,20,1,Minnesota Wild,2
-Calgary Flames,4,33,0.0,0.0,2.0,60.9,20,3,8,18,0,Minnesota Wild,3
-Minnesota Wild,12,26,0.0,0.0,3.0,52.5,10,2,3,23,0,Calgary Flames,0
-Winnipeg Jets,6,23,0.0,0.0,1.0,39.5,25,7,10,16,2,Minnesota Wild,4
-San Jose Sharks,10,29,50.0,2.0,4.0,50.7,19,11,10,22,2,Minnesota Wild,5
-Arizona Coyotes,24,34,0.0,0.0,4.0,45.6,10,4,8,33,5,Minnesota Wild,4
-St. Louis Blues,14,35,50.0,2.0,4.0,62.1,10,8,3,15,5,Minnesota Wild,8
-Minnesota Wild,12,38,25.0,1.0,4.0,60.0,12,3,6,29,2,Boston Bruins,5
-Minnesota Wild,40,36,50.0,2.0,4.0,56.7,9,5,8,28,5,Washington Capitals,3
-New Jersey Devils,6,29,0.0,0.0,1.0,52.9,22,3,7,18,1,Minnesota Wild,2
-Philadelphia Flyers,2,24,0.0,0.0,3.0,54.2,18,2,9,30,4,Minnesota Wild,4
-Minnesota Wild,4,23,0.0,0.0,2.0,40.0,13,4,5,27,3,Chicago Blackhawks,1
-Minnesota Wild,18,36,0.0,0.0,3.0,52.8,7,5,2,16,5,Seattle Kraken,1
-Colorado Avalanche,10,29,0.0,0.0,3.0,43.1,21,2,2,24,2,Minnesota Wild,4
-Vegas Golden Knights,6,30,0.0,0.0,2.0,56.0,14,8,4,30,4,Minnesota Wild,1
-Minnesota Wild,8,26,0.0,0.0,3.0,55.4,19,4,4,14,3,Vegas Golden Knights,3
-Pittsburgh Penguins,8,28,20.0,1.0,5.0,43.3,11,4,3,23,4,Minnesota Wild,1
-Minnesota Wild,8,40,0.0,0.0,2.0,51.0,14,1,1,9,5,St. Louis Blues,3
-Chicago Blackhawks,21,22,0.0,0.0,2.0,35.6,31,4,12,19,2,Minnesota Wild,4
-Minnesota Wild,24,20,0.0,0.0,3.0,50.0,21,4,4,18,1,Winnipeg Jets,3
-Nashville Predators,6,24,0.0,0.0,1.0,54.1,20,9,8,26,4,Minnesota Wild,3
-Dallas Stars,14,48,25.0,1.0,4.0,43.5,30,10,14,42,2,Minnesota Wild,3
-Dallas Stars,52,26,20.0,1.0,5.0,43.8,18,6,15,45,7,Minnesota Wild,3
-Minnesota Wild,12,24,0.0,0.0,2.0,62.7,13,4,9,17,5,Dallas Stars,1
-Minnesota Wild,8,24,66.7,2.0,3.0,51.0,18,2,6,32,2,Dallas Stars,3
-Dallas Stars,27,27,0.0,0.0,3.0,43.4,14,7,9,34,4,Minnesota Wild,0
-Minnesota Wild,4,33,0.0,0.0,2.0,53.7,21,6,6,22,1,Dallas Stars,4
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+MIN,COL,2,16,35.2,39,21,Avalanche,8,0/4,15,64.8,25,3,30,Wild,8,1/4
+COL,MIN,5,10,40.7,22,30,Wild,14,3/8,15,59.3,23,2,21,Avalanche,20,0/5
+DAL,MIN,5,16,40.0,12,30,Wild,24,1/5,9,60.0,19,2,25,Stars,15,1/3
+CHI,MIN,3,0,0.0,0,30,Wild,14,0/3,0,0.0,0,0,16,Blackhawks,8,0/5
+STL,MIN,2,22,38.9,37,30,Wild,14,0/4,9,61.1,16,4,19,Blues,10,1/6
+MIN,CHI,1,6,48.9,15,16,Blackhawks,6,0/6,11,51.1,17,4,30,Wild,14,0/2
+MIN,DAL,1,14,58.2,15,25,Stars,17,0/3,10,41.8,15,5,30,Wild,13,2/5
+MIN,NYR,7,13,50.0,27,3,Rangers,17,1/5,13,50.0,20,3,30,Wild,19,1/4
+MIN,LAK,7,20,53.6,5,26,Kings,14,2/6,7,46.4,20,6,30,Wild,14,3/6
+MIN,COL,6,17,44.8,23,21,Avalanche,14,1/2,11,55.2,20,3,30,Wild,10,2/4
+MIN,VAN,3,14,49.0,12,23,Canucks,13,0/2,15,51.0,21,4,30,Wild,11,1/3
+BOS,MIN,3,20,39.0,21,30,Wild,10,1/5,11,61.0,24,4,6,Bruins,10,1/5
+MTL,MIN,3,21,47.9,19,30,Wild,10,0/3,19,52.1,10,1,8,Canadiens,10,0/3
+OTT,MIN,4,24,51.6,25,30,Wild,22,1/4,10,48.4,37,2,9,Senators,20,1/5
+DET,MIN,1,13,55.0,25,30,Wild,6,0/1,19,45.0,35,2,17,Red Wings,4,1/2
+CHI,MIN,4,11,37.5,15,30,Wild,11,0/2,14,62.5,28,3,16,Blackhawks,25,0/0
+MIN,MTL,1,15,62.0,16,8,Canadiens,45,1/2,7,38.0,15,4,30,Wild,21,1/4
+MIN,SEA,4,14,51.1,20,55,Kraken,4,1/2,8,48.9,26,0,30,Wild,4,0/2
+LAK,MIN,0,22,42.9,31,30,Wild,11,0/1,12,57.1,25,1,26,Kings,2,0/4
+ANA,MIN,4,12,50.0,16,30,Wild,53,2/6,13,50.0,18,1,24,Ducks,57,0/4
+SEA,MIN,1,22,42.0,20,30,Wild,8,0/3,5,58.0,29,0,55,Kraken,6,0/4
+MIN,SJS,3,12,51.8,12,28,Sharks,4,0/3,14,48.2,22,2,30,Wild,6,0/2
+NSH,MIN,1,10,45.3,22,30,Wild,22,0/5,19,54.7,43,2,18,Predators,24,1/5
+MIN,PIT,6,12,57.6,25,5,Penguins,6,2/5,16,42.4,29,4,30,Wild,10,0/3
+MIN,CAR,1,13,38.5,21,12,Hurricanes,4,0/2,19,61.5,23,2,30,Wild,6,0/1
+MIN,WPG,1,12,42.1,14,52,Jets,19,0/2,18,57.9,27,6,30,Wild,13,2/5
+MIN,TOR,4,22,55.6,12,10,Maple Leafs,4,0/3,10,44.4,22,3,30,Wild,6,1/2
+MIN,ARI,3,17,44.8,14,53,Coyotes,13,0/2,9,55.2,22,4,30,Wild,19,1/3
+MIN,EDM,3,14,52.6,19,22,Oilers,6,1/3,16,47.4,17,5,30,Wild,6,2/3
+MIN,ANA,4,18,46.9,19,24,Ducks,8,2/3,9,53.1,21,5,30,Wild,8,1/2
+DAL,MIN,6,21,51.9,28,30,Wild,13,1/4,11,48.1,13,5,25,Stars,13,0/4
+CGY,MIN,3,12,43.3,14,30,Wild,12,0/4,13,56.7,13,5,20,Flames,8,2/6
+EDM,MIN,2,13,50.6,24,30,Wild,6,1/5,15,49.4,22,5,22,Oilers,10,2/3
+VAN,MIN,3,22,50.9,13,30,Wild,11,1/2,13,49.1,24,0,23,Canucks,9,0/3
+MIN,EDM,1,7,60.8,11,22,Oilers,6,1/5,13,39.2,15,2,30,Wild,10,1/3
+MIN,DET,1,12,47.2,27,17,Red Wings,13,0/3,17,52.8,25,4,30,Wild,11,1/4
+MIN,CHI,1,18,60.7,13,16,Blackhawks,6,1/5,12,39.3,20,4,30,Wild,12,1/2
+MIN,OTT,2,16,51.0,27,9,Senators,6,0/3,19,49.0,16,4,30,Wild,6,0/3
+ANA,MIN,4,8,55.4,15,30,Wild,6,1/6,18,44.6,16,1,24,Ducks,24,0/2
+SJS,MIN,2,20,49.1,15,30,Wild,28,0/4,14,50.9,16,5,28,Sharks,13,2/6
+WPG,MIN,4,11,40.3,22,30,Wild,6,1/1,9,59.7,33,1,52,Jets,4,0/2
+MIN,DAL,4,17,71.9,11,25,Stars,6,2/3,18,28.1,21,1,30,Wild,18,0/2
+STL,MIN,5,18,28.6,19,30,Wild,20,0/2,16,71.4,20,2,19,Blues,16,0/4
+MIN,TBL,1,12,63.2,18,14,Lightning,10,1/4,15,36.8,21,5,30,Wild,12,1/3
+BUF,MIN,5,16,51.7,21,30,Wild,6,2/4,4,48.3,7,6,7,Sabres,8,2/3
+MIN,STL,3,25,48.9,19,19,Blues,6,1/4,9,51.1,23,0,30,Wild,8,0/3
+NYR,MIN,3,29,43.5,26,30,Wild,8,0/1,6,56.5,19,4,3,Rangers,4,0/3
+NYI,MIN,3,18,59.3,19,30,Wild,8,0/5,17,40.7,19,1,2,Islanders,12,0/3
+MIN,ARI,1,7,42.6,17,53,Coyotes,4,0/1,16,57.4,25,2,30,Wild,2,1/2
+WSH,MIN,4,15,50.9,33,30,Wild,8,0/2,18,49.1,31,2,15,Capitals,6,0/3
+CAR,MIN,2,18,49.2,14,30,Wild,24,1/4,15,50.8,9,5,12,Hurricanes,21,2/7
+FLA,MIN,3,16,50.9,24,30,Wild,9,2/2,13,49.1,27,5,13,Panthers,19,1/2
+TBL,MIN,2,16,45.6,26,30,Wild,15,1/4,14,54.4,26,4,14,Lightning,23,1/5
+MIN,PHI,2,21,44.2,19,4,Flyers,28,0/3,16,55.8,19,3,30,Wild,28,1/3
+MIN,BUF,2,11,47.4,5,7,Sabres,8,0/1,15,52.6,24,3,30,Wild,2,1/4
+ARI,MIN,2,17,46.4,26,30,Wild,12,0/4,15,53.6,21,3,53,Coyotes,8,1/6
+DAL,MIN,1,16,40.0,24,30,Wild,2,1/3,18,60.0,14,4,25,Stars,6,0/1
+MIN,VGK,5,17,51.5,12,54,Golden Knights,8,0/1,13,48.5,37,1,30,Wild,6,1/2
+MIN,NJD,2,22,52.5,20,1,Devils,13,0/2,12,47.5,32,3,30,Wild,21,1/3
+MIN,FLA,2,14,43.1,14,13,Panthers,12,0/7,22,56.9,10,1,30,Wild,16,0/5
+MIN,COL,3,22,42.3,22,21,Avalanche,9,0/1,18,57.7,19,2,30,Wild,7,1/2
+MIN,DAL,1,13,53.4,13,25,Stars,8,0/4,22,46.6,14,2,30,Wild,12,1/2
+MIN,NSH,3,18,53.1,25,18,Predators,10,0/2,17,46.9,19,4,30,Wild,4,1/5
+MIN,LAK,1,13,57.5,15,26,Kings,6,0/1,22,42.5,18,2,30,Wild,2,0/3
+CBJ,MIN,2,25,28.8,19,30,Wild,2,0/1,13,71.2,11,0,29,Blue Jackets,2,0/1
+TOR,MIN,1,18,28.8,42,30,Wild,4,0/1,26,71.2,27,2,10,Maple Leafs,2,0/2
+MIN,CBJ,2,16,50.9,16,29,Blue Jackets,4,0/2,17,49.1,31,3,30,Wild,4,1/2
+MIN,NYI,1,16,59.5,27,2,Islanders,7,0/0,13,40.5,26,2,30,Wild,5,0/1
+VAN,MIN,2,18,52.5,20,30,Wild,11,0/5,15,47.5,29,1,23,Canucks,15,1/3
+CGY,MIN,3,20,60.9,18,30,Wild,4,0/2,15,39.1,23,0,20,Flames,4,0/2
+MIN,CGY,1,10,52.5,23,20,Flames,12,0/3,23,47.5,18,0,30,Wild,8,0/5
+WPG,MIN,4,25,39.5,16,30,Wild,6,0/1,5,60.5,16,2,52,Jets,2,0/3
+SJS,MIN,5,19,50.7,22,30,Wild,10,2/4,12,49.3,12,2,28,Sharks,8,2/5
+ARI,MIN,4,10,45.6,33,30,Wild,24,0/4,24,54.4,34,5,53,Coyotes,28,1/2
+STL,MIN,8,10,62.1,15,30,Wild,14,2/4,8,37.9,21,5,19,Blues,23,3/5
+MIN,BOS,5,12,60.0,29,6,Bruins,12,1/4,9,40.0,16,2,30,Wild,10,1/5
+MIN,WSH,3,9,56.7,28,15,Capitals,40,2/4,11,43.3,13,5,30,Wild,22,0/3
+NJD,MIN,2,22,52.9,18,30,Wild,6,0/1,16,47.1,11,1,1,Devils,2,0/3
+PHI,MIN,4,18,54.2,30,30,Wild,2,0/3,11,45.8,23,5,4,Flyers,6,1/1
+MIN,CHI,1,13,40.0,27,16,Blackhawks,4,0/2,7,60.0,25,3,30,Wild,6,0/1
+MIN,SEA,1,7,52.8,16,55,Kraken,18,0/3,16,47.2,26,5,30,Wild,18,1/3
+COL,MIN,4,21,43.1,24,30,Wild,10,0/3,12,56.9,27,2,21,Avalanche,6,0/4
+VGK,MIN,1,14,56.0,30,30,Wild,6,0/2,21,44.0,32,4,54,Golden Knights,6,0/2
+MIN,VGK,4,19,55.4,14,54,Golden Knights,8,0/3,22,44.6,28,3,30,Wild,10,1/2
+PIT,MIN,1,11,43.3,23,30,Wild,8,1/5,23,56.7,30,4,5,Penguins,10,1/4
+MIN,STL,3,14,51.0,9,19,Blues,8,0/2,15,49.0,8,5,30,Wild,4,1/4
+CHI,MIN,4,31,35.6,19,30,Wild,21,0/2,12,64.4,21,2,16,Blackhawks,9,0/3
+MIN,WPG,3,21,50.0,18,52,Jets,24,0/3,14,50.0,18,1,30,Wild,27,1/5
+NSH,MIN,3,20,54.1,26,30,Wild,6,0/1,8,45.9,8,4,18,Predators,2,0/3
+DAL,MIN,3,30,43.5,42,30,Wild,14,1/4,23,56.5,50,2,25,Stars,22,2/5
+DAL,MIN,3,18,43.8,45,30,Wild,52,1/5,15,56.3,22,7,25,Stars,40,3/6
+MIN,DAL,1,13,62.7,17,25,Stars,12,0/2,22,37.3,26,5,30,Wild,8,1/4
+MIN,DAL,3,18,51.0,32,25,Stars,8,2/3,16,49.0,26,2,30,Wild,16,1/4
+DAL,MIN,0,14,43.4,34,30,Wild,27,0/3,16,56.6,17,4,25,Stars,14,2/6
+MIN,DAL,4,21,53.7,22,25,Stars,4,0/2,14,46.3,25,1,30,Wild,4,0/2

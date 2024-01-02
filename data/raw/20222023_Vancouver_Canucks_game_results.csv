@@ -1,90 +1,90 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Vancouver Canucks,19,45,12.5,1.0,8.0,50.0,20,4,5,23,2,Calgary Flames,3
-Calgary Flames,14,19,0.0,0.0,5.0,61.5,4,8,2,17,4,Vancouver Canucks,0
-Vancouver Canucks,24,29,33.3,1.0,3.0,57.1,16,4,2,30,3,Seattle Kraken,4
-Seattle Kraken,10,17,0.0,0.0,2.0,54.2,16,6,1,21,4,Vancouver Canucks,0
-Edmonton Oilers,8,30,20.0,1.0,5.0,37.1,15,6,15,25,7,Vancouver Canucks,2
-Vancouver Canucks,20,21,0.0,0.0,3.0,0.0,0,0,0,0,5,Edmonton Oilers,4
-Vancouver Canucks,62,7,0.0,0.0,4.0,37.0,17,4,8,21,4,Arizona Coyotes,0
-Edmonton Oilers,8,36,12.5,1.0,8.0,52.1,17,9,10,31,5,Vancouver Canucks,3
-Philadelphia Flyers,17,30,0.0,0.0,5.0,51.9,8,5,4,20,3,Vancouver Canucks,2
-Washington Capitals,8,30,100.0,1.0,1.0,48.3,15,7,8,34,6,Vancouver Canucks,4
-Columbus Blue Jackets,9,35,0.0,0.0,3.0,38.3,14,11,3,13,4,Vancouver Canucks,3
-Minnesota Wild,13,26,0.0,0.0,2.0,49.0,14,10,1,12,4,Vancouver Canucks,3
-Vancouver Canucks,8,27,100.0,1.0,1.0,44.6,18,13,7,17,1,Buffalo Sabres,5
-Vancouver Canucks,4,39,33.3,1.0,3.0,60.0,14,3,2,11,2,Carolina Hurricanes,3
-Seattle Kraken,23,19,100.0,2.0,2.0,58.2,16,13,4,21,4,Vancouver Canucks,5
-Vancouver Canucks,10,35,25.0,1.0,4.0,49.1,9,3,8,22,5,Pittsburgh Penguins,1
-Vancouver Canucks,25,37,100.0,1.0,1.0,57.7,17,7,3,14,2,New Jersey Devils,5
-Vancouver Canucks,11,31,66.7,2.0,3.0,39.7,6,5,8,13,8,Anaheim Ducks,5
-Vancouver Canucks,18,30,20.0,1.0,5.0,49.3,14,5,2,34,3,Nashville Predators,3
-Ottawa Senators,17,28,0.0,0.0,3.0,43.5,16,3,11,24,4,Vancouver Canucks,6
-Montréal Canadiens,10,33,0.0,0.0,2.0,52.8,8,5,9,16,5,Vancouver Canucks,2
-Toronto Maple Leafs,4,29,25.0,1.0,4.0,43.8,13,9,12,38,3,Vancouver Canucks,2
-Boston Bruins,22,31,33.3,2.0,6.0,36.2,15,5,6,16,5,Vancouver Canucks,2
-Buffalo Sabres,6,32,66.7,2.0,3.0,56.2,19,9,2,11,4,Vancouver Canucks,5
-Vancouver Canucks,6,38,0.0,0.0,2.0,50.0,17,1,6,14,4,Los Angeles Kings,1
-Vancouver Canucks,2,38,0.0,0.0,1.0,46.2,15,10,2,14,4,Vegas Golden Knights,5
-Colorado Avalanche,12,25,0.0,0.0,5.0,52.8,17,8,4,12,3,Vancouver Canucks,4
-Vegas Golden Knights,26,36,60.0,3.0,5.0,39.7,16,10,3,32,1,Vancouver Canucks,5
-San Jose Sharks,2,20,0.0,0.0,2.0,43.6,15,8,10,28,3,Vancouver Canucks,4
-Vancouver Canucks,6,28,0.0,0.0,1.0,46.9,12,7,1,13,1,Washington Capitals,5
-Vancouver Canucks,11,32,0.0,0.0,2.0,45.6,12,7,4,10,1,Florida Panthers,5
-Vancouver Canucks,16,23,33.3,1.0,3.0,40.7,20,2,3,13,3,Arizona Coyotes,2
-Vancouver Canucks,9,26,0.0,0.0,3.0,47.5,13,3,2,20,7,Montréal Canadiens,6
-San Jose Sharks,11,27,66.7,2.0,3.0,45.6,28,11,8,15,5,Vancouver Canucks,6
-Vancouver Canucks,11,33,50.0,1.0,2.0,50.9,22,4,3,13,0,Minnesota Wild,3
-Calgary Flames,12,27,0.0,0.0,2.0,50.0,13,10,9,26,3,Vancouver Canucks,3
-Vancouver Canucks,6,27,50.0,1.0,2.0,42.0,16,3,1,11,1,Winnipeg Jets,5
-Vancouver Canucks,10,27,66.7,2.0,3.0,54.5,6,1,1,21,1,St. Louis Blues,5
-Vancouver Canucks,11,36,0.0,0.0,1.0,50.0,19,7,5,12,5,Seattle Kraken,5
-Edmonton Oilers,6,30,50.0,1.0,2.0,41.5,20,8,11,24,2,Vancouver Canucks,5
-Vancouver Canucks,2,26,50.0,1.0,2.0,52.8,15,2,4,18,6,San Jose Sharks,2
-Winnipeg Jets,8,22,0.0,0.0,2.0,51.9,17,3,9,20,4,Vancouver Canucks,2
-Calgary Flames,4,24,0.0,0.0,4.0,41.7,8,10,7,19,3,Vancouver Canucks,2
-Vancouver Canucks,6,29,50.0,1.0,2.0,40.8,18,1,3,30,2,New York Islanders,6
-Vancouver Canucks,24,32,20.0,1.0,5.0,42.4,6,2,7,24,4,Colorado Avalanche,2
-Winnipeg Jets,0,38,33.3,1.0,3.0,50.9,13,6,4,33,7,Vancouver Canucks,4
-Pittsburgh Penguins,12,24,0.0,0.0,5.0,37.0,17,10,6,20,5,Vancouver Canucks,4
-Tampa Bay Lightning,13,40,33.3,1.0,3.0,51.4,16,11,2,36,5,Vancouver Canucks,4
-Florida Panthers,8,38,20.0,1.0,5.0,50.0,11,4,8,18,4,Vancouver Canucks,3
-Carolina Hurricanes,4,32,0.0,0.0,1.0,46.0,17,9,9,31,3,Vancouver Canucks,3
-Vancouver Canucks,8,25,0.0,0.0,1.0,49.1,21,5,2,11,2,Tampa Bay Lightning,5
-Vancouver Canucks,8,29,50.0,2.0,4.0,47.4,7,2,1,10,1,Colorado Avalanche,4
-Vancouver Canucks,6,29,100.0,1.0,1.0,54.7,12,6,4,16,2,Edmonton Oilers,4
-Vancouver Canucks,30,14,0.0,0.0,3.0,52.2,17,4,1,22,5,Chicago Blackhawks,2
-Seattle Kraken,13,20,0.0,0.0,5.0,44.4,18,12,3,20,6,Vancouver Canucks,1
-Vancouver Canucks,8,26,50.0,2.0,4.0,40.7,10,1,2,22,5,Columbus Blue Jackets,2
-New Jersey Devils,8,30,0.0,0.0,1.0,43.3,14,4,7,33,5,Vancouver Canucks,4
-New York Rangers,6,25,0.0,0.0,1.0,50.0,14,11,11,21,4,Vancouver Canucks,3
-New York Islanders,6,34,50.0,2.0,4.0,46.9,15,2,9,23,5,Vancouver Canucks,6
-Detroit Red Wings,12,34,33.3,1.0,3.0,53.1,10,4,5,19,5,Vancouver Canucks,2
-Vancouver Canucks,8,23,100.0,1.0,1.0,43.2,13,5,11,16,1,Detroit Red Wings,6
-Vancouver Canucks,4,28,0.0,0.0,1.0,36.8,17,5,4,24,4,New York Rangers,6
-Vancouver Canucks,4,37,50.0,1.0,2.0,39.7,10,3,8,24,6,Philadelphia Flyers,2
-Nashville Predators,8,39,25.0,1.0,4.0,40.4,15,8,4,28,4,Vancouver Canucks,4
-St. Louis Blues,11,41,0.0,0.0,4.0,46.9,12,6,1,10,2,Vancouver Canucks,3
-Vancouver Canucks,6,35,33.3,1.0,3.0,64.9,7,5,2,15,1,Boston Bruins,3
-Dallas Stars,10,21,33.3,1.0,3.0,41.2,21,6,9,24,4,Vancouver Canucks,5
-Vancouver Canucks,11,36,0.0,0.0,5.0,52.5,18,3,1,20,1,Minnesota Wild,2
-Vancouver Canucks,21,37,25.0,1.0,4.0,54.0,16,2,7,16,4,Toronto Maple Leafs,1
-Vancouver Canucks,11,32,0.0,0.0,1.0,42.9,9,6,4,19,3,Nashville Predators,3
-Vancouver Canucks,0,22,0.0,0.0,2.0,42.6,12,3,3,12,3,Anaheim Ducks,2
-Vancouver Canucks,21,20,0.0,0.0,3.0,52.2,12,11,10,31,5,Ottawa Senators,2
-Vancouver Canucks,8,27,33.3,1.0,3.0,56.2,10,3,6,26,5,Dallas Stars,2
-Arizona Coyotes,6,31,0.0,0.0,5.0,40.4,15,4,4,19,3,Vancouver Canucks,2
-Los Angeles Kings,4,17,100.0,1.0,1.0,38.8,19,7,6,32,2,Vancouver Canucks,2
-Anaheim Ducks,6,40,25.0,1.0,4.0,57.8,11,4,7,13,1,Vancouver Canucks,2
-Vancouver Canucks,4,27,0.0,0.0,4.0,53.4,12,4,1,17,3,Vegas Golden Knights,4
-Vancouver Canucks,10,19,0.0,0.0,2.0,50.0,18,6,4,34,7,San Jose Sharks,2
-Dallas Stars,8,24,0.0,0.0,3.0,50.9,21,6,5,16,1,Vancouver Canucks,3
-Chicago Blackhawks,6,31,33.3,1.0,3.0,50.0,11,5,6,21,2,Vancouver Canucks,4
-St. Louis Blues,7,37,66.7,2.0,3.0,58.8,9,16,5,15,6,Vancouver Canucks,5
-Vancouver Canucks,4,41,16.7,1.0,6.0,45.5,12,2,1,30,4,Calgary Flames,5
-Vancouver Canucks,8,25,50.0,1.0,2.0,48.1,14,3,1,30,1,Los Angeles Kings,4
-Vancouver Canucks,15,28,25.0,1.0,4.0,48.1,11,2,3,27,2,Seattle Kraken,5
-Vancouver Canucks,8,33,0.0,0.0,3.0,54.5,8,3,3,35,3,Chicago Blackhawks,0
-Vancouver Canucks,6,43,50.0,1.0,2.0,42.9,13,3,1,31,2,Calgary Flames,2
-Los Angeles Kings,12,20,0.0,0.0,2.0,41.9,15,5,6,38,3,Vancouver Canucks,0
-Anaheim Ducks,10,36,50.0,2.0,4.0,44.6,12,5,6,16,2,Vancouver Canucks,3
-Arizona Coyotes,13,24,50.0,2.0,4.0,53.2,11,2,7,24,4,Vancouver Canucks,5
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+VAN,CGY,3,20,50.0,23,20,Flames,19,1/8,15,50.0,19,2,23,Canucks,21,0/7
+CGY,VAN,0,4,61.5,17,23,Canucks,14,0/5,5,38.5,15,4,20,Flames,10,3/7
+VAN,SEA,4,16,57.1,30,55,Kraken,24,1/3,12,42.9,32,3,23,Canucks,20,2/5
+SEA,VAN,0,16,54.2,21,23,Canucks,10,0/2,11,45.8,11,4,55,Kraken,8,0/3
+EDM,VAN,2,15,37.1,25,23,Canucks,8,1/5,5,62.9,22,7,22,Oilers,10,1/4
+VAN,EDM,4,0,0.0,0,22,Oilers,20,0/3,0,0.0,0,5,23,Canucks,8,3/8
+VAN,ARI,0,17,37.0,21,53,Coyotes,62,0/4,6,63.0,15,4,23,Canucks,20,1/10
+EDM,VAN,3,17,52.1,31,23,Canucks,8,1/8,16,47.9,39,5,22,Oilers,16,3/4
+PHI,VAN,2,8,51.9,20,23,Canucks,17,0/5,14,48.1,23,3,4,Flyers,17,1/5
+WSH,VAN,4,15,48.3,34,23,Canucks,8,1/1,14,51.7,37,6,15,Capitals,4,2/3
+CBJ,VAN,3,14,38.3,13,23,Canucks,9,0/3,16,61.7,17,4,29,Blue Jackets,11,0/2
+MIN,VAN,3,14,49.0,12,23,Canucks,13,0/2,15,51.0,21,4,30,Wild,11,1/3
+VAN,BUF,5,18,44.6,17,7,Sabres,8,1/1,14,55.4,40,1,23,Canucks,2,1/4
+VAN,CAR,3,14,60.0,11,12,Hurricanes,4,1/3,14,40.0,27,2,23,Canucks,6,1/2
+SEA,VAN,5,16,58.2,21,23,Canucks,23,2/2,8,41.8,13,4,55,Kraken,19,1/4
+VAN,PIT,1,9,49.1,22,5,Penguins,10,1/4,19,50.9,23,5,23,Canucks,10,2/4
+VAN,NJD,5,17,57.7,14,1,Devils,25,1/1,11,42.3,22,2,23,Canucks,27,2/5
+VAN,ANA,5,6,39.7,13,24,Ducks,11,2/3,13,60.3,20,8,23,Canucks,11,2/3
+VAN,NSH,4,14,49.3,34,18,Predators,18,1/5,16,50.7,22,3,23,Canucks,30,1/4
+OTT,VAN,6,16,43.5,24,23,Canucks,17,0/3,10,56.5,25,4,9,Senators,13,2/5
+MTL,VAN,2,8,52.8,16,23,Canucks,10,0/2,15,47.2,9,5,8,Canadiens,6,1/4
+TOR,VAN,2,13,43.8,38,23,Canucks,4,1/4,19,56.3,30,3,10,Maple Leafs,8,1/2
+BOS,VAN,2,15,36.2,16,23,Canucks,22,2/6,13,63.8,15,5,6,Bruins,32,2/6
+BUF,VAN,5,19,56.3,11,23,Canucks,6,2/3,14,43.8,5,4,7,Sabres,6,0/3
+VAN,LAK,1,17,50.0,14,26,Kings,6,0/2,11,50.0,30,4,23,Canucks,4,1/3
+VAN,VGK,5,15,46.2,14,54,Golden Knights,2,0/1,12,53.8,25,4,23,Canucks,2,0/1
+COL,VAN,4,17,52.8,12,23,Canucks,12,0/5,9,47.2,12,3,21,Avalanche,10,2/6
+VGK,VAN,5,16,39.7,32,23,Canucks,26,3/5,17,60.3,41,1,54,Golden Knights,20,0/3
+SJS,VAN,4,15,43.6,28,23,Canucks,2,0/2,27,56.4,26,3,28,Sharks,4,1/1
+VAN,WSH,5,12,46.9,13,15,Capitals,6,0/1,11,53.1,18,1,23,Canucks,2,0/3
+VAN,FLA,5,12,45.6,10,13,Panthers,11,0/2,11,54.4,23,1,23,Canucks,9,0/3
+VAN,ARI,2,20,40.7,13,53,Coyotes,16,1/3,7,59.3,25,3,23,Canucks,6,2/8
+VAN,MTL,6,13,47.5,20,8,Canadiens,9,0/3,11,52.5,17,7,23,Canucks,11,1/2
+SJS,VAN,6,28,45.6,15,23,Canucks,11,2/3,17,54.4,20,5,28,Sharks,11,1/3
+VAN,MIN,3,22,50.9,13,30,Wild,11,1/2,13,49.1,24,0,23,Canucks,9,0/3
+CGY,VAN,4,13,50.0,26,23,Canucks,12,0/2,16,50.0,11,3,20,Flames,8,1/4
+VAN,WPG,5,16,42.0,11,52,Jets,6,1/2,5,58.0,38,1,23,Canucks,4,1/3
+VAN,STL,5,6,54.5,21,19,Blues,10,2/3,9,45.5,26,1,23,Canucks,8,0/4
+VAN,SEA,5,19,50.0,12,55,Kraken,11,0/1,21,50.0,26,6,23,Canucks,7,1/3
+EDM,VAN,5,20,41.5,24,23,Canucks,6,1/2,16,58.5,28,2,22,Oilers,4,0/3
+VAN,SJS,2,15,52.8,18,28,Sharks,2,1/2,20,47.2,29,6,23,Canucks,4,0/1
+WPG,VAN,2,17,51.9,20,23,Canucks,8,0/2,13,48.1,18,4,52,Jets,6,2/4
+CGY,VAN,2,8,41.7,19,23,Canucks,4,0/4,10,58.3,15,3,20,Flames,8,0/2
+VAN,NYI,6,18,40.8,30,2,Islanders,6,1/2,3,59.2,22,2,23,Canucks,4,1/3
+VAN,COL,2,6,42.4,24,21,Avalanche,24,1/5,24,57.6,29,4,23,Canucks,10,1/7
+WPG,VAN,4,13,50.9,33,23,Canucks,0,1/3,8,49.1,23,7,52,Jets,6,0/0
+PIT,VAN,4,17,37.0,20,23,Canucks,12,0/5,9,63.0,25,5,5,Penguins,10,2/5
+TBL,VAN,4,16,51.4,36,23,Canucks,13,1/3,13,48.6,25,5,14,Lightning,23,2/3
+FLA,VAN,3,11,50.0,18,23,Canucks,8,1/5,11,50.0,18,4,13,Panthers,12,2/3
+CAR,VAN,4,17,46.0,31,23,Canucks,4,0/1,11,54.0,16,3,12,Hurricanes,2,0/2
+VAN,TBL,5,21,49.1,11,14,Lightning,8,0/1,5,50.9,22,2,23,Canucks,2,2/4
+VAN,COL,4,7,47.4,10,21,Avalanche,8,2/4,11,52.6,24,1,23,Canucks,8,0/4
+VAN,EDM,4,12,54.7,16,22,Oilers,6,1/1,7,45.3,22,2,23,Canucks,4,0/2
+VAN,CHI,2,17,52.2,22,16,Blackhawks,30,0/3,8,47.8,23,5,23,Canucks,16,0/5
+SEA,VAN,1,18,44.4,20,23,Canucks,13,0/5,15,55.6,8,6,55,Kraken,17,2/3
+VAN,CBJ,2,10,40.7,22,29,Blue Jackets,8,2/4,10,59.3,28,5,23,Canucks,8,2/4
+NJD,VAN,4,14,43.3,33,23,Canucks,8,0/1,18,56.7,15,5,1,Devils,2,1/4
+NYR,VAN,3,14,50.0,21,23,Canucks,6,0/1,11,50.0,25,4,3,Rangers,2,0/3
+NYI,VAN,6,15,46.9,23,23,Canucks,6,2/4,9,53.1,26,5,2,Islanders,8,2/3
+DET,VAN,2,10,53.1,19,23,Canucks,12,1/3,22,46.9,17,5,17,Red Wings,6,2/6
+VAN,DET,6,13,43.2,16,17,Red Wings,8,1/1,11,56.8,22,1,23,Canucks,2,0/4
+VAN,NYR,6,17,36.8,24,3,Rangers,4,0/1,9,63.2,31,4,23,Canucks,2,1/2
+VAN,PHI,2,10,39.7,24,4,Flyers,4,1/2,24,60.3,31,6,23,Canucks,4,1/2
+NSH,VAN,4,15,40.4,28,23,Canucks,8,1/4,24,59.6,25,5,18,Predators,8,1/4
+STL,VAN,3,12,46.9,10,23,Canucks,11,0/4,18,53.1,27,2,19,Blues,13,0/3
+VAN,BOS,3,7,64.9,15,6,Bruins,6,1/3,13,35.1,22,1,23,Canucks,6,0/3
+DAL,VAN,5,21,41.2,24,23,Canucks,10,1/3,9,58.8,15,4,25,Stars,6,1/5
+VAN,MIN,2,18,52.5,20,30,Wild,11,0/5,15,47.5,29,1,23,Canucks,15,1/3
+VAN,TOR,1,16,54.0,16,10,Maple Leafs,21,1/4,16,46.0,23,4,23,Canucks,13,1/3
+VAN,NSH,3,9,42.9,19,18,Predators,11,0/1,19,57.1,42,4,23,Canucks,7,0/3
+VAN,ANA,2,12,42.6,12,24,Ducks,0,0/2,15,57.4,21,3,23,Canucks,4,0/0
+VAN,OTT,2,12,52.2,31,9,Senators,21,0/3,14,47.8,22,5,23,Canucks,13,1/6
+VAN,DAL,2,10,56.3,26,25,Stars,8,1/3,14,43.8,23,5,23,Canucks,8,1/3
+ARI,VAN,2,15,40.4,19,23,Canucks,6,0/5,12,59.6,25,3,53,Coyotes,20,2/3
+LAK,VAN,3,19,38.8,32,23,Canucks,4,1/1,11,61.2,17,2,26,Kings,2,0/2
+ANA,VAN,2,11,57.8,13,23,Canucks,6,1/4,11,42.2,11,1,24,Ducks,8,0/3
+VAN,VGK,4,12,53.4,17,54,Golden Knights,4,0/4,14,46.6,35,3,23,Canucks,10,1/2
+VAN,SJS,2,18,50.0,34,28,Sharks,10,0/2,6,50.0,26,7,23,Canucks,4,0/5
+DAL,VAN,3,21,50.9,16,23,Canucks,8,0/3,7,49.1,13,1,25,Stars,6,0/4
+CHI,VAN,4,11,50.0,21,23,Canucks,6,1/3,19,50.0,24,2,16,Blackhawks,6,0/3
+STL,VAN,5,9,58.8,15,23,Canucks,7,2/3,17,41.2,24,6,19,Blues,11,1/1
+VAN,CGY,5,12,45.5,30,20,Flames,4,1/6,25,54.5,33,4,23,Canucks,12,1/2
+VAN,LAK,4,14,48.1,30,26,Kings,8,1/2,16,51.9,27,1,23,Canucks,4,0/4
+VAN,SEA,5,11,48.1,27,55,Kraken,15,1/4,10,51.9,43,2,23,Canucks,13,0/5
+VAN,CHI,0,8,54.5,35,16,Blackhawks,8,0/3,12,45.5,42,3,23,Canucks,8,1/3
+VAN,CGY,2,13,42.9,31,20,Flames,6,1/2,14,57.1,25,3,23,Canucks,4,0/3
+LAK,VAN,0,15,41.9,38,23,Canucks,12,0/2,15,58.1,19,3,26,Kings,14,0/1
+ANA,VAN,3,12,44.6,16,23,Canucks,10,2/4,14,55.4,9,2,24,Ducks,8,1/5
+ARI,VAN,5,11,53.2,24,23,Canucks,13,2/4,16,46.8,25,4,53,Coyotes,15,0/3

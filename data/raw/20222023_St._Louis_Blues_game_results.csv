@@ -1,91 +1,91 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Arizona Coyotes,4,25,16.7,1.0,6.0,0.0,0,0,0,0,4,St. Louis Blues,5
-Dallas Stars,6,28,0.0,0.0,1.0,43.8,21,4,4,28,0,St. Louis Blues,4
-Chicago Blackhawks,10,22,100.0,3.0,3.0,44.0,13,14,9,16,1,St. Louis Blues,4
-St. Louis Blues,18,35,0.0,0.0,3.0,54.9,10,8,4,28,4,Columbus Blue Jackets,2
-St. Louis Blues,6,27,0.0,0.0,1.0,0.0,0,0,0,0,2,Dallas Stars,5
-St. Louis Blues,14,28,0.0,0.0,4.0,38.9,22,12,4,37,4,Minnesota Wild,2
-Columbus Blue Jackets,9,24,0.0,0.0,2.0,43.6,13,2,3,9,7,St. Louis Blues,0
-St. Louis Blues,8,24,0.0,0.0,5.0,39.1,8,17,2,20,6,Chicago Blackhawks,0
-St. Louis Blues,6,25,0.0,0.0,2.0,57.4,13,11,10,14,5,Columbus Blue Jackets,2
-Seattle Kraken,6,28,0.0,0.0,3.0,54.5,15,9,3,15,3,St. Louis Blues,4
-Edmonton Oilers,2,22,100.0,1.0,1.0,58.1,25,6,11,29,0,St. Louis Blues,2
-Winnipeg Jets,12,25,0.0,0.0,2.0,60.4,16,6,9,19,4,St. Louis Blues,0
-St. Louis Blues,6,28,0.0,0.0,2.0,56.7,9,9,4,8,1,Edmonton Oilers,3
-Nashville Predators,4,35,33.3,1.0,3.0,47.9,19,7,11,25,6,St. Louis Blues,2
-St. Louis Blues,6,25,66.7,2.0,3.0,50.9,11,16,10,16,4,Montréal Canadiens,7
-St. Louis Blues,8,30,33.3,1.0,3.0,49.1,12,15,4,17,1,Los Angeles Kings,5
-St. Louis Blues,11,30,50.0,1.0,2.0,43.1,9,17,6,20,2,New York Islanders,5
-Boston Bruins,6,27,0.0,0.0,3.0,43.4,19,6,11,33,3,St. Louis Blues,1
-Philadelphia Flyers,12,28,0.0,0.0,2.0,60.0,9,4,14,34,5,St. Louis Blues,1
-St. Louis Blues,4,30,0.0,0.0,0.0,51.5,10,8,10,19,5,San Jose Sharks,3
-Vegas Golden Knights,0,28,0.0,0.0,4.0,39.7,23,5,7,29,2,St. Louis Blues,3
-Colorado Avalanche,10,39,50.0,1.0,2.0,51.6,15,4,6,16,2,St. Louis Blues,3
-Chicago Blackhawks,6,35,0.0,0.0,2.0,42.0,18,8,1,10,2,St. Louis Blues,5
-St. Louis Blues,8,51,33.3,1.0,3.0,35.3,10,5,1,17,4,Washington Capitals,4
-St. Louis Blues,11,32,50.0,2.0,4.0,51.7,10,14,2,14,6,Anaheim Ducks,2
-St. Louis Blues,6,28,0.0,0.0,2.0,38.0,15,9,6,13,3,Anaheim Ducks,1
-Buffalo Sabres,8,36,33.3,1.0,3.0,46.2,12,4,4,26,6,St. Louis Blues,2
-Tampa Bay Lightning,11,27,33.3,1.0,3.0,54.2,10,16,8,29,5,St. Louis Blues,2
-Florida Panthers,11,37,0.0,0.0,4.0,54.0,7,6,9,21,4,St. Louis Blues,5
-St. Louis Blues,7,24,0.0,0.0,1.0,63.8,8,14,9,15,1,Dallas Stars,4
-St. Louis Blues,6,36,100.0,1.0,1.0,59.6,4,8,3,12,4,Carolina Hurricanes,6
-Pittsburgh Penguins,18,28,0.0,0.0,2.0,49.1,16,4,3,36,6,St. Louis Blues,2
-New York Rangers,4,29,25.0,1.0,4.0,45.2,12,4,4,21,6,St. Louis Blues,4
-New York Islanders,4,28,0.0,0.0,2.0,41.0,17,3,20,18,4,St. Louis Blues,7
-St. Louis Blues,4,20,100.0,1.0,1.0,46.8,18,10,9,22,2,Winnipeg Jets,5
-St. Louis Blues,8,31,0.0,0.0,3.0,40.0,11,11,7,21,2,Colorado Avalanche,3
-St. Louis Blues,6,25,0.0,0.0,4.0,51.1,17,11,6,30,1,Nashville Predators,0
-Edmonton Oilers,10,32,0.0,0.0,4.0,52.6,10,16,13,26,3,St. Louis Blues,3
-Calgary Flames,6,24,50.0,1.0,2.0,53.0,15,9,15,11,2,St. Louis Blues,5
-Vancouver Canucks,10,27,66.7,2.0,3.0,54.5,6,1,1,21,1,St. Louis Blues,5
-Seattle Kraken,6,24,33.3,1.0,3.0,39.6,10,6,5,18,5,St. Louis Blues,2
-Vegas Golden Knights,4,29,33.3,1.0,3.0,45.7,13,13,3,23,4,St. Louis Blues,4
-St. Louis Blues,8,37,0.0,0.0,2.0,52.8,15,9,4,11,4,Toronto Maple Leafs,5
-St. Louis Blues,6,22,50.0,1.0,2.0,51.2,10,12,10,17,3,Chicago Blackhawks,1
-St. Louis Blues,20,32,0.0,0.0,2.0,28.6,18,15,5,19,2,Minnesota Wild,5
-Toronto Maple Leafs,6,32,100.0,2.0,2.0,37.7,17,5,10,52,5,St. Louis Blues,5
-New Jersey Devils,8,19,50.0,1.0,2.0,36.4,21,10,5,21,3,St. Louis Blues,5
-Montréal Canadiens,8,22,33.3,1.0,3.0,55.6,10,5,16,12,5,St. Louis Blues,4
-Minnesota Wild,6,24,25.0,1.0,4.0,48.9,25,5,4,19,0,St. Louis Blues,3
-St. Louis Blues,4,31,0.0,0.0,2.0,54.7,4,5,4,25,4,Calgary Flames,3
-St. Louis Blues,6,40,0.0,0.0,1.0,50.0,8,9,3,27,1,Calgary Flames,4
-St. Louis Blues,6,30,50.0,1.0,2.0,58.2,12,19,8,15,2,Tampa Bay Lightning,4
-St. Louis Blues,9,33,0.0,0.0,1.0,31.5,19,9,3,25,2,Ottawa Senators,1
-St. Louis Blues,15,26,0.0,0.0,4.0,28.6,10,9,6,30,5,Nashville Predators,2
-St. Louis Blues,15,18,0.0,0.0,2.0,48.0,15,15,3,33,3,Chicago Blackhawks,5
-St. Louis Blues,6,31,0.0,0.0,2.0,42.6,5,9,5,13,3,Buffalo Sabres,5
-Arizona Coyotes,9,33,0.0,0.0,3.0,56.6,10,6,9,20,5,St. Louis Blues,0
-Colorado Avalanche,10,28,50.0,1.0,2.0,45.8,14,7,0,24,4,St. Louis Blues,2
-Winnipeg Jets,12,26,50.0,1.0,2.0,50.8,19,7,9,21,4,St. Louis Blues,2
-St. Louis Blues,10,28,50.0,2.0,4.0,33.3,14,14,6,14,6,Arizona Coyotes,5
-St. Louis Blues,4,36,0.0,0.0,2.0,48.1,9,12,6,13,6,Florida Panthers,2
-St. Louis Blues,8,36,0.0,0.0,1.0,50.0,16,12,8,15,4,New Jersey Devils,2
-St. Louis Blues,6,33,50.0,2.0,4.0,43.4,10,14,7,10,1,Colorado Avalanche,4
-Ottawa Senators,25,32,0.0,0.0,6.0,43.5,5,1,7,23,7,St. Louis Blues,2
-Carolina Hurricanes,0,36,0.0,0.0,3.0,40.6,18,11,7,27,4,St. Louis Blues,1
-St. Louis Blues,11,41,0.0,0.0,4.0,46.9,12,6,1,10,2,Vancouver Canucks,3
-St. Louis Blues,6,48,0.0,0.0,2.0,53.4,14,7,4,26,2,Pittsburgh Penguins,3
-St. Louis Blues,8,26,0.0,0.0,2.0,57.7,16,12,4,16,3,Seattle Kraken,5
-San Jose Sharks,2,23,66.7,2.0,3.0,41.1,16,13,9,30,3,St. Louis Blues,6
-Los Angeles Kings,6,26,0.0,0.0,3.0,49.0,15,4,4,26,4,St. Louis Blues,2
-Arizona Coyotes,4,42,0.0,0.0,6.0,47.8,11,2,7,24,6,St. Louis Blues,2
-St. Louis Blues,8,34,0.0,0.0,4.0,62.3,10,19,5,12,4,San Jose Sharks,2
-Columbus Blue Jackets,6,24,0.0,0.0,2.0,34.9,14,9,2,15,2,St. Louis Blues,5
-St. Louis Blues,2,31,0.0,0.0,2.0,46.9,16,11,4,10,3,Vegas Golden Knights,5
-St. Louis Blues,14,35,50.0,2.0,4.0,62.1,10,8,3,15,5,Minnesota Wild,8
-Washington Capitals,8,22,0.0,0.0,1.0,36.0,23,9,6,16,2,St. Louis Blues,5
-St. Louis Blues,17,34,0.0,0.0,3.0,63.3,8,14,6,14,3,Winnipeg Jets,0
-St. Louis Blues,6,30,33.3,1.0,3.0,54.0,13,16,10,13,2,Detroit Red Wings,2
-Detroit Red Wings,7,22,0.0,0.0,4.0,47.4,18,6,9,20,3,St. Louis Blues,4
-Anaheim Ducks,10,36,0.0,0.0,4.0,42.4,14,3,9,11,3,St. Louis Blues,6
-Los Angeles Kings,20,22,100.0,2.0,2.0,47.5,5,5,6,21,7,St. Louis Blues,6
-St. Louis Blues,7,37,66.7,2.0,3.0,58.8,9,16,5,15,6,Vancouver Canucks,5
-Chicago Blackhawks,6,29,0.0,0.0,2.0,60.9,19,6,11,24,3,St. Louis Blues,5
-Nashville Predators,10,22,0.0,0.0,4.0,25.0,13,3,5,20,6,St. Louis Blues,1
-St. Louis Blues,12,31,50.0,1.0,2.0,50.0,20,14,5,15,3,Boston Bruins,3
-St. Louis Blues,6,34,0.0,0.0,3.0,46.2,14,12,5,21,4,Philadelphia Flyers,2
-St. Louis Blues,2,24,100.0,2.0,2.0,65.1,12,14,7,11,3,New York Rangers,2
-Minnesota Wild,8,40,0.0,0.0,2.0,51.0,14,1,1,9,5,St. Louis Blues,3
-St. Louis Blues,6,37,60.0,3.0,5.0,55.6,10,11,5,16,2,Dallas Stars,5
-Dallas Stars,4,25,0.0,0.0,2.0,32.7,18,12,14,15,1,St. Louis Blues,0
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+ARI,STL,5,0,0.0,0,19,Blues,4,1/6,0,0.0,0,4,53,Coyotes,12,2/2
+DAL,STL,4,21,43.8,28,19,Blues,6,0/1,17,56.3,19,0,25,Stars,2,0/3
+CHI,STL,4,13,44.0,16,19,Blues,10,3/3,6,56.0,12,1,16,Blackhawks,10,0/3
+STL,CBJ,2,10,54.9,28,29,Blue Jackets,18,0/3,15,45.1,18,4,19,Blues,26,1/4
+STL,DAL,5,0,0.0,0,25,Stars,6,0/1,0,0.0,0,2,19,Blues,2,1/3
+STL,MIN,2,22,38.9,37,30,Wild,14,0/4,9,61.1,16,4,19,Blues,10,1/6
+CBJ,STL,0,13,43.6,9,19,Blues,9,0/2,6,56.4,21,7,29,Blue Jackets,9,0/2
+STL,CHI,0,8,39.1,20,16,Blackhawks,8,0/5,7,60.9,18,6,19,Blues,10,1/4
+STL,CBJ,2,13,57.4,14,29,Blue Jackets,6,0/2,13,42.6,28,5,19,Blues,4,1/3
+SEA,STL,4,15,54.5,15,19,Blues,6,0/3,6,45.5,17,3,55,Kraken,10,0/1
+EDM,STL,2,25,58.1,29,19,Blues,2,1/1,8,41.9,29,0,22,Oilers,2,0/1
+WPG,STL,0,16,60.4,19,19,Blues,12,0/2,14,39.6,39,4,52,Jets,6,0/5
+STL,EDM,3,9,56.7,8,22,Oilers,6,0/2,21,43.3,21,1,19,Blues,4,1/3
+NSH,STL,2,19,47.9,25,19,Blues,4,1/3,9,52.1,35,6,18,Predators,6,1/2
+STL,MTL,7,11,50.9,16,8,Canadiens,6,2/3,5,49.1,28,4,19,Blues,8,1/2
+STL,LAK,5,12,49.1,17,26,Kings,8,1/3,9,50.9,33,1,19,Blues,6,0/4
+STL,NYI,5,9,43.1,20,2,Islanders,11,1/2,8,56.9,25,2,19,Blues,9,1/3
+BOS,STL,1,19,43.4,33,19,Blues,6,0/3,12,56.6,21,3,6,Bruins,8,2/2
+PHI,STL,1,9,60.0,34,19,Blues,12,0/2,17,40.0,39,5,4,Flyers,14,0/1
+STL,SJS,3,10,51.5,19,28,Sharks,4,0/0,13,48.5,18,5,19,Blues,0,1/2
+VGK,STL,3,23,39.7,29,19,Blues,0,0/4,20,60.3,32,2,54,Golden Knights,8,0/0
+COL,STL,3,15,51.6,16,19,Blues,10,1/2,7,48.4,17,2,21,Avalanche,4,1/5
+CHI,STL,5,18,42.0,10,19,Blues,6,0/2,9,58.0,10,2,16,Blackhawks,4,1/3
+STL,WSH,4,10,35.3,17,15,Capitals,8,1/3,16,64.7,14,5,19,Blues,8,1/4
+STL,ANA,2,10,51.7,14,24,Ducks,11,2/4,20,48.3,19,6,19,Blues,15,1/2
+STL,ANA,1,15,38.0,13,24,Ducks,6,0/2,12,62.0,23,3,19,Blues,4,1/3
+BUF,STL,2,12,46.2,26,19,Blues,8,1/3,12,53.8,15,6,7,Sabres,8,2/3
+TBL,STL,2,10,54.2,29,19,Blues,11,1/3,16,45.8,36,5,14,Lightning,13,1/2
+FLA,STL,5,7,54.0,21,19,Blues,11,0/4,14,46.0,17,4,13,Panthers,15,0/2
+STL,DAL,4,8,63.8,15,25,Stars,7,0/1,21,36.2,22,1,19,Blues,7,0/1
+STL,CAR,6,4,59.6,12,12,Hurricanes,6,1/1,8,40.4,27,4,19,Blues,2,2/3
+PIT,STL,2,16,49.1,36,19,Blues,18,0/2,12,50.9,26,6,5,Penguins,4,2/4
+NYR,STL,4,12,45.2,21,19,Blues,4,1/4,13,54.8,25,6,3,Rangers,10,1/1
+NYI,STL,7,17,41.0,18,19,Blues,4,0/2,10,59.0,21,4,2,Islanders,4,1/2
+STL,WPG,5,18,46.8,22,52,Jets,4,1/1,14,53.2,20,2,19,Blues,2,0/2
+STL,COL,3,11,40.0,21,21,Avalanche,8,0/3,12,60.0,26,2,19,Blues,6,1/4
+STL,NSH,0,17,51.1,30,18,Predators,6,0/4,18,48.9,32,1,19,Blues,8,0/3
+EDM,STL,4,10,52.6,26,19,Blues,10,0/4,14,47.4,14,3,22,Oilers,8,2/5
+CGY,STL,5,15,53.0,11,19,Blues,6,1/2,8,47.0,14,2,20,Flames,4,0/3
+VAN,STL,5,6,54.5,21,19,Blues,10,2/3,9,45.5,26,1,23,Canucks,8,0/4
+SEA,STL,2,10,39.6,18,19,Blues,6,1/3,20,60.4,17,5,55,Kraken,6,0/3
+VGK,STL,4,13,45.7,23,19,Blues,4,1/3,17,54.3,23,5,54,Golden Knights,6,1/2
+STL,TOR,5,15,52.8,11,10,Maple Leafs,8,0/2,9,47.2,36,4,19,Blues,4,1/4
+STL,CHI,1,10,51.2,17,16,Blackhawks,6,1/2,13,48.8,22,3,19,Blues,4,0/3
+STL,MIN,5,18,28.6,19,30,Wild,20,0/2,16,71.4,20,2,19,Blues,16,0/4
+TOR,STL,6,17,37.7,52,19,Blues,6,2/2,16,62.3,19,5,10,Maple Leafs,4,1/3
+NJD,STL,5,21,36.4,21,19,Blues,8,1/2,9,63.6,8,3,1,Devils,4,1/4
+MTL,STL,4,10,55.6,12,19,Blues,8,1/3,13,44.4,21,5,8,Canadiens,6,1/4
+MIN,STL,3,25,48.9,19,19,Blues,6,1/4,9,51.1,23,0,30,Wild,8,0/3
+STL,CGY,3,4,54.7,25,20,Flames,4,0/2,11,45.3,22,4,19,Blues,4,1/2
+STL,CGY,4,8,50.0,27,20,Flames,6,0/1,14,50.0,25,1,19,Blues,2,0/3
+STL,TBL,4,12,58.2,15,14,Lightning,6,1/2,19,41.8,20,2,19,Blues,4,0/3
+STL,OTT,1,19,31.5,25,9,Senators,9,0/1,9,68.5,23,2,19,Blues,7,0/2
+STL,NSH,2,10,28.6,30,18,Predators,15,0/4,10,71.4,20,5,19,Blues,13,1/5
+STL,CHI,5,15,48.0,33,16,Blackhawks,15,0/2,11,52.0,17,3,19,Blues,11,1/4
+STL,BUF,5,5,42.6,13,7,Sabres,6,0/2,7,57.4,18,3,19,Blues,6,0/2
+ARI,STL,0,10,56.6,20,19,Blues,9,0/3,17,43.4,27,5,53,Coyotes,11,1/2
+COL,STL,2,14,45.8,24,19,Blues,10,1/2,15,54.2,13,4,21,Avalanche,10,0/2
+WPG,STL,2,19,50.8,21,19,Blues,12,1/2,12,49.2,22,4,52,Jets,4,0/6
+STL,ARI,5,14,33.3,14,53,Coyotes,10,2/4,13,66.7,22,6,19,Blues,8,0/5
+STL,FLA,2,9,48.1,13,13,Panthers,4,0/2,22,51.9,15,6,19,Blues,4,1/2
+STL,NJD,2,16,50.0,15,1,Devils,8,0/1,20,50.0,17,4,19,Blues,4,1/3
+STL,COL,4,10,43.4,10,21,Avalanche,6,2/4,11,56.6,22,1,19,Blues,8,0/3
+OTT,STL,2,5,43.5,23,19,Blues,25,0/6,16,56.5,18,7,9,Senators,19,1/4
+CAR,STL,1,18,40.6,27,19,Blues,0,0/3,5,59.4,10,4,12,Hurricanes,6,0/0
+STL,VAN,3,12,46.9,10,23,Canucks,11,0/4,18,53.1,27,2,19,Blues,13,0/3
+STL,PIT,3,14,53.4,26,5,Penguins,6,0/2,13,46.6,39,2,19,Blues,4,0/3
+STL,SEA,5,16,57.7,16,55,Kraken,8,0/2,18,42.3,21,3,19,Blues,4,0/4
+SJS,STL,6,16,41.1,30,19,Blues,2,2/3,9,58.9,17,3,28,Sharks,6,0/1
+LAK,STL,2,15,49.0,26,19,Blues,6,0/3,15,51.0,16,4,26,Kings,6,1/3
+ARI,STL,2,11,47.8,24,19,Blues,4,0/6,17,52.2,24,6,53,Coyotes,12,1/2
+STL,SJS,2,10,62.3,12,28,Sharks,8,0/4,17,37.7,17,4,19,Blues,8,1/4
+CBJ,STL,5,14,34.9,15,19,Blues,6,0/2,15,65.1,18,2,29,Blue Jackets,4,1/3
+STL,VGK,5,16,46.9,10,54,Golden Knights,2,0/2,10,53.1,25,3,19,Blues,4,1/1
+STL,MIN,8,10,62.1,15,30,Wild,14,2/4,8,37.9,21,5,19,Blues,23,3/5
+WSH,STL,5,23,36.0,16,19,Blues,8,0/1,7,64.0,20,2,15,Capitals,2,1/4
+STL,WPG,0,8,63.3,14,52,Jets,17,0/3,16,36.7,18,3,19,Blues,35,0/3
+STL,DET,3,13,54.0,13,17,Red Wings,6,1/3,15,46.0,20,2,19,Blues,6,0/3
+DET,STL,4,18,47.4,20,19,Blues,7,0/4,11,52.6,14,3,17,Red Wings,13,0/1
+ANA,STL,6,14,42.4,11,19,Blues,10,0/4,6,57.6,6,3,24,Ducks,8,1/5
+LAK,STL,6,5,47.5,21,19,Blues,20,2/2,19,52.5,13,7,26,Kings,4,4/5
+STL,VAN,5,9,58.8,15,23,Canucks,7,2/3,17,41.2,24,6,19,Blues,11,1/1
+CHI,STL,5,19,60.9,24,19,Blues,6,0/2,14,39.1,16,3,16,Blackhawks,4,2/3
+NSH,STL,1,13,25.0,20,19,Blues,10,0/4,17,75.0,17,6,18,Predators,10,2/4
+STL,BOS,4,20,50.0,15,6,Bruins,12,1/2,11,50.0,17,3,19,Blues,8,0/4
+STL,PHI,2,14,46.2,21,4,Flyers,6,0/3,10,53.8,11,4,19,Blues,6,0/3
+STL,NYR,2,12,65.1,11,3,Rangers,2,2/2,18,34.9,15,3,19,Blues,4,0/1
+MIN,STL,3,14,51.0,9,19,Blues,8,0/2,15,49.0,8,5,30,Wild,4,1/4
+STL,DAL,5,10,55.6,16,25,Stars,6,3/5,21,44.4,14,2,19,Blues,12,1/2
+DAL,STL,0,18,32.7,15,19,Blues,4,0/2,6,67.3,11,1,25,Stars,4,0/2

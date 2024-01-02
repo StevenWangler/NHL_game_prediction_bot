@@ -1,0 +1,89 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+ARI,LAK,1,12,50.9,16,26,Kings,15,0/4,15,49.1,20,2,53,Coyotes,13,0/5
+ANA,ARI,4,11,51.0,32,53,Coyotes,30,1/3,10,49.0,33,1,24,Ducks,10,0/8
+ARI,ANA,3,14,41.2,22,24,Ducks,4,2/3,11,58.8,40,4,53,Coyotes,6,0/2
+DAL,ARI,3,0,0.0,0,53,Coyotes,20,2/4,0,0.0,0,6,25,Stars,18,1/5
+LAK,ARI,4,21,33.3,20,53,Coyotes,10,1/3,8,66.7,6,1,26,Kings,8,1/4
+VGK,ARI,3,12,54.4,24,53,Coyotes,11,1/2,11,45.6,18,1,54,Golden Knights,9,1/3
+CBJ,ARI,2,9,45.0,18,53,Coyotes,20,1/4,19,55.0,11,8,29,Blue Jackets,22,2/3
+BUF,ARI,1,10,42.5,15,53,Coyotes,4,0/2,9,57.5,15,2,7,Sabres,4,1/2
+ARI,STL,7,13,49.1,15,19,Blues,16,1/2,6,50.9,12,4,53,Coyotes,18,1/4
+ARI,EDM,5,10,56.4,24,22,Oilers,18,2/2,14,43.6,25,1,53,Coyotes,4,0/4
+ARI,NYI,3,16,53.6,37,2,Islanders,7,1/2,14,46.4,26,0,53,Coyotes,9,0/1
+FLA,ARI,3,20,42.9,33,53,Coyotes,23,0/1,9,57.1,23,5,13,Panthers,9,2/3
+TBL,ARI,1,10,60.7,19,53,Coyotes,20,0/3,7,39.3,22,5,14,Lightning,28,1/4
+WSH,ARI,0,13,50.0,19,53,Coyotes,12,0/3,17,50.0,16,2,15,Capitals,6,1/6
+CAR,ARI,1,23,35.7,28,53,Coyotes,12,0/3,8,64.3,13,2,12,Hurricanes,8,1/5
+PHI,ARI,0,17,37.7,25,53,Coyotes,6,0/0,13,62.3,23,3,4,Flyers,0,0/3
+ANA,ARI,1,18,43.3,22,53,Coyotes,40,0/2,9,56.7,19,3,24,Ducks,16,1/4
+ARI,SEA,4,9,42.9,26,55,Kraken,4,0/2,17,57.1,45,5,53,Coyotes,6,1/1
+ARI,MIN,5,8,37.9,14,30,Wild,6,2/3,12,62.1,31,2,53,Coyotes,6,0/3
+CHI,ARI,1,12,55.1,20,53,Coyotes,12,1/3,13,44.9,35,2,16,Blackhawks,8,1/5
+NSH,ARI,1,4,51.8,8,53,Coyotes,28,1/6,5,48.2,18,4,18,Predators,35,1/3
+STL,ARI,3,12,48.4,14,53,Coyotes,8,2/2,8,51.6,7,2,19,Blues,6,0/3
+ARI,CBJ,5,12,52.6,16,29,Blue Jackets,13,2/4,23,47.4,18,4,53,Coyotes,15,0/3
+ARI,DET,1,13,37.0,11,17,Red Wings,2,0/2,12,63.0,21,2,53,Coyotes,4,0/1
+LAK,ARI,2,15,40.0,8,53,Coyotes,10,0/2,8,60.0,15,1,26,Kings,8,0/3
+ARI,EDM,5,7,58.2,19,22,Oilers,4,2/4,8,41.8,22,3,53,Coyotes,8,0/2
+ARI,DAL,3,16,61.0,22,25,Stars,4,0/1,13,39.0,19,2,53,Coyotes,2,0/2
+WPG,ARI,1,16,44.9,15,53,Coyotes,12,0/1,6,55.1,16,0,52,Jets,2,0/6
+MIN,ARI,2,10,50.9,18,53,Coyotes,15,0/2,8,49.1,27,5,30,Wild,11,0/4
+ARI,VGK,7,12,42.1,13,54,Golden Knights,13,1/2,10,57.9,27,1,53,Coyotes,11,0/3
+DAL,ARI,1,20,47.3,21,53,Coyotes,8,0/1,11,52.7,19,4,25,Stars,2,1/4
+ARI,FLA,3,12,45.5,17,13,Panthers,10,1/4,7,54.5,28,1,53,Coyotes,8,1/5
+ARI,PHI,5,14,52.9,19,4,Flyers,4,1/3,16,47.1,14,3,53,Coyotes,6,0/2
+ARI,NYR,3,9,66.1,27,3,Rangers,6,2/3,8,33.9,29,2,53,Coyotes,8,0/2
+ANA,ARI,6,15,48.4,20,53,Coyotes,20,1/4,5,51.6,22,5,24,Ducks,18,2/5
+SJS,ARI,7,8,56.9,14,53,Coyotes,13,2/3,9,43.1,21,8,28,Sharks,13,0/3
+ARI,WPG,3,15,54.2,21,52,Jets,6,1/4,12,45.8,20,1,53,Coyotes,10,0/2
+ARI,CHI,4,8,50.0,27,16,Blackhawks,10,1/5,17,50.0,17,6,53,Coyotes,10,2/5
+ARI,NSH,4,13,48.6,48,18,Predators,38,1/6,9,51.4,34,2,53,Coyotes,48,0/6
+ARI,TOR,1,12,48.9,23,10,Maple Leafs,6,0/2,22,51.1,33,2,53,Coyotes,6,0/2
+COL,ARI,3,22,44.8,12,53,Coyotes,12,0/4,12,55.2,19,4,21,Avalanche,10,0/5
+ARI,COL,5,5,53.1,25,21,Avalanche,4,1/3,15,46.9,16,0,53,Coyotes,16,0/2
+ARI,MTL,2,15,49.1,36,8,Canadiens,10,1/3,12,50.9,31,5,53,Coyotes,6,0/5
+NJD,ARI,4,16,51.9,24,53,Coyotes,4,0/2,9,48.1,16,1,1,Devils,4,1/2
+NYI,ARI,0,14,54.3,11,53,Coyotes,11,0/0,13,45.7,19,4,2,Islanders,7,0/2
+NYR,ARI,3,14,62.0,16,53,Coyotes,8,0/5,19,38.0,24,7,3,Rangers,10,2/4
+PIT,ARI,3,14,48.0,32,53,Coyotes,6,1/2,6,52.0,22,6,5,Penguins,4,2/3
+ARI,BOS,2,9,58.9,22,6,Bruins,8,1/4,10,41.1,28,1,53,Coyotes,10,0/3
+ARI,BUF,3,13,48.9,16,7,Sabres,6,1/3,10,51.1,20,1,53,Coyotes,8,1/2
+COL,ARI,3,17,59.0,25,53,Coyotes,8,0/3,9,41.0,24,2,21,Avalanche,8,0/4
+ARI,CGY,4,16,53.4,28,20,Flames,7,0/2,24,46.6,33,2,53,Coyotes,9,0/1
+VAN,ARI,1,10,40.4,20,53,Coyotes,13,0/4,14,59.6,26,5,23,Canucks,15,2/3
+SEA,ARI,5,18,53.3,5,53,Coyotes,4,0/2,12,46.7,9,2,55,Kraken,4,0/2
+ARI,TBL,4,15,52.9,16,14,Lightning,2,0/3,13,47.1,23,3,53,Coyotes,6,0/1
+ARI,LAK,5,12,61.4,17,26,Kings,6,2/4,12,38.6,23,3,53,Coyotes,8,0/3
+ARI,DAL,1,14,60.4,21,25,Stars,6,0/2,12,39.6,25,3,53,Coyotes,4,1/3
+ARI,LAK,3,13,49.0,26,26,Kings,4,0/2,18,51.0,20,2,53,Coyotes,14,0/2
+ARI,VGK,1,16,59.6,17,54,Golden Knights,6,0/2,16,40.4,41,3,53,Coyotes,4,0/3
+ARI,WPG,5,17,49.0,26,52,Jets,2,0/0,15,51.0,27,3,53,Coyotes,2,0/0
+ARI,COL,1,12,47.5,27,21,Avalanche,14,0/3,17,52.5,22,2,53,Coyotes,18,0/1
+ARI,OTT,5,14,68.8,25,9,Senators,15,1/2,17,31.3,22,8,53,Coyotes,9,2/5
+DET,ARI,9,9,35.5,22,53,Coyotes,14,0/1,10,64.5,33,2,17,Red Wings,8,2/4
+TOR,ARI,5,25,50.0,32,53,Coyotes,0,0/1,11,50.0,42,4,10,Maple Leafs,2,0/0
+BOS,ARI,2,9,45.3,24,53,Coyotes,2,0/2,14,54.7,26,3,6,Bruins,4,0/1
+OTT,ARI,5,17,40.0,16,53,Coyotes,8,1/2,5,60.0,24,3,9,Senators,4,1/3
+MTL,ARI,6,19,53.4,11,53,Coyotes,6,1/4,17,46.6,30,3,8,Canadiens,8,1/3
+ARI,PIT,4,8,49.0,25,5,Penguins,4,0/3,16,51.0,26,1,53,Coyotes,6,0/2
+SJS,ARI,2,15,49.0,20,53,Coyotes,6,1/2,12,51.0,22,4,28,Sharks,4,0/3
+ARI,SEA,4,13,55.8,24,55,Kraken,6,1/3,11,44.2,25,2,53,Coyotes,6,1/3
+CGY,ARI,2,16,51.8,14,53,Coyotes,8,0/3,7,48.2,15,4,20,Flames,6,2/4
+WPG,ARI,1,13,44.9,17,53,Coyotes,4,0/0,13,55.1,21,2,52,Jets,0,0/2
+EDM,ARI,1,12,51.7,24,53,Coyotes,8,1/4,9,48.3,28,6,22,Oilers,10,1/3
+ARI,SJS,2,8,47.2,33,28,Sharks,2,1/2,18,52.8,20,5,53,Coyotes,4,0/1
+ARI,ANA,5,22,48.9,19,24,Ducks,13,0/3,12,51.1,39,0,53,Coyotes,38,0/1
+CHI,ARI,3,18,38.5,27,53,Coyotes,6,1/2,15,61.5,34,2,16,Blackhawks,4,1/3
+STL,ARI,1,14,41.2,6,53,Coyotes,4,0/2,9,58.8,22,5,19,Blues,4,1/2
+ARI,VAN,5,17,72.5,32,23,Canucks,6,2/2,3,27.5,26,1,53,Coyotes,4,0/3
+VGK,ARI,1,16,47.4,32,53,Coyotes,6,0/1,13,52.6,29,6,54,Golden Knights,2,0/3
+ARI,NJD,6,14,49.0,30,1,Devils,10,0/5,12,51.0,23,2,53,Coyotes,12,1/4
+VAN,ARI,1,12,47.3,21,53,Coyotes,8,1/2,18,52.7,25,7,23,Canucks,4,3/4
+CGY,ARI,1,14,42.6,15,53,Coyotes,4,0/2,4,57.4,20,9,20,Flames,4,0/2
+ARI,CAR,5,12,57.8,20,12,Hurricanes,8,0/1,10,42.2,27,3,53,Coyotes,2,0/4
+ARI,CHI,4,11,61.0,27,16,Blackhawks,9,0/5,17,39.0,24,3,53,Coyotes,17,0/1
+ARI,WSH,2,9,50.9,15,15,Capitals,0,0/4,12,49.1,32,0,53,Coyotes,8,0/0
+ARI,STL,5,5,66.7,17,19,Blues,4,1/4,11,33.3,34,4,53,Coyotes,8,0/2
+MIN,ARI,5,20,54.2,14,53,Coyotes,12,1/4,12,45.8,7,3,30,Wild,18,0/6
+DAL,ARI,4,15,40.3,19,53,Coyotes,8,1/3,6,59.7,20,3,25,Stars,6,1/4
+ARI,NSH,4,14,49.2,28,18,Predators,11,0/2,15,50.8,43,5,53,Coyotes,9,0/3

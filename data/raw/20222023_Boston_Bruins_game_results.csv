@@ -1,96 +1,96 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Philadelphia Flyers,32,32,0.0,0.0,6.0,56.6,12,6,4,35,2,Boston Bruins,1
-Boston Bruins,2,26,0.0,0.0,4.0,51.9,10,3,6,32,3,New York Rangers,2
-Boston Bruins,15,21,0.0,0.0,4.0,51.3,6,5,6,15,4,Philadelphia Flyers,0
-New Jersey Devils,4,24,0.0,0.0,4.0,69.1,9,7,5,23,1,Boston Bruins,0
-New York Rangers,8,26,0.0,0.0,2.0,44.7,8,5,1,27,4,Boston Bruins,5
-Boston Bruins,4,27,0.0,0.0,2.0,25.4,11,6,13,21,3,New Jersey Devils,5
-Washington Capitals,8,30,33.3,1.0,3.0,62.7,20,6,8,32,2,Boston Bruins,5
-Boston Bruins,11,24,33.3,1.0,3.0,44.6,18,6,5,29,6,Arizona Coyotes,3
-Boston Bruins,10,41,0.0,0.0,4.0,35.6,19,1,3,22,5,Florida Panthers,3
-Ottawa Senators,13,34,33.3,1.0,3.0,50.0,13,4,10,23,7,Boston Bruins,5
-Boston Bruins,10,31,0.0,0.0,4.0,36.4,15,7,6,18,1,Anaheim Ducks,1
-Boston Bruins,10,27,20.0,1.0,5.0,39.0,20,4,4,21,4,Minnesota Wild,3
-Boston Bruins,13,31,0.0,0.0,3.0,47.2,5,10,12,32,3,Dallas Stars,1
-Boston Bruins,14,29,0.0,0.0,5.0,51.7,9,8,5,34,5,Detroit Red Wings,1
-Columbus Blue Jackets,6,35,0.0,0.0,2.0,58.2,19,4,4,23,0,Boston Bruins,4
-Pittsburgh Penguins,8,40,33.3,1.0,3.0,55.1,21,6,4,38,5,Boston Bruins,6
-New York Rangers,24,37,0.0,0.0,3.0,61.0,11,9,18,21,2,Boston Bruins,5
-Toronto Maple Leafs,6,21,33.3,1.0,3.0,45.5,9,6,6,47,2,Boston Bruins,1
-Boston Bruins,6,27,0.0,0.0,3.0,43.4,19,6,11,33,3,St. Louis Blues,1
-Boston Bruins,15,32,0.0,0.0,6.0,32.1,7,6,6,25,3,Calgary Flames,1
-Buffalo Sabres,8,30,33.3,1.0,3.0,47.5,12,4,5,14,1,Boston Bruins,3
-Boston Bruins,22,31,33.3,2.0,6.0,36.2,15,5,6,16,5,Vancouver Canucks,2
-Boston Bruins,8,23,25.0,1.0,4.0,50.0,20,2,7,26,4,Philadelphia Flyers,1
-Boston Bruins,6,18,33.3,1.0,3.0,55.6,10,11,7,23,6,Chicago Blackhawks,1
-Tampa Bay Lightning,6,29,50.0,2.0,4.0,52.0,6,12,6,27,3,Boston Bruins,5
-Florida Panthers,14,39,33.3,2.0,6.0,58.7,11,3,6,21,5,Boston Bruins,2
-Boston Bruins,12,36,33.3,2.0,6.0,42.9,14,11,8,27,3,Carolina Hurricanes,2
-Boston Bruins,2,28,50.0,1.0,2.0,54.0,13,6,12,15,3,Tampa Bay Lightning,1
-Boston Bruins,15,25,0.0,0.0,3.0,37.5,13,5,11,27,5,Colorado Avalanche,1
-Boston Bruins,8,24,0.0,0.0,3.0,54.1,13,17,11,28,3,Vegas Golden Knights,3
-Colorado Avalanche,13,37,0.0,0.0,3.0,46.7,9,5,2,15,0,Boston Bruins,4
-Arizona Coyotes,8,46,33.3,2.0,6.0,62.3,8,4,13,27,4,Boston Bruins,3
-Vegas Golden Knights,8,27,0.0,0.0,2.0,54.0,19,10,10,45,1,Boston Bruins,3
-Boston Bruins,9,26,0.0,0.0,3.0,41.3,13,10,10,31,3,New York Islanders,3
-Boston Bruins,14,30,16.7,1.0,6.0,50.8,20,12,15,13,2,Los Angeles Kings,2
-Boston Bruins,8,33,40.0,2.0,5.0,29.6,22,7,12,26,4,Columbus Blue Jackets,2
-Boston Bruins,10,39,0.0,0.0,3.0,43.5,13,11,10,14,7,Florida Panthers,3
-Boston Bruins,8,27,0.0,0.0,2.0,35.8,9,10,6,28,3,Winnipeg Jets,2
-New Jersey Devils,4,23,0.0,0.0,1.0,49.0,30,9,13,13,3,Boston Bruins,4
-Ottawa Senators,4,51,0.0,0.0,3.0,66.1,14,1,9,23,2,Boston Bruins,2
-New Jersey Devils,9,27,0.0,0.0,3.0,61.5,20,3,16,18,1,Boston Bruins,3
-Boston Bruins,17,25,0.0,0.0,3.0,44.4,17,4,14,27,3,Buffalo Sabres,4
-Boston Bruins,6,27,0.0,0.0,3.0,56.2,17,11,7,19,2,Pittsburgh Penguins,1
-Los Angeles Kings,7,22,100.0,1.0,1.0,44.9,21,5,5,30,2,Boston Bruins,5
-San Jose Sharks,10,29,50.0,1.0,2.0,57.1,20,10,11,16,2,Boston Bruins,4
-Anaheim Ducks,6,42,50.0,1.0,2.0,53.6,22,12,7,18,1,Boston Bruins,7
-Boston Bruins,2,31,0.0,0.0,3.0,26.8,19,12,8,26,0,Seattle Kraken,3
-Boston Bruins,21,21,50.0,1.0,2.0,49.1,16,14,8,35,4,Toronto Maple Leafs,3
-Boston Bruins,20,29,0.0,0.0,6.0,36.7,15,5,12,21,6,Philadelphia Flyers,0
-New York Islanders,14,24,25.0,1.0,4.0,62.7,25,3,10,24,1,Boston Bruins,4
-New York Rangers,6,27,0.0,0.0,4.0,50.9,25,3,4,21,1,Boston Bruins,3
-Boston Bruins,15,18,0.0,0.0,2.0,53.6,12,10,10,34,4,San Jose Sharks,0
-Montréal Canadiens,8,29,33.3,1.0,3.0,45.0,11,6,10,15,2,Boston Bruins,4
-Tampa Bay Lightning,15,39,0.0,0.0,2.0,46.0,11,8,2,26,3,Boston Bruins,2
-Florida Panthers,4,40,0.0,0.0,4.0,50.0,20,6,12,13,4,Boston Bruins,3
-Carolina Hurricanes,10,25,0.0,0.0,6.0,57.6,8,5,5,16,4,Boston Bruins,1
-Toronto Maple Leafs,11,29,0.0,0.0,1.0,49.0,22,9,10,31,2,Boston Bruins,5
-Boston Bruins,12,23,25.0,1.0,4.0,44.8,14,12,20,37,1,Washington Capitals,2
-Dallas Stars,8,37,0.0,0.0,3.0,19.4,22,3,13,21,2,Boston Bruins,3
-Nashville Predators,6,30,25.0,1.0,4.0,62.3,12,7,8,20,0,Boston Bruins,5
-Boston Bruins,6,28,0.0,0.0,2.0,45.2,10,4,6,35,6,New York Islanders,2
-Boston Bruins,10,31,0.0,0.0,3.0,41.3,18,12,6,34,3,Ottawa Senators,1
-Seattle Kraken,12,33,0.0,0.0,1.0,60.3,11,7,6,18,5,Boston Bruins,6
-Vancouver Canucks,6,35,33.3,1.0,3.0,64.9,7,5,2,15,1,Boston Bruins,3
-Edmonton Oilers,4,28,0.0,0.0,5.0,42.9,15,10,21,23,2,Boston Bruins,3
-Calgary Flames,13,20,33.3,1.0,3.0,52.2,23,7,10,11,3,Boston Bruins,4
-Boston Bruins,8,27,0.0,0.0,3.0,57.6,8,8,14,22,7,Buffalo Sabres,1
-Boston Bruins,11,26,33.3,1.0,3.0,43.1,16,13,11,24,4,New York Rangers,2
-Boston Bruins,4,22,0.0,0.0,1.0,53.1,13,10,11,31,2,Edmonton Oilers,3
-Boston Bruins,8,31,50.0,1.0,2.0,40.0,24,11,9,27,3,Detroit Red Wings,2
-Detroit Red Wings,12,33,0.0,0.0,3.0,51.9,7,6,8,14,5,Boston Bruins,3
-Chicago Blackhawks,6,42,0.0,0.0,2.0,57.4,9,2,9,20,6,Boston Bruins,3
-Winnipeg Jets,10,24,0.0,0.0,3.0,51.0,20,4,11,20,0,Boston Bruins,3
-Minnesota Wild,12,38,25.0,1.0,4.0,60.0,12,3,6,29,2,Boston Bruins,5
-Buffalo Sabres,15,25,33.3,1.0,3.0,57.4,11,12,7,17,0,Boston Bruins,7
-Boston Bruins,8,41,0.0,0.0,3.0,54.4,20,7,13,27,2,Ottawa Senators,1
-Boston Bruins,14,31,40.0,2.0,5.0,48.1,10,13,12,28,4,Montréal Canadiens,2
-Boston Bruins,21,27,0.0,0.0,5.0,34.0,18,6,6,35,2,Tampa Bay Lightning,1
-Carolina Hurricanes,6,38,50.0,1.0,2.0,47.0,17,7,5,20,3,Boston Bruins,3
-Boston Bruins,10,23,0.0,0.0,5.0,49.1,18,6,9,20,1,Nashville Predators,2
-Boston Bruins,25,26,0.0,0.0,5.0,53.8,14,14,5,21,2,Columbus Blue Jackets,1
-Pittsburgh Penguins,12,35,66.7,2.0,3.0,45.6,15,3,6,29,3,Boston Bruins,4
-St. Louis Blues,12,31,50.0,1.0,2.0,50.0,20,14,5,15,3,Boston Bruins,3
-Boston Bruins,13,32,0.0,0.0,3.0,45.1,13,7,6,28,2,Toronto Maple Leafs,1
-Boston Bruins,4,30,0.0,0.0,3.0,44.3,16,7,17,32,2,New Jersey Devils,1
-Philadelphia Flyers,13,34,0.0,0.0,1.0,58.2,8,5,7,25,3,Boston Bruins,5
-Boston Bruins,4,27,50.0,1.0,2.0,30.4,17,8,10,25,5,Washington Capitals,2
-Montréal Canadiens,13,21,0.0,0.0,6.0,54.5,12,6,15,9,4,Boston Bruins,5
-Boston Bruins,4,32,0.0,0.0,2.0,47.8,15,11,15,44,3,Florida Panthers,1
-Boston Bruins,32,30,0.0,0.0,3.0,53.9,13,4,5,29,3,Florida Panthers,6
-Florida Panthers,14,35,0.0,0.0,4.0,38.8,18,5,11,41,2,Boston Bruins,4
-Florida Panthers,35,31,50.0,2.0,4.0,63.5,25,3,8,36,2,Boston Bruins,6
-Boston Bruins,10,25,50.0,1.0,2.0,37.7,19,7,10,48,3,Florida Panthers,4
-Florida Panthers,14,34,75.0,3.0,4.0,52.7,20,2,7,24,7,Boston Bruins,5
-Boston Bruins,10,31,33.3,1.0,3.0,43.2,12,17,9,35,3,Florida Panthers,4
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+PHI,BOS,1,12,56.6,35,6,Bruins,32,0/6,13,43.4,31,2,4,Flyers,34,1/5
+BOS,NYR,2,10,51.9,32,3,Rangers,2,0/4,8,48.1,30,3,6,Bruins,8,0/1
+BOS,PHI,0,6,51.3,15,4,Flyers,15,0/4,7,48.7,27,4,6,Bruins,15,1/4
+NJD,BOS,0,9,69.1,23,6,Bruins,4,0/4,6,30.9,18,1,1,Devils,8,0/2
+NYR,BOS,5,8,44.7,27,6,Bruins,8,0/2,7,55.3,26,4,3,Rangers,4,1/4
+BOS,NJD,5,11,25.4,21,1,Devils,4,0/2,10,74.6,28,3,6,Bruins,4,1/2
+WSH,BOS,5,20,62.7,32,6,Bruins,8,1/3,13,37.3,48,2,15,Capitals,6,0/4
+BOS,ARI,3,18,44.6,29,53,Coyotes,11,1/3,13,55.4,28,6,6,Bruins,13,1/3
+BOS,FLA,3,19,35.6,22,13,Panthers,10,0/4,22,64.4,18,5,6,Bruins,12,0/3
+OTT,BOS,5,13,50.0,23,6,Bruins,13,1/3,11,50.0,33,7,9,Senators,15,0/2
+BOS,ANA,1,15,36.4,18,24,Ducks,10,0/4,10,63.6,23,2,6,Bruins,8,0/5
+BOS,MIN,3,20,39.0,21,30,Wild,10,1/5,11,61.0,24,4,6,Bruins,10,1/5
+BOS,DAL,1,5,47.2,32,25,Stars,13,0/3,11,52.8,28,3,6,Bruins,11,1/4
+BOS,DET,1,9,51.7,34,17,Red Wings,14,0/5,9,48.3,26,5,6,Bruins,10,3/6
+CBJ,BOS,4,19,58.2,23,6,Bruins,6,0/2,17,41.8,18,0,29,Blue Jackets,4,0/3
+PIT,BOS,6,21,55.1,38,6,Bruins,8,1/3,12,44.9,48,5,5,Penguins,6,0/4
+NYR,BOS,5,11,61.0,21,6,Bruins,24,0/3,16,39.0,39,2,3,Rangers,16,0/2
+TOR,BOS,1,9,45.5,47,6,Bruins,6,1/3,15,54.5,21,2,10,Maple Leafs,6,1/3
+BOS,STL,1,19,43.4,33,19,Blues,6,0/3,12,56.6,21,3,6,Bruins,8,2/2
+BOS,CGY,1,7,32.1,25,20,Flames,15,0/6,12,67.9,25,3,6,Bruins,17,0/5
+BUF,BOS,3,12,47.5,14,6,Bruins,8,1/3,13,52.5,9,1,7,Sabres,8,0/3
+BOS,VAN,2,15,36.2,16,23,Canucks,22,2/6,13,63.8,15,5,6,Bruins,32,2/6
+BOS,PHI,1,20,50.0,26,4,Flyers,8,1/4,9,50.0,22,4,6,Bruins,8,2/4
+BOS,CHI,1,10,55.6,23,16,Blackhawks,6,1/3,10,44.4,16,6,6,Bruins,6,2/3
+TBL,BOS,5,6,52.0,27,6,Bruins,6,2/4,10,48.0,43,3,14,Lightning,8,1/3
+FLA,BOS,2,11,58.7,21,6,Bruins,14,2/6,18,41.3,28,5,13,Panthers,12,3/7
+BOS,CAR,2,14,42.9,27,12,Hurricanes,12,2/6,3,57.1,25,3,6,Bruins,12,1/6
+BOS,TBL,1,13,54.0,15,14,Lightning,2,1/2,17,46.0,26,3,6,Bruins,4,1/1
+BOS,COL,1,13,37.5,27,21,Avalanche,15,0/3,14,62.5,24,5,6,Bruins,13,1/5
+BOS,VGK,4,13,54.1,28,54,Golden Knights,8,0/3,13,45.9,35,3,6,Bruins,6,1/4
+COL,BOS,4,9,46.7,15,6,Bruins,13,0/3,14,53.3,23,0,21,Avalanche,11,0/4
+ARI,BOS,3,8,62.3,27,6,Bruins,8,2/6,14,37.7,39,4,53,Coyotes,12,0/4
+VGK,BOS,3,19,54.0,45,6,Bruins,8,0/2,21,46.0,26,1,54,Golden Knights,4,1/4
+BOS,NYI,3,13,41.3,31,2,Islanders,9,0/3,22,58.7,31,4,6,Bruins,11,1/2
+BOS,LAK,3,20,50.8,13,26,Kings,14,1/6,16,49.2,22,2,6,Bruins,14,1/6
+BOS,CBJ,2,22,29.6,26,29,Blue Jackets,8,2/5,12,70.4,19,4,6,Bruins,12,2/3
+BOS,FLA,3,13,43.5,14,13,Panthers,10,0/3,15,56.5,9,7,6,Bruins,8,2/4
+BOS,WPG,2,9,35.8,28,52,Jets,8,0/2,10,64.2,20,3,6,Bruins,4,1/4
+NJD,BOS,4,30,49.0,13,6,Bruins,4,0/1,15,51.0,13,3,1,Devils,2,1/2
+OTT,BOS,2,14,66.1,23,6,Bruins,4,0/3,24,33.9,42,3,9,Senators,6,1/2
+NJD,BOS,3,20,61.5,18,6,Bruins,9,0/3,8,38.5,15,1,1,Devils,11,0/2
+BOS,BUF,4,17,44.4,27,7,Sabres,17,0/3,12,55.6,30,3,6,Bruins,13,1/5
+BOS,PIT,1,17,56.2,19,5,Penguins,6,0/3,16,43.8,31,2,6,Bruins,6,0/3
+LAK,BOS,5,21,44.9,30,6,Bruins,7,1/1,15,55.1,24,2,26,Kings,7,0/1
+SJS,BOS,4,20,57.1,16,6,Bruins,10,1/2,15,42.9,27,2,28,Sharks,6,0/4
+ANA,BOS,7,22,53.6,18,6,Bruins,6,1/2,9,46.4,21,1,24,Ducks,6,0/2
+BOS,SEA,3,19,26.8,26,55,Kraken,2,0/3,11,73.2,30,0,6,Bruins,6,0/1
+BOS,TOR,3,16,49.1,35,10,Maple Leafs,21,1/2,24,50.9,26,4,6,Bruins,21,0/2
+BOS,PHI,0,15,36.7,21,4,Flyers,20,0/6,16,63.3,12,6,6,Bruins,28,1/2
+NYI,BOS,4,25,62.7,24,6,Bruins,14,1/4,10,37.3,21,1,2,Islanders,8,0/6
+NYR,BOS,3,25,50.9,21,6,Bruins,6,0/4,11,49.1,22,1,3,Rangers,8,0/3
+BOS,SJS,0,12,53.6,34,28,Sharks,15,0/2,8,46.4,25,4,6,Bruins,11,1/4
+MTL,BOS,4,11,45.0,15,6,Bruins,8,1/3,17,55.0,14,2,8,Canadiens,8,1/3
+TBL,BOS,2,11,46.0,26,6,Bruins,15,0/2,9,54.0,30,3,14,Lightning,13,1/3
+FLA,BOS,3,20,50.0,13,6,Bruins,4,0/4,16,50.0,24,4,13,Panthers,10,0/1
+CAR,BOS,1,8,57.6,16,6,Bruins,10,0/6,7,42.4,15,4,12,Hurricanes,14,1/4
+TOR,BOS,5,22,49.0,31,6,Bruins,11,0/1,10,51.0,26,2,10,Maple Leafs,9,1/2
+BOS,WSH,2,14,44.8,37,15,Capitals,12,1/4,17,55.2,21,1,6,Bruins,12,0/4
+DAL,BOS,3,22,19.4,21,6,Bruins,8,0/3,20,80.6,28,2,25,Stars,6,0/4
+NSH,BOS,5,12,62.3,20,6,Bruins,6,1/4,15,37.7,36,0,18,Predators,18,0/3
+BOS,NYI,2,10,45.2,35,2,Islanders,6,0/2,12,54.8,21,6,6,Bruins,4,1/3
+BOS,OTT,1,18,41.3,34,9,Senators,10,0/3,14,58.7,30,3,6,Bruins,8,0/4
+SEA,BOS,6,11,60.3,18,6,Bruins,12,0/1,11,39.7,17,5,55,Kraken,6,1/4
+VAN,BOS,3,7,64.9,15,6,Bruins,6,1/3,13,35.1,22,1,23,Canucks,6,0/3
+EDM,BOS,3,15,42.9,23,6,Bruins,4,0/5,20,57.1,22,2,22,Oilers,10,0/1
+CGY,BOS,4,23,52.2,11,6,Bruins,13,1/3,14,47.8,24,3,20,Flames,13,0/3
+BOS,BUF,1,8,57.6,22,7,Sabres,8,0/3,13,42.4,27,7,6,Bruins,8,1/3
+BOS,NYR,2,16,43.1,24,3,Rangers,11,1/3,9,56.9,25,4,6,Bruins,11,0/3
+BOS,EDM,3,13,53.1,31,22,Oilers,4,0/1,11,46.9,33,2,6,Bruins,2,0/2
+BOS,DET,2,24,40.0,27,17,Red Wings,8,1/2,10,60.0,31,3,6,Bruins,4,1/4
+DET,BOS,3,7,51.9,14,6,Bruins,12,0/3,28,48.1,12,5,17,Red Wings,12,2/3
+CHI,BOS,3,9,57.4,20,6,Bruins,6,0/2,10,42.6,36,6,16,Blackhawks,4,1/3
+WPG,BOS,3,20,51.0,20,6,Bruins,10,0/3,16,49.0,24,0,52,Jets,6,0/5
+MIN,BOS,5,12,60.0,29,6,Bruins,12,1/4,9,40.0,16,2,30,Wild,10,1/5
+BUF,BOS,7,11,57.4,17,6,Bruins,15,1/3,4,42.6,17,0,7,Sabres,13,0/4
+BOS,OTT,1,20,54.4,27,9,Senators,8,0/3,14,45.6,25,2,6,Bruins,6,1/4
+BOS,MTL,2,10,48.1,28,8,Canadiens,14,2/5,10,51.9,26,4,6,Bruins,25,0/5
+BOS,TBL,1,18,34.0,35,14,Lightning,21,0/5,9,66.0,25,2,6,Bruins,17,1/7
+CAR,BOS,4,17,47.0,20,6,Bruins,6,1/2,10,53.0,14,3,12,Hurricanes,4,0/3
+BOS,NSH,2,18,49.1,20,18,Predators,10,0/5,12,50.9,24,1,6,Bruins,10,0/5
+BOS,CBJ,1,14,53.8,21,29,Blue Jackets,25,0/5,16,46.2,33,2,6,Bruins,25,1/5
+PIT,BOS,4,15,45.6,29,6,Bruins,12,2/3,18,54.4,38,3,5,Penguins,6,0/6
+STL,BOS,4,20,50.0,15,6,Bruins,12,1/2,11,50.0,17,3,19,Blues,8,0/4
+BOS,TOR,1,13,45.1,28,10,Maple Leafs,13,0/3,13,54.9,39,2,6,Bruins,21,0/4
+BOS,NJD,1,16,44.3,32,1,Devils,4,0/3,8,55.7,31,2,6,Bruins,10,1/1
+PHI,BOS,5,8,58.2,25,6,Bruins,13,0/1,11,41.8,20,3,4,Flyers,7,0/4
+BOS,WSH,2,17,30.4,25,15,Capitals,4,1/2,9,69.6,20,5,6,Bruins,4,2/2
+MTL,BOS,5,12,54.5,9,6,Bruins,13,0/6,19,45.5,9,4,8,Canadiens,19,0/3
+BOS,FLA,1,15,47.8,44,13,Panthers,4,0/2,20,52.2,43,3,6,Bruins,4,1/2
+BOS,FLA,6,13,53.9,29,13,Panthers,32,0/3,12,46.1,31,3,6,Bruins,60,1/4
+FLA,BOS,4,18,38.8,41,6,Bruins,14,0/4,16,61.2,54,2,13,Panthers,18,0/2
+FLA,BOS,6,25,63.5,36,6,Bruins,35,2/4,16,36.5,30,2,13,Panthers,35,1/4
+BOS,FLA,4,19,37.7,48,13,Panthers,10,1/2,15,62.3,40,3,6,Bruins,4,2/5
+FLA,BOS,5,20,52.7,24,6,Bruins,14,3/4,20,47.3,27,7,13,Panthers,12,2/4
+BOS,FLA,4,12,43.2,35,13,Panthers,10,1/3,15,56.8,34,3,6,Bruins,8,2/4

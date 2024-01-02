@@ -1,0 +1,89 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+PHI,NYI,3,16,32.8,23,2,Islanders,6,1/3,18,67.2,26,2,4,Flyers,6,0/3
+BOS,PHI,2,15,43.2,15,4,Flyers,10,2/6,5,56.8,26,4,6,Bruins,12,2/5
+PHI,WSH,1,12,36.2,19,15,Capitals,8,1/3,11,63.8,23,3,4,Flyers,8,1/3
+PHI,BOS,1,18,49.0,32,6,Bruins,15,1/2,11,51.0,24,2,4,Flyers,9,1/5
+NYI,PHI,0,0,0.0,0,4,Flyers,8,0/3,0,0.0,0,3,2,Islanders,6,2/4
+WSH,PHI,3,8,65.7,22,4,Flyers,18,0/4,9,34.3,21,5,15,Capitals,20,1/3
+PHI,VAN,5,15,37.5,23,23,Canucks,6,2/4,19,62.5,38,4,4,Flyers,8,1/3
+PHI,SEA,1,7,38.5,25,55,Kraken,46,0/4,8,61.5,26,6,4,Flyers,40,0/2
+PHI,BOS,3,18,48.0,32,6,Bruins,4,0/1,23,52.0,35,6,4,Flyers,2,2/2
+PHI,FLA,4,12,41.3,21,13,Panthers,8,1/7,12,58.7,23,2,4,Flyers,14,1/4
+EDM,PHI,5,26,57.7,27,4,Flyers,8,0/2,7,42.3,21,3,22,Oilers,4,1/4
+VAN,PHI,2,7,45.1,13,4,Flyers,15,1/5,14,54.9,41,1,23,Canucks,15,0/5
+CGY,PHI,0,12,53.1,10,4,Flyers,12,0/3,14,46.9,11,4,20,Flames,8,2/5
+PHI,ARI,0,17,37.7,25,53,Coyotes,6,0/0,13,62.3,23,3,4,Flyers,0,0/3
+PIT,PHI,2,14,47.4,20,4,Flyers,4,1/3,16,52.6,39,3,5,Penguins,6,0/2
+WSH,PHI,2,12,52.9,15,4,Flyers,6,0/1,20,47.1,19,1,15,Capitals,2,0/3
+PHI,TOR,3,16,42.2,16,10,Maple Leafs,8,1/3,12,57.8,22,0,4,Flyers,6,0/4
+CAR,PHI,2,18,41.7,16,4,Flyers,10,0/5,12,58.3,12,1,12,Hurricanes,10,0/5
+DAL,PHI,2,16,45.0,13,4,Flyers,6,1/4,14,55.0,23,5,25,Stars,8,1/3
+PHI,CGY,1,13,40.3,24,20,Flames,12,0/2,15,59.7,23,2,4,Flyers,8,0/4
+PHI,TBL,4,20,48.2,24,14,Lightning,4,1/3,20,51.8,20,3,4,Flyers,6,0/2
+PHI,BOS,5,9,50.9,33,6,Bruins,17,0/3,8,49.1,29,2,4,Flyers,13,1/5
+TBL,PHI,0,8,55.9,28,4,Flyers,4,0/1,10,44.1,29,4,14,Lightning,2,0/2
+FLA,PHI,1,21,57.9,28,4,Flyers,6,0/2,7,42.1,15,2,13,Panthers,6,1/2
+PHI,CAR,6,10,46.7,20,12,Hurricanes,8,0/4,19,53.3,16,3,4,Flyers,10,0/3
+NJD,PHI,2,21,54.2,26,4,Flyers,11,0/3,13,45.8,21,5,1,Devils,11,0/3
+NYR,PHI,1,10,51.0,11,4,Flyers,4,0/3,15,49.0,21,4,3,Rangers,19,1/2
+PHI,TBL,7,20,50.9,12,14,Lightning,10,1/2,10,49.1,21,1,4,Flyers,8,1/3
+PHI,COL,7,17,45.6,21,21,Avalanche,6,3/5,13,54.4,29,5,4,Flyers,10,1/3
+NJD,PHI,0,15,67.8,20,4,Flyers,6,0/2,8,32.2,21,3,1,Devils,4,1/3
+VGK,PHI,4,20,47.1,30,4,Flyers,12,2/3,13,52.9,20,3,54,Golden Knights,6,1/6
+ARI,PHI,5,14,52.9,19,4,Flyers,4,1/3,16,47.1,14,3,53,Coyotes,6,0/2
+PHI,NJD,1,12,47.5,22,1,Devils,2,0/4,12,52.5,24,6,4,Flyers,10,0/0
+MTL,PHI,2,11,60.0,13,4,Flyers,4,0/2,15,40.0,22,3,8,Canadiens,4,0/2
+PHI,OTT,3,16,46.4,39,9,Senators,11,0/1,13,53.6,24,4,4,Flyers,9,0/2
+SEA,PHI,3,11,53.7,20,4,Flyers,6,1/3,9,46.3,13,2,55,Kraken,6,1/3
+SJS,PHI,2,24,53.7,19,4,Flyers,13,0/3,17,46.3,25,3,28,Sharks,11,0/4
+LAK,PHI,3,17,52.2,18,4,Flyers,16,1/5,15,47.8,15,6,26,Kings,10,1/3
+ANA,PHI,1,18,52.5,24,4,Flyers,12,0/1,14,47.5,16,4,24,Ducks,6,2/4
+PHI,PIT,6,15,53.8,17,5,Penguins,10,1/1,12,46.2,30,2,4,Flyers,16,0/3
+PHI,SJS,3,19,45.5,22,28,Sharks,4,0/2,11,54.5,22,2,4,Flyers,4,1/2
+BOS,PHI,2,7,50.0,23,4,Flyers,17,1/4,16,50.0,18,3,6,Bruins,17,2/4
+PHI,NYR,3,18,50.0,23,3,Rangers,2,1/2,15,50.0,33,2,4,Flyers,4,0/1
+NYI,PHI,1,9,47.7,16,4,Flyers,2,0/4,11,52.3,22,4,2,Islanders,8,0/1
+PHI,NYI,4,17,43.9,25,2,Islanders,11,0/2,20,56.1,27,3,4,Flyers,9,1/3
+PHI,CBJ,2,17,46.8,22,29,Blue Jackets,12,0/3,9,53.2,19,1,4,Flyers,10,0/4
+BUF,PHI,3,9,50.0,13,4,Flyers,10,1/5,14,50.0,16,6,7,Sabres,12,3/4
+PHI,DAL,3,9,46.8,26,25,Stars,0,0/0,15,53.2,28,1,4,Flyers,0,0/0
+NYI,PHI,3,16,42.6,19,4,Flyers,10,0/1,10,57.4,28,4,2,Islanders,4,1/4
+PHI,LAK,3,5,52.8,17,26,Kings,4,1/3,20,47.2,23,4,4,Flyers,6,0/2
+PHI,WPG,1,9,40.7,29,52,Jets,8,0/2,17,59.3,24,3,4,Flyers,4,0/4
+PHI,DET,6,14,53.6,16,17,Red Wings,10,1/3,13,46.4,24,3,4,Flyers,6,0/5
+DET,PHI,2,9,47.9,19,4,Flyers,4,1/3,8,52.1,21,4,17,Red Wings,6,1/2
+PIT,PHI,4,14,57.6,17,4,Flyers,8,0/4,14,42.4,20,5,5,Penguins,8,2/4
+PHI,WSH,5,15,39.0,14,15,Capitals,25,1/3,14,61.0,22,3,4,Flyers,13,1/4
+PHI,CAR,4,6,47.6,14,12,Hurricanes,13,0/1,19,52.4,22,3,4,Flyers,9,0/3
+PHI,STL,4,16,33.3,16,19,Blues,4,0/1,16,66.7,22,1,4,Flyers,2,0/2
+PHI,WSH,1,19,39.7,30,15,Capitals,9,1/3,16,60.3,21,2,4,Flyers,11,0/2
+PHI,EDM,3,15,47.5,19,22,Oilers,4,1/5,14,52.5,27,0,4,Flyers,10,0/2
+PHI,MIN,5,19,36.5,33,30,Wild,6,0/1,17,63.5,34,4,4,Flyers,2,1/3
+PHI,CHI,3,14,45.1,33,16,Blackhawks,16,0/1,14,54.9,27,4,4,Flyers,10,0/4
+PHI,VGK,1,19,54.4,13,54,Golden Knights,8,1/5,23,45.6,27,2,4,Flyers,10,0/4
+FLA,PHI,3,22,49.3,33,4,Flyers,28,1/3,22,50.7,18,6,13,Panthers,18,3/3
+CAR,PHI,1,17,44.2,20,4,Flyers,4,0/2,10,55.8,18,3,12,Hurricanes,4,0/2
+PHI,MTL,4,14,40.4,15,8,Canadiens,4,1/4,22,59.6,29,3,4,Flyers,8,0/2
+PHI,NSH,4,8,52.1,38,18,Predators,15,1/4,20,47.9,32,5,4,Flyers,15,1/4
+OTT,PHI,1,27,50.8,17,4,Flyers,10,0/3,16,49.2,18,3,9,Senators,10,1/3
+PHI,NYI,1,17,50.9,19,2,Islanders,8,0/1,20,49.1,12,2,4,Flyers,2,1/4
+DET,PHI,3,15,49.2,21,4,Flyers,10,0/2,9,50.8,26,6,17,Red Wings,14,0/0
+STL,PHI,5,9,46.5,13,4,Flyers,8,0/4,5,53.5,22,2,19,Blues,10,1/3
+COL,PHI,3,18,40.6,12,4,Flyers,11,0/2,11,59.4,12,6,21,Avalanche,9,1/3
+NSH,PHI,4,18,40.0,29,4,Flyers,14,0/1,9,60.0,32,5,18,Predators,12,0/2
+MIN,PHI,1,10,40.4,15,4,Flyers,11,1/4,14,59.6,19,4,30,Wild,13,1/3
+PHI,TOR,6,15,60.7,19,10,Maple Leafs,9,0/1,13,39.3,21,3,4,Flyers,7,0/2
+NYR,PHI,4,20,58.8,28,4,Flyers,6,0/3,3,41.2,19,3,3,Rangers,6,0/3
+PHI,CBJ,4,20,44.4,21,29,Blue Jackets,8,0/1,14,55.6,21,2,4,Flyers,2,0/4
+CBJ,PHI,4,9,57.1,13,4,Flyers,4,0/4,6,42.9,18,1,29,Blue Jackets,8,0/2
+PHI,ANA,5,14,42.9,24,24,Ducks,4,1/2,17,57.1,22,3,4,Flyers,4,0/2
+WSH,PHI,2,15,44.8,24,4,Flyers,28,1/2,14,55.2,17,9,15,Capitals,16,1/4
+PHI,NYR,4,15,55.8,22,3,Rangers,18,0/3,12,44.2,33,0,4,Flyers,20,0/2
+BUF,PHI,3,14,48.1,14,4,Flyers,10,0/4,6,51.9,10,4,7,Sabres,10,2/4
+PHI,BUF,5,14,43.5,31,7,Sabres,4,2/2,16,56.5,29,3,4,Flyers,4,0/2
+TOR,PHI,2,13,46.7,58,4,Flyers,15,0/3,8,53.3,33,5,10,Maple Leafs,11,1/5
+MTL,PHI,6,18,41.4,22,4,Flyers,4,0/3,18,58.6,15,3,8,Canadiens,8,0/1
+PHI,PIT,1,16,50.0,12,5,Penguins,6,0/2,19,50.0,24,4,4,Flyers,4,1/3
+CHI,PHI,1,15,46.2,14,4,Flyers,12,0/4,13,53.8,16,3,16,Blackhawks,10,0/5
+WPG,PHI,0,6,51.0,6,4,Flyers,10,0/4,18,49.0,9,4,52,Jets,8,2/5
+PHI,OTT,4,11,40.7,26,9,Senators,6,1/4,14,59.3,15,2,4,Flyers,8,2/3
