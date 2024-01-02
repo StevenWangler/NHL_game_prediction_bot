@@ -1,13 +1,145 @@
 [
     {
-        "venue": "T-Mobile Park",
-        "home team name": "SEA",
-        "home team percentage chance of winning": 0.4136155847658726,
-        "predicted home team goals": 2,
-        "away team name": "VGK",
-        "away team percentage chance of winning": 0.5863844152341274,
-        "predicted away team goals": 3,
-        "reason": "The away team has a strong record on the year, and is favoured to win.",
+        "venue": "Nationwide Arena",
+        "home team name": "CBJ",
+        "home team percentage chance of winning": 0.25999999999999995,
+        "predicted home team goals (cannot be the same as away team goals)": 2,
+        "away team name": "BOS",
+        "away team percentage chance of winning": 0.74,
+        "predicted away team goals (cannot be the same as home team goals)": 3,
+        "reason": "The away team has this game, they have been performing exceptionally well this season and are the favorites to win this game",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Madison Square Garden",
+        "home team name": "NYR",
+        "home team percentage chance of winning": 0.5032207427643495,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "CAR",
+        "away team percentage chance of winning": 0.4967792572356505,
+        "predicted away team goals (cannot be the same as home team goals)": 3,
+        "reason": "The home team is slight favorite. The away team is pretty good, however the home team is slightly better.",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "PPG Paints Arena",
+        "home team name": "PIT",
+        "home team percentage chance of winning": 0.537,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "WSH",
+        "away team percentage chance of winning": 0.463,
+        "predicted away team goals (cannot be the same as home team goals)": 3,
+        "reason": "The home team is favored, but it will be a tight game. The home team is barely favored to win. In their last 10 games the home team has 7 wins and 2 losses, and have 18 wins, 13 losses, and 4 overtime losses on the year. The away team has 4 wins and 3 losses in their last 10 games, and have 17 wins, 11 losses, and 6 overtime losses on the year.",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "American Airlines Center",
+        "home team name": "DAL",
+        "home team percentage chance of winning": 0.6773082610646038,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "MTL",
+        "away team percentage chance of winning": 0.3226917389353962,
+        "predicted away team goals (cannot be the same as home team goals)": 2,
+        "reason": "DAL is the favored team because they are the stronger team overall, having a much better win/loss ratio than MTL",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Xcel Energy Center",
+        "home team name": "MIN",
+        "home team percentage chance of winning": 0.646,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "CGY",
+        "away team percentage chance of winning": 0.354,
+        "predicted away team goals (cannot be the same as home team goals)": 2,
+        "reason": "The home team is favored because they have a stronger record on the year. They have 16 wins, 15 losses, and 4 losses in overtime, while the away team has 15 wins, 16 losses, and 5 losses in overtime. Also the home team has been performing better in their last 10 games.",
+        "confidence rating": "high"
+    },
+    {
+        "venue": "Bridgestone Arena",
+        "home team name": "NSH",
+        "home team percentage chance of winning": 0.7430727871131897,
+        "predicted home team goals": 3,
+        "away team name": "CHI",
+        "away team percentage chance of winning": 0.2569272128868103,
+        "predicted away team goals": 1,
+        "reason": "NSH is the stronger team, having won the majority of their last ten games, whereas CHI has won only a couple of their last ten games. In addition, CHI has a weaker win-loss record than NSH",
+        "confidence rating": "high"
+    },
+    {
+        "venue": "Canada Life Centre",
+        "home team name": "WPG",
+        "home team percentage chance of winning": 0.5508724293403625,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "TBL",
+        "away team percentage chance of winning": 0.4491275706596375,
+        "predicted away team goals (cannot be the same as home team goals)": 2,
+        "reason": "The home team has the stronger record, and is in better form, winning 7 out of the last 10 games.",
+        "confidence rating": "high"
+    },
+    {
+        "venue": "Mullett Arena",
+        "home team name": "ARI",
+        "home team percentage chance of winning": 0.4670112719535828,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "FLA",
+        "away team percentage chance of winning": 0.5329887280464172,
+        "predicted away team goals (cannot be the same as home team goals)": 4,
+        "reason": "The away team has the better record this season and is therefore the favorite.",
+        "confidence rating": "low"
+    },
+    {
+        "venue": "Ball Arena",
+        "home team name": "COL",
+        "home team percentage chance of winning": 0.5780686693,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "NYI",
+        "away team percentage chance of winning": 0.4219313307,
+        "predicted away team goals (cannot be the same as home team goals)": 2,
+        "reason": "The home team is favored because they have the stronger record and are playing at their home venue. They are more likely to win this game.",
+        "confidence rating": "high"
+    },
+    {
+        "venue": "Rogers Place",
+        "home team name": "EDM",
+        "home team percentage chance of winning": 0.660964966633691,
+        "predicted home team goals": 3,
+        "away team name": "PHI",
+        "away team percentage chance of winning": 0.3390350333663091,
+        "predicted away team goals": 2,
+        "reason": "The home team has a slight edge. Both teams have similar records, but the home team has a slight lead in recent wins.",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Rogers Arena",
+        "home team name": "VAN",
+        "home team percentage chance of winning": 0.644838392710481,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "OTT",
+        "away team percentage chance of winning": 0.3551616072895189,
+        "predicted away team goals (cannot be the same as home team goals)": 2,
+        "reason": "The home team is statistically likely to win this match. They have been performing better than the away team recently. ",
+        "confidence rating": "medium"
+    },
+    {
+        "venue": "Crypto.com Arena",
+        "home team name": "LAK",
+        "home team percentage chance of winning": 0.4550392928,
+        "predicted home team goals (cannot be the same as away team goals)": 2,
+        "away team name": "TOR",
+        "away team percentage chance of winning": 0.5449607072,
+        "predicted away team goals (cannot be the same as home team goals)": 3,
+        "reason": "The away team has the advantage according to the model, despite the home field advantage of the home team. The away team has a slight edge and is expected to win by a very close margin",
+        "confidence rating": "low"
+    },
+    {
+        "venue": "SAP Center at San Jose",
+        "home team name": "SJS",
+        "home team percentage chance of winning": 0.5324505961087151,
+        "predicted home team goals (cannot be the same as away team goals)": 3,
+        "away team name": "DET",
+        "away team percentage chance of winning": 0.4675494038912848,
+        "predicted away team goals (cannot be the same as home team goals)": 2,
+        "reason": "The home team has a slight edge in this matchup which will likely result in a win for them in regulation.",
         "confidence rating": "medium"
     }
 ]
