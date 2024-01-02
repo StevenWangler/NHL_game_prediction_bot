@@ -1,103 +1,103 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Edmonton Oilers,6,29,0.0,0.0,4.0,46.2,9,5,8,27,4,Winnipeg Jets,0
-Seattle Kraken,14,29,0.0,0.0,4.0,44.4,12,5,2,19,3,Edmonton Oilers,0
-Calgary Flames,6,21,0.0,0.0,3.0,52.5,16,7,8,13,4,Edmonton Oilers,0
-Edmonton Oilers,18,22,0.0,0.0,3.0,45.0,20,12,8,30,2,Calgary Flames,1
-Winnipeg Jets,19,27,20.0,1.0,5.0,50.0,15,4,7,24,2,Edmonton Oilers,2
-Edmonton Oilers,8,30,20.0,1.0,5.0,37.1,15,6,15,25,7,Vancouver Canucks,2
-Vancouver Canucks,20,21,0.0,0.0,3.0,0.0,0,0,0,0,5,Edmonton Oilers,4
-Edmonton Oilers,4,33,50.0,1.0,2.0,49.1,18,2,7,24,5,Seattle Kraken,3
-Edmonton Oilers,8,36,12.5,1.0,8.0,52.1,17,9,10,31,5,Vancouver Canucks,3
-Edmonton Oilers,10,42,25.0,1.0,4.0,45.5,14,10,7,36,3,Calgary Flames,4
-Edmonton Oilers,10,24,25.0,1.0,4.0,44.4,13,12,11,16,2,Buffalo Sabres,4
-Edmonton Oilers,10,40,40.0,2.0,5.0,48.7,11,9,7,18,6,Carolina Hurricanes,4
-Edmonton Oilers,2,22,100.0,1.0,1.0,58.1,25,6,11,29,0,St. Louis Blues,2
-Edmonton Oilers,6,35,20.0,1.0,5.0,46.0,8,8,10,32,6,Pittsburgh Penguins,3
-St. Louis Blues,6,28,0.0,0.0,2.0,56.7,9,9,4,8,1,Edmonton Oilers,3
-Chicago Blackhawks,22,38,42.9,3.0,7.0,45.3,7,5,2,14,5,Edmonton Oilers,6
-Calgary Flames,6,26,25.0,1.0,4.0,51.5,16,14,12,29,2,Edmonton Oilers,3
-Edmonton Oilers,17,23,100.0,2.0,2.0,46.3,24,11,10,60,7,Nashville Predators,4
-Edmonton Oilers,4,43,0.0,0.0,3.0,43.8,10,11,17,24,3,New Jersey Devils,4
-Edmonton Oilers,12,36,66.7,2.0,3.0,50.0,13,9,4,25,2,Dallas Stars,6
-Washington Capitals,12,29,0.0,0.0,1.0,47.8,19,5,7,21,5,Edmonton Oilers,4
-Tampa Bay Lightning,10,29,50.0,2.0,4.0,46.7,19,9,4,33,2,Edmonton Oilers,3
-Carolina Hurricanes,8,22,50.0,1.0,2.0,44.4,17,4,4,21,7,Edmonton Oilers,2
-Florida Panthers,6,32,20.0,1.0,5.0,53.4,14,8,8,15,2,Edmonton Oilers,4
-Edmonton Oilers,6,32,0.0,0.0,3.0,55.6,29,6,11,27,1,Los Angeles Kings,3
-Edmonton Oilers,6,34,0.0,0.0,3.0,55.6,13,10,11,20,4,Vegas Golden Knights,3
-New Jersey Devils,6,30,25.0,1.0,4.0,53.7,13,1,4,18,5,Edmonton Oilers,2
-New York Islanders,4,49,0.0,0.0,5.0,47.9,9,3,17,17,3,Edmonton Oilers,0
-New York Rangers,6,32,33.3,1.0,3.0,50.9,9,4,8,17,3,Edmonton Oilers,4
-Edmonton Oilers,10,28,25.0,1.0,4.0,42.2,16,11,11,26,4,Florida Panthers,3
-Chicago Blackhawks,12,41,0.0,0.0,4.0,39.1,16,4,6,14,4,Edmonton Oilers,5
-Minnesota Wild,6,21,33.3,1.0,3.0,52.6,14,6,8,19,5,Edmonton Oilers,3
-Edmonton Oilers,23,33,66.7,2.0,3.0,60.0,12,11,12,32,5,Montréal Canadiens,3
-Edmonton Oilers,2,50,33.3,1.0,3.0,51.8,15,7,10,27,2,Washington Capitals,3
-Edmonton Oilers,27,18,0.0,0.0,2.0,49.0,16,8,10,29,8,Arizona Coyotes,2
-Edmonton Oilers,6,44,20.0,1.0,5.0,50.6,13,4,8,24,5,Minnesota Wild,2
-Minnesota Wild,6,21,20.0,1.0,5.0,60.8,7,4,3,11,2,Edmonton Oilers,1
-Nashville Predators,10,37,100.0,2.0,2.0,48.3,15,9,4,23,3,Edmonton Oilers,6
-Edmonton Oilers,10,32,0.0,0.0,4.0,52.6,10,16,13,26,3,St. Louis Blues,3
-Edmonton Oilers,16,17,50.0,1.0,2.0,56.7,13,11,18,18,3,Anaheim Ducks,4
-Nashville Predators,4,33,66.7,2.0,3.0,46.2,9,7,5,22,4,Edmonton Oilers,3
-Dallas Stars,10,34,50.0,1.0,2.0,40.7,12,6,9,28,3,Edmonton Oilers,6
-Edmonton Oilers,6,30,50.0,1.0,2.0,41.5,20,8,11,24,2,Vancouver Canucks,5
-Calgary Flames,2,22,33.3,1.0,3.0,46.6,25,12,9,13,1,Edmonton Oilers,2
-Seattle Kraken,13,32,100.0,2.0,2.0,44.6,20,15,5,13,2,Edmonton Oilers,7
-Edmonton Oilers,10,17,33.3,1.0,3.0,55.3,20,8,13,23,1,Winnipeg Jets,2
-Edmonton Oilers,6,24,33.3,1.0,3.0,38.7,18,6,3,38,2,Seattle Kraken,5
-Edmonton Oilers,8,22,0.0,0.0,3.0,52.9,20,15,7,44,4,New York Islanders,2
-Edmonton Oilers,12,46,0.0,0.0,4.0,45.5,13,4,9,21,2,Colorado Avalanche,3
-Los Angeles Kings,41,31,0.0,0.0,6.0,42.6,9,7,8,22,6,Edmonton Oilers,3
-Anaheim Ducks,6,53,33.3,1.0,3.0,54.0,8,8,5,15,2,Edmonton Oilers,6
-San Jose Sharks,8,41,50.0,2.0,4.0,34.9,13,16,5,11,1,Edmonton Oilers,7
-Vegas Golden Knights,4,37,0.0,0.0,1.0,53.1,13,11,9,30,3,Edmonton Oilers,4
-Edmonton Oilers,6,31,25.0,1.0,4.0,50.0,13,15,12,43,5,Seattle Kraken,2
-Edmonton Oilers,24,31,0.0,0.0,2.0,55.0,19,6,15,27,5,Tampa Bay Lightning,3
-Vancouver Canucks,6,29,100.0,1.0,1.0,54.7,12,6,4,16,2,Edmonton Oilers,4
-Edmonton Oilers,2,27,0.0,0.0,2.0,43.4,24,10,10,32,2,Columbus Blue Jackets,3
-Edmonton Oilers,11,29,33.3,1.0,3.0,42.6,17,8,16,27,7,Chicago Blackhawks,3
-Detroit Red Wings,18,27,25.0,1.0,4.0,49.1,12,2,6,20,2,Edmonton Oilers,5
-Philadelphia Flyers,6,35,0.0,0.0,0.0,48.1,17,5,8,13,1,Edmonton Oilers,1
-Ottawa Senators,13,40,20.0,1.0,5.0,50.8,13,4,11,25,3,Edmonton Oilers,6
-Montréal Canadiens,15,31,16.7,1.0,6.0,72.5,14,6,13,9,6,Edmonton Oilers,2
-Edmonton Oilers,6,23,100.0,2.0,2.0,46.2,19,4,9,28,4,Detroit Red Wings,4
-Edmonton Oilers,8,38,50.0,2.0,4.0,48.4,17,9,7,29,4,New York Rangers,4
-Colorado Avalanche,8,40,0.0,0.0,1.0,46.8,15,7,2,27,6,Edmonton Oilers,5
-Edmonton Oilers,8,26,0.0,0.0,3.0,44.8,17,9,12,20,4,Philadelphia Flyers,2
-Pittsburgh Penguins,8,44,66.7,2.0,3.0,41.1,11,8,6,18,2,Edmonton Oilers,7
-Columbus Blue Jackets,10,47,25.0,1.0,4.0,63.9,8,4,4,17,6,Edmonton Oilers,5
-Edmonton Oilers,4,28,0.0,0.0,5.0,42.9,15,10,21,23,2,Boston Bruins,3
-Edmonton Oilers,13,28,33.3,1.0,3.0,56.5,13,5,6,22,5,Toronto Maple Leafs,2
-Edmonton Oilers,20,28,33.3,1.0,3.0,49.2,12,13,11,25,6,Winnipeg Jets,3
-Winnipeg Jets,11,35,66.7,2.0,3.0,49.3,15,6,6,13,7,Edmonton Oilers,5
-Buffalo Sabres,4,37,0.0,0.0,1.0,64.7,7,7,6,24,2,Edmonton Oilers,3
-Boston Bruins,4,22,0.0,0.0,1.0,53.1,13,10,11,31,2,Edmonton Oilers,3
-Toronto Maple Leafs,20,26,33.3,1.0,3.0,46.4,12,7,14,23,7,Edmonton Oilers,4
-Edmonton Oilers,6,32,20.0,1.0,5.0,39.7,16,7,10,19,6,Ottawa Senators,3
-Edmonton Oilers,8,26,0.0,0.0,3.0,57.4,11,15,10,27,4,Dallas Stars,1
-Seattle Kraken,11,23,33.3,1.0,3.0,50.0,11,14,3,16,4,Edmonton Oilers,6
-Edmonton Oilers,6,32,0.0,0.0,2.0,38.5,15,14,21,31,5,San Jose Sharks,4
-Edmonton Oilers,8,17,50.0,1.0,2.0,39.6,13,9,15,27,4,Arizona Coyotes,3
-Edmonton Oilers,6,34,50.0,1.0,2.0,52.3,24,4,10,25,3,Vegas Golden Knights,4
-Arizona Coyotes,8,29,50.0,2.0,4.0,47.5,10,3,4,22,4,Edmonton Oilers,5
-Vegas Golden Knights,6,39,100.0,3.0,3.0,59.4,8,5,3,28,4,Edmonton Oilers,7
-Edmonton Oilers,4,43,0.0,0.0,3.0,56.1,10,11,10,18,2,Los Angeles Kings,0
-Edmonton Oilers,8,36,0.0,0.0,3.0,49.2,10,7,11,20,6,Anaheim Ducks,0
-Los Angeles Kings,10,33,50.0,2.0,4.0,59.6,9,4,1,39,1,Edmonton Oilers,3
-Anaheim Ducks,2,33,0.0,0.0,1.0,58.5,14,4,14,18,1,Edmonton Oilers,3
-San Jose Sharks,4,35,0.0,0.0,1.0,39.2,19,12,6,21,1,Edmonton Oilers,6
-Colorado Avalanche,6,40,25.0,1.0,4.0,50.0,14,9,4,25,1,Edmonton Oilers,2
-Edmonton Oilers,6,29,25.0,1.0,4.0,45.5,15,7,8,10,5,San Jose Sharks,2
-Edmonton Oilers,8,35,33.3,2.0,6.0,42.5,17,8,12,49,3,Los Angeles Kings,4
-Edmonton Oilers,2,24,0.0,0.0,4.0,43.9,20,11,11,52,4,Los Angeles Kings,2
-Los Angeles Kings,14,40,50.0,2.0,4.0,52.4,17,5,8,40,3,Edmonton Oilers,2
-Los Angeles Kings,4,42,66.7,2.0,3.0,47.8,21,2,8,27,4,Edmonton Oilers,5
-Edmonton Oilers,16,28,0.0,0.0,1.0,44.4,8,4,10,43,6,Los Angeles Kings,3
-Los Angeles Kings,6,26,50.0,1.0,2.0,56.9,18,6,12,22,4,Edmonton Oilers,5
-Vegas Golden Knights,10,27,66.7,2.0,3.0,51.6,10,7,10,46,6,Edmonton Oilers,4
-Vegas Golden Knights,54,36,50.0,3.0,6.0,47.7,13,8,2,33,1,Edmonton Oilers,5
-Edmonton Oilers,6,33,0.0,0.0,4.0,48.4,23,6,16,25,1,Vegas Golden Knights,5
-Edmonton Oilers,64,26,0.0,0.0,4.0,50.0,9,3,10,36,4,Vegas Golden Knights,1
-Vegas Golden Knights,14,35,75.0,3.0,4.0,43.3,13,10,14,24,4,Edmonton Oilers,3
-Edmonton Oilers,4,22,0.0,0.0,2.0,50.0,28,7,11,22,2,Vegas Golden Knights,5
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+EDM,WPG,0,9,46.2,27,52,Jets,6,0/4,17,53.8,31,4,22,Oilers,8,0/3
+SEA,EDM,0,12,44.4,19,22,Oilers,14,0/4,14,55.6,23,3,55,Kraken,13,0/6
+CGY,EDM,0,16,52.5,13,22,Oilers,6,0/3,6,47.5,21,4,20,Flames,6,0/3
+EDM,CGY,1,20,45.0,30,20,Flames,18,0/3,11,55.0,27,2,22,Oilers,18,0/3
+WPG,EDM,3,15,50.0,24,22,Oilers,19,1/5,8,50.0,23,2,52,Jets,17,2/6
+EDM,VAN,2,15,37.1,25,23,Canucks,8,1/5,5,62.9,22,7,22,Oilers,10,1/4
+VAN,EDM,4,0,0.0,0,22,Oilers,20,0/3,0,0.0,0,5,23,Canucks,8,3/8
+EDM,SEA,3,18,49.1,24,55,Kraken,4,1/2,7,50.9,36,5,22,Oilers,4,1/2
+EDM,VAN,3,17,52.1,31,23,Canucks,8,1/8,16,47.9,39,5,22,Oilers,16,3/4
+EDM,CGY,4,14,45.5,36,20,Flames,10,1/4,13,54.5,39,3,22,Oilers,10,1/4
+EDM,BUF,4,13,44.4,16,7,Sabres,10,1/4,11,55.6,28,2,22,Oilers,12,0/3
+EDM,CAR,4,11,48.7,18,12,Hurricanes,10,2/5,20,51.3,24,6,22,Oilers,10,2/5
+EDM,STL,2,25,58.1,29,19,Blues,2,1/1,8,41.9,29,0,22,Oilers,2,0/1
+EDM,PIT,3,8,46.0,32,5,Penguins,6,1/5,12,54.0,27,6,22,Oilers,10,1/3
+STL,EDM,3,9,56.7,8,22,Oilers,6,0/2,21,43.3,21,1,19,Blues,4,1/3
+CHI,EDM,6,7,45.3,14,22,Oilers,22,3/7,7,54.7,29,5,16,Blackhawks,18,2/10
+CGY,EDM,3,16,51.5,29,22,Oilers,6,1/4,13,48.5,31,2,20,Flames,8,0/3
+EDM,NSH,4,24,46.3,60,18,Predators,17,2/2,10,53.7,27,7,22,Oilers,9,2/6
+EDM,NJD,4,10,43.8,24,1,Devils,4,0/3,19,56.3,27,3,22,Oilers,6,1/2
+EDM,DAL,6,13,50.0,25,25,Stars,12,2/3,12,50.0,32,2,22,Oilers,6,1/6
+WSH,EDM,4,19,47.8,21,22,Oilers,12,0/1,13,52.2,15,5,15,Capitals,4,4/5
+TBL,EDM,3,19,46.7,33,22,Oilers,10,2/4,13,53.3,25,2,14,Lightning,8,0/5
+CAR,EDM,2,17,44.4,21,22,Oilers,8,1/2,5,55.6,12,7,12,Hurricanes,4,1/4
+FLA,EDM,4,14,53.4,15,22,Oilers,6,1/5,8,46.6,15,2,13,Panthers,10,1/3
+EDM,LAK,3,29,55.6,27,26,Kings,6,0/3,8,44.4,39,1,22,Oilers,10,0/1
+EDM,VGK,3,13,55.6,20,54,Golden Knights,6,0/3,16,44.4,31,4,22,Oilers,6,1/3
+NJD,EDM,2,13,53.7,18,22,Oilers,6,1/4,11,46.3,20,5,1,Devils,8,1/3
+NYI,EDM,0,9,47.9,17,22,Oilers,4,0/5,14,52.1,20,3,2,Islanders,10,1/2
+NYR,EDM,4,9,50.9,17,22,Oilers,6,1/3,12,49.1,21,3,3,Rangers,6,0/3
+EDM,FLA,3,16,42.2,26,13,Panthers,10,1/4,9,57.8,17,4,22,Oilers,8,1/5
+CHI,EDM,5,16,39.1,14,22,Oilers,12,0/4,14,60.9,21,4,16,Blackhawks,8,2/6
+MIN,EDM,3,14,52.6,19,22,Oilers,6,1/3,16,47.4,17,5,30,Wild,6,2/3
+EDM,MTL,3,12,60.0,32,8,Canadiens,23,2/3,13,40.0,31,5,22,Oilers,6,3/5
+EDM,WSH,3,15,51.8,27,15,Capitals,2,1/3,14,48.2,19,2,22,Oilers,6,0/1
+EDM,ARI,2,16,49.0,29,53,Coyotes,27,0/2,8,51.0,14,8,22,Oilers,11,2/5
+EDM,MIN,2,13,50.6,24,30,Wild,6,1/5,15,49.4,22,5,22,Oilers,10,2/3
+MIN,EDM,1,7,60.8,11,22,Oilers,6,1/5,13,39.2,15,2,30,Wild,10,1/3
+NSH,EDM,6,15,48.3,23,22,Oilers,10,2/2,11,51.7,31,3,18,Predators,4,0/5
+EDM,STL,4,10,52.6,26,19,Blues,10,0/4,14,47.4,14,3,22,Oilers,8,2/5
+EDM,ANA,4,13,56.7,18,24,Ducks,16,1/2,9,43.3,24,3,22,Oilers,8,2/6
+NSH,EDM,3,9,46.2,22,22,Oilers,4,2/3,15,53.8,20,4,18,Predators,6,1/2
+DAL,EDM,6,12,40.7,28,22,Oilers,10,1/2,15,59.3,22,3,25,Stars,6,1/4
+EDM,VAN,5,20,41.5,24,23,Canucks,6,1/2,16,58.5,28,2,22,Oilers,4,0/3
+CGY,EDM,2,25,46.6,13,22,Oilers,2,1/3,6,53.4,20,1,20,Flames,6,0/1
+SEA,EDM,7,20,44.6,13,22,Oilers,13,2/2,18,55.4,29,2,55,Kraken,11,0/3
+EDM,WPG,2,20,55.3,23,52,Jets,10,1/3,7,44.7,36,1,22,Oilers,6,0/5
+EDM,SEA,5,18,38.7,38,55,Kraken,6,1/3,9,61.3,31,2,22,Oilers,6,1/3
+EDM,NYI,2,20,52.9,44,2,Islanders,8,0/3,13,47.1,25,4,22,Oilers,6,1/4
+EDM,COL,3,13,45.5,21,21,Avalanche,12,0/4,16,54.5,24,2,22,Oilers,10,2/5
+LAK,EDM,3,9,42.6,22,22,Oilers,41,0/6,22,57.4,26,6,26,Kings,29,4/7
+ANA,EDM,6,8,54.0,15,22,Oilers,6,1/3,16,46.0,23,2,24,Ducks,6,0/3
+SJS,EDM,7,13,34.9,11,22,Oilers,8,2/4,11,65.1,29,1,28,Sharks,8,0/4
+VGK,EDM,4,13,53.1,30,22,Oilers,4,0/1,12,46.9,36,3,54,Golden Knights,2,0/2
+EDM,SEA,2,13,50.0,43,55,Kraken,6,1/4,14,50.0,36,5,22,Oilers,8,0/3
+EDM,TBL,3,19,55.0,27,14,Lightning,24,0/2,10,45.0,23,5,22,Oilers,20,1/4
+VAN,EDM,4,12,54.7,16,22,Oilers,6,1/1,7,45.3,22,2,23,Canucks,4,0/2
+EDM,CBJ,3,24,43.4,32,29,Blue Jackets,2,0/2,20,56.6,19,2,22,Oilers,4,1/1
+EDM,CHI,3,17,42.6,27,16,Blackhawks,11,1/3,17,57.4,21,7,22,Oilers,11,2/3
+DET,EDM,5,12,49.1,20,22,Oilers,18,1/4,9,50.9,16,2,17,Red Wings,14,0/5
+PHI,EDM,1,17,48.1,13,22,Oilers,6,0/0,11,51.9,23,2,4,Flyers,0,0/3
+OTT,EDM,6,13,50.8,25,22,Oilers,13,1/5,18,49.2,34,3,9,Senators,15,1/4
+MTL,EDM,2,14,72.5,9,22,Oilers,15,1/6,24,27.5,9,6,8,Canadiens,21,2/3
+EDM,DET,5,19,46.2,28,17,Red Wings,6,2/2,4,53.8,24,4,22,Oilers,4,1/3
+EDM,NYR,5,17,48.4,29,3,Rangers,8,2/4,12,51.6,20,4,22,Oilers,8,2/4
+COL,EDM,5,15,46.8,27,22,Oilers,8,0/1,22,53.2,16,6,21,Avalanche,2,0/4
+EDM,PHI,2,17,44.8,20,4,Flyers,8,0/3,13,55.2,28,4,22,Oilers,6,2/4
+PIT,EDM,7,11,41.1,18,22,Oilers,8,2/3,11,58.9,36,2,5,Penguins,6,1/4
+CBJ,EDM,5,8,63.9,17,22,Oilers,10,1/4,16,36.1,14,6,29,Blue Jackets,20,1/4
+EDM,BOS,3,15,42.9,23,6,Bruins,4,0/5,20,57.1,22,2,22,Oilers,10,0/1
+EDM,TOR,2,13,56.5,22,10,Maple Leafs,13,1/3,14,43.5,25,5,22,Oilers,11,1/4
+EDM,WPG,3,12,49.2,25,52,Jets,20,1/3,9,50.8,11,6,22,Oilers,8,2/9
+WPG,EDM,5,15,49.3,13,22,Oilers,11,2/3,19,50.7,29,7,52,Jets,11,1/3
+BUF,EDM,3,7,64.7,24,22,Oilers,4,0/1,11,35.3,18,2,7,Sabres,2,1/2
+BOS,EDM,3,13,53.1,31,22,Oilers,4,0/1,11,46.9,33,2,6,Bruins,2,0/2
+TOR,EDM,4,12,46.4,23,22,Oilers,20,1/3,10,53.6,22,7,10,Maple Leafs,16,2/5
+EDM,OTT,3,16,39.7,19,9,Senators,6,1/5,7,60.3,23,6,22,Oilers,10,1/3
+EDM,DAL,1,11,57.4,27,25,Stars,8,0/3,14,42.6,27,4,22,Oilers,6,1/4
+SEA,EDM,6,11,50.0,16,22,Oilers,11,1/3,8,50.0,24,4,55,Kraken,13,0/2
+EDM,SJS,4,15,38.5,31,28,Sharks,6,0/2,11,61.5,23,5,22,Oilers,4,0/3
+EDM,ARI,3,13,39.6,27,53,Coyotes,8,1/2,8,60.4,25,4,22,Oilers,4,2/4
+EDM,VGK,4,24,52.3,25,54,Golden Knights,6,1/2,15,47.7,36,3,22,Oilers,6,1/2
+ARI,EDM,5,10,47.5,22,22,Oilers,8,2/4,19,52.5,33,4,53,Coyotes,8,1/4
+VGK,EDM,7,8,59.4,28,22,Oilers,6,3/3,18,40.6,19,4,54,Golden Knights,6,0/3
+EDM,LAK,0,10,56.1,18,26,Kings,4,0/3,15,43.9,34,2,22,Oilers,6,0/2
+EDM,ANA,0,10,49.2,20,24,Ducks,8,0/3,9,50.8,16,6,22,Oilers,8,1/3
+LAK,EDM,3,9,59.6,39,22,Oilers,10,2/4,17,40.4,23,1,26,Kings,10,0/4
+ANA,EDM,3,14,58.5,18,22,Oilers,2,0/1,9,41.5,10,1,24,Ducks,2,0/1
+SJS,EDM,6,19,39.2,21,22,Oilers,4,0/1,9,60.8,24,1,28,Sharks,2,0/2
+COL,EDM,2,14,50.0,25,22,Oilers,6,1/4,14,50.0,13,1,21,Avalanche,8,0/3
+EDM,SJS,2,15,45.5,10,28,Sharks,6,1/4,10,54.5,15,5,22,Oilers,8,1/3
+EDM,LAK,4,17,42.5,49,26,Kings,8,2/6,19,57.5,50,3,22,Oilers,14,1/3
+EDM,LAK,2,20,43.9,52,26,Kings,2,0/4,22,56.1,60,4,22,Oilers,8,1/1
+LAK,EDM,2,17,52.4,40,22,Oilers,14,2/4,23,47.6,47,3,26,Kings,12,2/5
+LAK,EDM,5,21,47.8,27,22,Oilers,4,2/3,16,52.2,40,4,26,Kings,6,1/2
+EDM,LAK,3,8,44.4,43,26,Kings,16,0/1,16,55.6,48,6,22,Oilers,12,2/3
+LAK,EDM,5,18,56.9,22,22,Oilers,6,1/2,11,43.1,32,4,26,Kings,4,2/3
+VGK,EDM,4,10,51.6,46,22,Oilers,10,2/3,23,48.4,27,6,54,Golden Knights,8,2/4
+VGK,EDM,5,13,47.7,33,22,Oilers,54,3/6,17,52.3,39,1,54,Golden Knights,70,0/3
+EDM,VGK,5,23,48.4,25,54,Golden Knights,6,0/4,13,51.6,50,1,22,Oilers,10,0/2
+EDM,VGK,1,9,50.0,36,54,Golden Knights,64,0/4,15,50.0,46,4,22,Oilers,47,1/7
+VGK,EDM,3,13,43.3,24,22,Oilers,14,3/4,14,56.7,24,4,54,Golden Knights,21,2/7
+EDM,VGK,5,28,50.0,22,54,Golden Knights,4,0/2,14,50.0,45,2,22,Oilers,4,0/1

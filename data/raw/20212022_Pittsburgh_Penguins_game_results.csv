@@ -1,0 +1,96 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+PIT,CBJ,3,19,37.7,19,29,Blue Jackets,10,0/3,7,62.3,21,0,5,Penguins,6,0/5
+BUF,PIT,2,14,50.0,7,5,Penguins,9,0/2,8,50.0,9,1,7,Sabres,9,1/2
+PIT,DET,1,8,50.0,30,17,Red Wings,11,1/4,11,50.0,21,5,5,Penguins,13,1/3
+PIT,BUF,4,11,46.3,19,7,Sabres,4,1/2,9,53.7,19,5,5,Penguins,4,0/2
+DET,PIT,2,11,39.6,20,5,Penguins,10,1/2,14,60.4,14,4,17,Red Wings,6,0/4
+CBJ,PIT,4,14,53.1,18,5,Penguins,23,1/5,11,46.9,22,3,29,Blue Jackets,12,0/3
+TBL,PIT,6,15,49.3,28,5,Penguins,2,0/1,11,50.7,31,2,14,Lightning,2,0/1
+FLA,PIT,4,11,45.7,22,5,Penguins,12,2/9,17,54.3,23,5,13,Panthers,18,0/6
+PIT,CHI,2,9,54.1,31,16,Blackhawks,6,1/3,13,45.9,26,5,5,Penguins,8,0/2
+PIT,DAL,2,16,58.3,38,25,Stars,2,0/0,8,41.7,32,1,5,Penguins,2,0/0
+PIT,TOR,1,8,36.1,20,10,Maple Leafs,17,0/3,17,63.9,33,7,5,Penguins,13,1/5
+PIT,TBL,5,13,51.8,34,14,Lightning,15,0/2,11,48.2,27,1,5,Penguins,11,1/4
+PIT,CGY,4,15,50.0,32,20,Flames,8,0/2,12,50.0,24,0,5,Penguins,4,0/4
+PIT,NJD,4,13,47.7,27,1,Devils,10,0/2,14,52.3,29,2,5,Penguins,4,0/5
+PIT,PHI,2,14,47.4,20,4,Flyers,4,1/3,16,52.6,39,3,5,Penguins,6,0/2
+PIT,MIN,5,13,50.7,28,30,Wild,4,0/2,21,49.3,39,4,5,Penguins,4,0/2
+CHI,PIT,2,8,47.5,36,5,Penguins,6,0/3,21,52.5,30,3,16,Blackhawks,8,0/2
+PIT,FLA,2,14,42.3,28,13,Panthers,6,0/4,11,57.7,31,3,5,Penguins,8,0/3
+OTT,PIT,3,17,48.1,16,5,Penguins,8,0/4,16,51.9,30,6,9,Senators,10,2/3
+WSH,PIT,1,18,51.0,18,5,Penguins,6,0/2,12,49.0,27,6,15,Capitals,4,1/3
+PIT,BUF,2,18,44.8,25,7,Sabres,13,0/5,7,55.2,31,1,5,Penguins,15,1/4
+MTL,PIT,6,19,55.0,12,5,Penguins,2,1/1,15,45.0,29,0,8,Canadiens,2,0/1
+TOR,PIT,2,20,46.3,26,5,Penguins,8,0/1,10,53.7,29,0,10,Maple Leafs,2,0/4
+WPG,PIT,3,7,55.1,25,5,Penguins,4,0/2,13,44.9,23,1,52,Jets,4,0/2
+PIT,VAN,1,12,62.3,31,23,Canucks,10,0/1,12,37.7,26,4,5,Penguins,4,1/4
+NYI,PIT,1,13,41.3,20,5,Penguins,8,0/1,18,58.7,29,0,2,Islanders,6,0/2
+PIT,MTL,6,11,44.3,37,8,Canadiens,6,0/4,10,55.7,24,3,5,Penguins,8,1/3
+CGY,PIT,1,20,56.3,14,5,Penguins,2,1/1,6,43.8,12,2,20,Flames,4,0/0
+EDM,PIT,2,13,51.7,45,5,Penguins,6,0/3,16,48.3,15,5,22,Oilers,6,0/3
+VAN,PIT,4,15,57.1,16,5,Penguins,8,2/6,21,42.9,18,1,23,Canucks,24,0/3
+SEA,PIT,6,11,57.1,23,5,Penguins,2,0/0,6,42.9,24,1,55,Kraken,0,0/1
+WSH,PIT,4,12,59.3,24,5,Penguins,4,0/1,11,40.7,32,2,15,Capitals,2,0/2
+PIT,ANA,0,14,45.5,21,24,Ducks,2,0/2,12,54.5,27,1,5,Penguins,4,0/1
+PIT,MTL,2,11,36.8,29,8,Canadiens,10,0/2,16,63.2,22,5,5,Penguins,4,1/5
+PIT,BUF,2,12,45.5,32,7,Sabres,18,0/3,8,54.5,28,3,5,Penguins,16,1/4
+NJD,PIT,3,18,51.2,13,5,Penguins,14,0/2,9,48.8,17,2,1,Devils,8,1/5
+PIT,SJS,5,12,65.6,51,28,Sharks,6,1/2,9,34.4,32,8,5,Penguins,4,1/3
+PIT,STL,3,14,43.3,25,19,Blues,22,1/1,9,56.7,28,5,5,Penguins,4,2/5
+PHI,PIT,6,15,53.8,17,5,Penguins,10,1/1,12,46.2,30,2,4,Flyers,16,0/3
+DAL,PIT,2,17,48.2,22,5,Penguins,4,0/3,16,51.8,25,3,25,Stars,8,0/1
+ANA,PIT,4,9,65.5,12,5,Penguins,6,1/3,18,34.5,14,1,24,Ducks,6,0/3
+LAK,PIT,2,10,41.5,16,5,Penguins,6,0/1,12,58.5,15,6,26,Kings,2,1/3
+SJS,PIT,2,16,33.3,21,5,Penguins,8,0/1,18,66.7,28,1,28,Sharks,2,0/4
+VGK,PIT,5,17,45.6,32,5,Penguins,4,1/3,12,54.4,26,3,54,Golden Knights,6,1/2
+PIT,OTT,4,9,53.2,56,9,Senators,20,0/3,20,46.8,45,6,5,Penguins,18,1/4
+CBJ,PIT,5,14,49.0,9,5,Penguins,4,1/6,20,51.0,26,2,29,Blue Jackets,12,0/2
+PIT,WPG,2,12,56.9,47,52,Jets,13,1/1,14,43.1,19,3,5,Penguins,9,0/4
+PIT,ARI,3,14,48.0,32,53,Coyotes,6,1/2,6,52.0,22,6,5,Penguins,4,2/3
+PIT,SEA,2,20,37.0,29,55,Kraken,4,0/2,14,63.0,33,1,5,Penguins,4,1/2
+PIT,DET,3,10,41.9,23,17,Red Wings,8,1/2,17,58.1,25,2,5,Penguins,6,1/3
+PIT,LAK,4,12,49.2,12,26,Kings,8,0/3,13,50.8,56,3,5,Penguins,6,2/4
+PIT,WSH,4,17,48.5,28,15,Capitals,10,1/2,12,51.5,20,3,5,Penguins,4,3/5
+BOS,PIT,4,19,44.6,30,5,Penguins,8,1/4,13,55.4,22,2,6,Bruins,20,1/3
+OTT,PIT,2,14,48.9,33,5,Penguins,2,0/2,14,51.1,39,0,9,Senators,4,0/1
+NJD,PIT,4,10,55.3,20,5,Penguins,4,0/3,20,44.7,19,2,1,Devils,6,0/2
+PIT,PHI,4,14,57.6,17,4,Flyers,8,0/4,14,42.4,20,5,5,Penguins,8,2/4
+TOR,PIT,1,13,44.4,25,5,Penguins,4,0/5,9,55.6,20,4,10,Maple Leafs,10,1/2
+PIT,CAR,4,8,52.5,28,12,Hurricanes,8,1/2,5,47.5,20,3,5,Penguins,4,1/4
+PIT,NJD,6,13,47.3,21,1,Devils,10,2/5,12,52.7,23,1,5,Penguins,12,1/4
+PIT,NYR,0,16,54.2,43,3,Rangers,10,0/2,19,45.8,39,1,5,Penguins,10,1/2
+CBJ,PIT,3,5,54.2,16,5,Penguins,4,1/4,13,45.8,16,2,29,Blue Jackets,20,0/1
+TBL,PIT,5,12,50.8,15,5,Penguins,21,1/3,16,49.2,29,1,14,Lightning,25,0/1
+CAR,PIT,2,15,50.0,25,5,Penguins,11,0/2,9,50.0,23,3,12,Hurricanes,9,1/3
+PIT,FLA,4,11,42.2,22,13,Panthers,6,1/2,15,57.8,34,3,5,Penguins,4,0/3
+PIT,VGK,2,14,52.7,29,54,Golden Knights,8,0/2,10,47.3,34,5,5,Penguins,6,1/3
+PIT,CAR,2,7,40.3,36,12,Hurricanes,6,0/1,17,59.7,29,4,5,Penguins,2,0/3
+NSH,PIT,1,10,47.8,14,5,Penguins,12,0/4,14,52.2,36,4,18,Predators,10,0/5
+STL,PIT,3,7,48.2,17,5,Penguins,10,0/4,16,51.8,30,2,19,Blues,10,0/5
+ARI,PIT,4,8,49.0,25,5,Penguins,4,0/3,16,51.0,26,1,53,Coyotes,6,0/2
+PIT,CBJ,1,14,39.2,26,29,Blue Jackets,8,1/4,10,60.8,9,5,5,Penguins,8,1/4
+BUF,PIT,3,13,48.2,14,5,Penguins,6,2/2,10,51.8,4,4,7,Sabres,4,0/3
+NYR,PIT,1,18,61.9,24,5,Penguins,2,1/4,13,38.1,25,5,3,Rangers,8,0/1
+PIT,DET,2,8,55.0,22,17,Red Wings,12,1/5,20,45.0,26,11,5,Penguins,10,3/6
+PIT,NYR,3,13,45.8,38,3,Rangers,8,1/1,19,54.2,32,2,5,Penguins,4,1/3
+MIN,PIT,4,11,55.2,19,5,Penguins,8,1/5,17,44.8,12,3,30,Wild,10,1/4
+COL,PIT,2,6,44.4,17,5,Penguins,0,0/1,14,55.6,20,3,21,Avalanche,2,0/0
+PIT,COL,6,12,37.1,31,21,Avalanche,4,0/3,9,62.9,26,4,5,Penguins,6,0/2
+NYR,PIT,0,16,47.9,28,5,Penguins,6,0/3,17,52.1,22,3,3,Rangers,8,0/2
+PIT,WSH,6,20,52.2,39,15,Capitals,11,1/4,11,47.8,33,3,5,Penguins,13,0/3
+PIT,NSH,2,13,52.6,41,18,Predators,9,0/4,20,47.4,27,3,5,Penguins,15,0/1
+NYI,PIT,4,17,43.1,17,5,Penguins,6,1/5,14,56.9,16,5,2,Islanders,10,1/3
+PIT,NYI,3,12,52.7,33,2,Islanders,6,0/5,19,47.3,24,6,5,Penguins,10,0/2
+BOS,PIT,1,10,55.4,12,5,Penguins,4,0/3,6,44.6,9,2,6,Bruins,6,0/2
+PIT,BOS,0,8,51.6,36,6,Bruins,2,0/2,14,48.4,26,4,5,Penguins,4,0/1
+DET,PIT,7,11,63.0,17,5,Penguins,6,1/1,9,37.0,26,2,17,Red Wings,2,1/2
+PHI,PIT,1,16,50.0,12,5,Penguins,6,0/2,19,50.0,24,4,4,Flyers,4,1/3
+PIT,EDM,5,18,48.2,22,22,Oilers,8,2/4,12,51.8,25,1,5,Penguins,8,0/4
+PIT,CBJ,3,9,34.4,16,29,Blue Jackets,10,2/5,20,65.6,18,5,5,Penguins,14,0/3
+NYR,PIT,4,21,52.9,33,5,Penguins,2,1/4,31,47.1,43,3,3,Rangers,8,1/1
+NYR,PIT,2,12,53.4,27,5,Penguins,12,0/2,8,46.6,40,5,3,Rangers,8,1/4
+PIT,NYR,4,9,41.1,34,3,Rangers,6,0/3,15,58.9,33,7,5,Penguins,6,2/3
+PIT,NYR,2,10,39.6,49,3,Rangers,6,0/1,18,60.4,54,7,5,Penguins,2,1/3
+NYR,PIT,3,19,67.2,24,5,Penguins,8,0/3,12,32.8,32,5,3,Rangers,8,1/3
+PIT,NYR,5,16,41.8,21,3,Rangers,8,2/3,12,58.2,26,3,5,Penguins,8,0/3
+NYR,PIT,3,20,50.8,14,5,Penguins,10,2/5,18,49.2,25,4,3,Rangers,12,1/4

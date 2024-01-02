@@ -2,12 +2,12 @@
     {
         "venue": "T-Mobile Park",
         "home team name": "SEA",
-        "home team percentage chance of winning": 0.41500728340087456,
-        "predicted home team goals": 2,
+        "home team percentage chance of winning": 0.4427607514850569,
+        "predicted home team goals": 2.0,
         "away team name": "VGK",
-        "away team percentage chance of winning": 0.5849927165991254,
-        "predicted away team goals": 3,
-        "reason": "SEA are the underdogs because they have 14 wins, 14 losses, 9 overtime losses, and 1 losses in their last 10, while VGK have 22 wins, 10 losses, 5 overtime losses, and 5 losses in their last 10",
+        "away team percentage chance of winning": 0.557239248514943,
+        "predicted away team goals": 3.0,
+        "reason": "The away team is expected to win because they have a more wins than the home team. The home team SEA has had 14 wins, 14 losses, 9 Overtime losses overall, while the away team VGK 22 wins, 10 losses, 5 Overtime losses overall.",
         "confidence rating": "low"
     }
 ]

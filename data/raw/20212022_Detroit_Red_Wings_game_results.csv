@@ -1,0 +1,91 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+CHI,DET,4,16,50.7,29,17,Red Wings,10,0/1,12,49.3,34,3,16,Blackhawks,2,0/5
+DET,BUF,2,11,43.1,20,7,Sabres,10,1/2,9,56.9,19,6,17,Red Wings,16,0/4
+DET,CBJ,1,7,52.0,19,29,Blue Jackets,12,0/3,14,48.0,17,5,17,Red Wings,8,3/5
+PIT,DET,1,8,50.0,30,17,Red Wings,11,1/4,11,50.0,21,5,5,Penguins,13,1/3
+DET,CHI,6,11,57.1,12,16,Blackhawks,10,1/3,9,42.9,16,4,17,Red Wings,6,4/5
+CBJ,DET,2,19,44.0,21,17,Red Wings,8,0/1,9,56.0,19,4,29,Blue Jackets,2,3/4
+DET,PIT,2,11,39.6,20,5,Penguins,10,1/2,14,60.4,14,4,17,Red Wings,6,0/4
+BUF,DET,1,10,48.1,7,17,Red Wings,2,0/1,6,51.9,2,3,7,Sabres,2,0/1
+DET,TBL,7,10,53.6,13,14,Lightning,20,3/7,12,46.4,16,6,17,Red Wings,26,1/5
+DET,VAN,1,13,45.2,5,23,Canucks,24,0/3,19,54.8,15,3,17,Red Wings,26,1/2
+DET,CBJ,1,7,50.8,11,29,Blue Jackets,8,1/4,12,49.2,11,4,17,Red Wings,8,0/4
+DET,CGY,3,7,51.1,22,20,Flames,11,0/2,13,48.9,13,0,17,Red Wings,9,0/3
+MTL,DET,1,30,52.1,15,17,Red Wings,8,1/3,16,47.9,13,6,8,Canadiens,6,1/4
+CHI,DET,6,19,47.3,23,17,Red Wings,12,1/8,8,52.7,41,3,16,Blackhawks,16,1/5
+WSH,DET,3,6,57.7,12,17,Red Wings,8,0/2,11,42.3,10,2,15,Capitals,4,2/4
+DET,FLA,3,9,41.4,18,13,Panthers,8,0/3,23,58.6,23,2,17,Red Wings,6,0/4
+TOR,DET,4,15,35.6,21,17,Red Wings,4,1/2,14,64.4,23,5,10,Maple Leafs,4,1/2
+MTL,DET,0,11,50.9,28,17,Red Wings,2,0/2,13,49.1,21,3,8,Canadiens,4,0/1
+BOS,DET,1,10,40.7,25,17,Red Wings,12,1/4,11,59.3,24,5,6,Bruins,10,3/5
+BUF,DET,4,12,57.1,13,17,Red Wings,4,0/1,12,42.9,7,3,7,Sabres,2,1/2
+DET,VGK,2,11,56.4,10,54,Golden Knights,8,0/3,17,43.6,20,5,17,Red Wings,6,2/4
+DET,EDM,2,8,51.8,10,22,Oilers,4,0/2,17,48.2,15,4,17,Red Wings,4,0/2
+DET,WSH,2,15,48.0,17,15,Capitals,8,0/4,8,52.0,11,0,17,Red Wings,8,0/4
+DET,MTL,2,10,53.7,25,8,Canadiens,6,0/3,14,46.3,22,3,17,Red Wings,8,0/2
+CBJ,DET,3,14,56.0,24,17,Red Wings,8,0/1,12,44.0,28,5,29,Blue Jackets,4,0/3
+DAL,DET,2,14,51.7,15,17,Red Wings,2,1/1,15,48.3,14,5,25,Stars,2,0/1
+VGK,DET,2,16,41.9,26,17,Red Wings,9,0/1,16,58.1,26,5,54,Golden Knights,7,0/2
+ARI,DET,1,13,37.0,11,17,Red Wings,2,0/2,12,63.0,21,2,53,Coyotes,4,0/1
+DET,STL,2,13,45.6,15,19,Blues,0,1/3,16,54.4,13,4,17,Red Wings,6,0/0
+DET,BUF,2,8,44.2,9,7,Sabres,8,0/0,15,55.8,12,3,17,Red Wings,2,0/3
+BOS,DET,2,14,52.4,28,17,Red Wings,8,0/1,9,47.6,30,1,6,Bruins,4,1/3
+DET,SEA,3,11,46.9,22,55,Kraken,6,1/3,9,53.1,22,4,17,Red Wings,6,1/3
+DET,NYI,3,17,58.2,25,2,Islanders,21,2/3,20,41.8,7,4,17,Red Wings,11,0/3
+DET,NSH,5,16,43.9,27,18,Predators,14,1/2,17,56.1,25,2,17,Red Wings,16,1/2
+STL,DET,2,10,62.8,16,17,Red Wings,6,0/1,13,37.2,11,6,19,Blues,2,0/3
+COL,DET,3,17,50.0,13,17,Red Wings,6,1/4,8,50.0,12,7,21,Avalanche,8,0/3
+DET,NYI,1,13,49.0,15,2,Islanders,6,0/1,15,51.0,8,2,17,Red Wings,2,1/3
+CAR,DET,3,12,40.0,15,17,Red Wings,2,0/3,12,60.0,12,5,12,Hurricanes,6,1/1
+DET,NJD,2,14,48.1,21,1,Devils,8,0/2,16,51.9,10,5,17,Red Wings,6,0/3
+DET,WSH,3,15,34.8,19,15,Capitals,8,1/3,13,65.2,18,1,17,Red Wings,8,0/3
+DET,BOS,5,14,49.1,15,6,Bruins,17,0/3,10,50.9,26,1,17,Red Wings,15,0/4
+DET,SJS,2,9,52.4,27,28,Sharks,25,0/3,12,47.6,14,6,17,Red Wings,38,0/3
+LAK,DET,0,16,44.6,27,17,Red Wings,11,0/2,16,55.4,18,4,26,Kings,9,0/3
+ANA,DET,3,12,51.7,28,17,Red Wings,19,1/4,14,48.3,19,4,24,Ducks,13,1/2
+SJS,DET,2,15,48.1,28,17,Red Wings,11,1/3,6,51.9,20,3,28,Sharks,11,1/3
+DET,WPG,3,18,39.7,14,52,Jets,14,0/1,22,60.3,10,0,17,Red Wings,6,0/5
+DET,BUF,0,9,38.5,7,7,Sabres,10,0/5,17,61.5,11,4,17,Red Wings,10,2/5
+BUF,DET,3,6,65.2,9,17,Red Wings,8,0/1,13,34.8,10,2,7,Sabres,6,0/2
+DET,DAL,5,15,50.7,18,25,Stars,8,1/5,11,49.3,8,4,17,Red Wings,10,1/4
+NSH,DET,1,8,44.2,24,17,Red Wings,18,0/5,14,55.8,34,4,18,Predators,22,1/3
+DET,CHI,8,19,50.8,7,16,Blackhawks,8,2/3,13,49.2,12,5,17,Red Wings,18,1/3
+PIT,DET,3,10,41.9,23,17,Red Wings,8,1/2,17,58.1,25,2,5,Penguins,6,1/3
+DET,TOR,7,11,60.0,6,10,Maple Leafs,4,1/2,14,40.0,10,4,17,Red Wings,6,1/1
+DET,ANA,1,15,40.4,12,24,Ducks,4,0/0,16,59.6,10,2,17,Red Wings,2,0/1
+DET,LAK,5,9,53.8,6,26,Kings,14,0/2,8,46.2,23,3,17,Red Wings,16,0/1
+PHI,DET,6,14,53.6,16,17,Red Wings,10,1/3,13,46.4,24,3,4,Flyers,6,0/5
+DET,PHI,2,9,47.9,19,4,Flyers,4,1/3,8,52.1,21,4,17,Red Wings,6,1/2
+MIN,DET,4,8,54.4,16,17,Red Wings,15,1/6,10,45.6,12,7,30,Wild,19,3/4
+NYR,DET,3,17,54.5,15,17,Red Wings,4,0/3,12,45.5,13,2,3,Rangers,8,1/1
+DET,COL,5,18,42.6,12,21,Avalanche,8,0/3,16,57.4,11,2,17,Red Wings,8,1/3
+DET,TOR,10,7,58.9,9,10,Maple Leafs,6,0/0,16,41.1,14,7,17,Red Wings,0,0/3
+DET,CAR,3,13,50.7,18,12,Hurricanes,8,1/2,11,49.3,19,4,17,Red Wings,4,1/4
+TBL,DET,1,10,47.2,23,17,Red Wings,8,0/2,10,52.8,31,3,14,Lightning,4,3/4
+FLA,DET,2,15,35.7,17,17,Red Wings,6,0/2,10,64.3,24,6,13,Panthers,4,2/3
+DET,ARI,9,9,35.5,22,53,Coyotes,14,0/1,10,64.5,33,2,17,Red Wings,8,2/4
+DET,MIN,6,10,39.0,38,30,Wild,14,1/1,9,61.0,37,5,17,Red Wings,8,1/4
+CGY,DET,0,15,41.1,13,17,Red Wings,11,0/2,15,58.9,23,3,20,Flames,9,2/3
+EDM,DET,5,9,38.7,16,17,Red Wings,8,1/1,21,61.3,16,7,22,Oilers,4,1/3
+VAN,DET,1,16,46.7,25,17,Red Wings,16,0/1,16,53.3,18,0,23,Canucks,2,0/3
+SEA,DET,2,13,51.6,11,17,Red Wings,15,1/1,8,48.4,20,4,55,Kraken,7,0/5
+DET,PHI,3,15,49.2,21,4,Flyers,10,0/2,9,50.8,26,6,17,Red Wings,14,0/0
+NYI,DET,2,6,46.2,21,17,Red Wings,2,0/3,20,53.8,20,5,2,Islanders,6,1/1
+DET,TBL,2,17,63.9,20,14,Lightning,10,2/3,20,36.1,17,1,17,Red Wings,6,0/5
+PIT,DET,2,8,55.0,22,17,Red Wings,12,1/5,20,45.0,26,11,5,Penguins,10,3/6
+DET,NYR,5,10,51.1,22,3,Rangers,6,1/2,15,48.9,21,4,17,Red Wings,4,2/3
+DET,OTT,5,11,43.4,36,9,Senators,12,1/2,16,56.6,29,2,17,Red Wings,6,0/5
+OTT,DET,2,21,49.1,31,17,Red Wings,8,0/2,4,50.9,30,5,9,Senators,4,1/4
+DET,BOS,3,9,60.3,28,6,Bruins,34,0/4,7,39.7,31,5,17,Red Wings,22,1/5
+WPG,DET,3,10,48.0,22,17,Red Wings,6,0/4,19,52.0,20,1,52,Jets,8,0/3
+DET,CBJ,5,17,47.5,32,29,Blue Jackets,6,0/5,14,52.5,29,4,17,Red Wings,14,0/1
+DET,OTT,4,15,49.1,33,9,Senators,8,0/2,8,50.9,49,1,17,Red Wings,4,1/4
+CAR,DET,3,11,41.7,22,17,Red Wings,8,0/1,7,58.3,12,0,12,Hurricanes,4,0/3
+NYR,DET,0,15,40.0,18,17,Red Wings,8,0/1,9,60.0,18,4,3,Rangers,2,1/4
+DET,FLA,6,8,44.6,27,13,Panthers,6,0/2,6,55.4,25,1,17,Red Wings,4,0/3
+TBL,DET,4,14,45.8,27,17,Red Wings,6,0/2,11,54.2,18,3,14,Lightning,4,1/3
+FLA,DET,2,21,33.3,27,17,Red Wings,23,0/2,15,66.7,20,5,13,Panthers,8,2/4
+DET,PIT,7,11,63.0,17,5,Penguins,6,1/1,9,37.0,26,2,17,Red Wings,2,1/2
+NJD,DET,3,5,52.3,14,17,Red Wings,4,0/3,9,47.7,17,0,1,Devils,6,0/2
+TOR,DET,0,12,46.8,32,17,Red Wings,4,0/3,10,53.2,15,3,10,Maple Leafs,6,1/2
+NJD,DET,5,18,44.0,14,17,Red Wings,2,0/2,10,56.0,18,3,1,Devils,4,0/1

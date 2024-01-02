@@ -1,95 +1,95 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Carolina Hurricanes,15,21,0.0,0.0,2.0,44.9,12,7,2,25,5,Tampa Bay Lightning,1
-Tampa Bay Lightning,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,Carolina Hurricanes,0
-Tampa Bay Lightning,15,31,0.0,0.0,2.0,54.0,12,10,7,26,0,Nashville Predators,2
-Nashville Predators,34,28,0.0,0.0,6.0,38.3,11,3,5,22,7,Tampa Bay Lightning,1
-Florida Panthers,10,28,0.0,0.0,1.0,51.9,16,8,8,20,3,Tampa Bay Lightning,2
-Tampa Bay Lightning,8,29,0.0,0.0,1.0,48.9,5,15,7,33,5,Florida Panthers,2
-New York Rangers,8,26,16.7,1.0,6.0,36.2,22,8,15,19,3,Tampa Bay Lightning,1
-Columbus Blue Jackets,8,39,50.0,1.0,2.0,28.6,4,2,4,18,2,Tampa Bay Lightning,5
-Pittsburgh Penguins,8,36,25.0,1.0,4.0,38.3,14,4,11,21,6,Tampa Bay Lightning,2
-Tampa Bay Lightning,16,24,50.0,1.0,2.0,37.7,16,6,4,27,2,Philadelphia Flyers,3
-Florida Panthers,14,32,28.6,2.0,7.0,52.9,15,7,5,29,2,Tampa Bay Lightning,3
-Tampa Bay Lightning,6,35,0.0,0.0,3.0,42.6,9,4,4,48,5,New York Islanders,3
-Los Angeles Kings,10,25,0.0,0.0,4.0,45.1,20,2,2,16,4,Tampa Bay Lightning,2
-Anaheim Ducks,4,30,33.3,1.0,3.0,45.3,19,5,5,15,2,Tampa Bay Lightning,4
-San Jose Sharks,6,26,0.0,0.0,2.0,54.5,13,9,9,21,3,Tampa Bay Lightning,4
-Tampa Bay Lightning,26,15,0.0,0.0,3.0,54.9,19,15,4,32,4,Ottawa Senators,3
-Tampa Bay Lightning,12,55,16.7,1.0,6.0,61.8,11,17,8,38,3,Carolina Hurricanes,3
-Tampa Bay Lightning,4,24,33.3,1.0,3.0,50.8,10,10,9,44,5,Buffalo Sabres,3
-Tampa Bay Lightning,10,29,50.0,2.0,4.0,46.7,19,9,4,33,2,Edmonton Oilers,3
-Washington Capitals,41,29,0.0,0.0,3.0,62.2,25,7,5,15,5,Tampa Bay Lightning,1
-Tampa Bay Lightning,20,22,0.0,0.0,6.0,54.7,15,17,11,45,6,Washington Capitals,3
-Tampa Bay Lightning,12,32,100.0,2.0,2.0,48.7,16,7,7,43,5,Dallas Stars,4
-Tampa Bay Lightning,6,40,33.3,1.0,3.0,48.6,13,18,11,46,4,Calgary Flames,1
-Nashville Predators,12,39,40.0,2.0,5.0,50.0,10,3,12,20,2,Tampa Bay Lightning,3
-Tampa Bay Lightning,6,29,50.0,2.0,4.0,52.0,6,12,6,27,3,Boston Bruins,5
-Tampa Bay Lightning,11,27,33.3,1.0,3.0,54.2,10,16,8,29,5,St. Louis Blues,2
-Buffalo Sabres,4,25,75.0,3.0,4.0,60.0,10,9,8,25,5,Tampa Bay Lightning,6
-Boston Bruins,2,28,50.0,1.0,2.0,54.0,13,6,12,15,3,Tampa Bay Lightning,1
-Philadelphia Flyers,6,27,33.3,1.0,3.0,65.2,11,7,3,18,1,Tampa Bay Lightning,4
-Tampa Bay Lightning,16,39,20.0,1.0,5.0,60.7,10,8,5,31,4,Toronto Maple Leafs,3
-Tampa Bay Lightning,6,26,0.0,0.0,1.0,44.0,11,13,1,31,2,Detroit Red Wings,4
-Tampa Bay Lightning,9,36,0.0,0.0,2.0,55.2,16,12,3,45,5,Nashville Predators,2
-Tampa Bay Lightning,8,25,0.0,0.0,4.0,52.6,12,11,6,30,4,Florida Panthers,1
-Tampa Bay Lightning,29,38,0.0,0.0,3.0,53.1,10,20,3,39,6,Seattle Kraken,2
-Tampa Bay Lightning,6,25,0.0,0.0,1.0,51.8,18,13,8,37,4,Columbus Blue Jackets,1
-Montréal Canadiens,13,27,33.3,2.0,6.0,42.3,13,7,12,17,1,Tampa Bay Lightning,5
-Toronto Maple Leafs,6,19,0.0,0.0,1.0,48.9,5,4,11,33,4,Tampa Bay Lightning,1
-Detroit Red Wings,10,38,0.0,0.0,4.0,62.3,14,3,3,17,7,Tampa Bay Lightning,4
-Tampa Bay Lightning,9,26,0.0,0.0,5.0,39.3,13,9,6,25,4,Montréal Canadiens,1
-Tampa Bay Lightning,2,46,0.0,0.0,3.0,38.2,22,4,5,40,1,New York Rangers,1
-Tampa Bay Lightning,11,31,0.0,0.0,1.0,34.6,10,7,4,24,5,Arizona Coyotes,3
-Chicago Blackhawks,12,29,25.0,1.0,4.0,44.3,20,8,5,11,1,Tampa Bay Lightning,4
-Minnesota Wild,10,35,25.0,1.0,4.0,63.2,12,2,3,18,5,Tampa Bay Lightning,1
-Winnipeg Jets,21,28,0.0,0.0,4.0,57.1,14,7,7,11,4,Tampa Bay Lightning,2
-Tampa Bay Lightning,10,24,0.0,0.0,1.0,33.3,13,5,3,41,6,Columbus Blue Jackets,3
-Tampa Bay Lightning,13,40,33.3,1.0,3.0,51.4,16,11,2,36,5,Vancouver Canucks,4
-St. Louis Blues,6,30,50.0,1.0,2.0,58.2,12,19,8,15,2,Tampa Bay Lightning,4
-Seattle Kraken,6,31,0.0,0.0,2.0,60.5,13,5,5,18,1,Tampa Bay Lightning,4
-Vancouver Canucks,8,25,0.0,0.0,1.0,49.1,21,5,2,11,2,Tampa Bay Lightning,5
-Edmonton Oilers,24,31,0.0,0.0,2.0,55.0,19,6,15,27,5,Tampa Bay Lightning,3
-Calgary Flames,27,24,0.0,0.0,6.0,64.5,18,6,15,20,6,Tampa Bay Lightning,3
-Tampa Bay Lightning,15,35,25.0,1.0,4.0,45.6,16,17,6,26,4,Minnesota Wild,2
-Tampa Bay Lightning,15,39,0.0,0.0,2.0,46.0,11,8,2,26,3,Boston Bruins,2
-Tampa Bay Lightning,14,28,0.0,0.0,2.0,41.4,17,7,4,30,5,Los Angeles Kings,2
-Florida Panthers,16,33,0.0,0.0,2.0,53.2,17,2,4,13,7,Tampa Bay Lightning,1
-Tampa Bay Lightning,17,22,66.7,2.0,3.0,48.5,27,24,3,35,3,San Jose Sharks,4
-Tampa Bay Lightning,26,30,0.0,0.0,2.0,30.6,17,5,1,34,5,Colorado Avalanche,0
-Dallas Stars,10,31,0.0,0.0,1.0,49.1,15,2,14,15,1,Tampa Bay Lightning,3
-Colorado Avalanche,9,35,0.0,0.0,4.0,53.7,11,7,8,31,3,Tampa Bay Lightning,3
-Arizona Coyotes,4,47,0.0,0.0,5.0,47.9,14,4,9,20,0,Tampa Bay Lightning,0
-Vegas Golden Knights,6,24,33.3,1.0,3.0,54.5,15,7,8,25,5,Tampa Bay Lightning,4
-Tampa Bay Lightning,30,25,0.0,0.0,4.0,38.2,13,6,3,31,6,Anaheim Ducks,1
-Tampa Bay Lightning,6,23,50.0,1.0,2.0,54.7,9,5,3,42,5,Buffalo Sabres,6
-Detroit Red Wings,8,18,0.0,0.0,2.0,51.9,29,3,5,9,0,Tampa Bay Lightning,3
-Pittsburgh Penguins,4,29,33.3,1.0,3.0,45.5,15,6,14,28,7,Tampa Bay Lightning,3
-Tampa Bay Lightning,10,41,0.0,0.0,2.0,46.2,22,6,6,27,1,Florida Panthers,4
-Tampa Bay Lightning,10,32,0.0,0.0,5.0,50.0,9,8,9,28,4,Pittsburgh Penguins,5
-Buffalo Sabres,17,36,20.0,1.0,5.0,62.7,12,6,13,28,5,Tampa Bay Lightning,3
-Carolina Hurricanes,22,14,0.0,0.0,2.0,45.9,12,8,15,18,6,Tampa Bay Lightning,0
-Tampa Bay Lightning,23,35,0.0,0.0,3.0,37.5,23,10,6,27,5,Philadelphia Flyers,2
-Tampa Bay Lightning,75,21,50.0,1.0,2.0,52.2,18,10,3,33,3,Vegas Golden Knights,4
-Tampa Bay Lightning,7,23,0.0,0.0,2.0,42.9,14,11,5,36,3,Chicago Blackhawks,1
-Tampa Bay Lightning,6,22,50.0,1.0,2.0,54.9,12,6,4,42,2,Winnipeg Jets,3
-New Jersey Devils,4,30,0.0,0.0,2.0,40.4,19,8,10,12,1,Tampa Bay Lightning,4
-New Jersey Devils,8,24,33.3,1.0,3.0,40.4,19,7,11,16,3,Tampa Bay Lightning,3
-Tampa Bay Lightning,4,21,50.0,1.0,2.0,38.3,20,12,11,37,5,Montréal Canadiens,3
-Tampa Bay Lightning,8,39,0.0,0.0,1.0,62.3,16,14,8,13,2,New Jersey Devils,5
-Montréal Canadiens,6,33,50.0,1.0,2.0,57.4,8,9,8,16,3,Tampa Bay Lightning,2
-Ottawa Senators,18,29,25.0,1.0,4.0,52.8,9,8,10,27,7,Tampa Bay Lightning,2
-Boston Bruins,21,27,0.0,0.0,5.0,34.0,18,6,6,35,2,Tampa Bay Lightning,1
-Carolina Hurricanes,6,21,0.0,0.0,1.0,48.2,7,6,7,28,0,Tampa Bay Lightning,4
-Tampa Bay Lightning,4,31,0.0,0.0,4.0,46.3,16,9,4,36,5,Washington Capitals,1
-Tampa Bay Lightning,16,38,0.0,0.0,3.0,38.6,10,16,3,36,5,New York Islanders,0
-New York Rangers,42,31,33.3,1.0,3.0,55.3,11,7,14,21,6,Tampa Bay Lightning,3
-New York Islanders,6,31,0.0,0.0,1.0,39.1,26,5,11,16,6,Tampa Bay Lightning,1
-Ottawa Senators,18,24,60.0,3.0,5.0,41.4,11,4,10,25,7,Tampa Bay Lightning,4
-Tampa Bay Lightning,28,24,33.3,2.0,6.0,46.8,17,13,3,23,3,Toronto Maple Leafs,4
-Tampa Bay Lightning,6,32,0.0,0.0,2.0,35.8,17,13,4,36,5,Detroit Red Wings,0
-Toronto Maple Leafs,8,34,50.0,4.0,8.0,44.4,20,7,9,39,3,Tampa Bay Lightning,7
-Toronto Maple Leafs,49,22,0.0,0.0,3.0,50.0,16,7,3,53,7,Tampa Bay Lightning,2
-Tampa Bay Lightning,18,27,0.0,0.0,3.0,51.6,26,13,7,62,3,Toronto Maple Leafs,4
-Tampa Bay Lightning,8,37,50.0,2.0,4.0,50.0,28,7,3,46,4,Toronto Maple Leafs,5
-Toronto Maple Leafs,4,38,0.0,0.0,2.0,42.4,13,7,8,37,2,Tampa Bay Lightning,4
-Tampa Bay Lightning,4,22,0.0,0.0,2.0,42.1,29,23,11,42,1,Toronto Maple Leafs,2
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+CAR,TBL,1,12,44.9,25,14,Lightning,15,0/2,8,55.1,8,5,12,Hurricanes,9,3/5
+TBL,CAR,,,,,12,Hurricanes,,,,,,,14,Lightning,,
+TBL,NSH,2,12,54.0,26,18,Predators,15,0/2,11,46.0,30,0,14,Lightning,11,0/4
+NSH,TBL,1,11,38.3,22,14,Lightning,34,0/6,8,61.7,18,7,18,Predators,24,3/6
+FLA,TBL,2,16,51.9,20,14,Lightning,10,0/1,8,48.1,13,3,13,Panthers,8,1/2
+TBL,FLA,2,5,48.9,33,13,Panthers,8,0/1,12,51.1,28,5,14,Lightning,4,2/3
+NYR,TBL,1,22,36.2,19,14,Lightning,8,1/6,12,63.8,24,3,3,Rangers,12,1/4
+CBJ,TBL,5,4,28.6,18,14,Lightning,8,1/2,13,71.4,22,2,29,Blue Jackets,4,0/4
+PIT,TBL,2,14,38.3,21,14,Lightning,8,1/4,13,61.7,41,6,5,Penguins,8,2/4
+TBL,PHI,3,16,37.7,27,4,Flyers,16,1/2,16,62.3,21,2,14,Lightning,14,2/3
+FLA,TBL,3,15,52.9,29,14,Lightning,14,2/7,13,47.1,17,2,13,Panthers,18,0/5
+TBL,NYI,3,9,42.6,48,2,Islanders,6,0/3,20,57.4,29,5,14,Lightning,6,0/3
+LAK,TBL,2,20,45.1,16,14,Lightning,10,0/4,22,54.9,28,4,26,Kings,10,1/4
+ANA,TBL,4,19,45.3,15,14,Lightning,4,1/3,19,54.7,15,2,24,Ducks,6,0/2
+SJS,TBL,4,13,54.5,21,14,Lightning,6,0/2,8,45.5,16,3,28,Sharks,4,1/3
+TBL,OTT,3,19,54.9,32,9,Senators,26,0/3,21,45.1,32,4,14,Lightning,13,1/8
+TBL,CAR,4,11,61.8,38,12,Hurricanes,12,1/6,22,38.2,32,3,14,Lightning,12,2/5
+TBL,BUF,3,10,50.8,44,7,Sabres,4,1/3,17,49.2,43,5,14,Lightning,6,1/2
+TBL,EDM,3,19,46.7,33,22,Oilers,10,2/4,13,53.3,25,2,14,Lightning,8,0/5
+WSH,TBL,1,25,62.2,15,14,Lightning,41,0/3,22,37.8,13,5,15,Capitals,38,0/6
+TBL,WSH,3,15,54.7,45,15,Capitals,20,0/6,10,45.3,39,6,14,Lightning,22,2/4
+TBL,DAL,4,16,48.7,43,25,Stars,12,2/2,10,51.3,36,5,14,Lightning,6,1/5
+TBL,CGY,1,13,48.6,46,20,Flames,6,1/3,19,51.4,34,4,14,Lightning,8,1/2
+NSH,TBL,3,10,50.0,20,14,Lightning,12,2/5,22,50.0,35,2,18,Predators,12,1/5
+TBL,BOS,5,6,52.0,27,6,Bruins,6,2/4,10,48.0,43,3,14,Lightning,8,1/3
+TBL,STL,2,10,54.2,29,19,Blues,11,1/3,16,45.8,36,5,14,Lightning,13,1/2
+BUF,TBL,6,10,60.0,25,14,Lightning,4,3/4,9,40.0,8,5,7,Sabres,10,0/1
+BOS,TBL,1,13,54.0,15,14,Lightning,2,1/2,17,46.0,26,3,6,Bruins,4,1/1
+PHI,TBL,4,11,65.2,18,14,Lightning,6,1/3,16,34.8,29,1,4,Flyers,6,0/3
+TBL,TOR,3,10,60.7,31,10,Maple Leafs,16,1/5,11,39.3,20,4,14,Lightning,14,2/6
+TBL,DET,4,11,44.0,31,17,Red Wings,6,0/1,10,56.0,24,2,14,Lightning,4,0/2
+TBL,NSH,2,16,55.2,45,18,Predators,9,0/2,16,44.8,35,5,14,Lightning,9,1/2
+TBL,FLA,1,12,52.6,30,13,Panthers,8,0/4,19,47.4,24,4,14,Lightning,10,0/4
+TBL,SEA,2,10,53.1,39,55,Kraken,29,0/3,16,46.9,27,6,14,Lightning,19,1/3
+TBL,CBJ,1,18,51.8,37,29,Blue Jackets,6,0/1,17,48.2,23,4,14,Lightning,2,0/3
+MTL,TBL,5,13,42.3,17,14,Lightning,13,2/6,12,57.7,16,1,8,Canadiens,19,0/3
+TOR,TBL,1,5,48.9,33,14,Lightning,6,0/1,14,51.1,20,4,10,Maple Leafs,6,1/2
+DET,TBL,4,14,62.3,17,14,Lightning,10,0/4,18,37.7,18,7,17,Red Wings,14,0/2
+TBL,MTL,1,13,39.3,25,8,Canadiens,9,0/5,13,60.7,26,4,14,Lightning,17,1/1
+TBL,NYR,1,22,38.2,40,3,Rangers,2,0/3,17,61.8,40,2,14,Lightning,6,0/1
+TBL,ARI,3,10,34.6,24,53,Coyotes,11,0/1,7,65.4,25,5,14,Lightning,7,2/3
+CHI,TBL,4,20,44.3,11,14,Lightning,12,1/4,14,55.7,18,1,16,Blackhawks,10,1/5
+MIN,TBL,1,12,63.2,18,14,Lightning,10,1/4,15,36.8,21,5,30,Wild,12,1/3
+WPG,TBL,2,14,57.1,11,14,Lightning,21,0/4,17,42.9,31,4,52,Jets,17,2/6
+TBL,CBJ,3,13,33.3,41,29,Blue Jackets,10,0/1,16,66.7,25,6,14,Lightning,4,3/4
+TBL,VAN,4,16,51.4,36,23,Canucks,13,1/3,13,48.6,25,5,14,Lightning,23,2/3
+STL,TBL,4,12,58.2,15,14,Lightning,6,1/2,19,41.8,20,2,19,Blues,4,0/3
+SEA,TBL,4,13,60.5,18,14,Lightning,6,0/2,14,39.5,16,1,55,Kraken,4,0/3
+VAN,TBL,5,21,49.1,11,14,Lightning,8,0/1,5,50.9,22,2,23,Canucks,2,2/4
+EDM,TBL,3,19,55.0,27,14,Lightning,24,0/2,10,45.0,23,5,22,Oilers,20,1/4
+CGY,TBL,3,18,64.5,20,14,Lightning,27,0/6,15,35.5,22,6,20,Flames,21,1/4
+TBL,MIN,2,16,45.6,26,30,Wild,15,1/4,14,54.4,26,4,14,Lightning,23,1/5
+TBL,BOS,2,11,46.0,26,6,Bruins,15,0/2,9,54.0,30,3,14,Lightning,13,1/3
+TBL,LAK,2,17,41.4,30,26,Kings,14,0/2,10,58.6,26,5,14,Lightning,14,0/2
+FLA,TBL,1,17,53.2,13,14,Lightning,16,0/2,14,46.8,19,7,13,Panthers,16,1/2
+TBL,SJS,4,27,48.5,35,28,Sharks,17,2/3,7,51.5,20,3,14,Lightning,11,1/6
+TBL,COL,0,17,30.6,34,21,Avalanche,26,0/2,17,69.4,30,5,14,Lightning,14,2/3
+DAL,TBL,3,15,49.1,15,14,Lightning,10,0/1,16,50.9,14,1,25,Stars,4,0/4
+COL,TBL,4,11,53.7,31,14,Lightning,9,0/4,19,46.3,31,3,21,Avalanche,13,0/2
+ARI,TBL,0,14,47.9,20,14,Lightning,4,0/5,15,52.1,25,1,53,Coyotes,10,0/2
+VGK,TBL,4,15,54.5,25,14,Lightning,6,1/3,19,45.5,23,5,54,Golden Knights,8,0/2
+TBL,ANA,1,13,38.2,31,24,Ducks,30,0/4,7,61.8,25,6,14,Lightning,28,2/5
+TBL,BUF,6,9,54.7,42,7,Sabres,6,1/2,13,45.3,42,5,14,Lightning,4,1/3
+DET,TBL,3,29,51.9,9,14,Lightning,8,0/2,10,48.1,9,0,17,Red Wings,4,0/4
+PIT,TBL,3,15,45.5,28,14,Lightning,4,1/3,16,54.5,32,7,5,Penguins,6,1/2
+TBL,FLA,4,22,46.2,27,13,Panthers,10,0/2,15,53.8,29,1,14,Lightning,4,1/5
+TBL,PIT,5,9,50.0,28,5,Penguins,10,0/5,12,50.0,31,4,14,Lightning,10,2/5
+BUF,TBL,3,12,62.7,28,14,Lightning,17,1/5,13,37.3,17,5,7,Sabres,17,2/5
+CAR,TBL,0,12,45.9,18,14,Lightning,22,0/2,10,54.1,12,6,12,Hurricanes,16,4/5
+TBL,PHI,2,23,37.5,27,4,Flyers,23,0/3,17,62.5,26,5,14,Lightning,6,3/6
+TBL,VGK,4,18,52.2,33,54,Golden Knights,75,1/2,10,47.8,36,3,14,Lightning,71,1/5
+TBL,CHI,1,14,42.9,36,16,Blackhawks,7,0/2,9,57.1,30,3,14,Lightning,9,0/1
+TBL,WPG,3,12,54.9,42,52,Jets,6,1/2,8,45.1,33,2,14,Lightning,4,0/3
+NJD,TBL,4,19,40.4,12,14,Lightning,4,0/2,17,59.6,13,1,1,Devils,4,0/2
+NJD,TBL,4,19,40.4,16,14,Lightning,8,1/3,18,59.6,22,3,1,Devils,6,1/4
+TBL,MTL,3,20,38.3,37,8,Canadiens,4,1/2,7,61.7,20,5,14,Lightning,4,1/2
+TBL,NJD,5,16,62.3,13,1,Devils,8,0/1,17,37.7,22,2,14,Lightning,2,0/4
+MTL,TBL,2,8,57.4,16,14,Lightning,6,1/2,20,42.6,20,3,8,Canadiens,6,0/2
+OTT,TBL,2,9,52.8,27,14,Lightning,18,1/4,22,47.2,19,7,9,Senators,10,2/3
+BOS,TBL,1,18,34.0,35,14,Lightning,21,0/5,9,66.0,25,2,6,Bruins,17,1/7
+CAR,TBL,4,7,48.2,28,14,Lightning,6,0/1,18,51.8,14,0,12,Hurricanes,4,0/2
+TBL,WSH,1,16,46.3,36,15,Capitals,4,0/4,11,53.7,37,5,14,Lightning,8,1/2
+TBL,NYI,0,10,38.6,36,2,Islanders,16,0/3,13,61.4,35,5,14,Lightning,18,1/2
+NYR,TBL,3,11,55.3,21,14,Lightning,42,1/3,15,44.7,22,6,3,Rangers,28,2/5
+NYI,TBL,1,26,39.1,16,14,Lightning,6,0/1,11,60.9,23,6,2,Islanders,4,0/2
+OTT,TBL,4,11,41.4,25,14,Lightning,18,3/5,14,58.6,18,7,9,Senators,10,1/4
+TBL,TOR,4,17,46.8,23,10,Maple Leafs,28,2/6,6,53.2,29,3,14,Lightning,24,0/8
+TBL,DET,0,17,35.8,36,17,Red Wings,6,0/2,12,64.2,22,5,14,Lightning,6,1/2
+TOR,TBL,7,20,44.4,39,14,Lightning,8,4/8,17,55.6,42,3,10,Maple Leafs,15,2/4
+TOR,TBL,2,16,50.0,53,14,Lightning,49,0/3,17,50.0,41,7,10,Maple Leafs,23,2/6
+TBL,TOR,4,26,51.6,62,10,Maple Leafs,18,0/3,15,48.4,61,3,14,Lightning,18,0/3
+TBL,TOR,5,28,50.0,46,10,Maple Leafs,8,2/4,24,50.0,45,4,14,Lightning,10,1/3
+TOR,TBL,4,13,42.4,37,14,Lightning,4,0/2,21,57.6,44,2,10,Maple Leafs,4,0/2
+TBL,TOR,2,29,42.1,42,10,Maple Leafs,4,0/2,19,57.9,41,1,14,Lightning,4,0/2
