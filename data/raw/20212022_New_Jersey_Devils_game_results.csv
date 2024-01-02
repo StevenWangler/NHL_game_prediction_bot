@@ -1,0 +1,88 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+WSH,NJD,5,13,33.9,18,1,Devils,8,1/5,8,66.1,18,4,15,Capitals,10,2/4
+NJD,NYR,1,9,47.4,23,3,Rangers,8,1/5,6,52.6,14,7,1,Devils,10,2/4
+NYI,NJD,2,0,0.0,0,1,Devils,8,0/5,0,0.0,0,1,2,Islanders,12,0/3
+NJD,WSH,1,15,39.6,17,15,Capitals,10,1/3,5,60.4,16,4,1,Devils,6,2/5
+NYR,NJD,2,13,49.1,31,1,Devils,23,0/2,8,50.9,36,6,3,Rangers,31,1/3
+NJD,CHI,3,7,51.8,15,16,Blackhawks,4,2/5,14,48.2,17,4,1,Devils,10,0/2
+NJD,SEA,2,11,51.3,12,55,Kraken,41,1/5,17,48.7,16,4,1,Devils,35,0/3
+NJD,WSH,4,16,56.3,11,15,Capitals,4,0/3,9,43.8,18,1,1,Devils,8,1/1
+NJD,BUF,1,13,34.0,30,7,Sabres,8,1/2,10,66.0,25,2,1,Devils,6,1/3
+NJD,CGY,5,13,52.2,17,20,Flames,12,2/3,17,47.8,29,3,1,Devils,10,1/4
+PIT,NJD,4,13,47.7,27,1,Devils,10,0/2,14,52.3,29,2,5,Penguins,4,0/5
+NJD,CBJ,4,19,55.0,14,29,Blue Jackets,6,1/2,19,45.0,12,3,1,Devils,4,0/3
+ANA,NJD,0,18,48.9,13,1,Devils,14,0/5,14,51.1,18,4,24,Ducks,10,2/7
+LAK,NJD,2,14,41.4,26,1,Devils,12,0/4,17,58.6,30,3,26,Kings,8,1/6
+SJS,NJD,3,21,54.2,17,1,Devils,6,0/4,20,45.8,22,2,28,Sharks,8,1/3
+NJD,FLA,3,10,46.7,28,13,Panthers,8,0/2,14,53.3,21,7,1,Devils,4,2/4
+NJD,NYI,0,10,52.7,24,2,Islanders,6,0/3,23,47.3,16,4,1,Devils,8,1/2
+NJD,BOS,5,25,53.8,16,6,Bruins,8,1/2,8,46.2,11,2,1,Devils,6,0/3
+NYR,NJD,3,11,49.3,15,1,Devils,4,1/1,19,50.7,22,4,3,Rangers,2,0/2
+FLA,NJD,1,16,57.1,24,1,Devils,6,0/3,15,42.9,35,4,13,Panthers,8,0/2
+TBL,NJD,5,5,42.9,25,1,Devils,8,0/3,7,57.1,26,3,14,Lightning,6,1/4
+NJD,MIN,3,19,45.3,35,30,Wild,10,0/3,10,54.7,27,2,1,Devils,8,0/4
+NSH,NJD,2,7,56.6,9,1,Devils,6,0/1,14,43.4,16,4,18,Predators,6,0/3
+NJD,PHI,2,21,54.2,26,4,Flyers,11,0/3,13,45.8,21,5,1,Devils,11,0/3
+NJD,SJS,5,15,58.6,23,28,Sharks,2,1/3,20,41.4,21,2,1,Devils,6,0/1
+MIN,NJD,2,13,45.2,10,1,Devils,10,0/3,15,54.8,14,5,30,Wild,8,0/4
+WPG,NJD,4,11,37.3,20,1,Devils,8,1/2,11,62.7,30,8,52,Jets,4,1/4
+NJD,OTT,3,19,47.2,23,9,Senators,4,0/1,10,52.8,29,2,1,Devils,6,0/0
+NJD,PHI,0,15,67.8,20,4,Flyers,6,0/2,8,32.2,21,3,1,Devils,4,1/3
+NJD,NSH,3,6,51.9,34,18,Predators,15,1/2,9,48.1,18,2,1,Devils,11,0/4
+NYI,NJD,2,12,38.7,15,1,Devils,13,0/3,18,61.3,21,4,2,Islanders,25,1/2
+PHI,NJD,1,12,47.5,22,1,Devils,2,0/4,12,52.5,24,6,4,Flyers,10,0/0
+NJD,VGK,5,16,48.3,6,54,Golden Knights,26,1/4,9,51.7,15,3,1,Devils,18,1/3
+DET,NJD,2,14,48.1,21,1,Devils,8,0/2,16,51.9,10,5,17,Red Wings,6,0/3
+NJD,PIT,3,18,51.2,13,5,Penguins,14,0/2,9,48.8,17,2,1,Devils,8,1/5
+BUF,NJD,4,13,51.3,6,1,Devils,7,1/2,15,48.7,17,3,7,Sabres,19,0/1
+NJD,EDM,5,15,54.8,16,22,Oilers,4,0/1,16,45.2,16,6,1,Devils,2,1/2
+WSH,NJD,4,17,53.2,13,1,Devils,6,0/1,14,46.8,29,3,15,Capitals,6,0/1
+BOS,NJD,3,13,35.8,25,1,Devils,2,0/1,9,64.2,29,5,6,Bruins,2,0/1
+NJD,CBJ,1,6,50.0,6,29,Blue Jackets,6,0/4,11,50.0,11,3,1,Devils,8,1/3
+CBJ,NJD,3,9,46.3,13,1,Devils,6,0/3,10,53.7,24,4,29,Blue Jackets,6,1/3
+NYI,NJD,2,13,58.0,16,1,Devils,10,1/5,13,42.0,27,3,2,Islanders,12,1/4
+NJD,ARI,4,16,51.9,24,53,Coyotes,4,0/2,9,48.1,16,1,1,Devils,4,1/2
+NJD,CAR,4,12,59.4,31,12,Hurricanes,6,0/1,15,40.6,35,7,1,Devils,2,1/3
+NJD,LAK,3,11,47.3,31,26,Kings,8,0/3,9,52.7,29,2,1,Devils,10,1/2
+NJD,DAL,5,21,56.3,21,25,Stars,13,0/1,9,43.7,19,1,1,Devils,9,1/3
+TBL,NJD,2,6,41.7,25,1,Devils,2,1/3,18,58.3,35,3,14,Lightning,6,1/1
+CAR,NJD,1,14,52.8,21,1,Devils,6,0/2,16,47.2,42,2,12,Hurricanes,6,0/2
+TOR,NJD,4,23,36.2,15,1,Devils,6,0/3,14,63.8,22,6,10,Maple Leafs,6,1/3
+NJD,TOR,7,12,55.1,9,10,Maple Leafs,6,0/2,6,44.9,12,1,1,Devils,4,0/3
+OTT,NJD,1,15,58.7,28,1,Devils,0,1/1,27,41.3,44,4,9,Senators,2,0/0
+MTL,NJD,7,15,50.8,11,1,Devils,6,1/2,8,49.2,21,1,8,Canadiens,4,0/3
+STL,NJD,7,12,55.2,4,1,Devils,10,0/3,14,44.8,25,4,19,Blues,8,0/4
+NJD,PIT,4,10,55.3,20,5,Penguins,4,0/3,20,44.7,19,2,1,Devils,6,0/2
+NJD,TBL,6,17,52.4,20,14,Lightning,16,0/1,9,47.6,16,3,1,Devils,22,1/3
+PIT,NJD,6,13,47.3,21,1,Devils,10,2/5,12,52.7,23,1,5,Penguins,12,1/4
+CHI,NJD,5,15,57.6,26,1,Devils,27,0/2,18,42.4,19,8,16,Blackhawks,13,3/4
+NJD,VAN,2,9,52.3,35,23,Canucks,4,0/1,8,47.7,26,7,1,Devils,2,1/2
+CBJ,NJD,3,6,41.3,5,1,Devils,11,2/4,24,58.7,30,4,29,Blue Jackets,13,1/3
+NYR,NJD,1,11,40.0,19,1,Devils,13,0/3,18,60.0,27,3,3,Rangers,13,0/3
+NJD,STL,2,15,55.6,22,19,Blues,12,0/1,8,44.4,13,3,1,Devils,4,0/5
+NJD,COL,3,9,47.8,9,21,Avalanche,8,2/4,14,52.2,17,5,1,Devils,8,2/4
+NJD,WPG,2,13,62.2,17,52,Jets,6,0/2,9,37.8,10,1,1,Devils,4,1/3
+NJD,ANA,1,16,59.6,16,24,Ducks,6,0/2,14,40.4,17,2,1,Devils,4,0/3
+VAN,NJD,3,14,47.0,16,1,Devils,2,0/3,14,53.0,25,6,23,Canucks,6,0/1
+CGY,NJD,3,17,55.7,10,1,Devils,0,0/4,11,44.3,22,6,20,Flames,8,0/0
+EDM,NJD,3,13,41.4,23,1,Devils,9,0/3,13,58.6,28,6,22,Oilers,13,1/1
+NJD,NYR,4,9,48.2,24,3,Rangers,6,1/1,17,51.8,18,7,1,Devils,2,1/3
+TOR,NJD,2,7,35.0,33,1,Devils,6,1/4,18,65.0,28,3,10,Maple Leafs,8,0/3
+WSH,NJD,3,8,57.1,20,1,Devils,11,0/2,18,42.9,25,4,15,Capitals,11,1/2
+NJD,MTL,2,16,59.6,20,8,Canadiens,4,0/5,11,40.4,25,3,1,Devils,10,1/2
+BOS,NJD,1,13,39.1,20,1,Devils,23,0/3,6,60.9,23,8,6,Bruins,23,1/3
+NJD,FLA,7,9,66.1,27,13,Panthers,4,0/3,19,33.9,23,6,1,Devils,6,0/2
+NJD,NYI,4,12,58.5,24,2,Islanders,9,1/3,10,41.5,23,3,1,Devils,31,0/2
+NJD,NYR,3,6,58.7,20,3,Rangers,9,2/3,9,41.3,18,1,1,Devils,21,0/2
+NJD,MTL,7,14,56.9,21,8,Canadiens,4,0/0,9,43.1,17,4,1,Devils,0,0/2
+DAL,NJD,3,9,44.8,9,1,Devils,12,0/3,7,55.2,14,1,25,Stars,6,1/6
+ARI,NJD,6,14,49.0,30,1,Devils,10,0/5,12,51.0,23,2,53,Coyotes,12,1/4
+COL,NJD,1,16,36.4,23,1,Devils,4,0/2,12,63.6,24,3,21,Avalanche,4,1/2
+SEA,NJD,3,14,44.8,16,1,Devils,6,0/3,18,55.2,27,4,55,Kraken,6,1/3
+VGK,NJD,3,24,49.2,41,1,Devils,2,0/1,16,50.8,26,2,54,Golden Knights,2,0/1
+NJD,BUF,5,10,50.0,13,7,Sabres,8,0/1,7,50.0,22,2,1,Devils,4,0/4
+NJD,CAR,3,10,52.6,19,12,Hurricanes,8,0/2,15,47.4,14,2,1,Devils,6,1/3
+NJD,DET,3,5,52.3,14,17,Red Wings,4,0/3,9,47.7,17,0,1,Devils,6,0/2
+OTT,NJD,4,8,48.6,24,1,Devils,6,0/2,17,51.4,32,5,9,Senators,4,2/3
+CAR,NJD,3,10,49.0,19,1,Devils,6,0/2,14,51.0,11,6,12,Hurricanes,4,0/3
+NJD,DET,5,18,44.0,14,17,Red Wings,2,0/2,10,56.0,18,3,1,Devils,4,0/1

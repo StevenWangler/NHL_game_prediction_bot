@@ -1,0 +1,88 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+NYR,NYI,4,10,46.3,21,2,Islanders,8,1/4,8,53.7,23,0,3,Rangers,21,0/3
+PHI,NYI,3,16,32.8,23,2,Islanders,6,1/3,18,67.2,26,2,4,Flyers,6,0/3
+NYI,NJD,2,0,0.0,0,1,Devils,8,0/5,0,0.0,0,1,2,Islanders,12,0/3
+NYI,PHI,0,0,0.0,0,4,Flyers,8,0/3,0,0.0,0,3,2,Islanders,6,2/4
+NYI,NYR,5,0,0.0,0,3,Rangers,8,3/5,0,0.0,0,4,2,Islanders,12,1/3
+CAR,NYI,3,22,44.8,36,2,Islanders,10,0/3,10,55.2,25,6,12,Hurricanes,6,2/5
+FLA,NYI,1,23,56.7,28,2,Islanders,6,1/4,11,43.3,34,5,13,Panthers,12,0/1
+CHI,NYI,4,19,57.1,44,2,Islanders,11,0/2,12,42.9,34,1,16,Blackhawks,9,0/3
+CBJ,NYI,2,13,50.0,26,2,Islanders,8,0/3,13,50.0,11,3,29,Blue Jackets,6,1/4
+ARI,NYI,3,16,53.6,37,2,Islanders,7,1/2,14,46.4,26,0,53,Coyotes,9,0/1
+VGK,NYI,2,21,44.6,44,2,Islanders,4,0/2,9,55.4,19,0,54,Golden Knights,4,0/2
+NSH,NYI,2,13,44.6,18,2,Islanders,10,2/4,10,55.4,15,3,18,Predators,12,0/4
+MTL,NYI,6,27,46.0,26,2,Islanders,6,0/3,9,54.0,22,2,8,Canadiens,6,1/3
+WPG,NYI,2,19,42.3,26,2,Islanders,7,0/1,7,57.7,21,0,52,Jets,7,0/1
+MIN,NYI,2,18,58.3,16,2,Islanders,4,0/1,12,41.7,8,5,30,Wild,2,0/2
+NJD,NYI,0,10,52.7,24,2,Islanders,6,0/3,23,47.3,16,4,1,Devils,8,1/2
+TBL,NYI,1,11,55.6,41,2,Islanders,30,0/3,12,44.4,41,4,14,Lightning,38,1/4
+FLA,NYI,1,5,50.9,42,2,Islanders,46,0/1,14,49.1,26,6,13,Panthers,9,0/5
+NYI,CGY,5,13,49.1,18,20,Flames,12,2/4,16,50.9,21,2,2,Islanders,8,1/6
+NYI,TOR,3,11,55.8,12,10,Maple Leafs,8,0/3,12,44.2,28,0,2,Islanders,8,0/3
+NYI,NYR,4,16,41.7,23,3,Rangers,19,1/5,9,58.3,31,1,2,Islanders,17,0/6
+NYI,PIT,1,13,41.3,20,5,Penguins,8,0/1,18,58.7,29,0,2,Islanders,6,0/2
+NYI,SJS,2,18,44.7,20,28,Sharks,0,0/3,17,55.3,30,1,2,Islanders,6,0/0
+DET,NYI,3,17,58.2,25,2,Islanders,21,2/3,20,41.8,7,4,17,Red Wings,11,0/3
+NYI,CHI,3,12,41.7,18,16,Blackhawks,8,1/2,13,58.3,24,2,2,Islanders,4,1/4
+OTT,NYI,5,15,57.8,26,2,Islanders,14,0/2,8,42.2,22,3,9,Senators,8,1/5
+NYI,NSH,4,13,57.4,32,18,Predators,9,0/1,14,42.6,29,3,2,Islanders,7,1/2
+NYI,NJD,2,12,38.7,15,1,Devils,13,0/3,18,61.3,21,4,2,Islanders,25,1/2
+DET,NYI,1,13,49.0,15,2,Islanders,6,0/1,15,51.0,8,2,17,Red Wings,2,1/3
+NYI,BOS,1,13,42.3,26,6,Bruins,15,0/3,11,57.7,22,3,2,Islanders,11,1/5
+NYI,VGK,4,11,45.8,14,54,Golden Knights,11,1/1,11,54.2,26,3,2,Islanders,7,1/3
+NYI,BUF,1,10,34.0,12,7,Sabres,4,1/2,11,66.0,24,4,2,Islanders,4,1/2
+NYI,EDM,2,17,51.0,17,22,Oilers,6,0/0,14,49.0,18,3,2,Islanders,2,1/2
+NYI,NJD,2,13,58.0,16,1,Devils,10,1/5,13,42.0,27,3,2,Islanders,12,1/4
+NYI,WSH,2,11,51.0,20,15,Capitals,6,0/2,14,49.0,26,0,2,Islanders,4,0/3
+NYI,PHI,1,9,47.7,16,4,Flyers,2,0/4,11,52.3,22,4,2,Islanders,8,0/1
+PHI,NYI,4,17,43.9,25,2,Islanders,11,0/2,20,56.1,27,3,4,Flyers,9,1/3
+NYI,ARI,0,14,54.3,11,53,Coyotes,11,0/0,13,45.7,19,4,2,Islanders,7,0/2
+NYI,TOR,3,9,51.1,16,10,Maple Leafs,6,0/2,14,48.9,20,1,2,Islanders,4,0/3
+NYI,PHI,3,16,42.6,19,4,Flyers,10,0/1,10,57.4,28,4,2,Islanders,4,1/4
+NYI,LAK,3,15,45.1,17,26,Kings,2,0/1,8,54.9,27,2,2,Islanders,2,0/1
+NYI,MIN,4,7,47.4,22,30,Wild,10,1/2,13,52.6,30,3,2,Islanders,6,1/4
+NYI,OTT,1,10,45.7,35,9,Senators,8,0/1,12,54.3,25,4,2,Islanders,6,1/2
+NYI,SEA,3,21,61.7,15,55,Kraken,2,0/2,17,38.3,28,0,2,Islanders,4,0/1
+VAN,NYI,6,18,54.8,27,2,Islanders,11,0/1,18,45.2,33,3,23,Canucks,9,0/2
+EDM,NYI,1,16,50.0,29,2,Islanders,6,1/3,6,50.0,28,3,22,Oilers,8,1/2
+CGY,NYI,2,22,54.7,12,2,Islanders,7,1/3,9,45.3,15,5,20,Flames,11,0/1
+BUF,NYI,3,13,57.6,17,2,Islanders,4,0/2,8,42.4,9,6,7,Sabres,4,1/2
+NYI,BOS,1,11,60.0,20,6,Bruins,4,0/2,15,40.0,35,4,2,Islanders,4,1/2
+NYI,MTL,3,10,41.3,24,8,Canadiens,8,0/2,12,58.7,33,2,2,Islanders,4,1/4
+SEA,NYI,5,17,56.3,19,2,Islanders,2,0/1,16,43.8,20,2,55,Kraken,2,0/1
+SJS,NYI,3,9,52.1,19,2,Islanders,14,0/3,20,47.9,32,4,28,Sharks,16,2/2
+LAK,NYI,2,23,47.6,26,2,Islanders,10,0/3,9,52.4,12,5,26,Kings,6,0/5
+ANA,NYI,4,20,52.8,25,2,Islanders,8,0/2,6,47.2,21,0,24,Ducks,8,0/2
+COL,NYI,3,24,54.0,17,2,Islanders,6,0/2,12,46.0,10,5,21,Avalanche,4,1/3
+NYI,VAN,4,21,59.0,19,23,Canucks,0,0/2,16,41.0,23,3,2,Islanders,4,0/0
+NYI,STL,1,18,48.9,25,19,Blues,15,0/2,23,51.1,22,2,2,Islanders,13,1/3
+NYI,COL,5,22,51.5,12,21,Avalanche,12,1/3,9,48.5,16,4,2,Islanders,10,2/4
+NYI,CBJ,0,13,53.0,18,29,Blue Jackets,8,0/5,18,47.0,14,6,2,Islanders,12,2/3
+NYI,WPG,2,19,44.1,28,52,Jets,10,0/0,14,55.9,15,5,2,Islanders,2,1/4
+NYI,ANA,3,13,44.6,14,24,Ducks,8,0/2,18,55.4,25,4,2,Islanders,8,0/2
+WSH,NYI,3,10,41.8,23,2,Islanders,2,0/1,13,58.2,30,4,15,Capitals,4,0/0
+NYR,NYI,2,16,42.1,21,2,Islanders,6,1/3,9,57.9,27,1,3,Rangers,6,1/3
+NYI,DAL,2,12,43.9,30,25,Stars,4,0/2,15,56.1,31,4,2,Islanders,4,1/2
+PHI,NYI,1,17,50.9,19,2,Islanders,8,0/1,20,49.1,12,2,4,Flyers,2,1/4
+NYI,OTT,0,17,35.4,22,9,Senators,4,0/2,14,64.6,34,3,2,Islanders,4,0/2
+NYI,DET,2,6,46.2,21,17,Red Wings,2,0/3,20,53.8,20,5,2,Islanders,6,1/1
+BOS,NYI,3,17,49.1,26,2,Islanders,13,2/4,5,50.9,22,6,6,Bruins,15,1/3
+NYI,TBL,4,15,45.9,17,14,Lightning,15,1/4,16,54.1,13,1,2,Islanders,17,0/3
+CBJ,NYI,4,14,43.4,17,2,Islanders,6,1/4,5,56.6,20,3,29,Blue Jackets,8,0/3
+NYI,CBJ,2,11,57.1,26,29,Blue Jackets,2,0/3,10,42.9,21,5,2,Islanders,6,0/1
+NYR,NYI,3,15,47.9,19,2,Islanders,8,0/4,12,52.1,19,0,3,Rangers,10,0/3
+NJD,NYI,4,12,58.5,24,2,Islanders,9,1/3,10,41.5,23,3,1,Devils,31,0/2
+DAL,NYI,2,15,49.1,28,2,Islanders,6,0/1,13,50.9,16,3,25,Stars,4,0/2
+CAR,NYI,2,15,43.2,20,2,Islanders,8,0/4,6,56.8,14,1,12,Hurricanes,8,0/4
+STL,NYI,1,8,49.1,14,2,Islanders,8,0/2,7,50.9,10,6,19,Blues,4,0/4
+NYI,PIT,4,17,43.1,17,5,Penguins,6,1/5,14,56.9,16,5,2,Islanders,10,1/3
+PIT,NYI,3,12,52.7,33,2,Islanders,6,0/5,19,47.3,24,6,5,Penguins,10,0/2
+MTL,NYI,3,30,39.6,31,2,Islanders,11,0/1,13,60.4,24,0,8,Canadiens,9,0/2
+TOR,NYI,2,20,49.2,48,2,Islanders,11,1/2,16,50.8,25,4,10,Maple Leafs,9,1/3
+NYI,FLA,3,8,51.7,16,13,Panthers,16,1/5,19,48.3,24,2,2,Islanders,10,1/3
+NYI,NYR,6,10,45.0,27,3,Rangers,4,1/1,13,55.0,26,3,2,Islanders,4,1/1
+BUF,NYI,3,10,60.0,14,2,Islanders,34,0/2,10,40.0,5,5,7,Sabres,16,1/6
+NYI,CAR,5,10,57.4,11,12,Hurricanes,10,1/1,10,42.6,23,2,2,Islanders,6,1/3
+WSH,NYI,4,17,47.9,18,2,Islanders,8,2/2,12,52.1,21,1,15,Capitals,4,0/4
+NYI,WSH,1,11,33.9,22,15,Capitals,10,0/6,9,66.1,13,5,2,Islanders,22,3/5
+NYI,TBL,6,13,50.9,19,14,Lightning,2,1/1,12,49.1,14,4,2,Islanders,2,1/1

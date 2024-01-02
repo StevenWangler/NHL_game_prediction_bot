@@ -86,6 +86,23 @@ h1 {
         gap: 10px;
     }
 }
+
+.reason-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+    .reason-section {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
 .confidence {
     padding: 5px 10px;
     border-radius: 5px;

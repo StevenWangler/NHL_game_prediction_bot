@@ -1,91 +1,91 @@
-home_team,pim,shots,powerPlayPercentage,powerPlayGoals,powerPlayOpportunities,faceOffWinPercentage,blocked,takeaways,giveaways,hits,home_goals,away_team,away_goals
-Vancouver Canucks,19,45,12.5,1.0,8.0,50.0,20,4,5,23,2,Calgary Flames,3
-Calgary Flames,14,19,0.0,0.0,5.0,61.5,4,8,2,17,4,Vancouver Canucks,0
-Seattle Kraken,6,25,0.0,0.0,6.0,50.9,15,2,1,9,3,Calgary Flames,0
-Calgary Flames,6,21,0.0,0.0,3.0,52.5,16,7,8,13,4,Edmonton Oilers,0
-Edmonton Oilers,18,22,0.0,0.0,3.0,45.0,20,12,8,30,2,Calgary Flames,1
-Calgary Flames,4,22,20.0,1.0,5.0,31.4,11,7,6,19,4,Seattle Kraken,1
-Winnipeg Jets,12,37,0.0,0.0,6.0,55.4,11,4,13,14,5,Calgary Flames,0
-Calgary Flames,16,16,25.0,1.0,4.0,44.4,8,4,6,14,3,Winnipeg Jets,5
-Calgary Flames,14,25,25.0,1.0,4.0,41.5,15,9,12,17,5,Colorado Avalanche,3
-Edmonton Oilers,10,42,25.0,1.0,4.0,45.5,14,10,7,36,3,Calgary Flames,4
-Calgary Flames,12,21,0.0,0.0,4.0,46.4,23,5,8,13,3,Vegas Golden Knights,2
-Calgary Flames,2,32,20.0,1.0,5.0,56.1,12,8,6,11,3,Buffalo Sabres,6
-Calgary Flames,8,27,0.0,0.0,4.0,52.0,7,10,3,19,3,Carolina Hurricanes,2
-Calgary Flames,6,33,20.0,1.0,5.0,35.9,19,7,4,18,4,Pittsburgh Penguins,1
-Calgary Flames,6,26,25.0,1.0,4.0,51.5,16,14,12,29,2,Edmonton Oilers,3
-Calgary Flames,13,26,25.0,1.0,4.0,38.5,19,16,9,18,4,Seattle Kraken,5
-Calgary Flames,6,32,25.0,1.0,4.0,58.8,24,2,9,25,1,Nashville Predators,4
-Calgary Flames,8,35,20.0,1.0,5.0,52.2,15,10,14,14,3,New Jersey Devils,4
-New York Islanders,4,46,0.0,0.0,0.0,45.8,19,8,11,28,4,Calgary Flames,3
-New Jersey Devils,15,35,50.0,2.0,4.0,49.2,18,5,5,27,3,Calgary Flames,2
-Boston Bruins,15,32,0.0,0.0,6.0,32.1,7,6,6,25,3,Calgary Flames,1
-Calgary Flames,10,23,0.0,0.0,3.0,53.4,15,4,7,16,3,Winnipeg Jets,2
-Calgary Flames,8,29,50.0,1.0,2.0,50.7,17,4,12,24,6,Los Angeles Kings,5
-Tampa Bay Lightning,6,40,33.3,1.0,3.0,48.6,13,18,11,46,4,Calgary Flames,1
-Florida Panthers,13,35,33.3,1.0,3.0,54.1,16,6,6,33,4,Calgary Flames,4
-Philadelphia Flyers,13,30,0.0,0.0,2.0,50.0,20,6,5,24,2,Calgary Flames,5
-Pittsburgh Penguins,6,34,0.0,0.0,3.0,45.8,21,10,4,41,1,Calgary Flames,1
-Washington Capitals,4,32,0.0,0.0,2.0,50.0,17,7,9,28,3,Calgary Flames,0
-Carolina Hurricanes,8,20,33.3,1.0,3.0,57.1,13,8,9,31,3,Calgary Flames,2
-Calgary Flames,12,33,0.0,0.0,4.0,37.3,13,4,8,13,6,Florida Panthers,2
-Calgary Flames,8,19,33.3,1.0,3.0,53.6,23,9,11,9,1,Montréal Canadiens,2
-Calgary Flames,6,29,25.0,1.0,4.0,55.7,20,6,4,24,5,Washington Capitals,2
-Calgary Flames,6,20,0.0,0.0,2.0,47.4,16,4,13,13,3,Arizona Coyotes,2
-Calgary Flames,12,28,0.0,0.0,4.0,43.3,12,7,9,14,5,Minnesota Wild,3
-Columbus Blue Jackets,14,32,0.0,0.0,5.0,52.7,5,2,1,12,3,Calgary Flames,1
-Toronto Maple Leafs,16,26,50.0,1.0,2.0,49.2,13,5,4,34,5,Calgary Flames,4
-Montréal Canadiens,21,35,16.7,1.0,6.0,49.4,22,4,7,25,1,Calgary Flames,1
-Calgary Flames,12,27,0.0,0.0,2.0,50.0,13,10,9,26,3,Vancouver Canucks,3
-Calgary Flames,6,24,50.0,1.0,2.0,53.0,15,9,15,11,2,St. Louis Blues,5
-San Jose Sharks,21,25,25.0,1.0,4.0,45.2,6,10,6,23,2,Calgary Flames,5
-San Jose Sharks,11,39,0.0,0.0,2.0,55.2,15,9,7,16,3,Calgary Flames,7
-Los Angeles Kings,8,30,50.0,1.0,2.0,54.4,13,3,4,31,4,Calgary Flames,3
-Anaheim Ducks,15,45,0.0,0.0,4.0,56.9,15,5,9,13,2,Calgary Flames,3
-Calgary Flames,2,22,33.3,1.0,3.0,46.6,25,12,9,13,1,Edmonton Oilers,2
-Seattle Kraken,2,44,25.0,1.0,4.0,55.6,14,6,3,21,2,Calgary Flames,3
-Calgary Flames,4,24,0.0,0.0,4.0,41.7,8,10,7,19,3,Vancouver Canucks,2
-Winnipeg Jets,10,35,0.0,0.0,2.0,54.4,17,7,9,20,3,Calgary Flames,2
-Calgary Flames,4,25,0.0,0.0,1.0,58.0,19,11,15,31,4,New York Islanders,1
-Chicago Blackhawks,9,47,66.7,2.0,3.0,53.8,14,7,5,21,4,Calgary Flames,3
-St. Louis Blues,4,31,0.0,0.0,2.0,54.7,4,5,4,25,4,Calgary Flames,3
-St. Louis Blues,6,40,0.0,0.0,1.0,50.0,8,9,3,27,1,Calgary Flames,4
-Dallas Stars,4,36,40.0,2.0,5.0,50.8,12,6,7,22,5,Calgary Flames,6
-Nashville Predators,6,39,0.0,0.0,4.0,39.7,22,4,6,28,2,Calgary Flames,1
-Calgary Flames,4,30,33.3,1.0,3.0,43.6,13,12,7,12,1,Colorado Avalanche,4
-Calgary Flames,27,24,0.0,0.0,6.0,64.5,18,6,15,20,6,Tampa Bay Lightning,3
-Calgary Flames,11,25,50.0,2.0,4.0,42.3,21,3,12,11,4,Columbus Blue Jackets,3
-Calgary Flames,6,29,0.0,0.0,1.0,56.1,18,11,16,17,1,Chicago Blackhawks,5
-Seattle Kraken,12,38,0.0,0.0,2.0,61.3,15,9,9,19,2,Calgary Flames,5
-New York Rangers,41,32,33.3,1.0,3.0,56.7,13,4,14,25,5,Calgary Flames,4
-Detroit Red Wings,10,36,0.0,0.0,3.0,51.1,11,7,1,12,2,Calgary Flames,1
-Buffalo Sabres,10,40,33.3,1.0,3.0,50.0,22,7,4,25,2,Calgary Flames,7
-Ottawa Senators,10,37,25.0,1.0,4.0,57.1,11,1,3,23,4,Calgary Flames,3
-Calgary Flames,4,24,50.0,2.0,4.0,55.9,23,11,6,16,2,Detroit Red Wings,5
-Calgary Flames,6,20,50.0,1.0,2.0,51.1,13,5,20,26,3,New York Rangers,2
-Calgary Flames,13,22,0.0,0.0,2.0,41.9,30,0,6,15,3,Philadelphia Flyers,4
-Arizona Coyotes,4,51,60.0,3.0,5.0,52.5,11,5,5,25,3,Calgary Flames,6
-Vegas Golden Knights,4,28,25.0,1.0,4.0,47.3,19,7,6,50,4,Calgary Flames,3
-Colorado Avalanche,15,29,20.0,1.0,5.0,50.0,10,5,3,24,4,Calgary Flames,1
-Calgary Flames,13,20,33.3,1.0,3.0,52.2,23,7,10,11,3,Boston Bruins,4
-Calgary Flames,4,34,0.0,0.0,2.0,55.6,18,7,9,18,1,Toronto Maple Leafs,2
-Calgary Flames,4,33,0.0,0.0,2.0,60.9,20,3,8,18,0,Minnesota Wild,3
-Dallas Stars,8,37,0.0,0.0,2.0,55.6,13,10,12,33,4,Calgary Flames,5
-Minnesota Wild,12,26,0.0,0.0,3.0,52.5,10,2,3,23,0,Calgary Flames,0
-Calgary Flames,4,18,0.0,0.0,0.0,38.1,22,11,7,11,1,Anaheim Ducks,3
-Calgary Flames,6,31,0.0,0.0,4.0,50.7,27,9,13,28,5,Ottawa Senators,1
-Arizona Coyotes,2,45,0.0,0.0,2.0,57.1,10,3,8,39,4,Calgary Flames,3
-Vegas Golden Knights,13,30,50.0,1.0,2.0,44.0,19,5,1,37,2,Calgary Flames,7
-Calgary Flames,2,26,0.0,0.0,3.0,41.7,14,7,5,24,5,Dallas Stars,6
-Los Angeles Kings,20,18,25.0,1.0,4.0,45.8,12,3,2,30,8,Calgary Flames,2
-Anaheim Ducks,6,43,40.0,2.0,5.0,54.8,9,5,7,13,1,Calgary Flames,5
-Calgary Flames,4,32,0.0,0.0,1.0,58.8,32,5,10,12,2,Vegas Golden Knights,3
-Calgary Flames,2,31,0.0,0.0,3.0,52.4,15,5,14,15,5,San Jose Sharks,3
-Calgary Flames,6,33,0.0,0.0,2.0,56.6,19,8,9,21,2,Los Angeles Kings,1
-Vancouver Canucks,4,41,16.7,1.0,6.0,45.5,12,2,1,30,4,Calgary Flames,5
-Calgary Flames,4,22,0.0,0.0,1.0,46.4,18,10,11,16,5,Anaheim Ducks,4
-Calgary Flames,2,23,0.0,0.0,0.0,52.7,23,8,7,29,3,Chicago Blackhawks,4
-Winnipeg Jets,14,35,0.0,0.0,6.0,46.3,13,4,6,33,1,Calgary Flames,3
-Vancouver Canucks,6,43,50.0,1.0,2.0,42.9,13,3,1,31,2,Calgary Flames,2
-Calgary Flames,8,29,0.0,0.0,6.0,48.1,27,10,10,16,2,Nashville Predators,2
-Calgary Flames,2,24,0.0,0.0,2.0,51.4,23,4,8,15,3,San Jose Sharks,1
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+VAN,CGY,3,20,50.0,23,20,Flames,19,1/8,15,50.0,19,2,23,Canucks,21,0/7
+CGY,VAN,0,4,61.5,17,23,Canucks,14,0/5,5,38.5,15,4,20,Flames,10,3/7
+SEA,CGY,0,15,50.9,9,20,Flames,6,0/6,19,49.1,15,3,55,Kraken,12,0/3
+CGY,EDM,0,16,52.5,13,22,Oilers,6,0/3,6,47.5,21,4,20,Flames,6,0/3
+EDM,CGY,1,20,45.0,30,20,Flames,18,0/3,11,55.0,27,2,22,Oilers,18,0/3
+CGY,SEA,1,11,31.4,19,55,Kraken,4,1/5,3,68.6,19,4,20,Flames,10,1/2
+WPG,CGY,0,11,55.4,14,20,Flames,12,0/6,17,44.6,26,5,52,Jets,14,3/5
+CGY,WPG,5,8,44.4,14,52,Jets,16,1/4,8,55.6,25,3,20,Flames,16,0/4
+CGY,COL,3,15,41.5,17,21,Avalanche,14,1/4,10,58.5,26,5,20,Flames,12,2/5
+EDM,CGY,4,14,45.5,36,20,Flames,10,1/4,13,54.5,39,3,22,Oilers,10,1/4
+CGY,VGK,2,23,46.4,13,54,Golden Knights,12,0/4,8,53.6,21,3,20,Flames,8,2/6
+CGY,BUF,6,12,56.1,11,7,Sabres,2,1/5,12,43.9,29,3,20,Flames,10,0/1
+CGY,CAR,2,7,52.0,19,12,Hurricanes,8,0/4,15,48.0,26,3,20,Flames,8,1/4
+CGY,PIT,1,19,35.9,18,5,Penguins,6,1/5,14,64.1,18,4,20,Flames,10,1/3
+CGY,EDM,3,16,51.5,29,22,Oilers,6,1/4,13,48.5,31,2,20,Flames,8,0/3
+CGY,SEA,5,19,38.5,18,55,Kraken,13,1/4,15,61.5,24,4,20,Flames,13,0/4
+CGY,NSH,4,24,58.8,25,18,Predators,6,1/4,13,41.2,41,1,20,Flames,8,0/3
+CGY,NJD,4,15,52.2,14,1,Devils,8,1/5,14,47.8,40,3,20,Flames,14,0/2
+NYI,CGY,3,19,45.8,28,20,Flames,4,0/0,18,54.2,33,4,2,Islanders,0,1/2
+NJD,CGY,2,18,49.2,27,20,Flames,15,2/4,9,50.8,21,3,1,Devils,13,1/5
+BOS,CGY,1,7,32.1,25,20,Flames,15,0/6,12,67.9,25,3,6,Bruins,17,0/5
+CGY,WPG,2,15,53.4,16,52,Jets,10,0/3,19,46.6,27,3,20,Flames,10,0/3
+CGY,LAK,5,17,50.7,24,26,Kings,8,1/2,12,49.3,22,6,20,Flames,8,1/2
+TBL,CGY,1,13,48.6,46,20,Flames,6,1/3,19,51.4,34,4,14,Lightning,8,1/2
+FLA,CGY,5,16,54.1,33,20,Flames,13,1/3,13,45.9,17,4,13,Panthers,13,1/3
+PHI,CGY,5,20,50.0,24,20,Flames,13,0/2,15,50.0,31,2,4,Flyers,11,0/3
+PIT,CGY,1,21,45.8,41,20,Flames,6,0/3,13,54.2,39,2,5,Penguins,6,0/3
+WSH,CGY,0,17,50.0,28,20,Flames,4,0/2,17,50.0,36,3,15,Capitals,4,1/2
+CAR,CGY,2,13,57.1,31,20,Flames,8,1/3,10,42.9,21,3,12,Hurricanes,8,2/3
+CGY,FLA,2,13,37.3,13,13,Panthers,12,0/4,11,62.7,13,6,20,Flames,12,1/4
+CGY,MTL,2,23,53.6,9,8,Canadiens,8,1/3,6,46.4,17,1,20,Flames,6,0/4
+CGY,WSH,2,20,55.7,24,15,Capitals,6,1/4,10,44.3,22,5,20,Flames,8,0/3
+CGY,ARI,2,16,47.4,13,53,Coyotes,6,0/2,9,52.6,24,3,20,Flames,4,2/3
+CGY,MIN,3,12,43.3,14,30,Wild,12,0/4,13,56.7,13,5,20,Flames,8,2/6
+CBJ,CGY,1,5,52.7,12,20,Flames,14,0/5,18,47.3,14,3,29,Blue Jackets,12,0/7
+TOR,CGY,4,13,49.2,34,20,Flames,16,1/2,11,50.8,29,5,10,Maple Leafs,8,3/6
+MTL,CGY,1,22,49.4,25,20,Flames,21,1/6,19,50.6,25,2,8,Canadiens,19,0/7
+CGY,VAN,4,13,50.0,26,23,Canucks,12,0/2,16,50.0,11,3,20,Flames,8,1/4
+CGY,STL,5,15,53.0,11,19,Blues,6,1/2,8,47.0,14,2,20,Flames,4,0/3
+SJS,CGY,5,6,45.2,23,20,Flames,21,1/4,14,54.8,26,2,28,Sharks,13,2/7
+SJS,CGY,7,15,55.2,16,20,Flames,11,0/2,20,44.8,21,3,28,Sharks,9,0/3
+LAK,CGY,3,13,54.4,31,20,Flames,8,1/2,21,45.6,22,4,26,Kings,6,0/3
+ANA,CGY,3,15,56.9,13,20,Flames,15,0/4,16,43.1,11,2,24,Ducks,13,2/5
+CGY,EDM,2,25,46.6,13,22,Oilers,2,1/3,6,53.4,20,1,20,Flames,6,0/1
+SEA,CGY,3,14,55.6,21,20,Flames,2,1/4,9,44.4,25,2,55,Kraken,8,0/1
+CGY,VAN,2,8,41.7,19,23,Canucks,4,0/4,10,58.3,15,3,20,Flames,8,0/2
+WPG,CGY,2,17,54.4,20,20,Flames,10,0/2,16,45.6,17,3,52,Jets,6,0/4
+CGY,NYI,1,19,58.0,31,2,Islanders,4,0/1,8,42.0,19,4,20,Flames,2,0/2
+CHI,CGY,3,14,53.8,21,20,Flames,9,2/3,23,46.2,22,4,16,Blackhawks,13,0/1
+STL,CGY,3,4,54.7,25,20,Flames,4,0/2,11,45.3,22,4,19,Blues,4,1/2
+STL,CGY,4,8,50.0,27,20,Flames,6,0/1,14,50.0,25,1,19,Blues,2,0/3
+DAL,CGY,6,12,50.8,22,20,Flames,4,2/5,17,49.2,29,5,25,Stars,10,0/2
+NSH,CGY,1,22,39.7,28,20,Flames,6,0/4,14,60.3,30,2,18,Predators,8,0/3
+CGY,COL,4,13,43.6,12,21,Avalanche,4,1/3,8,56.4,19,1,20,Flames,16,1/2
+CGY,TBL,3,18,64.5,20,14,Lightning,27,0/6,15,35.5,22,6,20,Flames,21,1/4
+CGY,CBJ,3,21,42.3,11,29,Blue Jackets,11,2/4,12,57.7,17,4,20,Flames,15,0/2
+CGY,CHI,5,18,56.1,17,16,Blackhawks,6,0/1,6,43.9,12,1,20,Flames,2,0/3
+SEA,CGY,5,15,61.3,19,20,Flames,12,0/2,15,38.7,18,2,55,Kraken,6,0/5
+NYR,CGY,4,13,56.7,25,20,Flames,41,1/3,17,43.3,25,5,3,Rangers,21,1/3
+DET,CGY,1,11,51.1,12,20,Flames,10,0/3,17,48.9,20,2,17,Red Wings,6,1/5
+BUF,CGY,7,22,50.0,25,20,Flames,10,1/3,11,50.0,8,2,7,Sabres,10,1/3
+OTT,CGY,3,11,57.1,23,20,Flames,10,1/4,28,42.9,37,4,9,Senators,10,0/4
+CGY,DET,5,23,55.9,16,17,Red Wings,4,2/4,9,44.1,27,2,20,Flames,8,0/2
+CGY,NYR,2,13,51.1,26,3,Rangers,6,1/2,13,48.9,21,3,20,Flames,14,1/3
+CGY,PHI,4,30,41.9,15,4,Flyers,13,0/2,7,58.1,15,3,20,Flames,9,0/4
+ARI,CGY,6,11,52.5,25,20,Flames,4,3/5,23,47.5,31,3,53,Coyotes,10,1/2
+VGK,CGY,3,19,47.3,50,20,Flames,4,1/4,21,52.7,40,4,54,Golden Knights,8,1/2
+COL,CGY,1,10,50.0,24,20,Flames,15,1/5,24,50.0,18,4,21,Avalanche,17,1/4
+CGY,BOS,4,23,52.2,11,6,Bruins,13,1/3,14,47.8,24,3,20,Flames,13,0/3
+CGY,TOR,2,18,55.6,18,10,Maple Leafs,4,0/2,8,44.4,20,1,20,Flames,4,0/2
+CGY,MIN,3,20,60.9,18,30,Wild,4,0/2,15,39.1,23,0,20,Flames,4,0/2
+DAL,CGY,5,13,55.6,33,20,Flames,8,0/2,9,44.4,24,4,25,Stars,4,1/4
+MIN,CGY,1,10,52.5,23,20,Flames,12,0/3,23,47.5,18,0,30,Wild,8,0/5
+CGY,ANA,3,22,38.1,11,24,Ducks,4,0/0,9,61.9,16,1,20,Flames,0,1/2
+CGY,OTT,1,27,50.7,28,9,Senators,6,0/4,11,49.3,23,5,20,Flames,8,1/3
+ARI,CGY,3,10,57.1,39,20,Flames,2,0/2,16,42.9,39,4,53,Coyotes,4,0/1
+VGK,CGY,7,19,44.0,37,20,Flames,13,1/2,16,56.0,23,2,54,Golden Knights,9,0/4
+CGY,DAL,6,14,41.7,24,25,Stars,2,0/3,13,58.3,25,5,20,Flames,6,0/1
+LAK,CGY,2,12,45.8,30,20,Flames,20,1/4,15,54.2,23,8,26,Kings,8,2/5
+ANA,CGY,5,9,54.8,13,20,Flames,6,2/5,7,45.2,9,1,24,Ducks,10,1/3
+CGY,VGK,3,32,58.8,12,54,Golden Knights,4,0/1,15,41.2,25,2,20,Flames,2,1/2
+CGY,SJS,3,15,52.4,15,28,Sharks,2,0/3,16,47.6,14,5,20,Flames,6,0/1
+CGY,LAK,1,19,56.6,21,26,Kings,6,0/2,13,43.4,29,2,20,Flames,4,1/3
+VAN,CGY,5,12,45.5,30,20,Flames,4,1/6,25,54.5,33,4,23,Canucks,12,1/2
+CGY,ANA,4,18,46.4,16,24,Ducks,4,0/1,8,53.6,17,5,20,Flames,2,1/2
+CGY,CHI,4,23,52.7,29,16,Blackhawks,2,0/0,9,47.3,17,3,20,Flames,0,0/1
+WPG,CGY,3,13,46.3,33,20,Flames,14,0/6,6,53.7,25,1,52,Jets,16,1/5
+VAN,CGY,2,13,42.9,31,20,Flames,6,1/2,14,57.1,25,3,23,Canucks,4,0/3
+CGY,NSH,3,27,48.1,16,18,Predators,8,0/6,3,51.9,19,2,20,Flames,12,0/4
+CGY,SJS,1,23,51.4,15,28,Sharks,2,0/2,17,48.6,14,3,20,Flames,4,0/1

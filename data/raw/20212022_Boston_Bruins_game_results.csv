@@ -1,0 +1,96 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+WSH,BOS,3,17,50.7,19,6,Bruins,10,0/3,14,49.3,21,2,15,Capitals,14,0/4
+NYR,BOS,2,11,44.2,20,6,Bruins,10,0/5,11,55.8,37,3,3,Rangers,10,0/5
+BOS,PHI,2,15,43.2,15,4,Flyers,10,2/6,5,56.8,26,4,6,Bruins,12,2/5
+BOS,NYR,4,12,41.5,34,3,Rangers,8,1/2,7,58.5,18,3,6,Bruins,4,1/4
+PHI,BOS,1,18,49.0,32,6,Bruins,15,1/2,11,51.0,24,2,4,Flyers,9,1/5
+BOS,WSH,4,6,39.0,17,15,Capitals,6,1/7,6,61.0,20,3,6,Bruins,14,0/3
+BOS,DAL,1,11,53.2,33,25,Stars,8,0/6,8,46.8,25,3,6,Bruins,14,0/3
+PHI,BOS,3,18,48.0,32,6,Bruins,4,0/1,23,52.0,35,6,4,Flyers,2,2/2
+BUF,BOS,4,22,63.0,14,6,Bruins,8,1/2,6,37.0,12,1,7,Sabres,4,0/4
+BOS,SJS,3,6,48.4,25,28,Sharks,13,0/2,14,51.6,23,4,6,Bruins,11,1/3
+FLA,BOS,1,13,66.1,37,6,Bruins,2,0/2,17,33.9,34,4,13,Panthers,4,0/1
+CAR,BOS,0,9,44.3,46,6,Bruins,12,0/5,11,55.7,29,3,12,Hurricanes,12,1/5
+BOS,FLA,2,14,36.8,25,13,Panthers,6,1/1,11,63.2,28,3,6,Bruins,2,1/3
+BOS,DET,1,10,40.7,25,17,Red Wings,12,1/4,11,59.3,24,5,6,Bruins,10,3/5
+TOR,BOS,2,13,49.1,32,6,Bruins,8,1/4,16,50.9,22,5,10,Maple Leafs,8,2/4
+BOS,OTT,2,19,42.1,26,9,Senators,13,0/6,4,57.9,27,3,6,Bruins,19,1/3
+BOS,EDM,5,8,32.7,30,22,Oilers,6,0/2,7,67.3,34,3,6,Bruins,4,0/3
+NJD,BOS,5,25,53.8,16,6,Bruins,8,1/2,8,46.2,11,2,1,Devils,6,0/3
+BOS,MTL,2,7,53.8,29,8,Canadiens,18,0/1,10,46.2,31,5,6,Bruins,2,1/4
+PHI,BOS,5,9,50.9,33,6,Bruins,17,0/3,8,49.1,29,2,4,Flyers,13,1/5
+BOS,CGY,4,15,46.8,28,20,Flames,6,0/2,14,53.2,37,0,6,Bruins,4,0/3
+BUF,BOS,5,10,68.8,27,6,Bruins,7,2/3,10,31.3,18,1,7,Sabres,22,0/1
+BOS,NYR,5,17,42.9,23,3,Rangers,18,0/2,4,57.1,21,2,6,Bruins,16,0/3
+BOS,VAN,2,11,49.2,18,23,Canucks,6,1/4,12,50.8,28,3,6,Bruins,8,2/3
+BOS,DET,2,14,52.4,28,17,Red Wings,8,0/1,9,47.6,30,1,6,Bruins,4,1/3
+NSH,BOS,2,20,50.8,13,6,Bruins,4,1/4,11,49.2,24,0,18,Predators,10,0/1
+BOS,TBL,3,19,41.8,31,14,Lightning,2,0/2,11,58.2,33,2,6,Bruins,4,0/1
+VAN,BOS,1,19,52.2,28,6,Bruins,8,1/4,15,47.8,20,2,23,Canucks,8,1/4
+EDM,BOS,3,19,56.9,23,6,Bruins,12,1/3,9,43.1,17,2,22,Oilers,8,2/5
+CGY,BOS,4,21,48.8,26,6,Bruins,10,0/2,7,51.3,22,2,20,Flames,4,1/5
+BOS,VGK,4,14,39.6,20,54,Golden Knights,2,1/1,12,60.4,38,1,6,Bruins,2,0/1
+NYI,BOS,1,13,42.3,26,6,Bruins,15,0/3,11,57.7,22,3,2,Islanders,11,1/5
+BOS,BUF,3,10,48.6,15,7,Sabres,8,1/4,10,51.4,14,4,6,Bruins,8,0/4
+DET,BOS,5,14,49.1,15,6,Bruins,17,0/3,10,50.9,26,1,17,Red Wings,15,0/4
+BOS,NJD,3,13,35.8,25,1,Devils,2,0/1,9,64.2,29,5,6,Bruins,2,0/1
+BOS,MIN,3,10,40.3,23,30,Wild,22,2/8,9,59.7,33,2,6,Bruins,28,2/5
+TBL,BOS,5,9,54.1,26,6,Bruins,8,0/2,7,45.9,31,2,14,Lightning,4,0/4
+WSH,BOS,7,11,57.1,27,6,Bruins,6,2/4,12,42.9,35,3,15,Capitals,8,0/2
+BOS,MTL,1,10,47.8,29,8,Canadiens,21,0/5,4,52.2,21,5,6,Bruins,21,0/5
+BOS,PHI,2,7,50.0,23,4,Flyers,17,1/4,16,50.0,18,3,6,Bruins,17,2/4
+BOS,NSH,3,8,60.8,46,18,Predators,7,0/2,12,39.2,45,4,6,Bruins,9,1/1
+BOS,CAR,7,16,44.8,26,12,Hurricanes,10,2/3,9,55.2,26,1,6,Bruins,6,1/5
+BOS,WSH,3,14,44.6,36,15,Capitals,6,0/4,17,55.4,27,4,6,Bruins,8,2/3
+BOS,WPG,2,13,47.8,25,52,Jets,14,0/4,17,52.2,28,3,6,Bruins,18,1/2
+BOS,ANA,5,23,41.4,25,24,Ducks,9,1/3,3,58.6,30,3,6,Bruins,11,1/2
+COL,BOS,3,21,58.3,23,6,Bruins,12,1/4,5,41.7,24,4,21,Avalanche,12,1/4
+ARI,BOS,2,9,58.9,22,6,Bruins,8,1/4,10,41.1,28,1,53,Coyotes,10,0/3
+DAL,BOS,1,15,44.3,23,6,Bruins,6,0/1,16,55.7,19,6,25,Stars,2,1/3
+BOS,SEA,2,9,49.1,16,55,Kraken,13,0/6,14,50.9,26,3,6,Bruins,19,2/3
+BOS,PIT,4,19,44.6,30,5,Penguins,8,1/4,13,55.4,22,2,6,Bruins,20,1/3
+BOS,CAR,6,13,50.7,32,12,Hurricanes,15,2/4,4,49.3,42,0,6,Bruins,15,0/4
+OTT,BOS,2,19,56.4,42,6,Bruins,6,0/2,13,43.6,44,0,9,Senators,6,0/2
+NYR,BOS,1,13,45.2,25,6,Bruins,6,0/1,13,54.8,36,2,3,Rangers,6,0/1
+NYI,BOS,1,11,60.0,20,6,Bruins,4,0/2,15,40.0,35,4,2,Islanders,4,1/2
+OTT,BOS,3,13,50.9,19,6,Bruins,10,0/0,11,49.1,28,2,9,Senators,6,0/2
+BOS,COL,1,3,38.7,28,21,Avalanche,6,1/4,11,61.3,20,5,6,Bruins,8,1/3
+SEA,BOS,3,9,61.1,19,6,Bruins,6,0/5,12,38.9,18,2,55,Kraken,10,0/3
+SJS,BOS,3,17,54.7,20,6,Bruins,10,0/3,15,45.3,24,1,28,Sharks,8,1/4
+LAK,BOS,7,12,50.0,33,6,Bruins,9,2/3,13,50.0,30,0,26,Kings,11,0/2
+ANA,BOS,3,14,49.2,23,6,Bruins,11,0/1,16,50.8,24,4,24,Ducks,7,2/3
+VGK,BOS,5,20,44.2,28,6,Bruins,4,0/1,18,55.8,25,2,54,Golden Knights,2,0/2
+CBJ,BOS,5,16,49.1,20,6,Bruins,6,1/2,12,50.9,28,4,29,Blue Jackets,4,2/3
+BOS,LAK,3,19,57.9,35,26,Kings,6,0/2,12,42.1,29,2,6,Bruins,8,0/1
+BOS,CHI,3,12,47.6,28,16,Blackhawks,8,1/3,11,52.4,26,4,6,Bruins,8,2/3
+BOS,ARI,2,9,45.3,24,53,Coyotes,2,0/2,14,54.7,26,3,6,Bruins,4,0/1
+CHI,BOS,2,19,51.7,28,6,Bruins,6,0/4,14,48.3,30,1,16,Blackhawks,8,0/3
+MIN,BOS,2,20,48.5,24,6,Bruins,13,1/2,13,51.5,26,4,30,Wild,11,1/3
+WPG,BOS,4,17,53.3,19,6,Bruins,10,1/4,15,46.7,33,2,52,Jets,28,0/5
+MTL,BOS,3,12,61.5,26,6,Bruins,6,0/4,22,38.5,19,2,8,Canadiens,10,0/2
+BOS,TBL,2,14,43.5,26,14,Lightning,14,0/3,12,56.5,29,3,6,Bruins,10,0/5
+BOS,NYI,3,17,49.1,26,2,Islanders,13,2/4,5,50.9,22,6,6,Bruins,15,1/3
+BOS,TOR,6,8,47.4,27,10,Maple Leafs,12,1/3,5,52.6,35,4,6,Bruins,22,1/3
+BOS,NJD,1,13,39.1,20,1,Devils,23,0/3,6,60.9,23,8,6,Bruins,23,1/3
+BOS,CBJ,2,12,39.2,33,29,Blue Jackets,2,0/1,18,60.8,24,5,6,Bruins,2,1/1
+CBJ,BOS,3,12,62.7,15,6,Bruins,18,0/5,7,37.3,24,2,29,Blue Jackets,26,0/5
+DET,BOS,3,9,60.3,28,6,Bruins,34,0/4,7,39.7,31,5,17,Red Wings,22,1/5
+TBL,BOS,2,13,48.2,32,6,Bruins,10,0/3,9,51.8,36,1,14,Lightning,6,0/5
+WSH,BOS,2,9,60.6,39,6,Bruins,4,0/4,25,39.4,45,4,15,Capitals,8,0/2
+BOS,STL,4,15,44.3,21,19,Blues,4,1/4,8,55.7,25,2,6,Bruins,8,0/2
+BOS,OTT,3,6,31.7,30,9,Senators,10,2/6,10,68.3,30,2,6,Bruins,12,0/5
+BOS,PIT,1,10,55.4,12,5,Penguins,4,0/3,6,44.6,9,2,6,Bruins,6,0/2
+STL,BOS,3,13,60.0,22,6,Bruins,8,0/2,13,40.0,20,2,19,Blues,6,1/3
+PIT,BOS,0,8,51.6,36,6,Bruins,2,0/2,14,48.4,26,4,5,Penguins,4,0/1
+BOS,NYR,1,17,38.0,34,3,Rangers,8,1/3,11,62.0,24,3,6,Bruins,8,0/3
+MTL,BOS,5,17,48.3,36,6,Bruins,14,0/1,10,51.7,28,3,8,Canadiens,8,2/4
+BOS,FLA,2,5,45.0,29,13,Panthers,10,1/2,12,55.0,27,4,6,Bruins,8,0/3
+BOS,BUF,0,4,41.1,21,7,Sabres,14,0/3,17,58.9,19,5,6,Bruins,8,2/6
+TOR,BOS,2,13,52.8,54,6,Bruins,8,1/1,8,47.2,38,5,10,Maple Leafs,4,1/3
+CAR,BOS,1,17,43.1,42,6,Bruins,16,0/3,16,56.9,48,5,12,Hurricanes,6,0/3
+CAR,BOS,2,10,45.0,45,6,Bruins,28,1/5,12,55.0,33,5,12,Hurricanes,18,2/9
+BOS,CAR,2,12,43.3,40,12,Hurricanes,12,0/5,29,56.7,33,4,6,Bruins,12,2/5
+BOS,CAR,2,6,53.8,29,12,Hurricanes,18,0/5,15,46.2,37,5,6,Bruins,10,2/9
+CAR,BOS,1,20,54.3,45,6,Bruins,10,0/3,21,45.7,34,5,12,Hurricanes,6,2/5
+BOS,CAR,2,18,51.9,42,12,Hurricanes,6,1/6,12,48.1,34,5,6,Bruins,12,1/3
+CAR,BOS,2,16,48.4,40,6,Bruins,10,0/1,14,51.6,35,3,12,Hurricanes,6,0/3

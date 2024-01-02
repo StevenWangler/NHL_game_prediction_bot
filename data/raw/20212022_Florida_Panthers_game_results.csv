@@ -1,0 +1,100 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+FLA,NSH,4,15,46.4,22,18,Predators,29,1/4,11,53.6,18,5,13,Panthers,15,1/6
+FLA,NSH,1,18,47.1,36,18,Predators,10,0/4,8,52.9,23,3,13,Panthers,8,2/5
+DAL,FLA,4,10,36.1,9,13,Panthers,6,1/2,10,63.9,14,3,25,Stars,4,1/3
+FLA,DAL,3,13,49.3,35,25,Stars,2,1/2,13,50.7,25,6,13,Panthers,4,0/1
+TBL,FLA,3,0,0.0,0,13,Panthers,49,0/4,0,0.0,0,2,14,Lightning,47,1/5
+TBL,FLA,2,6,47.2,22,13,Panthers,13,0/3,5,52.8,26,6,14,Lightning,11,2/4
+FLA,TBL,4,17,43.6,25,14,Lightning,8,2/5,14,56.4,20,2,13,Panthers,12,0/3
+FLA,PIT,4,11,45.7,22,5,Penguins,12,2/9,17,54.3,23,5,13,Panthers,18,0/6
+FLA,NYI,1,23,56.7,28,2,Islanders,6,1/4,11,43.3,34,5,13,Panthers,12,0/1
+TBL,FLA,4,10,39.1,25,13,Panthers,12,1/3,15,60.9,26,1,14,Lightning,6,0/6
+FLA,COL,1,18,40.3,26,21,Avalanche,10,0/3,12,59.7,26,4,13,Panthers,6,1/5
+PHI,FLA,4,12,41.3,21,13,Panthers,8,1/7,12,58.7,23,2,4,Flyers,14,1/4
+FLA,ARI,3,20,42.9,33,53,Coyotes,23,0/1,9,57.1,23,5,13,Panthers,9,2/3
+FLA,BOS,1,13,66.1,37,6,Bruins,2,0/2,17,33.9,34,4,13,Panthers,4,0/1
+DET,FLA,3,9,41.4,18,13,Panthers,8,0/3,23,58.6,23,2,17,Red Wings,6,0/4
+BOS,FLA,2,14,36.8,25,13,Panthers,6,1/1,11,63.2,28,3,6,Bruins,2,1/3
+FLA,WSH,4,13,51.1,36,15,Capitals,6,0/2,9,48.9,29,5,13,Panthers,4,1/3
+FLA,CAR,2,11,64.4,35,12,Hurricanes,20,1/5,26,35.6,21,5,13,Panthers,21,3/5
+NYR,FLA,3,8,47.3,18,13,Panthers,6,0/2,21,52.7,26,4,3,Rangers,6,1/2
+NJD,FLA,3,10,46.7,28,13,Panthers,8,0/2,14,53.3,21,7,1,Devils,4,2/4
+PIT,FLA,2,14,42.3,28,13,Panthers,6,0/4,11,57.7,31,3,5,Penguins,8,0/3
+TBL,FLA,2,6,54.4,25,13,Panthers,11,0/1,16,45.6,30,3,14,Lightning,11,1/1
+FLA,NYI,1,5,50.9,42,2,Islanders,46,0/1,14,49.1,26,6,13,Panthers,9,0/5
+FLA,NJD,1,16,57.1,24,1,Devils,6,0/3,15,42.9,35,4,13,Panthers,8,0/2
+FLA,MIN,4,17,50.9,32,30,Wild,2,1/2,16,49.1,35,5,13,Panthers,4,0/1
+FLA,PHI,1,21,57.9,28,4,Flyers,6,0/2,7,42.1,15,2,13,Panthers,6,1/2
+WSH,FLA,3,13,47.6,13,13,Panthers,6,0/3,12,52.4,21,4,15,Capitals,6,1/3
+FLA,SEA,4,22,72.0,24,55,Kraken,4,1/2,10,28.0,39,1,13,Panthers,6,0/1
+FLA,WSH,4,7,48.5,35,15,Capitals,12,0/2,10,51.5,35,5,13,Panthers,8,2/4
+FLA,BUF,4,20,52.4,15,7,Sabres,8,0/3,15,47.6,16,7,13,Panthers,8,1/3
+FLA,STL,3,17,52.4,24,19,Blues,10,0/1,8,47.6,19,4,13,Panthers,4,0/4
+STL,FLA,3,8,50.0,12,13,Panthers,12,0/5,16,50.0,23,4,19,Blues,12,1/5
+ARI,FLA,3,12,45.5,17,13,Panthers,10,1/4,7,54.5,28,1,53,Coyotes,8,1/5
+COL,FLA,2,11,54.4,18,13,Panthers,19,1/4,17,45.6,22,3,21,Avalanche,13,1/2
+FLA,OTT,8,24,56.7,26,9,Senators,21,2/4,11,43.3,26,2,13,Panthers,37,0/6
+FLA,LAK,4,16,67.9,21,26,Kings,8,0/2,10,32.1,30,1,13,Panthers,4,0/4
+FLA,NYR,3,16,44.8,30,3,Rangers,6,0/2,9,55.2,40,4,13,Panthers,6,0/2
+FLA,TBL,3,13,55.9,29,14,Lightning,42,1/4,11,44.1,40,9,13,Panthers,24,1/3
+FLA,MTL,2,16,43.9,25,8,Canadiens,15,0/3,15,56.1,29,5,13,Panthers,11,1/5
+FLA,CGY,2,24,45.5,29,20,Flames,6,0/2,17,54.5,39,6,13,Panthers,4,2/3
+DAL,FLA,5,15,40.3,18,13,Panthers,6,1/3,15,59.7,23,6,25,Stars,6,1/3
+CAR,FLA,4,13,53.6,27,13,Panthers,8,0/2,11,46.4,27,3,12,Hurricanes,4,1/4
+FLA,VAN,2,22,58.6,28,23,Canucks,18,0/3,22,41.4,16,5,13,Panthers,18,1/3
+FLA,DAL,1,23,47.2,30,25,Stars,4,0/2,9,52.8,26,7,13,Panthers,4,1/2
+FLA,CBJ,2,14,56.3,29,29,Blue Jackets,8,1/4,11,43.8,19,9,13,Panthers,8,1/4
+CGY,FLA,1,12,38.5,14,13,Panthers,12,0/3,11,61.5,15,5,20,Flames,12,2/3
+EDM,FLA,6,26,40.9,27,13,Panthers,6,3/5,20,59.1,22,0,22,Oilers,10,0/3
+VAN,FLA,2,11,50.9,14,13,Panthers,8,1/2,18,49.1,17,1,23,Canucks,4,1/4
+SEA,FLA,3,13,56.1,18,13,Panthers,13,1/3,25,43.9,21,5,55,Kraken,11,0/4
+WPG,FLA,5,7,42.0,18,13,Panthers,6,0/4,6,58.0,16,3,52,Jets,8,1/3
+FLA,VGK,1,14,63.0,31,54,Golden Knights,4,0/3,13,37.0,37,4,13,Panthers,6,0/1
+FLA,SJS,4,26,50.8,31,28,Sharks,4,2/2,4,49.2,30,5,13,Panthers,6,0/1
+CBJ,FLA,8,14,53.8,9,13,Panthers,6,1/3,21,46.2,33,4,29,Blue Jackets,8,0/2
+NYR,FLA,2,16,54.7,25,13,Panthers,15,1/3,14,45.3,38,5,3,Rangers,11,3/5
+CAR,FLA,3,10,57.1,34,13,Panthers,10,0/5,10,42.9,28,2,12,Hurricanes,12,0/4
+MIN,FLA,6,11,48.2,33,13,Panthers,10,1/3,15,51.8,34,2,30,Wild,6,2/5
+CHI,FLA,5,13,56.5,30,13,Panthers,15,0/1,12,43.5,24,2,16,Blackhawks,9,0/4
+FLA,NSH,6,18,61.3,34,18,Predators,6,1/3,9,38.7,26,4,13,Panthers,6,1/3
+FLA,CBJ,6,20,44.1,43,29,Blue Jackets,8,0/2,6,55.9,27,3,13,Panthers,4,0/4
+FLA,EDM,4,15,46.2,24,22,Oilers,10,1/2,11,53.8,31,3,13,Panthers,4,2/5
+FLA,OTT,0,24,47.4,37,9,Senators,55,0/3,10,52.6,19,3,13,Panthers,23,2/9
+FLA,DET,2,15,35.7,17,17,Red Wings,6,0/2,10,64.3,24,6,13,Panthers,4,2/3
+BUF,FLA,6,12,47.3,6,13,Panthers,12,2/3,7,52.7,12,1,7,Sabres,18,0/5
+PIT,FLA,4,11,42.2,22,13,Panthers,6,1/2,15,57.8,34,3,5,Penguins,4,0/3
+FLA,PHI,3,22,49.3,33,4,Flyers,28,1/3,22,50.7,18,6,13,Panthers,18,3/3
+LAK,FLA,2,20,40.0,31,13,Panthers,10,0/2,11,60.0,22,3,26,Kings,6,1/4
+SJS,FLA,3,17,45.0,18,13,Panthers,14,0/2,25,55.0,20,2,28,Sharks,8,1/5
+VGK,FLA,3,15,45.3,50,13,Panthers,16,1/1,16,54.7,32,5,54,Golden Knights,2,1/3
+ANA,FLA,3,11,54.5,28,13,Panthers,11,1/5,20,45.5,21,0,24,Ducks,29,0/1
+MTL,FLA,4,13,45.9,20,13,Panthers,10,1/6,24,54.1,26,3,8,Canadiens,12,1/5
+OTT,FLA,4,13,52.2,33,13,Panthers,8,1/2,19,47.8,34,3,9,Senators,4,0/4
+TOR,FLA,2,8,53.0,39,13,Panthers,6,0/3,16,47.0,32,5,10,Maple Leafs,8,2/2
+FLA,MTL,4,21,44.9,19,8,Canadiens,10,0/2,7,55.1,21,7,13,Panthers,6,0/4
+FLA,CHI,0,12,53.6,21,16,Blackhawks,6,0/3,13,46.4,27,4,13,Panthers,6,1/3
+NJD,FLA,7,9,66.1,27,13,Panthers,4,0/3,19,33.9,23,6,1,Devils,6,0/2
+BUF,FLA,5,8,47.4,28,13,Panthers,4,1/3,6,52.6,12,3,7,Sabres,6,2/2
+FLA,TOR,6,21,48.8,28,10,Maple Leafs,14,3/7,10,51.2,38,7,13,Panthers,16,3/6
+FLA,BUF,3,13,51.0,20,7,Sabres,4,1/4,13,49.0,22,4,13,Panthers,10,2/2
+NSH,FLA,4,20,44.4,24,13,Panthers,9,0/3,19,55.6,40,1,18,Predators,21,0/2
+FLA,ANA,2,21,37.7,29,24,Ducks,6,0/2,5,62.3,16,3,13,Panthers,4,1/3
+FLA,WPG,1,5,53.3,29,52,Jets,4,0/4,14,46.7,20,6,13,Panthers,10,0/1
+DET,FLA,6,8,44.6,27,13,Panthers,6,0/2,6,55.4,25,1,17,Red Wings,4,0/3
+NYI,FLA,3,8,51.7,16,13,Panthers,16,1/5,19,48.3,24,2,2,Islanders,10,1/3
+FLA,DET,2,21,33.3,27,17,Red Wings,23,0/2,15,66.7,20,5,13,Panthers,8,2/4
+FLA,TOR,2,12,54.4,22,10,Maple Leafs,8,0/2,16,45.6,25,3,13,Panthers,8,1/2
+FLA,TBL,8,21,52.1,29,14,Lightning,24,3/7,13,47.9,35,4,13,Panthers,66,1/6
+BOS,FLA,2,5,45.0,29,13,Panthers,10,1/2,12,55.0,27,4,6,Bruins,8,0/3
+OTT,FLA,4,17,45.2,13,13,Panthers,11,0/3,11,54.8,19,0,9,Senators,21,0/3
+MTL,FLA,2,10,45.3,13,13,Panthers,4,1/1,22,54.7,15,10,8,Canadiens,2,1/2
+FLA,WSH,4,12,47.2,43,15,Capitals,8,1/3,11,52.8,56,2,13,Panthers,10,0/2
+FLA,WSH,1,21,47.1,60,15,Capitals,20,1/3,13,52.9,39,5,13,Panthers,8,0/4
+WSH,FLA,1,12,55.0,49,13,Panthers,14,0/3,14,45.0,44,6,15,Capitals,8,2/6
+WSH,FLA,3,10,56.9,46,13,Panthers,14,0/4,24,43.1,56,2,15,Capitals,12,1/5
+FLA,WSH,3,12,47.8,48,15,Capitals,11,1/3,10,52.2,35,5,13,Panthers,11,0/3
+WSH,FLA,4,19,51.3,50,13,Panthers,10,0/2,15,48.7,51,3,15,Capitals,6,1/4
+FLA,TBL,4,16,49.2,30,14,Lightning,8,3/6,11,50.8,30,1,13,Panthers,14,0/3
+FLA,TBL,2,24,43.2,35,14,Lightning,8,1/3,14,56.8,52,1,13,Panthers,6,0/4
+TBL,FLA,1,10,55.4,45,13,Panthers,4,1/3,19,44.6,33,5,14,Lightning,6,0/2
+TBL,FLA,0,9,41.8,41,13,Panthers,8,0/3,18,58.2,29,2,14,Lightning,6,0/4

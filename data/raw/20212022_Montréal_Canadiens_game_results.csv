@@ -1,0 +1,89 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+TOR,MTL,1,8,53.2,32,8,Canadiens,23,0/2,8,46.8,24,4,10,Maple Leafs,9,1/4
+MTL,TOR,2,9,49.0,17,10,Maple Leafs,15,0/3,20,51.0,27,5,8,Canadiens,11,3/5
+OTT,MTL,2,11,48.1,33,8,Canadiens,6,1/5,10,51.9,36,7,9,Senators,12,1/2
+MTL,OTT,1,17,45.7,37,9,Senators,23,0/4,11,54.3,24,2,8,Canadiens,13,1/4
+TOR,MTL,2,7,57.4,26,8,Canadiens,13,1/5,6,42.6,23,6,10,Maple Leafs,15,2/4
+MTL,OTT,5,16,48.3,28,9,Senators,12,2/7,19,51.7,22,4,8,Canadiens,18,1/4
+TOR,MTL,1,13,41.8,32,8,Canadiens,6,0/4,14,58.2,14,2,10,Maple Leafs,8,1/3
+BUF,MTL,1,9,47.5,18,8,Canadiens,12,0/4,16,52.5,9,5,7,Sabres,8,3/6
+MTL,NYR,3,18,39.3,23,3,Rangers,6,1/4,13,60.7,31,1,8,Canadiens,8,0/3
+MTL,SJS,5,19,62.0,20,28,Sharks,6,2/4,11,38.0,31,0,8,Canadiens,10,0/2
+MTL,CAR,4,20,55.1,21,12,Hurricanes,12,1/1,11,44.9,21,1,8,Canadiens,4,1/6
+MTL,DET,1,30,52.1,15,17,Red Wings,8,1/3,16,47.9,13,6,8,Canadiens,6,1/4
+SEA,MTL,1,18,40.0,40,8,Canadiens,8,0/2,6,60.0,32,5,55,Kraken,4,0/4
+SJS,MTL,4,18,48.4,26,8,Canadiens,13,1/4,12,51.6,18,0,28,Sharks,23,0/4
+LAK,MTL,2,16,38.5,32,8,Canadiens,10,0/3,13,61.5,16,5,26,Kings,6,3/5
+ANA,MTL,2,9,28.6,16,8,Canadiens,25,1/4,11,71.4,22,4,24,Ducks,10,2/6
+MTL,DET,0,11,50.9,28,17,Red Wings,2,0/2,13,49.1,21,3,8,Canadiens,4,0/1
+MTL,NYI,6,27,46.0,26,2,Islanders,6,0/3,9,54.0,22,2,8,Canadiens,6,1/3
+MTL,VGK,5,22,50.0,18,54,Golden Knights,12,2/2,15,50.0,33,2,8,Canadiens,8,1/4
+MTL,LAK,3,24,49.2,16,26,Kings,8,0/4,18,50.8,33,2,8,Canadiens,10,0/3
+MTL,CGY,2,14,46.3,30,20,Flames,12,0/1,15,53.7,29,4,8,Canadiens,6,2/5
+DET,MTL,2,10,53.7,25,8,Canadiens,6,0/3,14,46.3,22,3,17,Red Wings,8,0/2
+BOS,MTL,2,7,53.8,29,8,Canadiens,18,0/1,10,46.2,31,5,6,Bruins,2,1/4
+NYR,MTL,2,9,50.9,27,8,Canadiens,26,0/2,23,49.1,23,3,3,Rangers,14,0/3
+MTL,PIT,6,19,55.0,12,5,Penguins,2,1/1,15,45.0,29,0,8,Canadiens,2,0/1
+MTL,NSH,3,12,42.6,37,18,Predators,21,2/3,11,57.4,22,6,8,Canadiens,23,1/2
+WSH,MTL,3,13,46.4,22,8,Canadiens,2,0/3,7,53.6,20,6,15,Capitals,6,1/1
+BUF,MTL,1,13,50.9,18,8,Canadiens,2,0/2,10,49.1,7,4,7,Sabres,4,0/1
+PIT,MTL,6,11,44.3,37,8,Canadiens,6,0/4,10,55.7,24,3,5,Penguins,8,1/3
+MTL,VAN,2,18,50.0,14,23,Canucks,4,1/2,19,50.0,23,1,8,Canadiens,4,0/2
+MTL,COL,4,15,42.9,15,21,Avalanche,12,0/3,16,57.1,19,1,8,Canadiens,8,1/5
+NSH,MTL,3,13,47.7,11,8,Canadiens,20,1/4,9,52.3,11,4,18,Predators,18,0/5
+MTL,TBL,3,7,49.0,14,14,Lightning,19,0/3,21,51.0,18,2,8,Canadiens,13,0/1
+MTL,CHI,2,13,46.5,24,16,Blackhawks,2,1/2,10,53.5,23,0,8,Canadiens,4,0/1
+STL,MTL,1,8,50.0,35,8,Canadiens,6,0/1,6,50.0,16,4,19,Blues,2,2/3
+PIT,MTL,2,11,36.8,29,8,Canadiens,10,0/2,16,63.2,22,5,5,Penguins,4,1/5
+MTL,PHI,2,11,60.0,13,4,Flyers,4,0/2,15,40.0,22,3,8,Canadiens,4,0/2
+TBL,MTL,4,14,48.5,34,8,Canadiens,8,0/4,6,51.5,37,5,14,Lightning,8,0/4
+CAR,MTL,0,14,28.3,42,8,Canadiens,10,0/5,8,71.7,25,4,12,Hurricanes,10,3/5
+FLA,MTL,2,16,43.9,25,8,Canadiens,15,0/3,15,56.1,29,5,13,Panthers,11,1/5
+BOS,MTL,1,10,47.8,29,8,Canadiens,21,0/5,4,52.2,21,5,6,Bruins,21,0/5
+CHI,MTL,2,15,54.2,39,8,Canadiens,13,1/4,15,45.8,24,3,16,Blackhawks,23,1/4
+ARI,MTL,2,15,49.1,36,8,Canadiens,10,1/3,12,50.9,31,5,53,Coyotes,6,0/5
+DAL,MTL,5,31,45.6,29,8,Canadiens,39,1/3,13,54.4,14,3,25,Stars,20,1/8
+VGK,MTL,3,21,49.2,42,8,Canadiens,6,1/3,10,50.8,26,4,54,Golden Knights,6,2/3
+COL,MTL,2,12,50.0,32,8,Canadiens,10,1/2,15,50.0,24,3,21,Avalanche,6,2/4
+MIN,MTL,2,13,39.3,33,8,Canadiens,35,0/2,10,60.7,27,8,30,Wild,29,1/5
+MTL,ANA,5,9,43.1,14,24,Ducks,4,2/4,11,56.9,21,4,8,Canadiens,8,1/2
+MTL,EDM,7,11,50.0,19,22,Oilers,9,0/1,7,50.0,19,2,8,Canadiens,17,1/2
+MTL,CBJ,6,7,54.4,17,29,Blue Jackets,8,0/3,18,45.6,29,3,8,Canadiens,8,0/3
+MTL,NJD,7,15,50.8,11,1,Devils,6,1/2,8,49.2,21,1,8,Canadiens,4,0/3
+MTL,WSH,5,15,50.9,15,15,Capitals,10,0/3,11,49.1,32,2,8,Canadiens,6,1/5
+MTL,CBJ,2,14,44.4,23,29,Blue Jackets,4,1/3,18,55.6,16,1,8,Canadiens,8,0/1
+MTL,BUF,5,15,37.5,19,7,Sabres,6,1/3,8,62.5,24,3,8,Canadiens,6,0/3
+MTL,STL,2,21,45.6,25,19,Blues,14,0/3,10,54.4,13,3,8,Canadiens,10,0/5
+NYI,MTL,3,10,41.3,24,8,Canadiens,8,0/2,12,58.7,33,2,2,Islanders,4,1/4
+MTL,TOR,2,12,58.6,26,10,Maple Leafs,6,0/2,17,41.4,38,5,8,Canadiens,6,0/2
+MTL,BUF,0,7,44.2,14,7,Sabres,9,0/2,17,55.8,13,4,8,Canadiens,11,0/1
+OTT,MTL,2,13,54.5,15,8,Canadiens,8,0/4,12,45.5,30,1,9,Senators,8,1/4
+WPG,MTL,4,9,36.7,17,8,Canadiens,19,1/6,15,63.3,31,8,52,Jets,19,4/6
+CGY,MTL,5,15,47.5,9,8,Canadiens,6,1/6,9,52.5,15,4,20,Flames,12,0/3
+EDM,MTL,5,9,41.7,29,8,Canadiens,8,2/4,6,58.3,24,2,22,Oilers,8,0/4
+VAN,MTL,3,15,40.7,18,8,Canadiens,8,0/4,9,59.3,22,5,23,Canucks,8,2/4
+MTL,SEA,4,13,44.1,16,55,Kraken,12,1/3,11,55.9,34,3,8,Canadiens,6,0/6
+PHI,MTL,4,14,40.4,15,8,Canadiens,4,1/4,22,59.6,29,3,4,Flyers,8,0/2
+MTL,ARI,6,19,53.4,11,53,Coyotes,6,1/4,17,46.6,30,3,8,Canadiens,8,1/3
+MTL,DAL,4,25,45.5,43,25,Stars,12,0/4,23,54.5,16,3,8,Canadiens,10,1/5
+MTL,OTT,1,15,34.5,32,9,Senators,6,1/2,26,65.5,25,5,8,Canadiens,8,1/2
+MTL,BOS,3,12,61.5,26,6,Bruins,6,0/4,22,38.5,19,2,8,Canadiens,10,0/2
+MTL,FLA,4,13,45.9,20,13,Panthers,10,1/6,24,54.1,26,3,8,Canadiens,12,1/5
+MTL,TOR,2,11,41.0,11,10,Maple Leafs,4,1/3,16,59.0,30,4,8,Canadiens,6,1/2
+NJD,MTL,2,16,59.6,20,8,Canadiens,4,0/5,11,40.4,25,3,1,Devils,10,1/2
+FLA,MTL,4,21,44.9,19,8,Canadiens,10,0/2,7,55.1,21,7,13,Panthers,6,0/4
+CAR,MTL,0,16,35.0,19,8,Canadiens,8,0/3,5,65.0,9,4,12,Hurricanes,6,1/4
+TBL,MTL,5,15,53.2,32,8,Canadiens,6,0/2,12,46.8,30,4,14,Lightning,4,2/3
+MTL,OTT,6,14,51.1,30,9,Senators,16,2/4,11,48.9,15,3,8,Canadiens,28,1/3
+NJD,MTL,7,14,56.9,21,8,Canadiens,4,0/0,9,43.1,17,4,1,Devils,0,0/2
+TOR,MTL,2,18,39.6,32,8,Canadiens,22,0/4,7,60.4,43,3,10,Maple Leafs,10,0/5
+MTL,WPG,4,14,54.5,28,52,Jets,2,0/1,14,45.5,16,2,8,Canadiens,2,0/1
+CBJ,MTL,1,17,63.0,12,8,Canadiens,6,1/4,14,37.0,17,5,29,Blue Jackets,8,1/3
+MTL,NYI,3,30,39.6,31,2,Islanders,11,0/1,13,60.4,24,0,8,Canadiens,9,0/2
+MTL,WSH,8,12,44.0,34,15,Capitals,8,2/6,18,56.0,21,4,8,Canadiens,16,0/2
+MTL,MIN,2,14,44.4,22,30,Wild,6,1/4,22,55.6,24,0,8,Canadiens,8,0/3
+MTL,PHI,6,18,41.4,22,4,Flyers,4,0/3,18,58.6,15,3,8,Canadiens,8,0/1
+OTT,MTL,4,12,61.0,19,8,Canadiens,27,0/4,13,39.0,27,6,9,Senators,25,0/5
+MTL,BOS,5,17,48.3,36,6,Bruins,14,0/1,10,51.7,28,3,8,Canadiens,8,2/4
+NYR,MTL,4,11,45.1,11,8,Canadiens,6,0/2,16,54.9,21,3,3,Rangers,4,0/3
+MTL,FLA,2,10,45.3,13,13,Panthers,4,1/1,22,54.7,15,10,8,Canadiens,2,1/2

@@ -33,17 +33,26 @@ function removeDuplicates(data) {
 function displayPredictions(predictions) {
     const container = document.getElementById('predictions');
     predictions.forEach(prediction => {
-        const homeTeamChance = (prediction['home team percentage chance of winning'] * 100).toFixed(0) + '%';
-        const awayTeamChance = (prediction['away team percentage chance of winning'] * 100).toFixed(0) + '%';
-        const predictedHomeGoals = prediction['predicted home team goals'].toFixed(2);
-        const predictedAwayGoals = prediction['predicted away team goals'].toFixed(2);
-        const confidenceRating = prediction['confidence rating'].charAt(0).toUpperCase() + prediction['confidence rating'].slice(1);
+        const homeTeamChance = prediction['home team percentage chance of winning'] !== undefined 
+            ? (prediction['home team percentage chance of winning'] * 100).toFixed(0) + '%'
+            : 'N/A';
+        const awayTeamChance = prediction['away team percentage chance of winning'] !== undefined 
+            ? (prediction['away team percentage chance of winning'] * 100).toFixed(0) + '%'
+            : 'N/A';
+        const predictedHomeGoals = prediction['predicted home team goals'] !== undefined 
+            ? prediction['predicted home team goals'].toFixed(2)
+            : 'N/A';
+        const predictedAwayGoals = prediction['predicted away team goals'] !== undefined 
+            ? prediction['predicted away team goals'].toFixed(2)
+            : 'N/A';
+        const confidenceRating = prediction['confidence rating']
+            ? prediction['confidence rating'].charAt(0).toUpperCase() + prediction['confidence rating'].slice(1)
+            : 'Unknown';
         const confidenceClass = getConfidenceClass(prediction['confidence rating']);
         const confidenceElement = `<span class="confidence ${confidenceClass}">Confidence: ${confidenceRating}</span>`;
 
         const predictionElement = document.createElement('div');
         predictionElement.className = 'prediction';
-
         predictionElement.innerHTML = `
             <h2>${prediction.venue} (${prediction['home team name']} vs ${prediction['away team name']})</h2>
             <div class="detail-section">
@@ -53,7 +62,9 @@ function displayPredictions(predictions) {
             <div class="detail-section">
                 <p><strong>Predicted Score:</strong> ${prediction['home team name']} ${predictedHomeGoals} - ${prediction['away team name']} ${predictedAwayGoals}</p>
             </div>
-            <p class="reason"><strong>Reason:</strong> ${prediction.reason}</p>
+            <div class="reason-section">
+                <p class="reason"><strong>Reason:</strong> ${prediction.reason ? prediction.reason : 'N/A'}</p>
+            </div>
             ${confidenceElement}
         `;
         container.appendChild(predictionElement);
