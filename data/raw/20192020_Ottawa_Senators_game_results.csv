@@ -1,0 +1,78 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+TOR,OTT,3,0,0.0,0,9,Senators,8,0/3,0,0.0,0,1,10,Maple Leafs,8,0/3
+OTT,TOR,3,8,42.2,24,10,Maple Leafs,19,0/3,19,57.8,32,4,9,Senators,11,1/2
+OTT,MTL,4,12,51.5,31,8,Canadiens,12,3/3,13,48.5,35,0,9,Senators,10,0/5
+VAN,OTT,4,0,0.0,0,9,Senators,27,0/5,0,0.0,0,6,23,Canucks,10,4/7
+VAN,OTT,6,9,30.4,22,9,Senators,13,2/2,14,69.6,19,2,23,Canucks,9,0/4
+MTL,OTT,3,16,45.5,19,9,Senators,20,0/5,6,54.5,29,4,8,Canadiens,20,0/5
+TOR,OTT,3,17,57.5,44,9,Senators,10,0/3,9,42.5,17,5,10,Maple Leafs,6,1/5
+OTT,NYR,4,22,66.7,22,3,Rangers,10,2/3,21,33.3,37,1,9,Senators,6,0/5
+OTT,STL,6,17,44.6,32,19,Blues,0,1/4,13,55.4,32,4,9,Senators,8,0/0
+OTT,TBL,2,11,56.0,19,14,Lightning,18,0/4,19,44.0,24,4,9,Senators,18,0/4
+OTT,MIN,2,12,50.7,24,30,Wild,12,0/6,21,49.3,16,0,9,Senators,14,0/5
+VGK,OTT,2,17,48.1,42,9,Senators,11,0/4,16,51.9,34,3,54,Golden Knights,13,1/3
+ARI,OTT,2,23,48.5,28,9,Senators,10,1/2,12,51.5,17,5,53,Coyotes,4,1/5
+DAL,OTT,1,18,50.0,13,9,Senators,10,0/2,11,50.0,11,2,25,Stars,4,1/5
+OTT,DET,2,9,41.1,18,17,Red Wings,4,0/5,12,58.9,25,5,9,Senators,10,0/2
+OTT,NYI,4,19,38.6,27,2,Islanders,31,1/3,10,61.4,26,2,9,Senators,25,1/6
+OTT,SJS,2,14,42.9,23,28,Sharks,8,1/6,28,57.1,36,5,9,Senators,12,0/4
+BOS,OTT,2,10,51.6,26,9,Senators,8,0/5,16,48.4,17,5,6,Bruins,10,2/4
+NYR,OTT,6,18,44.9,24,9,Senators,22,2/6,7,55.1,18,2,3,Rangers,36,1/4
+NYI,OTT,1,16,41.3,27,9,Senators,4,0/4,10,58.7,27,4,2,Islanders,18,0/2
+OTT,LAK,2,18,47.6,33,26,Kings,4,0/2,10,52.4,30,3,9,Senators,4,0/2
+OTT,CAR,1,11,55.9,31,12,Hurricanes,13,1/4,18,44.1,35,4,9,Senators,13,0/4
+CAR,OTT,2,19,54.3,30,9,Senators,13,0/3,13,45.7,17,8,12,Hurricanes,13,1/3
+NJD,OTT,4,9,60.0,19,9,Senators,6,0/1,7,40.0,8,2,1,Devils,2,0/3
+OTT,PHI,1,15,56.9,21,4,Flyers,6,0/5,12,43.1,32,2,9,Senators,10,1/3
+BUF,OTT,2,12,52.4,13,9,Senators,4,1/3,12,47.6,18,4,7,Sabres,6,0/2
+DET,OTT,4,3,50.0,21,9,Senators,8,0/4,10,50.0,21,3,17,Red Wings,10,0/3
+MTL,OTT,2,18,45.6,27,9,Senators,2,0/3,15,54.4,31,1,8,Canadiens,6,1/1
+OTT,NYR,1,6,45.5,24,3,Rangers,10,0/4,12,54.5,21,4,9,Senators,8,2/5
+CBJ,OTT,0,15,50.0,23,9,Senators,6,0/2,14,50.0,18,1,29,Blue Jackets,4,0/3
+OTT,BOS,2,21,48.9,30,6,Bruins,4,0/2,15,51.1,34,1,9,Senators,4,0/2
+MIN,OTT,2,15,53.3,12,9,Senators,8,0/1,10,46.7,9,7,30,Wild,4,1/3
+CGY,OTT,1,16,60.0,21,9,Senators,6,0/1,14,40.0,15,3,20,Flames,2,1/3
+VAN,OTT,2,13,54.5,21,9,Senators,4,0/3,16,45.5,23,5,23,Canucks,6,1/2
+EDM,OTT,5,16,50.9,26,9,Senators,14,1/2,11,49.1,18,2,22,Oilers,6,1/7
+PHI,OTT,3,6,46.2,22,9,Senators,16,0/3,11,53.8,19,4,4,Flyers,16,0/2
+OTT,BOS,2,6,44.8,20,6,Bruins,6,1/5,29,55.2,20,5,9,Senators,10,0/3
+MTL,OTT,2,11,44.6,29,9,Senators,10,1/5,14,55.4,32,3,8,Canadiens,14,1/4
+OTT,CBJ,3,15,42.4,28,29,Blue Jackets,11,0/4,11,57.6,29,4,9,Senators,13,1/3
+FLA,OTT,1,11,50.0,32,9,Senators,16,0/1,13,50.0,22,6,13,Panthers,8,1/5
+TBL,OTT,3,20,44.8,24,9,Senators,2,0/4,8,55.2,21,4,14,Lightning,8,0/1
+OTT,NSH,4,23,54.7,18,18,Predators,8,1/2,21,45.3,26,5,9,Senators,4,2/4
+OTT,PHI,5,15,57.1,24,4,Flyers,8,1/5,16,42.9,28,4,9,Senators,10,1/4
+OTT,BUF,1,17,48.4,22,7,Sabres,4,0/2,20,51.6,30,3,9,Senators,4,0/2
+OTT,NJD,4,10,47.3,29,1,Devils,23,2/4,19,52.7,32,3,9,Senators,15,0/3
+PIT,OTT,2,17,54.7,55,9,Senators,26,0/2,14,45.3,34,5,5,Penguins,18,0/1
+OTT,FLA,6,23,52.5,21,13,Panthers,6,2/3,16,47.5,35,3,9,Senators,6,0/3
+OTT,TBL,5,14,57.7,32,14,Lightning,17,0/2,18,42.3,38,3,9,Senators,13,1/4
+WSH,OTT,1,10,55.7,19,9,Senators,0,0/1,11,44.3,24,6,15,Capitals,2,0/0
+DET,OTT,2,10,50.0,19,9,Senators,10,1/3,7,50.0,25,3,17,Red Wings,8,1/4
+OTT,MTL,2,12,46.2,27,8,Canadiens,10,1/4,15,53.8,26,1,9,Senators,10,0/4
+OTT,CHI,3,13,56.4,24,16,Blackhawks,4,0/1,18,43.6,36,2,9,Senators,2,0/2
+OTT,VGK,4,12,50.0,26,54,Golden Knights,8,0/1,15,50.0,27,2,9,Senators,2,1/4
+OTT,CGY,2,7,40.0,18,20,Flames,2,0/3,23,60.0,25,5,9,Senators,6,1/1
+OTT,NJD,4,29,51.9,27,1,Devils,9,1/5,11,48.1,23,3,9,Senators,15,1/2
+BUF,OTT,5,11,45.8,30,9,Senators,8,3/4,6,54.2,17,2,7,Sabres,8,1/4
+OTT,WSH,5,22,46.6,30,15,Capitals,6,1/5,10,53.4,24,3,9,Senators,10,1/3
+TOR,OTT,1,19,42.6,31,9,Senators,6,0/3,8,57.4,23,2,10,Maple Leafs,6,2/3
+OTT,ANA,3,11,37.5,21,24,Ducks,10,0/3,19,62.5,29,2,9,Senators,6,2/5
+OTT,COL,4,17,55.4,26,21,Avalanche,4,1/1,10,44.6,36,1,9,Senators,2,0/2
+WPG,OTT,2,10,58.0,23,9,Senators,18,0/3,14,42.0,16,5,52,Jets,16,3/4
+COL,OTT,0,12,48.1,29,9,Senators,10,0/2,13,51.9,21,3,21,Avalanche,4,1/5
+OTT,ARI,2,12,48.1,20,53,Coyotes,6,1/2,32,51.9,34,3,9,Senators,4,0/3
+OTT,TOR,4,21,50.0,28,10,Maple Leafs,8,0/1,13,50.0,42,2,9,Senators,4,0/3
+OTT,DAL,3,13,54.4,20,25,Stars,6,0/0,9,45.6,29,4,9,Senators,2,1/2
+OTT,BUF,4,11,40.9,16,7,Sabres,4,1/4,9,59.1,30,7,9,Senators,8,2/2
+OTT,WPG,5,26,52.2,18,52,Jets,35,3/6,10,47.8,27,1,9,Senators,49,0/4
+OTT,MTL,3,14,49.2,23,8,Canadiens,25,0/2,15,50.8,41,0,9,Senators,25,0/2
+CBJ,OTT,3,13,57.6,22,9,Senators,2,1/1,13,42.4,19,4,29,Blue Jackets,2,0/1
+NSH,OTT,2,19,28.6,17,9,Senators,6,0/2,13,71.4,6,3,18,Predators,4,2/3
+OTT,VAN,2,27,55.6,19,23,Canucks,7,1/2,18,44.4,30,5,9,Senators,9,0/1
+OTT,DET,3,25,47.5,23,17,Red Wings,10,1/2,19,52.5,28,4,9,Senators,4,1/5
+PIT,OTT,3,13,55.4,34,9,Senators,10,0/4,17,44.6,15,7,5,Penguins,8,1/5
+OTT,NYI,3,11,56.0,22,2,Islanders,6,1/4,11,44.0,29,4,9,Senators,8,0/3
+SJS,OTT,2,11,46.6,20,9,Senators,6,0/1,12,53.4,27,1,28,Sharks,2,1/3
+ANA,OTT,2,8,47.1,33,9,Senators,4,0/5,20,52.9,19,5,24,Ducks,10,2/2
+LAK,OTT,2,16,53.3,21,9,Senators,13,0/2,12,46.7,14,3,26,Kings,9,1/4

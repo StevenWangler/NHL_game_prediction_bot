@@ -1,0 +1,57 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+OTT,TOR,3,10,55.2,12,10,Maple Leafs,22,2/5,19,44.8,33,5,9,Senators,12,1/5
+OTT,TOR,3,6,62.5,15,10,Maple Leafs,10,1/4,21,37.5,30,2,9,Senators,8,0/5
+OTT,WPG,4,8,45.6,25,52,Jets,10,1/5,17,54.4,26,3,9,Senators,10,2/5
+OTT,WPG,4,10,55.1,14,52,Jets,19,0/7,17,44.9,51,1,9,Senators,27,0/3
+WPG,OTT,3,14,47.2,29,9,Senators,11,0/2,14,52.8,20,6,52,Jets,9,2/3
+VAN,OTT,1,11,36.4,23,9,Senators,16,0/5,14,63.6,29,7,23,Canucks,22,0/2
+VAN,OTT,1,13,50.0,25,9,Senators,6,1/4,11,50.0,16,5,23,Canucks,8,1/3
+VAN,OTT,1,11,45.5,36,9,Senators,15,0/5,19,54.5,22,4,23,Canucks,17,1/4
+EDM,OTT,5,12,40.9,19,9,Senators,10,2/5,14,59.1,14,8,22,Oilers,10,4/5
+EDM,OTT,2,20,52.5,31,9,Senators,4,0/5,20,47.5,22,4,22,Oilers,10,0/2
+MTL,OTT,3,13,56.9,33,9,Senators,15,1/4,12,43.1,42,2,8,Canadiens,15,0/4
+OTT,MTL,2,18,42.9,25,8,Canadiens,12,1/3,9,57.1,26,1,9,Senators,6,1/6
+OTT,EDM,3,17,51.9,23,22,Oilers,14,0/4,11,48.1,17,1,9,Senators,18,0/2
+OTT,EDM,3,13,43.8,28,22,Oilers,4,0/1,6,56.3,27,2,9,Senators,2,0/2
+WPG,OTT,1,10,52.1,22,9,Senators,4,0/2,13,47.9,19,5,52,Jets,4,1/2
+WPG,OTT,2,23,50.0,17,9,Senators,2,0/1,11,50.0,21,1,52,Jets,2,0/1
+TOR,OTT,6,10,50.8,25,9,Senators,9,0/3,17,49.2,21,5,10,Maple Leafs,11,1/2
+TOR,OTT,1,5,48.1,30,9,Senators,6,0/3,14,51.9,13,2,10,Maple Leafs,6,0/3
+TOR,OTT,3,8,46.3,40,9,Senators,6,0/2,14,53.7,10,7,10,Maple Leafs,4,2/3
+OTT,MTL,2,11,45.2,25,8,Canadiens,10,0/3,15,54.8,27,3,9,Senators,8,0/4
+OTT,MTL,4,14,50.8,34,8,Canadiens,13,0/3,14,49.2,30,5,9,Senators,11,2/4
+OTT,CGY,1,12,52.8,27,20,Flames,0,0/0,18,47.2,23,6,9,Senators,0,0/0
+OTT,CGY,6,11,51.4,15,20,Flames,17,1/4,18,48.6,23,3,9,Senators,15,3/6
+OTT,CGY,1,14,55.2,29,20,Flames,4,1/3,19,44.8,28,5,9,Senators,8,0/1
+MTL,OTT,1,21,55.6,16,9,Senators,6,0/3,9,44.4,37,3,8,Canadiens,6,2/3
+CGY,OTT,3,8,52.6,16,9,Senators,2,1/6,11,47.4,16,7,20,Flames,12,0/1
+CGY,OTT,4,22,39.7,14,9,Senators,25,0/2,11,60.3,19,3,20,Flames,11,1/8
+EDM,OTT,2,17,40.4,25,9,Senators,23,0/2,21,59.6,21,3,22,Oilers,11,1/3
+EDM,OTT,1,9,43.3,49,9,Senators,8,0/1,16,56.7,23,7,22,Oilers,2,2/4
+EDM,OTT,2,10,44.4,37,9,Senators,8,1/2,17,55.6,19,6,22,Oilers,4,1/4
+OTT,TOR,3,9,50.0,15,10,Maple Leafs,21,0/1,17,50.0,31,4,9,Senators,7,1/3
+OTT,VAN,3,14,50.0,11,23,Canucks,8,0/1,14,50.0,28,2,9,Senators,2,0/4
+OTT,VAN,3,21,60.4,30,23,Canucks,4,0/2,9,39.6,36,2,9,Senators,4,0/2
+OTT,CGY,1,11,63.3,29,20,Flames,4,0/1,18,36.7,31,2,9,Senators,2,0/2
+OTT,CGY,1,9,39.5,26,20,Flames,6,0/3,20,60.5,35,3,9,Senators,6,0/3
+OTT,TOR,3,9,36.8,15,10,Maple Leafs,6,0/3,17,63.2,29,2,9,Senators,6,0/3
+OTT,MTL,4,8,48.2,30,8,Canadiens,4,0/3,6,51.8,35,1,9,Senators,6,1/2
+MTL,OTT,6,16,41.3,27,9,Senators,15,1/2,11,58.7,33,3,8,Canadiens,9,1/5
+WPG,OTT,3,21,32.7,32,9,Senators,6,1/4,9,67.3,21,4,52,Jets,8,1/3
+OTT,EDM,4,15,38.3,25,22,Oilers,4,1/3,8,61.7,35,2,9,Senators,6,0/2
+OTT,EDM,3,12,45.1,30,22,Oilers,4,1/1,9,54.9,33,1,9,Senators,2,0/2
+TOR,OTT,5,13,50.0,24,9,Senators,2,1/2,9,50.0,16,6,10,Maple Leafs,4,0/1
+OTT,WPG,2,9,62.0,24,52,Jets,11,1/5,22,38.0,25,4,9,Senators,17,1/2
+OTT,WPG,3,9,53.7,36,52,Jets,10,1/3,10,46.3,32,2,9,Senators,6,1/5
+MTL,OTT,4,19,54.3,17,9,Senators,8,1/4,11,45.7,36,0,8,Canadiens,8,0/4
+CGY,OTT,4,14,42.3,15,9,Senators,13,1/2,12,57.7,23,2,20,Flames,9,0/4
+VAN,OTT,3,19,35.5,28,9,Senators,17,2/4,13,64.5,24,0,23,Canucks,27,0/4
+VAN,OTT,2,9,31.5,17,9,Senators,13,0/6,19,68.5,19,4,23,Canucks,17,1/4
+OTT,VAN,1,14,58.7,25,23,Canucks,7,0/1,11,41.3,34,2,9,Senators,7,0/1
+OTT,VAN,3,15,48.0,23,23,Canucks,16,0/2,12,52.0,21,6,9,Senators,14,0/3
+MTL,OTT,2,20,35.6,24,9,Senators,11,0/2,11,64.4,27,3,8,Canadiens,9,1/3
+OTT,WPG,1,10,63.5,27,52,Jets,8,0/6,20,36.5,30,2,9,Senators,14,0/3
+OTT,MTL,1,16,45.2,31,8,Canadiens,6,0/1,20,54.8,37,5,9,Senators,4,0/2
+WPG,OTT,4,18,52.2,16,9,Senators,4,1/2,18,47.8,28,2,52,Jets,4,0/2
+CGY,OTT,1,9,57.4,13,9,Senators,4,0/3,6,42.6,21,6,20,Flames,8,1/1
+OTT,TOR,3,11,57.1,27,10,Maple Leafs,10,1/5,15,42.9,28,4,9,Senators,12,0/4

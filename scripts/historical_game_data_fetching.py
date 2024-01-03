@@ -17,7 +17,7 @@ import requests
 # Constants and configuration
 NHL_API_BASE_URL = "https://api-web.nhle.com/v1/"
 NHL_API_TEAM_BASE_URL = "https://api.nhle.com/stats/rest/"
-SEASON = "20202021"
+SEASON = "20182019"
 DATA_DIRECTORY = 'data/raw'
 
 def make_api_request(url, max_retries=3, delay=5):

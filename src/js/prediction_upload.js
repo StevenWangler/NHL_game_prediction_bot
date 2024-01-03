@@ -33,17 +33,13 @@ function removeDuplicates(data) {
 function displayPredictions(predictions) {
     const container = document.getElementById('predictions');
     predictions.forEach(prediction => {
-        const homeTeamChance = prediction['home team percentage chance of winning'] !== undefined 
-            ? (prediction['home team percentage chance of winning'] * 100).toFixed(0) + '%'
-            : 'N/A';
-        const awayTeamChance = prediction['away team percentage chance of winning'] !== undefined 
-            ? (prediction['away team percentage chance of winning'] * 100).toFixed(0) + '%'
-            : 'N/A';
+        const homeTeamChance = prediction['home team percentage chance of winning'] || 'N/A';
+        const awayTeamChance = prediction['away team percentage chance of winning'] || 'N/A';
         const predictedHomeGoals = prediction['predicted home team goals'] !== undefined 
-            ? prediction['predicted home team goals'].toFixed(2)
+            ? prediction['predicted home team goals']
             : 'N/A';
         const predictedAwayGoals = prediction['predicted away team goals'] !== undefined 
-            ? prediction['predicted away team goals'].toFixed(2)
+            ? prediction['predicted away team goals']
             : 'N/A';
         const confidenceRating = prediction['confidence rating']
             ? prediction['confidence rating'].charAt(0).toUpperCase() + prediction['confidence rating'].slice(1)
@@ -64,6 +60,12 @@ function displayPredictions(predictions) {
             </div>
             <div class="reason-section">
                 <p class="reason"><strong>Reason:</strong> ${prediction.reason ? prediction.reason : 'N/A'}</p>
+            </div>
+            <div class="reason-section">
+                <p class="reason"><strong>Key Factors:</strong> ${prediction['key factors'] ? prediction['key factors'] : 'N/A'}</p>
+            </div>
+            <div class="reason-section">
+                <p class="reason"><strong>Opposition:</strong> ${prediction['opposition'] ? prediction['opposition'] : 'N/A'}</p>
             </div>
             ${confidenceElement}
         `;
