@@ -1,0 +1,57 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+LAK,MIN,4,7,38.7,22,30,Wild,8,0/6,12,61.3,18,3,26,Kings,12,1/4
+LAK,MIN,4,8,54.5,17,30,Wild,12,0/5,14,45.5,18,3,26,Kings,12,0/5
+LAK,COL,3,14,51.9,12,21,Avalanche,6,2/6,12,48.1,18,2,26,Kings,12,1/3
+LAK,COL,2,15,53.7,14,21,Avalanche,10,1/4,19,46.3,15,4,26,Kings,8,2/5
+STL,LAK,2,3,44.1,10,26,Kings,4,1/5,17,55.9,17,4,19,Blues,10,1/2
+STL,LAK,6,12,50.0,17,26,Kings,6,1/4,14,50.0,34,3,19,Blues,10,0/2
+MIN,LAK,2,18,50.9,8,26,Kings,6,0/3,10,49.1,15,1,30,Wild,6,0/3
+MIN,LAK,3,7,55.1,9,26,Kings,15,2/7,22,44.9,10,5,30,Wild,32,0/4
+LAK,ANA,3,8,54.5,20,24,Ducks,7,0/1,11,45.5,22,1,26,Kings,7,0/1
+VGK,LAK,2,15,46.2,30,26,Kings,8,1/2,18,53.8,21,5,54,Golden Knights,4,1/4
+VGK,LAK,3,13,58.2,27,26,Kings,4,0/4,10,41.8,26,4,54,Golden Knights,8,1/2
+LAK,SJS,4,7,50.0,20,28,Sharks,8,0/2,16,50.0,26,3,26,Kings,4,1/4
+LAK,SJS,2,5,60.4,23,28,Sharks,14,1/2,9,39.6,15,6,26,Kings,6,3/6
+LAK,MIN,0,12,45.0,36,30,Wild,6,0/3,12,55.0,15,4,26,Kings,6,1/3
+ARI,LAK,3,10,50.0,18,26,Kings,6,0/3,4,50.0,31,2,53,Coyotes,6,0/3
+ARI,LAK,4,20,64.3,26,26,Kings,8,1/3,10,35.7,32,2,53,Coyotes,6,2/4
+STL,LAK,3,10,40.4,20,26,Kings,2,1/2,11,59.6,39,0,19,Blues,4,0/1
+STL,LAK,2,8,40.7,23,26,Kings,8,0/1,10,59.3,29,1,19,Blues,2,0/4
+MIN,LAK,1,10,56.4,14,26,Kings,6,0/3,18,43.6,10,3,30,Wild,6,0/3
+MIN,LAK,3,14,55.8,20,26,Kings,6,2/4,18,44.2,18,4,30,Wild,8,0/3
+LAK,ARI,3,16,37.5,25,53,Coyotes,8,2/3,6,62.5,10,2,26,Kings,6,1/4
+LAK,STL,3,9,54.3,27,19,Blues,8,1/3,13,45.7,15,2,26,Kings,6,1/4
+LAK,STL,3,18,53.1,16,19,Blues,6,1/2,2,46.9,18,4,26,Kings,4,1/3
+ANA,LAK,5,12,54.0,17,26,Kings,2,2/4,16,46.0,26,6,24,Ducks,8,0/1
+ANA,LAK,5,18,43.1,23,26,Kings,8,2/4,8,56.9,20,1,24,Ducks,8,0/4
+COL,LAK,0,23,50.8,14,26,Kings,9,0/3,9,49.2,5,2,21,Avalanche,11,0/2
+COL,LAK,1,11,46.2,21,26,Kings,2,0/5,20,53.8,16,4,21,Avalanche,10,0/1
+LAK,STL,1,7,41.1,29,19,Blues,9,0/1,10,58.9,17,4,26,Kings,7,1/2
+LAK,VGK,4,14,43.4,19,54,Golden Knights,2,0/2,11,56.6,28,2,26,Kings,4,0/1
+LAK,VGK,1,11,41.5,20,54,Golden Knights,9,0/4,20,58.5,22,3,26,Kings,13,1/2
+SJS,LAK,1,12,42.9,8,26,Kings,9,0/5,16,57.1,25,2,28,Sharks,15,0/2
+SJS,LAK,2,12,51.7,28,26,Kings,6,0/2,16,48.3,34,4,28,Sharks,4,0/3
+VGK,LAK,1,15,59.5,19,26,Kings,6,0/3,19,40.5,18,4,54,Golden Knights,6,1/3
+VGK,LAK,4,16,49.1,16,26,Kings,8,0/5,15,50.9,18,2,54,Golden Knights,25,0/3
+LAK,SJS,3,16,45.2,21,28,Sharks,4,0/3,15,54.8,23,0,26,Kings,6,0/2
+LAK,SJS,3,9,53.3,20,28,Sharks,4,0/2,14,46.7,15,2,26,Kings,4,0/2
+LAK,ARI,5,10,40.0,20,53,Coyotes,6,3/6,13,60.0,19,2,26,Kings,12,1/3
+LAK,ARI,3,9,39.2,27,53,Coyotes,2,0/2,11,60.8,25,4,26,Kings,4,0/1
+SJS,LAK,2,11,57.6,18,26,Kings,23,0/3,15,42.4,23,5,28,Sharks,23,0/3
+SJS,LAK,4,21,51.7,26,26,Kings,10,1/5,11,48.3,30,2,28,Sharks,10,1/5
+LAK,VGK,4,16,49.1,14,54,Golden Knights,8,1/2,12,50.9,14,2,26,Kings,4,0/4
+LAK,VGK,6,7,53.6,16,54,Golden Knights,2,0/1,17,46.4,27,2,26,Kings,2,1/1
+LAK,ANA,1,2,44.8,25,24,Ducks,11,0/4,14,55.2,15,4,26,Kings,13,0/3
+LAK,MIN,4,16,39.6,24,30,Wild,6,1/2,16,60.4,22,2,26,Kings,4,0/3
+LAK,ARI,4,23,57.9,38,53,Coyotes,6,1/2,13,42.1,22,0,26,Kings,6,0/2
+LAK,ANA,1,11,48.9,26,24,Ducks,4,0/1,12,51.1,19,4,26,Kings,2,0/2
+LAK,ANA,3,16,48.9,28,24,Ducks,10,0/2,7,51.1,12,2,26,Kings,4,1/5
+ANA,LAK,2,15,44.1,22,26,Kings,10,0/1,11,55.9,19,1,24,Ducks,4,0/4
+ANA,LAK,2,18,49.1,14,26,Kings,4,0/1,14,50.9,21,6,24,Ducks,4,0/1
+ARI,LAK,3,12,45.5,35,26,Kings,4,1/2,1,54.5,29,2,53,Coyotes,4,1/2
+ARI,LAK,4,15,43.6,22,26,Kings,10,0/1,10,56.4,30,2,53,Coyotes,4,1/4
+LAK,COL,3,8,54.5,23,21,Avalanche,2,1/4,19,45.5,27,2,26,Kings,8,0/1
+LAK,COL,3,13,42.2,30,21,Avalanche,4,1/3,12,57.8,23,2,26,Kings,6,0/2
+LAK,STL,2,17,64.5,22,19,Blues,6,0/2,17,35.5,18,1,26,Kings,6,0/2
+COL,LAK,0,13,39.3,9,26,Kings,8,0/2,15,60.7,10,6,21,Avalanche,4,1/4
+COL,LAK,1,23,61.8,13,26,Kings,9,0/2,13,38.2,8,5,21,Avalanche,19,0/2

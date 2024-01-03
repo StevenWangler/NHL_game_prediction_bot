@@ -1,0 +1,97 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+BOS,WSH,1,12,43.5,22,15,Capitals,13,0/3,7,56.5,21,2,6,Bruins,11,0/4
+WSH,BOS,5,11,47.8,6,6,Bruins,24,0/2,10,52.2,16,2,15,Capitals,14,1/7
+MTL,WSH,2,0,0.0,0,15,Capitals,12,2/4,0,0.0,0,5,8,Canadiens,8,1/6
+CAR,WSH,1,16,48.9,20,15,Capitals,10,0/4,9,51.1,35,5,12,Hurricanes,8,2/5
+STL,WSH,4,10,37.5,15,15,Capitals,20,0/5,8,62.5,21,0,19,Blues,24,0/3
+WSH,CAR,5,15,57.4,17,12,Hurricanes,14,2/3,8,42.6,17,4,15,Capitals,8,1/6
+WSH,STL,2,12,38.5,8,19,Blues,14,0/4,10,61.5,14,5,15,Capitals,16,0/6
+WSH,BOS,0,12,68.3,28,6,Bruins,32,0/2,15,31.7,16,7,15,Capitals,14,4/6
+PIT,WSH,6,18,47.1,32,15,Capitals,12,0/2,12,52.9,21,7,5,Penguins,4,2/6
+WSH,VGK,2,8,51.4,19,54,Golden Knights,8,0/3,20,48.6,31,5,15,Capitals,6,2/4
+NJD,WSH,0,8,38.3,30,15,Capitals,10,0/4,20,61.7,19,6,1,Devils,10,1/4
+WSH,TOR,4,19,46.9,14,10,Maple Leafs,6,1/3,18,53.1,28,2,15,Capitals,6,1/3
+WSH,NYR,3,17,47.0,14,3,Rangers,8,2/4,10,53.0,23,4,15,Capitals,8,2/4
+WSH,FLA,6,20,50.8,20,13,Panthers,8,2/7,12,49.2,28,5,15,Capitals,16,1/3
+VAN,WSH,5,5,47.2,19,15,Capitals,8,2/5,10,52.8,21,2,23,Canucks,12,1/3
+EDM,WSH,1,12,56.7,28,15,Capitals,8,0/1,25,43.3,16,4,22,Oilers,2,1/4
+CGY,WSH,4,13,45.0,21,15,Capitals,8,1/3,13,55.0,22,3,20,Flames,6,1/4
+MTL,WSH,4,22,61.0,25,15,Capitals,6,0/1,18,39.0,32,6,8,Canadiens,4,0/2
+WSH,DAL,4,20,46.6,19,25,Stars,6,0/2,5,53.4,25,3,15,Capitals,4,1/3
+WSH,EDM,2,10,58.1,16,22,Oilers,4,1/4,23,41.9,25,4,15,Capitals,8,1/2
+WSH,PIT,1,17,52.5,28,5,Penguins,20,1/3,21,47.5,22,2,15,Capitals,6,1/6
+WSH,CBJ,2,19,47.5,24,29,Blue Jackets,10,2/3,14,52.5,19,1,15,Capitals,6,1/5
+WSH,ARI,4,11,48.4,18,53,Coyotes,4,2/6,14,51.6,20,1,15,Capitals,12,0/2
+MIN,WSH,5,20,50.8,9,15,Capitals,19,0/2,9,49.2,21,2,30,Wild,11,1/6
+WPG,WSH,1,17,50.0,13,15,Capitals,6,0/3,14,50.0,15,3,52,Jets,6,1/3
+COL,WSH,3,18,47.7,17,15,Capitals,4,1/3,17,52.3,11,2,21,Avalanche,6,0/2
+MTL,WSH,5,18,51.4,27,15,Capitals,15,1/2,15,48.6,20,4,8,Canadiens,11,1/4
+WSH,CHI,2,11,50.9,6,16,Blackhawks,6,0/3,21,49.1,8,4,15,Capitals,6,1/3
+WSH,DET,1,14,42.4,12,17,Red Wings,6,0/3,21,57.6,23,3,15,Capitals,6,0/3
+NYR,WSH,5,11,35.7,33,15,Capitals,4,0/2,8,64.3,42,3,3,Rangers,4,0/2
+NYI,WSH,4,17,42.6,19,15,Capitals,8,1/2,12,57.4,30,1,2,Islanders,4,0/4
+WSH,NJD,3,11,52.6,12,1,Devils,8,0/5,14,47.4,6,6,15,Capitals,18,1/4
+WSH,ANA,6,14,43.5,19,24,Ducks,10,2/3,12,56.5,9,5,15,Capitals,6,1/5
+VGK,WSH,3,17,41.3,40,15,Capitals,12,0/4,14,58.7,41,5,54,Golden Knights,21,2/6
+ARI,WSH,4,18,39.2,25,15,Capitals,4,0/1,15,60.8,18,2,53,Coyotes,2,0/2
+CBJ,WSH,4,9,44.3,5,15,Capitals,8,0/3,13,55.7,16,0,29,Blue Jackets,6,0/4
+WSH,DET,2,13,52.2,18,17,Red Wings,4,0/1,11,47.8,12,6,15,Capitals,2,2/2
+CAR,WSH,6,21,41.7,25,15,Capitals,14,1/2,16,58.3,26,5,12,Hurricanes,6,3/6
+WSH,BUF,3,13,46.6,16,7,Sabres,12,2/3,12,53.4,32,4,15,Capitals,10,0/4
+WSH,PIT,2,22,60.7,23,5,Penguins,17,1/4,18,39.3,24,1,15,Capitals,15,0/5
+WSH,BUF,1,10,45.1,6,7,Sabres,8,0/4,19,54.9,19,2,15,Capitals,8,0/4
+OTT,WSH,4,16,36.0,28,15,Capitals,4,0/3,9,64.0,25,0,9,Senators,6,0/2
+WSH,CAR,1,8,45.0,24,12,Hurricanes,8,0/4,13,55.0,30,3,15,Capitals,8,1/4
+OTT,WSH,3,21,42.9,22,15,Capitals,14,0/0,16,57.1,21,2,9,Senators,22,0/1
+WSH,NSH,6,22,58.6,14,18,Predators,2,1/3,11,41.4,29,3,15,Capitals,6,0/1
+STL,WSH,2,14,31.9,16,15,Capitals,17,0/3,7,68.1,14,5,19,Blues,15,1/4
+DAL,WSH,1,19,38.6,27,15,Capitals,8,0/3,11,61.4,26,2,25,Stars,8,1/3
+DET,WSH,3,11,41.0,20,15,Capitals,10,0/4,14,59.0,9,2,17,Red Wings,8,0/3
+WSH,PHI,3,14,70.3,23,4,Flyers,23,0/5,19,29.7,15,5,15,Capitals,15,1/4
+BOS,WSH,4,18,34.4,32,15,Capitals,10,0/2,7,65.6,25,2,6,Bruins,4,1/5
+WSH,CBJ,2,16,47.4,16,29,Blue Jackets,4,1/3,13,52.6,20,1,15,Capitals,6,0/2
+WSH,STL,4,15,60.0,22,19,Blues,8,1/2,13,40.0,26,1,15,Capitals,6,1/3
+NSH,WSH,2,18,51.7,27,15,Capitals,35,1/2,8,48.3,12,7,18,Predators,19,0/5
+WSH,NYI,2,16,53.2,19,2,Islanders,4,0/2,15,46.8,21,0,15,Capitals,4,0/2
+CHI,WSH,5,15,46.8,35,15,Capitals,10,0/2,15,53.2,29,8,16,Blackhawks,10,1/2
+WSH,SJS,7,22,53.1,16,28,Sharks,6,2/6,18,46.9,25,6,15,Capitals,12,1/3
+TOR,WSH,3,22,35.6,32,15,Capitals,2,1/1,9,64.4,15,6,10,Maple Leafs,2,1/1
+WSH,CGY,3,10,55.4,14,20,Flames,13,0/2,27,44.6,34,4,15,Capitals,11,1/4
+WSH,BOS,1,15,63.5,27,6,Bruins,6,0/3,9,36.5,41,0,15,Capitals,6,0/3
+WSH,VAN,2,12,47.2,23,23,Canucks,2,0/2,11,52.8,20,3,15,Capitals,4,0/1
+WSH,COL,3,17,50.0,18,21,Avalanche,30,0/2,25,50.0,33,4,15,Capitals,21,1/6
+WSH,FLA,5,23,50.8,20,13,Panthers,2,1/4,16,49.2,16,4,15,Capitals,8,0/1
+WSH,LAK,4,16,42.4,18,26,Kings,8,1/3,23,57.6,14,6,15,Capitals,6,1/4
+CBJ,WSH,0,13,35.3,14,15,Capitals,10,0/1,10,64.7,15,3,29,Blue Jackets,4,0/4
+SJS,WSH,5,21,44.4,20,15,Capitals,2,1/4,17,55.6,20,1,28,Sharks,8,0/1
+ANA,WSH,2,17,29.6,27,15,Capitals,18,0/3,20,70.4,21,5,24,Ducks,16,2/4
+LAK,WSH,3,16,32.5,10,15,Capitals,8,2/2,6,67.5,23,2,26,Kings,6,0/3
+TOR,WSH,3,21,32.1,35,15,Capitals,6,1/3,12,67.9,17,2,10,Maple Leafs,8,0/2
+BUF,WSH,2,7,57.6,19,15,Capitals,8,0/2,12,42.4,12,5,7,Sabres,4,1/4
+WSH,NYR,5,16,51.7,16,3,Rangers,19,1/4,13,48.3,20,6,15,Capitals,21,1/3
+WSH,OTT,2,15,53.8,15,9,Senators,2,1/1,8,46.2,8,7,15,Capitals,2,1/1
+NYI,WSH,3,11,56.4,28,15,Capitals,6,1/3,25,43.6,36,1,2,Islanders,6,0/2
+NYR,WSH,3,9,39.6,29,15,Capitals,4,0/4,12,60.4,32,2,3,Rangers,8,0/2
+PHI,WSH,5,10,30.4,17,15,Capitals,4,1/3,15,69.6,25,3,4,Flyers,8,0/1
+WSH,NJD,0,16,50.0,23,1,Devils,10,0/6,20,50.0,16,3,15,Capitals,12,1/5
+WSH,WPG,1,8,64.8,15,52,Jets,4,0/5,10,35.2,25,3,15,Capitals,10,0/2
+PIT,WSH,3,6,45.8,34,15,Capitals,10,1/2,21,54.2,42,5,5,Penguins,6,2/4
+PHI,WSH,5,21,47.2,22,15,Capitals,8,0/3,10,52.8,25,2,4,Flyers,6,0/4
+TBL,WSH,3,8,35.1,23,15,Capitals,18,1/4,12,64.9,33,6,14,Lightning,18,0/4
+NJD,WSH,4,8,45.3,15,15,Capitals,4,0/1,6,54.7,21,1,1,Devils,2,0/2
+WSH,TBL,5,14,48.6,17,14,Lightning,21,3/3,15,51.4,34,4,15,Capitals,15,1/6
+WSH,MIN,2,22,48.2,16,30,Wild,8,0/1,13,51.8,15,1,15,Capitals,4,0/3
+WSH,PHI,1,8,63.3,16,4,Flyers,4,1/4,18,36.7,22,3,15,Capitals,8,0/2
+WSH,CAR,1,14,57.4,25,12,Hurricanes,4,0/0,16,42.6,20,4,15,Capitals,0,0/2
+CAR,WSH,3,13,39.1,19,15,Capitals,2,0/1,10,60.9,25,2,12,Hurricanes,2,0/1
+TBL,WSH,6,13,54.1,18,15,Capitals,16,2/5,10,45.9,22,3,14,Lightning,20,1/3
+FLA,WSH,3,6,52.5,35,15,Capitals,4,0/2,12,47.5,29,5,13,Panthers,4,0/2
+WSH,MTL,1,8,51.0,22,8,Canadiens,2,1/1,19,49.0,37,2,15,Capitals,2,0/1
+WSH,NYI,3,14,52.2,24,2,Islanders,4,0/1,11,47.8,22,0,15,Capitals,2,0/2
+WSH,CAR,2,9,58.2,37,12,Hurricanes,8,0/3,17,41.8,35,4,15,Capitals,6,2/4
+WSH,CAR,3,17,62.9,22,12,Hurricanes,16,1/5,14,37.1,34,4,15,Capitals,10,0/4
+CAR,WSH,0,8,54.5,34,15,Capitals,17,0/4,9,45.5,52,5,12,Hurricanes,15,2/5
+CAR,WSH,1,18,52.3,33,15,Capitals,4,1/3,16,47.7,34,2,12,Hurricanes,6,0/2
+WSH,CAR,0,17,46.2,32,12,Hurricanes,8,0/5,14,53.8,48,6,15,Capitals,10,3/4
+CAR,WSH,2,16,42.4,45,15,Capitals,20,0/2,6,57.6,38,5,12,Hurricanes,6,0/4
+WSH,CAR,4,13,41.3,60,12,Hurricanes,6,0/1,29,58.8,43,3,15,Capitals,2,0/3

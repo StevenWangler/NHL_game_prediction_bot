@@ -1,0 +1,109 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+SJS,ANA,1,10,51.7,23,24,Ducks,8,1/3,11,48.3,17,4,28,Sharks,6,0/4
+ANA,SJS,7,5,56.5,19,28,Sharks,2,0/3,14,43.5,19,3,24,Ducks,6,0/1
+SJS,VGK,5,16,43.3,25,54,Golden Knights,6,0/2,13,56.7,24,4,28,Sharks,4,0/3
+CGY,SJS,5,13,56.3,9,28,Sharks,8,1/3,5,43.8,16,7,20,Flames,8,0/4
+SJS,CGY,4,7,56.3,11,20,Flames,13,0/4,16,43.8,30,3,28,Sharks,13,0/4
+VGK,SJS,2,10,44.9,26,28,Sharks,10,2/6,18,55.1,20,5,54,Golden Knights,16,1/4
+SJS,ANA,5,16,48.3,25,24,Ducks,6,2/3,13,51.7,21,2,28,Sharks,6,0/3
+LAK,SJS,3,15,44.4,21,28,Sharks,10,0/3,12,55.6,34,2,26,Kings,6,0/5
+NYI,SJS,0,9,61.4,9,28,Sharks,8,0/4,23,38.6,21,4,2,Islanders,8,1/4
+PHI,SJS,8,8,41.3,15,28,Sharks,12,2/5,8,58.7,21,2,4,Flyers,10,2/6
+NYR,SJS,2,13,52.9,14,28,Sharks,6,0/3,20,47.1,25,3,3,Rangers,8,0/2
+NJD,SJS,2,13,38.8,11,28,Sharks,16,0/3,12,61.2,19,3,1,Devils,6,1/8
+SJS,BUF,1,23,52.5,24,7,Sabres,21,0/5,17,47.5,20,5,28,Sharks,15,3/7
+SJS,NYI,1,15,44.4,29,2,Islanders,52,0/1,10,55.6,16,4,28,Sharks,30,0/2
+NSH,SJS,5,17,52.7,20,28,Sharks,8,2/4,18,47.3,12,4,18,Predators,8,0/4
+CAR,SJS,3,16,38.6,22,28,Sharks,4,2/3,12,61.4,30,4,12,Hurricanes,6,0/2
+ANA,SJS,4,10,45.3,16,28,Sharks,4,0/2,16,54.7,27,3,24,Ducks,6,0/1
+SJS,NYR,4,16,41.2,28,3,Rangers,4,0/4,15,58.8,14,3,28,Sharks,8,0/2
+SJS,CBJ,4,30,33.8,27,29,Blue Jackets,8,0/1,4,66.2,18,1,28,Sharks,4,0/3
+SJS,PHI,3,16,49.2,28,4,Flyers,6,0/3,6,50.8,13,4,28,Sharks,6,1/3
+SJS,MIN,3,15,65.4,27,30,Wild,0,1/3,21,34.6,23,4,28,Sharks,6,0/0
+DAL,SJS,3,11,49.2,9,28,Sharks,2,0/3,18,50.8,23,4,25,Stars,6,0/1
+STL,SJS,0,16,32.7,17,28,Sharks,10,0/4,18,67.3,16,4,19,Blues,10,0/4
+SJS,CGY,1,16,51.0,18,20,Flames,8,0/0,14,49.0,21,3,28,Sharks,2,0/3
+SJS,NSH,4,15,56.3,20,18,Predators,10,0/3,15,43.8,10,5,28,Sharks,6,1/5
+SJS,TOR,5,10,62.1,19,10,Maple Leafs,12,0/3,20,37.9,32,3,28,Sharks,12,1/3
+SJS,STL,0,15,46.7,19,19,Blues,4,0/1,18,53.3,23,4,28,Sharks,2,1/2
+SJS,EDM,4,10,40.3,25,22,Oilers,6,0/1,13,59.7,17,3,28,Sharks,2,0/3
+SJS,VAN,0,16,33.3,26,23,Canucks,24,0/3,16,66.7,20,4,28,Sharks,8,3/6
+VGK,SJS,0,17,56.7,33,28,Sharks,44,0/3,16,43.3,25,6,54,Golden Knights,20,1/6
+BUF,SJS,2,7,55.4,11,28,Sharks,4,1/3,5,44.6,19,3,7,Sabres,8,0/1
+TOR,SJS,3,8,40.0,17,28,Sharks,8,2/3,18,60.0,15,5,10,Maple Leafs,6,3/4
+OTT,SJS,2,14,59.0,16,28,Sharks,9,1/3,22,41.0,26,6,9,Senators,11,1/2
+MTL,SJS,3,22,39.6,16,28,Sharks,4,1/4,19,60.4,35,1,8,Canadiens,8,0/2
+SJS,CAR,1,10,53.7,18,12,Hurricanes,6,1/3,20,46.3,17,5,28,Sharks,8,1/2
+DAL,SJS,2,9,51.9,14,28,Sharks,4,0/2,13,48.1,17,3,25,Stars,4,0/2
+ARI,SJS,5,14,56.4,19,28,Sharks,2,0/1,23,43.6,30,3,53,Coyotes,2,1/1
+SJS,NJD,2,14,36.7,14,1,Devils,4,0/2,10,63.3,13,5,28,Sharks,4,1/2
+SJS,DAL,2,17,50.0,26,25,Stars,2,0/0,10,50.0,22,3,28,Sharks,0,0/1
+CHI,SJS,7,16,50.0,23,28,Sharks,10,2/2,14,50.0,23,3,16,Blackhawks,6,0/4
+MIN,SJS,4,14,51.9,10,28,Sharks,5,0/1,16,48.1,21,0,30,Wild,7,0/0
+SJS,WPG,5,22,46.2,16,52,Jets,13,0/3,10,53.8,13,3,28,Sharks,11,1/4
+SJS,LAK,3,29,49.2,37,26,Kings,2,1/1,11,50.8,30,2,28,Sharks,2,0/1
+SJS,ARI,4,28,42.9,19,53,Coyotes,12,1/4,12,57.1,16,3,28,Sharks,10,1/5
+SJS,ANA,2,11,51.0,12,24,Ducks,8,1/4,23,49.0,16,4,28,Sharks,10,0/3
+EDM,SJS,7,6,43.1,24,28,Sharks,2,0/3,10,56.9,33,4,22,Oilers,6,0/1
+CGY,SJS,5,17,45.5,18,28,Sharks,37,2/4,17,54.5,19,8,20,Flames,43,1/4
+COL,SJS,5,11,43.1,19,28,Sharks,8,2/3,16,56.9,21,4,21,Avalanche,6,1/4
+SJS,TBL,2,15,50.0,18,14,Lightning,6,0/2,13,50.0,17,5,28,Sharks,4,1/3
+SJS,LAK,1,20,51.0,16,26,Kings,6,0/0,16,49.0,11,3,28,Sharks,0,1/3
+SJS,EDM,2,13,40.4,22,22,Oilers,6,1/3,6,59.6,19,7,28,Sharks,6,1/3
+VGK,SJS,3,20,51.7,34,28,Sharks,6,0/2,22,48.3,32,2,54,Golden Knights,4,0/3
+SJS,OTT,1,11,35.3,23,9,Senators,2,0/3,18,64.7,23,4,28,Sharks,6,0/1
+SJS,PIT,2,16,51.0,19,5,Penguins,4,0/2,12,49.0,18,5,28,Sharks,4,0/2
+ARI,SJS,3,11,60.4,20,28,Sharks,8,1/3,24,39.6,31,6,53,Coyotes,6,1/4
+TBL,SJS,3,12,52.5,19,28,Sharks,8,1/3,22,47.5,27,6,14,Lightning,6,2/4
+FLA,SJS,2,12,54.0,23,28,Sharks,25,0/2,14,46.0,25,6,13,Panthers,11,3/4
+WSH,SJS,7,22,53.1,16,28,Sharks,6,2/6,18,46.9,25,6,15,Capitals,12,1/3
+SJS,ARI,2,17,44.9,24,53,Coyotes,4,0/5,11,55.1,26,3,28,Sharks,10,0/2
+WPG,SJS,3,17,52.0,22,28,Sharks,12,1/3,14,48.0,26,2,52,Jets,8,0/5
+CGY,SJS,5,20,42.6,13,28,Sharks,14,1/3,12,57.4,17,2,20,Flames,6,1/7
+EDM,SJS,5,13,59.7,24,28,Sharks,4,1/5,13,40.3,34,2,22,Oilers,12,1/1
+VAN,SJS,7,11,51.9,17,28,Sharks,6,0/3,13,48.1,17,2,23,Canucks,8,0/2
+SJS,WSH,5,21,44.4,20,15,Capitals,2,1/4,17,55.6,20,1,28,Sharks,8,0/1
+SJS,VAN,2,21,39.1,20,23,Canucks,13,0/4,17,60.9,17,3,28,Sharks,13,1/4
+SJS,BOS,6,11,47.6,24,6,Bruins,11,2/4,8,52.4,24,5,28,Sharks,15,1/2
+PIT,SJS,4,13,48.2,31,28,Sharks,31,3/6,16,51.8,35,0,5,Penguins,49,0/2
+CBJ,SJS,0,11,51.0,15,28,Sharks,4,0/2,6,49.0,24,4,29,Blue Jackets,4,1/2
+DET,SJS,5,9,49.3,17,28,Sharks,4,1/3,17,50.7,27,3,17,Red Wings,6,0/2
+BOS,SJS,1,7,42.3,27,28,Sharks,47,1/3,16,57.7,21,4,6,Bruins,25,1/4
+SJS,COL,3,22,42.1,18,21,Avalanche,6,1/2,13,57.9,13,4,28,Sharks,4,1/3
+SJS,CHI,2,11,49.1,9,16,Blackhawks,2,0/3,16,50.9,15,5,28,Sharks,6,0/1
+SJS,MTL,2,13,51.9,21,8,Canadiens,0,0/1,13,48.1,16,5,28,Sharks,2,0/0
+SJS,STL,2,12,60.0,19,19,Blues,4,2/3,17,40.0,14,3,28,Sharks,6,1/2
+MIN,SJS,3,16,54.3,11,28,Sharks,6,0/2,8,45.7,12,0,30,Wild,4,0/3
+WPG,SJS,5,9,44.8,18,28,Sharks,4,0/2,18,55.2,18,4,52,Jets,4,1/2
+SJS,FLA,4,18,46.0,12,13,Panthers,6,1/5,12,54.0,13,2,28,Sharks,10,0/3
+SJS,NSH,4,18,54.5,19,18,Predators,15,0/2,19,45.5,23,2,28,Sharks,13,0/3
+SJS,VGK,7,14,50.9,19,54,Golden Knights,12,3/6,5,49.1,24,3,28,Sharks,14,1/5
+LAK,SJS,2,4,35.7,17,28,Sharks,2,0/2,18,64.3,24,4,26,Kings,6,0/0
+ANA,SJS,3,8,42.0,23,28,Sharks,6,1/5,22,58.0,33,4,24,Ducks,10,2/3
+SJS,DET,3,25,49.2,28,17,Red Wings,8,0/1,11,50.8,35,2,28,Sharks,2,1/4
+SJS,CHI,5,20,52.7,22,16,Blackhawks,10,1/2,9,47.3,30,4,28,Sharks,4,2/5
+SJS,VGK,3,13,52.5,40,54,Golden Knights,27,0/2,9,47.5,40,4,28,Sharks,15,1/3
+SJS,CGY,5,20,65.4,20,20,Flames,4,0/6,11,34.6,22,3,28,Sharks,22,0/2
+VAN,SJS,2,12,37.7,20,28,Sharks,9,1/4,12,62.3,14,4,23,Canucks,13,0/2
+EDM,SJS,3,16,58.1,24,28,Sharks,10,0/2,7,41.9,15,2,22,Oilers,6,0/3
+SJS,COL,2,16,30.9,6,21,Avalanche,4,0/2,20,69.1,15,5,28,Sharks,4,0/2
+SJS,VGK,2,21,50.0,41,54,Golden Knights,34,1/4,16,50.0,42,5,28,Sharks,22,1/5
+SJS,VGK,5,26,47.7,31,54,Golden Knights,22,1/3,10,52.3,46,3,28,Sharks,12,1/8
+VGK,SJS,3,17,46.7,42,28,Sharks,21,1/3,13,53.3,56,6,54,Golden Knights,15,2/6
+VGK,SJS,0,12,45.6,37,28,Sharks,38,0/4,20,54.4,54,5,54,Golden Knights,8,2/9
+SJS,VGK,2,21,36.5,22,54,Golden Knights,6,2/2,18,63.5,33,5,28,Sharks,4,1/3
+VGK,SJS,2,34,43.6,39,28,Sharks,6,0/2,30,56.4,80,1,54,Golden Knights,4,0/3
+SJS,VGK,4,25,50.6,42,54,Golden Knights,23,0/2,16,49.4,32,5,28,Sharks,4,4/9
+SJS,COL,2,16,50.0,28,21,Avalanche,6,1/3,22,50.0,26,5,28,Sharks,8,0/2
+SJS,COL,4,25,48.4,28,21,Avalanche,6,0/2,16,51.6,25,3,28,Sharks,4,1/3
+COL,SJS,4,18,50.0,20,28,Sharks,8,0/4,19,50.0,41,2,21,Avalanche,8,0/4
+COL,SJS,0,14,51.9,25,28,Sharks,12,0/2,20,48.1,33,3,21,Avalanche,6,1/5
+SJS,COL,1,22,39.2,22,21,Avalanche,10,0/3,19,60.8,18,2,28,Sharks,6,1/5
+COL,SJS,3,20,47.1,24,28,Sharks,6,0/1,23,52.9,31,4,21,Avalanche,2,0/3
+SJS,COL,2,18,38.0,27,21,Avalanche,6,0/3,17,62.0,31,3,28,Sharks,6,0/3
+SJS,STL,3,12,42.5,41,19,Blues,22,0/1,14,57.5,35,6,28,Sharks,16,1/4
+SJS,STL,4,20,42.6,35,19,Blues,4,0/5,15,57.4,28,2,28,Sharks,10,0/2
+STL,SJS,5,20,47.7,21,28,Sharks,2,0/1,24,52.3,43,4,19,Blues,2,1/1
+STL,SJS,1,8,45.8,15,28,Sharks,10,1/3,21,54.2,29,2,19,Blues,8,1/4
+SJS,STL,5,11,57.1,34,19,Blues,6,1/8,14,42.9,52,0,28,Sharks,36,0/2
+STL,SJS,1,11,44.4,31,28,Sharks,4,0/1,13,55.6,26,5,19,Blues,2,2/2

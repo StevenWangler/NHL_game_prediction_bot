@@ -1,13 +1,36 @@
 Home team: {home}
 Home team wins in their last 10: {hL10W}
 Home team losses in their last 10: {hL10L}
+Home team goals against in their last 10: {hGaL10}
+Home team goals for in their last 10: {hGfL10}
 Home team record on the year: {hWins} wins, {hLosses} losses, {hOTLosses} Overtime losses
+Home team games played: {hGP}
+Home team season goal differential: {homeGoalDiff}
+Home team goal differential percentage: {homeGoalDiffPerct}
+Home team total goals against: {homeGoalsAgainst}
+Home team total goals for: {homeGoalsFor}
+Home team wins at home: {homeWinsHome}
+Home team losses at home: {homeLossesHome}
+Home team current streak (L means losing streak, W means winning streak): {homeStreakType}
+Home team current streak length: {homeStreakLength}
+
 -------------------------------------------
 
 Away team: {away}
 Away team wins in their last 10: {aL10W}
 Away team losses in their last 10: {aL10L}
+Away team goals against in their last 10: {aGaL10}
+Away team goals for in their last 10: {aGfL10}
 Away team record on the year: {aWins} wins, {aLosses} losses, {aOTLosses} Overtime losses
+Away team games played: {aGP}
+Away team season goal differential: {awayGoalDiff}
+Away team goal differential percentage: {awayGoalDiffPerct}
+Away team total goals against: {awayGoalsAgainst}
+Away team total goals for: {awayGoalsFor}
+Away team wins on the road: {awayWinsRoad}
+Away team losses on the road: {awayLossesRoad}
+Away team current streak (L means losing streak, W means winning streak): {awayStreakType}
+Away team current streak length: {awayStreakLength}
 
 -------------------------------------------
 Venue: {venue}

@@ -1,0 +1,94 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+TBL,CAR,4,7,45.3,17,12,Hurricanes,10,2/6,8,54.7,15,1,14,Lightning,12,1/5
+CAR,TBL,1,10,42.4,44,14,Lightning,14,0/5,7,57.6,28,6,12,Hurricanes,12,3/6
+NSH,TBL,5,11,52.7,13,14,Lightning,17,0/5,13,47.3,18,1,18,Predators,15,1/6
+TBL,NSH,2,17,60.0,21,18,Predators,4,0/1,14,40.0,32,5,14,Lightning,4,0/1
+TBL,FLA,3,14,48.1,18,13,Panthers,10,0/4,13,51.9,18,2,14,Lightning,10,1/4
+TBL,FLA,2,0,0.0,0,13,Panthers,8,1/2,0,0.0,0,6,14,Lightning,8,1/2
+FLA,TBL,3,15,43.3,13,14,Lightning,4,0/1,17,56.7,10,2,13,Panthers,2,1/2
+TBL,FLA,1,13,52.6,22,13,Panthers,6,0/5,9,47.4,37,2,14,Lightning,10,0/3
+TBL,VAN,4,22,50.0,18,23,Canucks,10,0/4,13,50.0,22,1,14,Lightning,8,0/5
+TBL,CBJ,2,17,50.8,20,29,Blue Jackets,16,0/5,12,49.2,22,8,14,Lightning,12,4/7
+TBL,CAR,2,13,50.7,16,12,Hurricanes,2,0/4,20,49.3,16,4,14,Lightning,8,1/1
+TBL,DET,1,19,50.7,16,17,Red Wings,10,0/5,15,49.3,26,3,14,Lightning,12,0/4
+MIN,TBL,4,14,45.1,7,14,Lightning,6,1/5,10,54.9,24,5,30,Wild,12,0/2
+CHI,TBL,6,18,46.9,16,14,Lightning,10,1/3,13,53.1,19,3,16,Blackhawks,8,1/4
+COL,TBL,1,8,46.9,19,14,Lightning,13,1/3,18,53.1,13,0,21,Avalanche,11,0/4
+VGK,TBL,3,27,50.8,41,14,Lightning,8,1/2,15,49.2,41,2,54,Golden Knights,4,1/4
+ARI,TBL,1,10,50.8,23,14,Lightning,8,1/5,13,49.2,14,7,53,Coyotes,10,0/4
+TBL,NJD,3,14,40.3,30,1,Devils,11,1/3,13,59.7,33,8,14,Lightning,11,2/3
+TBL,NSH,4,13,50.8,16,18,Predators,4,0/1,9,49.2,29,1,14,Lightning,2,0/2
+MTL,TBL,4,23,45.6,32,14,Lightning,8,0/3,17,54.4,25,1,8,Canadiens,6,0/4
+OTT,TBL,4,21,52.7,32,14,Lightning,6,1/3,24,47.3,17,3,9,Senators,6,2/3
+TBL,EDM,2,10,47.5,27,22,Oilers,24,1/4,13,52.5,20,5,14,Lightning,10,1/6
+TBL,NYI,2,12,42.3,24,2,Islanders,8,0/5,15,57.7,21,4,14,Lightning,10,0/4
+TBL,OTT,6,20,55.1,18,9,Senators,6,2/4,9,44.9,24,4,14,Lightning,8,1/3
+BUF,TBL,1,9,57.4,33,14,Lightning,4,0/1,17,42.6,19,2,7,Sabres,4,0/1
+PIT,TBL,4,14,54.1,32,14,Lightning,12,4/7,13,45.9,24,3,5,Penguins,18,2/4
+PHI,TBL,6,20,47.0,27,14,Lightning,12,3/4,19,53.0,26,5,4,Flyers,10,3/5
+NSH,TBL,2,16,25.9,16,14,Lightning,6,0/2,8,74.1,11,3,18,Predators,4,1/3
+TBL,FLA,3,17,39.7,18,13,Panthers,8,2/4,7,60.3,15,7,14,Lightning,8,1/4
+TBL,CHI,2,9,58.0,11,16,Blackhawks,6,0/2,14,42.0,23,4,14,Lightning,4,0/3
+TBL,NJD,2,11,48.5,23,1,Devils,6,0/2,10,51.5,17,5,14,Lightning,4,1/3
+TBL,ANA,3,13,50.0,22,24,Ducks,8,1/3,8,50.0,29,1,14,Lightning,6,0/4
+TBL,BUF,4,10,37.9,23,7,Sabres,20,0/2,8,62.1,28,5,14,Lightning,4,1/5
+FLA,TBL,5,18,57.9,24,14,Lightning,10,2/3,15,42.1,28,4,13,Panthers,8,1/4
+NJD,TBL,5,7,50.8,19,14,Lightning,10,2/3,8,49.2,23,1,1,Devils,8,0/4
+DET,TBL,6,10,51.9,14,14,Lightning,6,0/2,11,48.1,20,5,17,Red Wings,6,0/2
+TBL,BOS,2,16,56.0,22,6,Bruins,2,0/2,16,44.0,33,3,14,Lightning,4,0/1
+TBL,COL,1,16,47.5,22,21,Avalanche,8,0/2,13,52.5,35,7,14,Lightning,6,2/3
+TBL,NYR,3,11,47.5,29,3,Rangers,17,0/1,11,52.5,25,6,14,Lightning,7,2/6
+TBL,TOR,1,16,54.4,19,10,Maple Leafs,8,0/6,23,45.6,27,4,14,Lightning,14,1/3
+WPG,TBL,4,14,59.4,23,14,Lightning,2,2/2,21,40.6,28,5,52,Jets,4,1/1
+VAN,TBL,5,17,53.8,25,14,Lightning,36,0/4,16,46.2,19,2,23,Canucks,22,0/6
+CGY,TBL,5,11,47.8,13,14,Lightning,2,0/4,14,52.2,19,4,20,Flames,8,0/1
+EDM,TBL,6,16,52.8,22,14,Lightning,22,1/2,12,47.2,24,3,22,Oilers,20,2/3
+TBL,PHI,5,10,54.4,17,4,Flyers,13,0/2,19,45.6,16,6,14,Lightning,11,2/3
+TBL,MTL,5,15,47.9,17,8,Canadiens,6,1/3,14,52.1,23,6,14,Lightning,6,1/3
+ANA,TBL,2,10,41.2,35,14,Lightning,4,0/3,12,58.8,31,1,24,Ducks,8,0/1
+LAK,TBL,6,14,45.5,16,14,Lightning,14,3/4,8,54.5,23,2,26,Kings,12,1/5
+SJS,TBL,2,15,50.0,18,14,Lightning,6,0/2,13,50.0,17,5,28,Sharks,4,1/3
+TBL,CBJ,0,8,42.2,24,29,Blue Jackets,2,0/1,22,57.8,23,4,14,Lightning,2,0/1
+TBL,CAR,1,12,41.9,24,12,Hurricanes,12,0/4,13,58.1,29,3,14,Lightning,8,2/6
+BUF,TBL,5,10,48.4,11,14,Lightning,10,1/2,7,51.6,20,3,7,Sabres,6,0/4
+NYI,TBL,1,9,52.5,33,14,Lightning,2,0/3,26,47.5,18,5,2,Islanders,6,1/1
+DAL,TBL,2,18,48.1,30,14,Lightning,14,0/3,8,51.9,29,0,25,Stars,8,0/6
+TBL,TOR,4,21,44.3,17,10,Maple Leafs,8,0/2,8,55.7,30,2,14,Lightning,4,1/4
+TBL,SJS,3,12,52.5,19,28,Sharks,8,1/3,22,47.5,27,6,14,Lightning,6,2/4
+PIT,TBL,2,16,54.4,59,14,Lightning,15,1/2,17,45.6,39,4,5,Penguins,13,0/3
+NYI,TBL,1,16,41.5,33,14,Lightning,8,0/1,16,58.5,22,0,2,Islanders,2,0/4
+NYR,TBL,3,14,54.4,34,14,Lightning,8,0/1,8,45.6,23,2,3,Rangers,2,1/4
+TBL,VGK,3,15,41.5,24,54,Golden Knights,10,0/3,13,58.5,29,2,14,Lightning,6,1/5
+TBL,STL,1,15,43.8,19,19,Blues,6,0/3,7,56.3,32,0,14,Lightning,8,0/2
+TBL,PIT,4,15,50.6,25,5,Penguins,24,0/1,14,49.4,22,5,14,Lightning,24,0/1
+FLA,TBL,5,11,52.5,29,14,Lightning,10,2/4,10,47.5,25,2,13,Panthers,10,0/4
+TBL,CGY,3,14,47.5,17,20,Flames,8,2/4,16,52.5,20,6,14,Lightning,8,2/4
+TBL,DAL,0,11,58.6,27,25,Stars,12,0/2,9,41.4,23,6,14,Lightning,6,2/5
+TBL,MTL,0,14,40.4,23,8,Canadiens,20,0/2,13,59.6,24,3,14,Lightning,16,1/4
+CBJ,TBL,5,11,50.7,21,14,Lightning,10,2/3,8,49.3,15,1,29,Blue Jackets,8,0/4
+PHI,TBL,5,19,40.0,22,14,Lightning,8,1/4,15,60.0,26,2,4,Flyers,20,0/3
+TBL,BUF,1,12,40.4,18,7,Sabres,10,0/4,11,59.6,16,2,14,Lightning,12,0/3
+TBL,LAK,3,9,35.3,26,26,Kings,8,0/4,12,64.7,18,4,14,Lightning,8,1/4
+NYR,TBL,4,17,46.8,34,14,Lightning,17,1/3,20,53.2,30,3,3,Rangers,11,0/6
+BOS,TBL,1,16,50.0,35,14,Lightning,21,0/3,12,50.0,22,4,6,Bruins,11,1/3
+TBL,OTT,1,15,49.2,20,9,Senators,8,0/3,15,50.8,32,5,14,Lightning,8,0/3
+TBL,WPG,2,9,50.0,20,52,Jets,12,2/3,13,50.0,24,5,14,Lightning,10,2/4
+TBL,MIN,3,18,42.9,18,30,Wild,4,0/4,21,57.1,27,0,14,Lightning,8,0/2
+TBL,DET,2,12,40.6,29,17,Red Wings,8,1/5,10,59.4,21,3,14,Lightning,12,0/3
+TOR,TBL,6,8,45.3,20,14,Lightning,4,0/1,7,54.7,14,2,10,Maple Leafs,2,0/2
+DET,TBL,5,15,50.8,28,14,Lightning,6,2/3,18,49.2,20,4,17,Red Wings,6,0/3
+TBL,WSH,3,8,35.1,23,15,Capitals,18,1/4,12,64.9,33,6,14,Lightning,18,0/4
+TBL,ARI,1,12,56.3,17,53,Coyotes,4,0/2,12,43.8,30,4,14,Lightning,6,0/1
+WSH,TBL,5,14,48.6,17,14,Lightning,21,3/3,15,51.4,34,4,15,Capitals,15,1/6
+CAR,TBL,6,14,66.7,32,14,Lightning,16,2/5,17,33.3,31,3,12,Hurricanes,14,0/3
+STL,TBL,3,14,50.8,20,14,Lightning,4,0/3,14,49.2,22,4,19,Blues,6,1/2
+TBL,BOS,4,10,46.4,22,6,Bruins,12,1/3,11,53.6,33,5,14,Lightning,6,0/6
+TBL,WSH,6,13,54.1,18,15,Capitals,16,2/5,10,45.9,22,3,14,Lightning,20,1/3
+OTT,TBL,5,10,49.0,36,14,Lightning,13,0/3,20,51.0,37,2,9,Senators,11,1/4
+MTL,TBL,2,24,38.6,44,14,Lightning,6,0/0,15,61.4,38,4,8,Canadiens,2,0/2
+TOR,TBL,3,14,54.5,28,14,Lightning,4,0/1,10,45.5,26,1,10,Maple Leafs,2,0/2
+BOS,TBL,6,8,63.8,27,14,Lightning,16,1/2,9,36.2,25,3,6,Bruins,16,0/2
+TBL,CBJ,4,14,51.8,30,29,Blue Jackets,8,1/2,16,48.2,31,3,14,Lightning,6,0/3
+TBL,CBJ,5,16,45.0,17,29,Blue Jackets,21,2/4,9,55.0,37,1,14,Lightning,38,0/2
+CBJ,TBL,1,15,42.9,44,14,Lightning,8,0/0,17,57.1,40,3,29,Blue Jackets,4,1/2
+CBJ,TBL,3,9,54.7,32,14,Lightning,4,1/1,15,45.3,30,7,29,Blue Jackets,2,1/2

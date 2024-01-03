@@ -1,0 +1,91 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+CGY,EDM,7,13,44.4,13,22,Oilers,34,1/5,17,55.6,19,4,20,Flames,40,0/2
+VAN,EDM,4,10,45.2,21,22,Oilers,14,1/3,4,54.8,30,2,23,Canucks,6,1/7
+EDM,WPG,3,14,50.9,25,52,Jets,10,1/5,10,49.1,27,7,22,Oilers,10,2/5
+WPG,EDM,3,12,36.1,16,22,Oilers,8,1/3,15,63.9,13,5,52,Jets,6,2/4
+EDM,VAN,0,14,47.4,25,23,Canucks,8,0/3,22,52.6,19,6,22,Oilers,6,2/4
+EDM,ARI,2,4,53.7,22,53,Coyotes,4,1/2,10,46.3,27,3,22,Oilers,4,0/2
+EDM,CGY,3,7,53.6,23,20,Flames,6,1/7,18,46.4,17,4,22,Oilers,14,2/3
+KLH,EDM,4,,,,22,Oilers,,,,,,3,7202,Haie,,
+NJD,EDM,2,8,50.8,28,22,Oilers,4,1/4,8,49.2,24,5,1,Devils,8,1/2
+BOS,EDM,1,8,37.7,27,22,Oilers,15,0/2,11,62.3,21,4,6,Bruins,11,2/4
+NYR,EDM,2,14,47.3,31,22,Oilers,4,1/4,15,52.7,23,1,3,Rangers,8,0/2
+WPG,EDM,5,15,62.1,12,22,Oilers,6,2/2,12,37.9,17,4,52,Jets,4,1/3
+EDM,BOS,2,14,48.1,29,6,Bruins,8,0/3,17,51.9,35,3,22,Oilers,10,1/2
+EDM,NSH,3,12,50.8,10,18,Predators,8,0/4,18,49.2,20,0,22,Oilers,8,0/4
+EDM,PIT,6,7,53.0,30,5,Penguins,15,1/3,23,47.0,28,5,22,Oilers,11,2/5
+EDM,WSH,1,12,56.7,28,15,Capitals,8,0/1,25,43.3,16,4,22,Oilers,2,1/4
+NSH,EDM,5,20,45.6,12,22,Oilers,12,1/7,10,54.4,13,3,18,Predators,14,2/6
+CHI,EDM,2,12,43.1,23,22,Oilers,10,0/2,16,56.9,16,1,16,Blackhawks,4,1/5
+EDM,MIN,4,18,46.9,20,30,Wild,10,3/3,16,53.1,30,3,22,Oilers,6,0/5
+EDM,CHI,0,14,52.9,21,16,Blackhawks,21,0/3,13,47.1,26,4,22,Oilers,18,1/4
+DET,EDM,4,11,52.9,17,22,Oilers,4,0/1,8,47.1,23,3,17,Red Wings,2,0/2
+WSH,EDM,2,10,58.1,16,22,Oilers,4,1/4,23,41.9,25,4,15,Capitals,8,1/2
+TBL,EDM,2,10,47.5,27,22,Oilers,24,1/4,13,52.5,20,5,14,Lightning,10,1/6
+FLA,EDM,1,10,37.3,23,22,Oilers,13,0/3,12,62.7,12,4,13,Panthers,11,1/4
+EDM,COL,4,19,48.8,18,21,Avalanche,6,1/2,5,51.2,36,1,22,Oilers,4,0/3
+EDM,MTL,2,18,41.0,28,8,Canadiens,10,0/3,14,59.0,24,6,22,Oilers,10,0/3
+CGY,EDM,2,19,43.7,21,22,Oilers,41,1/3,10,56.3,18,4,20,Flames,15,1/6
+EDM,VGK,6,9,47.1,17,54,Golden Knights,6,1/2,24,52.9,24,3,22,Oilers,6,1/2
+SJS,EDM,4,10,40.3,25,22,Oilers,6,0/1,13,59.7,17,3,28,Sharks,2,0/3
+ANA,EDM,1,10,38.3,44,22,Oilers,4,1/2,19,61.7,31,2,24,Ducks,4,0/2
+LAK,EDM,2,18,43.7,12,22,Oilers,10,1/3,14,56.3,19,5,26,Kings,6,2/5
+EDM,DAL,0,16,49.2,28,25,Stars,4,0/2,12,50.8,37,1,22,Oilers,4,0/2
+EDM,LAK,2,18,53.3,27,26,Kings,6,1/3,22,46.7,35,3,22,Oilers,6,2/3
+EDM,VGK,1,14,51.0,34,54,Golden Knights,6,0/3,21,49.0,34,2,22,Oilers,6,0/3
+DAL,EDM,1,17,45.0,24,22,Oilers,23,0/3,17,55.0,23,4,25,Stars,15,1/2
+STL,EDM,3,8,39.7,19,22,Oilers,4,0/5,17,60.3,15,2,19,Blues,10,0/2
+EDM,MIN,2,16,42.1,29,30,Wild,2,0/2,14,57.9,35,7,22,Oilers,4,0/1
+EDM,CGY,0,14,65.3,28,20,Flames,15,0/2,20,34.7,32,1,22,Oilers,9,0/5
+COL,EDM,6,16,37.7,23,22,Oilers,17,2/3,9,62.3,14,4,21,Avalanche,13,1/5
+WPG,EDM,4,21,47.1,20,22,Oilers,6,1/2,8,52.9,16,5,52,Jets,4,1/3
+EDM,PHI,1,10,57.9,16,4,Flyers,4,0/5,16,42.1,33,4,22,Oilers,10,0/2
+VAN,EDM,2,4,57.7,20,22,Oilers,10,0/1,22,42.3,23,4,23,Canucks,2,3/5
+EDM,STL,4,18,51.8,21,19,Blues,12,1/3,11,48.2,34,1,22,Oilers,17,0/5
+EDM,TBL,6,16,52.8,22,14,Lightning,22,1/2,12,47.2,24,3,22,Oilers,20,2/3
+EDM,VAN,4,22,45.8,39,23,Canucks,6,0/1,10,54.2,45,2,22,Oilers,2,2/3
+EDM,SJS,7,6,43.1,24,28,Sharks,2,0/3,10,56.9,33,4,22,Oilers,6,0/1
+EDM,WPG,4,19,51.7,25,52,Jets,2,0/2,18,48.3,47,3,22,Oilers,4,1/1
+ARI,EDM,3,13,54.7,36,22,Oilers,2,0/3,16,45.3,29,1,53,Coyotes,6,0/1
+LAK,EDM,0,8,41.5,25,22,Oilers,20,0/3,15,58.5,11,4,26,Kings,10,0/3
+ANA,EDM,4,24,43.1,27,22,Oilers,12,0/1,10,56.9,21,0,24,Ducks,8,0/3
+SJS,EDM,2,13,40.4,22,22,Oilers,6,1/3,6,59.6,19,7,28,Sharks,6,1/3
+EDM,FLA,3,15,45.6,25,13,Panthers,4,0/2,13,54.4,29,4,22,Oilers,4,0/2
+EDM,ARI,3,19,50.0,41,53,Coyotes,4,2/2,10,50.0,40,2,22,Oilers,6,0/1
+EDM,BUF,2,6,43.8,26,7,Sabres,2,0/4,15,56.3,25,7,22,Oilers,8,1/1
+VAN,EDM,3,17,45.2,16,22,Oilers,10,1/3,15,54.8,23,2,23,Canucks,8,1/4
+EDM,CGY,5,15,55.7,9,20,Flames,18,2/7,14,44.3,19,2,22,Oilers,20,1/6
+EDM,CAR,7,16,54.5,30,12,Hurricanes,10,1/1,12,45.5,32,4,22,Oilers,4,1/4
+EDM,DET,3,16,44.8,17,17,Red Wings,6,0/3,8,55.2,36,2,22,Oilers,6,0/3
+PHI,EDM,4,16,50.0,20,22,Oilers,12,0/3,15,50.0,20,5,4,Flyers,8,4/5
+MTL,EDM,3,23,40.7,30,22,Oilers,10,2/4,16,59.3,28,4,8,Canadiens,10,1/4
+EDM,CHI,6,17,44.9,13,16,Blackhawks,8,2/4,17,55.1,23,2,22,Oilers,8,2/4
+MIN,EDM,4,15,43.9,24,22,Oilers,4,1/3,5,56.1,21,1,30,Wild,6,0/2
+EDM,SJS,5,13,59.7,24,28,Sharks,4,1/5,13,40.3,34,2,22,Oilers,12,1/1
+PIT,EDM,1,11,56.9,41,22,Oilers,2,0/2,14,43.1,51,3,5,Penguins,4,0/1
+CAR,EDM,1,12,40.6,29,22,Oilers,6,0/3,17,59.4,24,3,12,Hurricanes,8,0/2
+NYI,EDM,2,8,56.1,20,22,Oilers,23,1/5,16,43.9,13,5,2,Islanders,17,1/3
+EDM,ARI,3,13,42.9,27,53,Coyotes,6,0/4,14,57.1,31,2,22,Oilers,8,0/3
+EDM,NYI,3,25,37.0,25,2,Islanders,10,2/2,17,63.0,24,4,22,Oilers,6,1/4
+EDM,ANA,1,12,45.0,24,24,Ducks,2,0/1,17,55.0,33,2,22,Oilers,2,0/1
+NSH,EDM,2,13,49.1,17,22,Oilers,10,1/3,11,50.9,26,3,18,Predators,6,0/5
+TOR,EDM,2,17,37.3,33,22,Oilers,10,1/2,14,62.7,17,6,10,Maple Leafs,4,3/5
+OTT,EDM,4,19,44.0,25,22,Oilers,2,0/3,16,56.0,21,2,9,Senators,16,0/1
+CBJ,EDM,4,17,53.4,15,22,Oilers,2,0/1,7,46.6,27,0,29,Blue Jackets,2,0/1
+BUF,EDM,4,14,57.8,21,22,Oilers,6,0/1,12,42.2,15,3,7,Sabres,4,1/3
+EDM,VAN,2,12,55.2,27,23,Canucks,6,0/4,25,44.8,31,3,22,Oilers,8,0/3
+EDM,TOR,3,12,58.8,21,10,Maple Leafs,8,1/2,15,41.2,23,2,22,Oilers,4,0/4
+EDM,NYR,2,10,42.6,49,3,Rangers,18,0/1,10,57.4,21,3,22,Oilers,24,1/3
+EDM,NJD,6,23,50.7,25,1,Devils,17,2/4,9,49.3,31,3,22,Oilers,15,1/5
+ARI,EDM,3,7,50.9,30,22,Oilers,10,0/3,13,49.1,25,2,53,Coyotes,6,1/5
+VGK,EDM,3,13,42.4,31,22,Oilers,6,1/1,12,57.6,26,6,54,Golden Knights,2,0/3
+STL,EDM,2,12,47.1,21,22,Oilers,28,0/1,10,52.9,15,7,19,Blues,7,2/6
+EDM,CBJ,1,21,45.5,25,29,Blue Jackets,2,0/0,14,54.5,30,4,22,Oilers,0,1/1
+EDM,OTT,4,18,37.0,23,9,Senators,4,2/2,12,63.0,31,3,22,Oilers,6,0/1
+EDM,LAK,4,10,56.1,36,26,Kings,14,2/4,26,43.9,21,8,22,Oilers,20,1/1
+EDM,DAL,3,11,51.9,21,25,Stars,4,1/2,18,48.1,33,2,22,Oilers,6,0/1
+EDM,ANA,5,16,41.8,26,24,Ducks,4,0/1,11,58.2,33,1,22,Oilers,4,0/1
+VGK,EDM,1,18,46.3,24,22,Oilers,4,0/2,16,53.7,23,3,54,Golden Knights,4,0/2
+COL,EDM,2,13,51.8,24,22,Oilers,6,0/1,16,48.2,16,6,21,Avalanche,2,1/3
+EDM,SJS,3,16,58.1,24,28,Sharks,10,0/2,7,41.9,15,2,22,Oilers,6,0/3
+CGY,EDM,3,12,25.9,14,22,Oilers,6,1/1,8,74.1,9,1,20,Flames,2,0/3

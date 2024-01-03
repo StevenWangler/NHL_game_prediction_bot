@@ -1,0 +1,57 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+DAL,NSH,0,14,56.3,14,18,Predators,16,0/5,13,43.7,21,7,25,Stars,10,5/8
+DAL,NSH,2,26,50.8,24,18,Predators,8,1/4,17,49.2,18,3,25,Stars,8,3/4
+DAL,DET,1,14,46.2,18,17,Red Wings,8,0/3,12,53.8,22,2,25,Stars,6,1/4
+DAL,DET,3,7,50.0,8,17,Red Wings,6,1/7,21,50.0,14,7,25,Stars,14,1/2
+CAR,DAL,1,14,47.0,38,25,Stars,10,1/6,12,53.0,26,4,12,Hurricanes,12,3/5
+CAR,DAL,3,11,47.1,31,25,Stars,10,0/5,9,52.9,17,4,12,Hurricanes,10,1/5
+CBJ,DAL,6,14,56.4,10,25,Stars,6,2/3,7,43.6,12,3,29,Blue Jackets,6,1/3
+CBJ,DAL,3,6,49.1,14,25,Stars,6,1/3,18,50.9,23,4,29,Blue Jackets,6,0/3
+DAL,CHI,2,15,50.0,17,16,Blackhawks,11,1/4,8,50.0,13,1,25,Stars,13,0/3
+DAL,CHI,2,19,39.6,11,16,Blackhawks,4,1/4,13,60.4,25,1,25,Stars,8,0/2
+DAL,CAR,5,17,53.4,19,12,Hurricanes,10,1/3,11,46.6,39,3,25,Stars,6,1/5
+DAL,CAR,4,20,52.3,17,12,Hurricanes,6,1/4,12,47.7,13,3,25,Stars,8,1/3
+FLA,DAL,1,17,43.9,32,25,Stars,11,0/1,6,56.1,24,3,13,Panthers,7,0/3
+FLA,DAL,3,15,50.7,38,25,Stars,8,0/4,8,49.3,42,0,13,Panthers,10,0/3
+FLA,DAL,2,7,55.7,33,25,Stars,2,1/2,11,44.3,30,3,13,Panthers,4,0/1
+TBL,DAL,0,6,54.8,22,25,Stars,11,0/6,12,45.2,22,5,14,Lightning,19,2/2
+DAL,TBL,2,15,58.7,21,14,Lightning,11,1/5,14,41.3,26,0,25,Stars,15,0/3
+DAL,CBJ,3,19,44.7,13,29,Blue Jackets,4,0/2,13,55.3,20,2,25,Stars,4,0/2
+DAL,CBJ,0,16,42.2,13,29,Blue Jackets,20,0/3,9,57.8,18,5,25,Stars,16,1/5
+DAL,NSH,4,17,50.0,18,18,Predators,13,2/5,13,50.0,18,3,25,Stars,17,1/3
+DAL,CHI,1,12,38.6,19,16,Blackhawks,11,0/2,9,61.4,17,6,25,Stars,9,1/3
+DAL,CHI,4,20,46.0,15,16,Blackhawks,10,2/5,11,54.0,25,2,25,Stars,10,0/5
+CBJ,DAL,3,12,41.2,29,25,Stars,0,0/0,21,58.8,27,4,29,Blue Jackets,0,0/0
+CBJ,DAL,2,13,38.1,18,25,Stars,2,0/1,23,61.9,21,1,29,Blue Jackets,2,0/1
+DAL,TBL,4,13,47.8,23,14,Lightning,6,1/2,13,52.2,22,3,25,Stars,4,1/3
+DET,DAL,2,10,51.0,28,25,Stars,4,0/3,6,49.0,16,3,17,Red Wings,8,0/1
+DET,DAL,3,12,59.6,26,25,Stars,4,1/3,17,40.4,29,0,17,Red Wings,6,0/2
+DAL,NSH,4,12,50.7,21,18,Predators,4,1/2,11,49.3,20,3,25,Stars,4,0/2
+DAL,TBL,2,15,52.3,19,14,Lightning,8,1/3,16,47.7,26,1,25,Stars,6,1/4
+DAL,TBL,3,13,46.3,23,14,Lightning,11,0/0,12,53.7,23,4,25,Stars,5,1/3
+DAL,FLA,4,17,56.1,12,13,Panthers,6,1/3,16,43.9,20,3,25,Stars,6,0/3
+DAL,FLA,4,17,47.5,23,13,Panthers,13,1/4,12,52.5,29,1,25,Stars,15,1/3
+NSH,DAL,2,6,59.3,28,25,Stars,2,1/1,10,40.7,23,3,18,Predators,2,1/1
+NSH,DAL,4,10,52.7,26,25,Stars,11,1/2,11,47.3,21,1,18,Predators,19,0/3
+CAR,DAL,3,12,39.7,37,25,Stars,2,1/2,11,60.3,27,2,12,Hurricanes,4,0/1
+CAR,DAL,0,20,40.8,35,25,Stars,4,0/0,14,59.2,54,1,12,Hurricanes,2,0/1
+CHI,DAL,2,16,44.6,41,25,Stars,6,0/2,17,55.4,29,4,16,Blackhawks,4,0/3
+CHI,DAL,5,23,57.7,46,25,Stars,6,2/3,10,42.3,31,1,16,Blackhawks,6,0/3
+DAL,FLA,1,7,45.8,26,13,Panthers,6,1/4,28,54.2,34,4,25,Stars,8,1/3
+NSH,DAL,2,10,50.0,22,25,Stars,7,0/3,7,50.0,33,3,18,Predators,11,0/1
+DAL,FLA,3,14,41.3,14,13,Panthers,8,1/4,15,58.8,18,2,25,Stars,10,0/3
+DAL,CBJ,1,19,34.0,20,29,Blue Jackets,2,0/1,8,66.0,17,4,25,Stars,2,0/1
+DAL,CBJ,1,16,36.1,21,29,Blue Jackets,18,0/1,13,63.9,16,5,25,Stars,4,0/3
+DAL,DET,2,17,42.9,15,17,Red Wings,4,0/1,12,57.1,18,3,25,Stars,2,1/2
+DAL,DET,2,9,55.6,14,17,Red Wings,11,0/2,20,44.4,21,5,25,Stars,11,0/2
+DET,DAL,3,7,50.8,19,25,Stars,2,2/4,20,49.2,22,7,17,Red Wings,8,0/1
+DET,DAL,2,8,61.4,16,25,Stars,2,0/4,18,38.6,15,1,17,Red Wings,8,0/1
+DAL,CAR,3,8,42.1,18,12,Hurricanes,2,0/2,17,57.9,24,4,25,Stars,4,1/1
+DAL,CAR,5,13,45.5,25,12,Hurricanes,6,2/3,17,54.5,19,1,25,Stars,6,0/3
+TBL,DAL,0,8,61.7,30,25,Stars,2,0/2,16,38.3,33,3,14,Lightning,4,0/1
+NSH,DAL,0,15,51.0,17,25,Stars,10,0/1,10,49.0,24,1,18,Predators,8,0/2
+FLA,DAL,4,9,48.3,33,25,Stars,23,1/2,17,51.7,23,5,13,Panthers,9,1/4
+TBL,DAL,2,18,44.2,29,25,Stars,8,0/2,9,55.8,26,6,14,Lightning,4,1/4
+TBL,DAL,5,10,62.5,22,25,Stars,8,0/1,16,37.5,28,2,14,Lightning,2,1/4
+CHI,DAL,2,13,56.5,34,25,Stars,4,0/0,14,43.5,33,4,16,Blackhawks,0,1/2
+CHI,DAL,5,13,56.5,36,25,Stars,8,1/3,19,43.5,35,4,16,Blackhawks,6,0/4

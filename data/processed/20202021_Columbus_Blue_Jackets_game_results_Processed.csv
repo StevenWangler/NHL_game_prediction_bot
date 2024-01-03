@@ -1,0 +1,57 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+NSH,CBJ,1,15,0.54,18,29,Blue Jackets,6,0/2,20,0.46,16,3,18,Predators,4,0/3
+NSH,CBJ,2,17,0.456,11,29,Blue Jackets,6,0/2,10,0.544,16,5,18,Predators,4,0/3
+DET,CBJ,3,11,0.41,11,29,Blue Jackets,24,0/1,15,0.59,14,2,17,Red Wings,22,0/2
+DET,CBJ,2,17,0.35700000000000004,15,29,Blue Jackets,2,0/2,10,0.643,12,3,17,Red Wings,4,1/1
+CBJ,TBL,3,12,0.455,29,14,Lightning,13,0/1,13,0.545,19,2,29,Blue Jackets,7,1/4
+CBJ,TBL,2,8,0.508,24,14,Lightning,4,1/3,9,0.49200000000000005,24,5,29,Blue Jackets,6,0/2
+CBJ,FLA,4,10,0.5,17,13,Panthers,12,0/3,12,0.5,23,3,29,Blue Jackets,6,0/6
+CBJ,FLA,2,10,0.544,18,13,Panthers,10,0/1,13,0.456,27,3,29,Blue Jackets,6,1/3
+CHI,CBJ,2,21,0.426,21,29,Blue Jackets,6,1/2,11,0.574,14,1,16,Blackhawks,4,1/3
+CHI,CBJ,1,15,0.535,39,29,Blue Jackets,6,0/2,15,0.465,30,3,16,Blackhawks,6,0/2
+CBJ,DAL,6,14,0.564,10,25,Stars,6,2/3,7,0.436,12,3,29,Blue Jackets,6,1/3
+CBJ,DAL,3,6,0.491,14,25,Stars,6,1/3,18,0.509,23,4,29,Blue Jackets,6,0/3
+CBJ,CAR,6,9,0.557,23,12,Hurricanes,15,1/2,11,0.44299999999999995,24,5,29,Blue Jackets,9,1/5
+CBJ,CAR,2,12,0.618,21,12,Hurricanes,2,0/1,22,0.382,19,3,29,Blue Jackets,2,0/1
+CHI,CBJ,6,11,0.473,37,29,Blue Jackets,4,2/3,14,0.527,32,5,16,Blackhawks,6,1/2
+CHI,CBJ,2,18,0.353,28,29,Blue Jackets,9,0/1,8,0.647,27,3,16,Blackhawks,7,0/2
+CAR,CBJ,3,10,0.429,28,29,Blue Jackets,4,0/3,11,0.5710000000000001,21,7,12,Hurricanes,6,2/2
+CBJ,NSH,0,6,0.5770000000000001,23,18,Predators,0,0/1,15,0.423,37,3,29,Blue Jackets,2,0/0
+CBJ,NSH,4,6,0.609,24,18,Predators,7,1/4,16,0.391,13,2,29,Blue Jackets,13,0/1
+CBJ,CHI,6,9,0.54,14,16,Blackhawks,10,2/4,17,0.46,13,5,29,Blue Jackets,10,3/4
+CBJ,CHI,2,14,0.33299999999999996,14,16,Blackhawks,4,0/1,13,0.667,26,0,29,Blue Jackets,2,0/2
+NSH,CBJ,1,17,0.491,15,29,Blue Jackets,8,0/3,9,0.509,11,2,18,Predators,6,0/4
+NSH,CBJ,1,8,0.46,12,29,Blue Jackets,12,0/3,10,0.54,10,3,18,Predators,16,1/1
+CBJ,DET,1,12,0.569,23,17,Red Wings,10,1/3,9,0.431,17,4,29,Blue Jackets,6,1/5
+DAL,CBJ,3,19,0.447,13,29,Blue Jackets,4,0/2,13,0.5529999999999999,20,2,25,Stars,4,0/2
+DAL,CBJ,0,16,0.42200000000000004,13,29,Blue Jackets,20,0/3,9,0.578,18,5,25,Stars,16,1/5
+CBJ,FLA,4,11,0.596,26,13,Panthers,6,2/4,16,0.40399999999999997,20,2,29,Blue Jackets,8,0/3
+CBJ,FLA,5,12,0.66,14,13,Panthers,6,1/3,13,0.34,16,4,29,Blue Jackets,6,1/3
+CBJ,DAL,3,12,0.41200000000000003,29,25,Stars,0,0/0,21,0.588,27,4,29,Blue Jackets,0,0/0
+CBJ,DAL,2,13,0.381,18,25,Stars,2,0/1,23,0.619,21,1,29,Blue Jackets,2,0/1
+CAR,CBJ,3,19,0.47600000000000003,32,29,Blue Jackets,6,0/1,13,0.524,24,2,12,Hurricanes,2,1/3
+CAR,CBJ,3,20,0.467,37,29,Blue Jackets,4,0/2,14,0.5329999999999999,26,2,12,Hurricanes,4,0/2
+CBJ,CAR,3,11,0.489,21,12,Hurricanes,6,0/2,12,0.511,33,0,29,Blue Jackets,4,0/3
+CBJ,CAR,4,13,0.544,18,12,Hurricanes,6,0/2,11,0.456,27,3,29,Blue Jackets,4,1/3
+DET,CBJ,1,16,0.479,25,29,Blue Jackets,8,0/2,10,0.521,15,3,17,Red Wings,6,0/3
+DET,CBJ,1,12,0.56,31,29,Blue Jackets,4,0/1,20,0.44,18,4,17,Red Wings,4,0/1
+TBL,CBJ,3,13,0.46299999999999997,23,29,Blue Jackets,2,0/0,6,0.537,27,1,14,Lightning,0,0/1
+TBL,CBJ,2,11,0.511,23,29,Blue Jackets,8,0/1,12,0.489,27,3,14,Lightning,4,1/3
+FLA,CBJ,2,17,0.474,31,29,Blue Jackets,8,0/1,14,0.526,19,5,13,Panthers,2,0/4
+FLA,CBJ,0,15,0.379,29,29,Blue Jackets,2,0/3,18,0.621,17,3,13,Panthers,6,0/1
+CBJ,TBL,2,5,0.484,19,14,Lightning,10,0/4,14,0.516,24,4,29,Blue Jackets,8,1/5
+CBJ,TBL,6,6,0.5670000000000001,15,14,Lightning,19,1/4,12,0.433,23,4,29,Blue Jackets,13,0/2
+CBJ,CHI,4,14,0.542,9,16,Blackhawks,2,1/5,6,0.45799999999999996,12,3,29,Blue Jackets,10,0/1
+CBJ,CHI,4,12,0.5710000000000001,14,16,Blackhawks,0,1/3,9,0.429,20,3,29,Blue Jackets,16,0/0
+DAL,CBJ,1,19,0.34,20,29,Blue Jackets,2,0/1,8,0.66,17,4,25,Stars,2,0/1
+DAL,CBJ,1,16,0.361,21,29,Blue Jackets,18,0/1,13,0.639,16,5,25,Stars,4,0/3
+FLA,CBJ,2,8,0.373,24,29,Blue Jackets,21,0/2,15,0.627,25,4,13,Panthers,31,0/2
+FLA,CBJ,1,6,0.415,29,29,Blue Jackets,9,1/1,7,0.585,27,5,13,Panthers,7,0/2
+TBL,CBJ,1,15,0.345,25,29,Blue Jackets,6,1/1,4,0.655,26,3,14,Lightning,2,0/3
+TBL,CBJ,3,14,0.5,17,29,Blue Jackets,8,0/1,10,0.5,16,4,14,Lightning,2,1/4
+CBJ,DET,0,16,0.52,16,17,Red Wings,6,0/1,6,0.48,11,1,29,Blue Jackets,4,0/2
+CAR,CBJ,1,22,0.358,26,29,Blue Jackets,2,0/2,13,0.642,17,2,12,Hurricanes,4,0/1
+CBJ,NSH,4,11,0.5579999999999999,21,18,Predators,6,1/4,11,0.442,13,3,29,Blue Jackets,8,1/3
+CBJ,NSH,2,11,0.509,17,18,Predators,4,0/1,16,0.491,17,4,29,Blue Jackets,2,1/2
+CBJ,DET,5,11,0.705,13,17,Red Wings,2,1/2,16,0.295,10,2,29,Blue Jackets,4,0/1
+CBJ,DET,4,8,0.46,11,17,Red Wings,0,1/1,10,0.54,20,5,29,Blue Jackets,2,0/0
