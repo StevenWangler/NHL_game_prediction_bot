@@ -18,6 +18,7 @@ def main():
         NHL.get_current_standings()
     )
     general_functions.write_predictions_to_file(predictions)
+    print('Predictions completed!')
 
 if __name__ == '__main__':
     main()

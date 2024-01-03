@@ -28,7 +28,7 @@ def combine_contents_into_message(message):
         base_path = os.getcwd()
 
         # Specify the path to your file
-        file_path = os.path.join(base_path, "src", "gptInstrictions.txt")
+        file_path = os.path.join(base_path, "src", "gptInstructions.txt")
 
         # Open the file in read mode ('r')
         with open(file_path, 'r', encoding="utf-8") as file:
