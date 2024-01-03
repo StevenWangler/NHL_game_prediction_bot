@@ -79,11 +79,14 @@ h1 {
 @media (max-width: 600px) {
     #predictions {
         width: 90%;
+        margin: auto; /* Centers the container within its parent */
     }
 
     .detail-section {
         flex-direction: column;
         gap: 10px;
+        align-items: flex-start; /* Aligns items to the start of the flex container */
+        text-align: left; /* Ensures text within the section is left-aligned */
     }
 }
 
