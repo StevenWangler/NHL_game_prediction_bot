@@ -2,29 +2,29 @@
     {
         "venue": "Capital One Arena",
         "home team name": "WSH",
-        "home team percentage chance of winning": "34.76%",
-        "predicted home team goals": 5,
+        "home team percentage chance of winning": "37.66%",
+        "predicted home team goals": 6,
         "away team name": "NJD",
-        "away team percentage chance of winning": "65.24%",
-        "predicted away team goals": 4,
-        "reason": "The home team have a record of 9-4-0 at home, and the away team have a record of 11-6-0 on the road. The home team are in a 0.0 losing streak.",
-        "key factors": "home record,away record,streak",
+        "away team percentage chance of winning": "62.34%",
+        "predicted away team goals": 3,
+        "reason": "away team precentage chance of winning higher than home team",
+        "key factors": "['away team record on the year', 'away team games played', 'home team losses at home', 'away team losses on the road', 'home team percentage chance of winning', 'away team percentage chance of winning']",
         "confidence rating": "medium",
-        "confidence reason": "The home team is not far off in statistics from the away team, and the game could go either way, although the away team may win if the home team are unable to use the home field advantage.",
-        "opposition": "The away team might win because they are higher in the standings compared to the home team."
+        "confidence reason": "away team percentage chance of winning higher than home team",
+        "opposition": "The home team could win as they have a higher number of total wins, losing less than the away team on the road."
     },
     {
         "venue": "Honda Center",
         "home team name": "ANA",
-        "home team percentage chance of winning": "32.66%",
-        "predicted home team goals": "3",
+        "home team percentage chance of winning": "18.9%",
+        "predicted home team goals": 5,
         "away team name": "TOR",
-        "away team percentage chance of winning": "67.34%",
-        "predicted away team goals": "5",
-        "reason": "The away team has a higher win percentage in the last 10 games and has a better win/loss ratio on the season. The home team has a few more goals than the away team but the away team still has a small edge in this matchup.",
-        "key factors": "goalie win percentage",
+        "away team percentage chance of winning": "81.1%",
+        "predicted away team goals": 6,
+        "reason": "away team percentage chance of winning is higher and they won in their last game",
+        "key factors": "away team average goal differential percentage is 0.257143 and home team average goal differential percentage is -0.805556",
         "confidence rating": "high",
-        "confidence reason": "The home team has a streak of L and the away team has a W. The away team has a win percentage of 0.4 when the home team has a win percentage of 0.36. This helps solidify my confidence in this prediction.",
-        "opposition": "The away team may struggle as the home team could be difficult for them to win with the slightly better goal differential. But overall, I still think the away team will take the win."
+        "confidence reason": "The away team has a high average goal differential percentage and the home team has a low average goal differential percentage",
+        "opposition": "In this case, the away team is less likely to win"
     }
 ]
