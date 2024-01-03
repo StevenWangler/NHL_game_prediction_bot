@@ -1,13 +1,30 @@
 [
     {
-        "venue": "T-Mobile Park",
-        "home team name": "SEA",
-        "home team percentage chance of winning": 0.4427607514850569,
-        "predicted home team goals": 2.0,
-        "away team name": "VGK",
-        "away team percentage chance of winning": 0.557239248514943,
-        "predicted away team goals": 3.0,
-        "reason": "The away team is expected to win because they have a more wins than the home team. The home team SEA has had 14 wins, 14 losses, 9 Overtime losses overall, while the away team VGK 22 wins, 10 losses, 5 Overtime losses overall.",
-        "confidence rating": "low"
+        "venue": "Capital One Arena",
+        "home team name": "WSH",
+        "home team percentage chance of winning": "34.5%",
+        "predicted home team goals": 2,
+        "away team name": "NJD",
+        "away team percentage chance of winning": "65.5%",
+        "predicted away team goals": 1,
+        "reason": "WSH is at 34.5% after considering the venue, they are facing the away team and have a season goal differential of -17. The away team has a season goal differential of -4 and is on a L streak of length 1.",
+        "key factors": "The key factors are the away/home team, percentage chance of winning, and venue. Away team is facing a home team and has 65.5% chance of winning. Venue is a big factor especially considering how far the away team has to travel.",
+        "confidence rating": "high",
+        "confidence reason": "The percent difference between the two teams is high at 31.0%, this is a high confidence rating.",
+        "opposition": "The game could go the opposite because the percentage difference is quite large. But chances are closer to 35%."
+    },
+    {
+        "venue": "Honda Center",
+        "home team name": "ANA",
+        "home team percentage chance of winning": "48.4%",
+        "predicted home team goals": "6",
+        "away team name": "TOR",
+        "away team percentage chance of winning": "51.6%",
+        "predicted away team goals": "1",
+        "reason": "TOR is very focused on neutralizing the opponent while on the road. In order to avoid a loss here, they must shut down ANA the best they can in the defensive and neutral zones.",
+        "key factors": "The win streak of both teams will play a major role. The goal differential is another key point. The team with the higher goal differential has a better chance to win.",
+        "confidence rating": "low",
+        "confidence reason": "The teams are closely matched so the low confidence is warranted",
+        "opposition": "The win streaks of both teams are almost equal and it is difficult to determine which team will be persistent enough to pull off the win here. However, ANA is minus over 50 goal differential so the upset could happen."
     }
 ]

@@ -1,0 +1,98 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+TOR,OTT,1,0,0.0,0,9,Senators,4,0/2,0,0.0,0,4,10,Maple Leafs,14,1/2
+OTT,TOR,4,10,57.7,21,10,Maple Leafs,8,0/2,10,42.3,29,1,9,Senators,6,1/3
+TOR,BUF,3,14,38.6,23,7,Sabres,2,0/3,15,61.4,25,5,10,Maple Leafs,6,0/1
+BUF,TOR,3,14,41.8,9,10,Maple Leafs,18,1/2,14,58.2,24,2,7,Sabres,14,1/4
+TOR,MTL,5,13,37.5,35,8,Canadiens,10,0/4,11,62.5,31,1,10,Maple Leafs,10,0/4
+MTL,TOR,5,13,54.5,16,10,Maple Leafs,10,2/6,15,45.5,23,3,8,Canadiens,14,2/4
+TOR,DET,2,14,51.7,40,17,Red Wings,34,1/4,15,48.3,22,6,10,Maple Leafs,30,3/6
+DET,TOR,1,6,58.2,17,10,Maple Leafs,13,0/6,14,41.8,21,5,17,Red Wings,19,3/3
+TOR,MTL,2,16,41.3,34,8,Canadiens,6,1/4,24,58.7,18,3,10,Maple Leafs,8,1/3
+TOR,OTT,5,27,49.3,26,9,Senators,4,0/2,8,50.7,30,3,10,Maple Leafs,4,1/2
+CHI,TOR,7,29,50.0,23,10,Maple Leafs,6,1/2,14,50.0,23,6,16,Blackhawks,4,0/3
+DAL,TOR,7,11,47.5,12,10,Maple Leafs,2,2/3,15,52.5,23,4,25,Stars,6,1/1
+DET,TOR,5,11,50.0,17,10,Maple Leafs,13,2/4,7,50.0,23,3,17,Red Wings,15,0/3
+WSH,TOR,4,19,46.9,14,10,Maple Leafs,6,1/3,18,53.1,28,2,15,Capitals,6,1/3
+TOR,LAK,1,21,51.7,29,26,Kings,4,0/3,21,48.3,26,4,10,Maple Leafs,6,1/2
+TOR,PIT,3,22,44.6,30,5,Penguins,2,1/2,7,55.4,21,0,10,Maple Leafs,4,0/1
+TOR,STL,4,23,53.3,33,19,Blues,8,0/4,14,46.7,22,1,10,Maple Leafs,8,0/4
+WPG,TOR,4,16,45.3,8,10,Maple Leafs,6,0/1,16,54.7,21,2,52,Jets,2,1/3
+TOR,WPG,2,16,52.5,27,52,Jets,8,1/2,8,47.5,20,3,10,Maple Leafs,6,0/3
+TOR,CGY,3,13,50.8,22,20,Flames,8,1/3,10,49.2,31,1,10,Maple Leafs,8,1/3
+TOR,DAL,2,13,63.0,34,25,Stars,10,0/2,9,37.0,18,1,10,Maple Leafs,4,1/5
+PIT,TOR,5,12,56.3,25,10,Maple Leafs,10,1/3,13,43.8,46,0,5,Penguins,6,0/5
+TOR,VGK,1,11,39.0,23,54,Golden Knights,2,0/3,20,61.0,25,3,10,Maple Leafs,6,0/1
+TOR,NJD,1,16,39.7,39,1,Devils,8,0/3,16,60.3,23,6,10,Maple Leafs,6,0/4
+BOS,TOR,1,12,47.1,20,10,Maple Leafs,8,0/3,12,52.9,22,5,6,Bruins,6,2/4
+LAK,TOR,5,15,48.2,8,10,Maple Leafs,4,3/6,15,51.8,12,1,26,Kings,12,0/2
+SJS,TOR,5,10,62.1,19,10,Maple Leafs,12,0/3,20,37.9,32,3,28,Sharks,12,1/3
+ANA,TOR,2,18,47.5,11,10,Maple Leafs,2,0/2,19,52.5,16,1,24,Ducks,4,0/1
+TOR,CBJ,2,15,41.5,24,29,Blue Jackets,0,0/0,8,58.5,17,4,10,Maple Leafs,0,0/0
+CAR,TOR,2,12,56.3,22,10,Maple Leafs,4,0/2,15,43.8,32,5,12,Hurricanes,6,1/1
+CBJ,TOR,2,8,46.2,13,10,Maple Leafs,4,0/3,15,53.8,21,4,29,Blue Jackets,6,0/2
+TOR,PHI,0,17,58.7,27,4,Flyers,0,0/0,10,41.3,4,6,10,Maple Leafs,0,0/0
+TOR,BOS,2,17,43.1,19,6,Bruins,2,1/2,22,56.9,23,4,10,Maple Leafs,4,1/1
+TOR,SJS,3,8,40.0,17,28,Sharks,8,2/3,18,60.0,15,5,10,Maple Leafs,6,3/4
+MIN,TOR,5,16,53.2,8,10,Maple Leafs,6,1/1,12,46.8,20,3,30,Wild,2,0/3
+BUF,TOR,4,11,56.1,11,10,Maple Leafs,4,0/2,22,43.9,14,3,7,Sabres,4,0/2
+TOR,DET,5,30,41.5,21,17,Red Wings,8,0/2,12,58.5,14,4,10,Maple Leafs,4,0/4
+BOS,TOR,3,8,52.9,21,10,Maple Leafs,40,1/2,13,47.1,24,6,6,Bruins,58,1/4
+CAR,TOR,4,19,42.6,16,10,Maple Leafs,10,0/4,17,57.4,24,1,12,Hurricanes,8,1/5
+TBL,TOR,1,16,54.4,19,10,Maple Leafs,8,0/6,23,45.6,27,4,14,Lightning,14,1/3
+FLA,TOR,3,12,50.8,12,10,Maple Leafs,10,0/4,22,49.2,24,4,13,Panthers,20,2/4
+NJD,TOR,7,9,47.5,6,10,Maple Leafs,6,0/3,6,52.5,14,2,1,Devils,6,0/3
+TOR,FLA,1,22,49.1,30,13,Panthers,6,1/3,13,50.9,9,6,10,Maple Leafs,6,3/3
+TOR,NYR,3,15,37.3,27,3,Rangers,4,0/2,12,62.7,13,5,10,Maple Leafs,4,0/2
+TOR,DET,4,9,51.9,29,17,Red Wings,4,0/3,8,48.1,13,5,10,Maple Leafs,6,0/2
+CBJ,TOR,4,17,58.1,8,10,Maple Leafs,6,1/2,12,41.9,24,2,29,Blue Jackets,6,0/2
+TOR,NYI,4,19,41.3,23,2,Islanders,4,1/3,11,58.7,15,0,10,Maple Leafs,6,0/2
+TOR,MIN,4,18,37.7,16,30,Wild,10,0/1,13,62.3,17,3,10,Maple Leafs,4,0/4
+TOR,VAN,0,19,39.3,26,23,Canucks,0,0/3,18,60.7,21,5,10,Maple Leafs,6,0/0
+TOR,NSH,4,23,54.3,31,18,Predators,6,1/2,15,45.7,18,0,10,Maple Leafs,4,0/3
+NJD,TOR,4,8,47.4,9,10,Maple Leafs,8,0/1,9,52.6,15,2,1,Devils,6,0/2
+TOR,BOS,3,20,48.3,29,6,Bruins,4,0/2,11,51.7,28,2,10,Maple Leafs,4,1/2
+TOR,COL,6,14,38.9,25,21,Avalanche,6,0/2,14,61.1,13,3,10,Maple Leafs,6,0/2
+TBL,TOR,4,21,44.3,17,10,Maple Leafs,8,0/2,8,55.7,30,2,14,Lightning,4,1/4
+FLA,TOR,1,8,54.7,21,10,Maple Leafs,6,0/1,11,45.3,26,3,13,Panthers,2,0/3
+TOR,ARI,4,30,38.0,24,53,Coyotes,2,0/4,11,62.0,19,2,10,Maple Leafs,8,0/1
+TOR,WSH,3,22,35.6,32,15,Capitals,2,1/1,9,64.4,15,6,10,Maple Leafs,2,1/1
+DET,TOR,2,8,47.2,13,10,Maple Leafs,8,0/5,13,52.8,16,3,17,Red Wings,10,1/4
+TOR,PIT,2,22,41.7,29,5,Penguins,4,1/1,19,58.3,22,3,10,Maple Leafs,2,0/2
+TOR,ANA,1,20,41.2,36,24,Ducks,6,0/1,11,58.8,11,6,10,Maple Leafs,2,1/3
+TOR,OTT,4,21,59.3,27,9,Senators,2,0/2,13,40.7,13,5,10,Maple Leafs,4,0/1
+MTL,TOR,4,27,56.1,16,10,Maple Leafs,10,0/3,14,43.9,49,3,8,Canadiens,6,1/5
+NYR,TOR,1,8,61.1,14,10,Maple Leafs,7,0/4,18,38.9,29,4,3,Rangers,13,0/1
+COL,TOR,5,20,46.4,20,10,Maple Leafs,6,3/6,11,53.6,19,2,21,Avalanche,12,0/3
+VGK,TOR,6,16,47.1,18,10,Maple Leafs,6,2/6,15,52.9,38,3,54,Golden Knights,12,0/3
+ARI,TOR,0,17,46.2,24,10,Maple Leafs,2,0/4,27,53.8,25,2,53,Coyotes,8,0/1
+STL,TOR,2,10,52.1,13,10,Maple Leafs,6,0/0,17,47.9,10,3,19,Blues,0,1/3
+TOR,WSH,3,21,32.1,35,15,Capitals,6,1/3,12,67.9,17,2,10,Maple Leafs,8,0/2
+TOR,MTL,3,19,55.1,27,8,Canadiens,4,1/4,20,44.9,15,6,10,Maple Leafs,8,2/2
+TOR,BUF,3,15,45.6,35,7,Sabres,2,2/5,20,54.4,29,5,10,Maple Leafs,10,0/1
+TOR,EDM,2,17,37.3,33,22,Oilers,10,1/2,14,62.7,17,6,10,Maple Leafs,4,3/5
+NYI,TOR,1,7,43.8,22,10,Maple Leafs,2,0/2,17,56.3,39,6,2,Islanders,4,0/1
+TOR,BUF,2,17,36.4,27,7,Sabres,9,0/2,13,63.6,27,5,10,Maple Leafs,9,0/2
+CGY,TOR,6,20,51.6,13,10,Maple Leafs,2,1/2,16,48.4,15,2,20,Flames,4,1/1
+VAN,TOR,2,24,43.1,14,10,Maple Leafs,8,0/2,19,56.9,22,3,23,Canucks,4,1/4
+EDM,TOR,3,12,58.8,21,10,Maple Leafs,8,1/2,15,41.2,23,2,22,Oilers,4,0/4
+TOR,TBL,6,8,45.3,20,14,Lightning,4,0/1,7,54.7,14,2,10,Maple Leafs,2,0/2
+TOR,CHI,5,28,44.1,10,16,Blackhawks,2,0/0,9,55.9,15,4,10,Maple Leafs,0,1/1
+TOR,PHI,6,26,43.1,13,4,Flyers,10,0/2,8,56.9,11,7,10,Maple Leafs,6,1/4
+OTT,TOR,2,12,60.3,29,10,Maple Leafs,8,1/3,22,39.7,25,6,9,Senators,6,0/4
+NSH,TOR,0,11,44.7,11,10,Maple Leafs,2,0/3,18,55.3,18,3,18,Predators,6,0/1
+BUF,TOR,4,10,54.5,7,10,Maple Leafs,4,0/3,14,45.5,26,2,7,Sabres,6,1/2
+TOR,NYR,2,33,39.7,28,3,Rangers,6,0/3,13,60.3,16,1,10,Maple Leafs,6,0/3
+TOR,FLA,5,17,44.6,21,13,Panthers,8,1/3,15,55.4,25,7,10,Maple Leafs,8,1/3
+PHI,TOR,4,9,52.5,20,10,Maple Leafs,2,0/2,17,47.5,20,5,4,Flyers,4,0/1
+OTT,TOR,2,13,62.3,29,10,Maple Leafs,16,1/3,23,37.7,26,4,9,Senators,16,1/3
+NYI,TOR,2,19,53.2,21,10,Maple Leafs,8,0/2,11,46.8,25,1,2,Islanders,4,1/4
+TOR,CAR,4,16,41.0,23,12,Hurricanes,10,1/1,15,59.0,22,1,10,Maple Leafs,6,1/3
+TOR,TBL,3,14,54.5,28,14,Lightning,4,0/1,10,45.5,26,1,10,Maple Leafs,2,0/2
+MTL,TOR,5,11,43.6,8,10,Maple Leafs,2,0/1,21,56.4,25,6,8,Canadiens,2,1/1
+BOS,TOR,4,14,50.0,33,10,Maple Leafs,4,0/1,11,50.0,31,1,6,Bruins,2,1/2
+BOS,TOR,1,9,55.3,39,10,Maple Leafs,21,0/3,8,44.7,44,4,6,Bruins,8,1/4
+TOR,BOS,2,14,44.4,33,6,Bruins,6,1/3,17,55.6,42,3,10,Maple Leafs,6,2/3
+TOR,BOS,6,25,58.9,35,6,Bruins,6,2/2,12,41.1,37,4,10,Maple Leafs,4,1/3
+BOS,TOR,2,9,35.5,26,10,Maple Leafs,6,0/1,13,64.5,29,1,6,Bruins,2,0/3
+TOR,BOS,4,15,51.7,34,6,Bruins,6,2/2,19,48.3,40,2,10,Maple Leafs,4,0/3
+BOS,TOR,1,4,50.0,32,10,Maple Leafs,0,0/2,17,50.0,26,5,6,Bruins,4,0/0

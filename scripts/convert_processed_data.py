@@ -22,7 +22,7 @@ import os
 CSV_DIRECTORY = 'data/processed/'
 JSONL_DIRECTORY = 'data/training_data/'
 
-# Convert each CSV file to JSONL
+print('Starting to convert the processed data')
 for file_name in os.listdir(CSV_DIRECTORY):
     if file_name.endswith('.csv'):
         csv_file_path = os.path.join(CSV_DIRECTORY, file_name)
@@ -31,11 +31,17 @@ for file_name in os.listdir(CSV_DIRECTORY):
         with open(csv_file_path, 'r', encoding="utf-8") as csv_file, open(jsonl_file_path, 'w', encoding="utf-8") as jsonl_file:
             csv_reader = csv.DictReader(csv_file)
             for row in csv_reader:
-                # Create the "prompt" from the CSV row data
-                prompt = {key: row[key] for key in row if key not in ['home_goals', 'away_goals']}
-                # Create the "completion" with the desired outcome, e.g., home or away team win
-                home_goals = int(row['home_goals'])
-                away_goals = int(row['away_goals'])
-                COMPLETION = 'Home team win' if home_goals > away_goals else 'Away team win'
+                # Include 'home_goals' and 'away_away_goals' in the prompt
+                prompt = {key: row[key] for key in row}  # No longer excluding home and away goals
+
+                # Convert 'home_goals' and 'away_away_goals' to integers
+                HOME_GOALS = int(float(row['home_goals']))
+                AWAY_GOALS = int(float(row['away_away_goals']))
+
+                # Determine the completion based on goals comparison
+                COMPLETION = 'The home team has won this game due to the statistical advantages found in the data.' if HOME_GOALS > AWAY_GOALS else 'The away team has won due to the statistical advantages found in the data.'
+
                 # Write the JSON object to the JSONL file
                 jsonl_file.write(json.dumps({'prompt': prompt, 'completion': COMPLETION}) + '\n')
+
+print('processing complete!')

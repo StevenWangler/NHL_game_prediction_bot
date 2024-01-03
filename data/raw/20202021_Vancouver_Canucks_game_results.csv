@@ -1,0 +1,57 @@
+abbrev,away_abbrev,away_away_goals,away_blocks,away_faceoffWinningPctg,away_hits,away_id,away_name,away_pim,away_powerPlayConversion,blocks,faceoffWinningPctg,hits,home_goals,id,name,pim,powerPlayConversion
+EDM,VAN,5,14,48.2,19,23,Canucks,8,0/2,17,51.8,18,3,22,Oilers,4,0/4
+EDM,VAN,2,10,53.6,24,23,Canucks,18,0/5,29,46.4,37,5,22,Oilers,20,2/4
+CGY,VAN,0,11,60.0,11,23,Canucks,12,0/4,14,40.0,16,3,20,Flames,8,3/6
+CGY,VAN,2,12,46.9,14,23,Canucks,14,0/4,8,53.1,10,5,20,Flames,8,2/7
+VAN,MTL,5,15,53.6,38,8,Canadiens,12,1/1,12,46.4,34,6,23,Canucks,2,3/6
+VAN,MTL,7,5,50.8,17,8,Canadiens,12,1/9,18,49.2,24,3,23,Canucks,26,1/5
+VAN,MTL,5,12,39.3,20,8,Canadiens,23,0/3,18,60.7,32,2,23,Canucks,23,0/3
+VAN,OTT,1,11,36.4,23,9,Senators,16,0/5,14,63.6,29,7,23,Canucks,22,0/2
+VAN,OTT,1,13,50.0,25,9,Senators,6,1/4,11,50.0,16,5,23,Canucks,8,1/3
+VAN,OTT,1,11,45.5,36,9,Senators,15,0/5,19,54.5,22,4,23,Canucks,17,1/4
+WPG,VAN,4,12,55.0,14,23,Canucks,6,0/3,12,45.0,10,1,52,Jets,10,0/1
+MTL,VAN,2,9,49.1,30,23,Canucks,6,0/3,13,50.9,26,6,8,Canadiens,6,1/3
+MTL,VAN,3,13,48.6,26,23,Canucks,8,1/3,11,51.4,20,5,8,Canadiens,6,0/4
+TOR,VAN,3,8,43.9,27,23,Canucks,15,1/3,6,56.1,15,7,10,Maple Leafs,11,1/5
+TOR,VAN,1,10,46.4,25,23,Canucks,8,1/4,15,53.6,16,5,10,Maple Leafs,8,1/4
+TOR,VAN,1,8,50.0,31,23,Canucks,4,1/4,12,50.0,21,3,10,Maple Leafs,8,0/2
+VAN,CGY,3,10,57.1,21,20,Flames,10,0/3,8,42.9,12,1,23,Canucks,8,0/4
+VAN,CGY,1,19,45.3,20,20,Flames,2,0/3,12,54.7,19,3,23,Canucks,6,0/1
+VAN,CGY,4,13,39.0,20,20,Flames,14,1/4,16,61.0,15,3,23,Canucks,10,2/6
+CGY,VAN,5,13,64.6,14,23,Canucks,4,0/1,8,35.4,20,1,20,Flames,2,0/2
+VAN,WPG,2,18,53.2,19,52,Jets,16,0/2,6,46.8,24,0,23,Canucks,16,0/2
+VAN,WPG,4,19,42.4,25,52,Jets,13,1/3,10,57.6,17,3,23,Canucks,11,1/4
+VAN,EDM,4,18,42.2,29,22,Oilers,4,1/4,15,57.8,19,3,23,Canucks,8,0/2
+VAN,EDM,3,21,56.9,17,22,Oilers,8,2/5,16,43.1,17,0,23,Canucks,10,0/4
+WPG,VAN,4,15,46.3,12,23,Canucks,2,1/2,6,53.7,23,0,52,Jets,4,0/1
+WPG,VAN,2,15,57.7,11,23,Canucks,6,1/2,13,42.3,24,5,52,Jets,4,1/3
+VAN,TOR,1,13,46.0,18,10,Maple Leafs,2,0/2,18,54.0,20,3,23,Canucks,4,1/1
+VAN,TOR,2,14,43.9,14,10,Maple Leafs,4,0/1,22,56.1,20,4,23,Canucks,2,2/2
+VAN,MTL,1,10,42.1,24,8,Canadiens,6,1/2,22,57.9,17,2,23,Canucks,4,0/3
+VAN,MTL,5,10,42.4,24,8,Canadiens,11,1/5,19,57.6,18,1,23,Canucks,15,1/3
+VAN,EDM,1,19,40.4,17,22,Oilers,4,1/4,25,59.6,24,2,23,Canucks,8,1/2
+OTT,VAN,3,14,50.0,11,23,Canucks,8,0/1,14,50.0,28,2,9,Senators,2,0/4
+OTT,VAN,3,21,60.4,30,23,Canucks,4,0/2,9,39.6,36,2,9,Senators,4,0/2
+MTL,VAN,3,20,33.9,11,23,Canucks,8,0/2,10,66.1,27,2,8,Canadiens,4,2/4
+MTL,VAN,4,21,47.2,26,23,Canucks,2,1/1,14,52.8,28,5,8,Canadiens,2,1/1
+VAN,WPG,4,15,53.6,15,52,Jets,2,0/1,20,46.4,19,0,23,Canucks,2,0/1
+VAN,WPG,5,20,46.3,17,52,Jets,9,2/3,9,53.7,20,1,23,Canucks,11,0/2
+VAN,TOR,2,13,53.1,13,10,Maple Leafs,2,1/4,23,46.9,11,3,23,Canucks,19,0/1
+VAN,TOR,3,12,45.5,21,10,Maple Leafs,4,1/2,14,54.5,11,6,23,Canucks,4,1/2
+VAN,OTT,3,19,35.5,28,9,Senators,17,2/4,13,64.5,24,0,23,Canucks,27,0/4
+VAN,OTT,2,9,31.5,17,9,Senators,13,0/6,19,68.5,19,4,23,Canucks,17,1/4
+OTT,VAN,1,14,58.7,25,23,Canucks,7,0/1,11,41.3,34,2,9,Senators,7,0/1
+OTT,VAN,3,15,48.0,23,23,Canucks,16,0/2,12,52.0,21,6,9,Senators,14,0/3
+TOR,VAN,1,15,55.3,19,23,Canucks,5,1/2,16,44.7,18,4,10,Maple Leafs,9,0/0
+TOR,VAN,1,6,58.3,23,23,Canucks,2,0/1,13,41.7,25,5,10,Maple Leafs,2,0/1
+VAN,EDM,5,17,48.2,13,22,Oilers,2,0/1,17,51.8,19,3,23,Canucks,2,0/1
+VAN,EDM,4,15,51.0,15,22,Oilers,8,2/3,16,49.0,14,1,23,Canucks,6,0/4
+EDM,VAN,6,12,53.4,23,23,Canucks,20,0/4,5,46.6,26,3,22,Oilers,18,1/5
+EDM,VAN,3,17,47.1,13,23,Canucks,8,0/5,15,52.9,18,4,22,Oilers,10,2/4
+WPG,VAN,3,18,35.5,17,23,Canucks,6,0/1,13,64.5,25,1,52,Jets,2,0/3
+WPG,VAN,0,15,47.9,18,23,Canucks,6,0/2,5,52.1,22,5,52,Jets,6,0/2
+CGY,VAN,1,12,61.4,11,23,Canucks,8,0/1,8,38.6,7,4,20,Flames,2,1/4
+EDM,VAN,4,6,44.9,14,23,Canucks,6,0/2,16,55.1,20,1,22,Oilers,4,0/3
+VAN,CGY,6,14,49.3,13,20,Flames,15,0/6,19,50.7,8,5,23,Canucks,29,2/4
+VAN,CGY,2,8,52.5,17,20,Flames,11,0/3,10,47.5,8,4,23,Canucks,11,0/3
+CGY,VAN,2,8,47.5,9,23,Canucks,6,1/5,9,52.5,6,6,20,Flames,14,0/2
