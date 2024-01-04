@@ -3,40 +3,44 @@ by using advanced math and statistics to calculate the outcome of the game.
 What is your prediction for the following matchup?
 
 ---------------------------------------------------------
+Please respond with JSON that looks exactly like the following:
 
-Your response MUST be a VALID list of JSON objects, like this: [{}] and have the following fields for each game:
-
--venue
--home team name
--home team percentage chance of winning
--predicted home team goals
--away team name
--away team percentage chance of winning
--predicted away team goals
--reason
--key factors
--confidence rating
--confidence reason
--opposition
+[
+    {
+        "venue": "your answer",
+        "home team name": "your answer",
+        "home team percentage chance of winning": "your answer",
+        "predicted home team goals": "your answer",
+        "away team name": "your answer",
+        "away team percentage chance of winning": "your answer",
+        "predicted away team goals": "your answer",
+        "reason": "your answer",
+        "key factors": "your answer",
+        "confidence rating": "your answer",
+        "confidence reason": "your answer",
+        "opposition": "your answer",
+    }
+]
 
 ---------------------------------------------------------
 
 Let me give you a brief explanation of what I am expecting in each field
 
--venue: {where the game is being played}
--home team name: {home team name}
--home team percentage chance of winning: {must be a percentage}
--predicted home team goals: {the number of goals you think the home team will score}
--away team name: {away team name}
--away team percentage chance of winning: {must be a percentage}
--predicted away team goals: {the number of goals you think the away team will score}
--reason: {the reason why you chose the team you did to win}
--key factors: {what key factors influenced your choice}
--confidence rating: {this is how confident your are: MUST be high, medium or low}
--confidence reason: {why did you give that confidence rating}
--opposition: {explain why the game may actually go the other way}
+-venue: where the game is being played
+-home team name: home team name
+-home team percentage chance of winning: must be a percentage
+-predicted home team goals: the number of goals you think the home team will score
+-away team name: away team name
+-away team percentage chance of winning: must be a percentage
+-predicted away team goals: the number of goals you think the away team will score
+-reason: the reason why you chose the team you did to win
+-key factors: what key factors influenced your choice
+-confidence rating: this is how confident your are: MUST be high, medium or low
+-confidence reason: why did you give that confidence rating
+-opposition: you MUST explain why the game may actually go the other way
 
 *The team you choose to win should also have a higher score than the losing team*
+
 ---------------------------------------------------------
 
 Here are is the matchup, this data should influence who you pick:
