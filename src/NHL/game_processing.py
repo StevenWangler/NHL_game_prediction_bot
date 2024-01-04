@@ -4,6 +4,7 @@ Module: game_predictions.py
 This module provides functions for generating game predictions based on current team 
 standings and game information.
 """
+import datetime
 from openai_actions import openai_formatting as ai_formatting
 from openai_actions import openai_calls
 
@@ -87,7 +88,8 @@ def generate_game_prediction_message(game, teams_info):
             awayLossesRoad=away_team_data['roadLosses'],
             awayStreakType=away_team_data['streakCode'],
             awayStreakLength=away_team_data['streakCount'],
-            venue=game['venue']
+            venue=game['venue'],
+            gameDate = datetime.date.today().strftime("%Y-%m-%d")
         )
         return formatted_text_from_file
     except Exception as ex:
