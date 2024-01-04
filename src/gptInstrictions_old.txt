@@ -5,7 +5,7 @@ guess based on those factors. You MUST select a winner, there are NO ties in NHL
 In addition, I want you to provide a confidence rating for your prediction. If you're very confident it's "high" if you're
 kind of confident it's "medium" and if you're not confident, it's "low"
 
-Your response MUST be a list of JSON objects and have the following fields for each game:
+Your response MUST be a valid JSON array [{}] and have the following fields for each game:
 
 -venue
 -home team name
