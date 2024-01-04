@@ -59,9 +59,6 @@ function displayPredictions(predictions) {
                 <p><strong>Predicted Score:</strong> ${prediction['home team name']} ${predictedHomeGoals} - ${prediction['away team name']} ${predictedAwayGoals}</p>
             </div>
             <div class="reason-section">
-                <p class="reason"><strong>Reason:</strong> ${prediction.reason ? prediction.reason : 'N/A'}</p>
-            </div>
-            <div class="reason-section">
                 <p class="reason"><strong>Key Factors:</strong> ${prediction['key factors'] ? prediction['key factors'] : 'N/A'}</p>
             </div>
             <div class="reason-section">
