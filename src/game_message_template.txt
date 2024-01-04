@@ -34,3 +34,4 @@ Away team current streak length: {awayStreakLength}
 
 -------------------------------------------
 Venue: {venue}
+Game Date: {gameDate}
