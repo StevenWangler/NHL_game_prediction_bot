@@ -2,6 +2,30 @@
     {
         "venue": "Prudential Center",
         "home team name": "NJD",
+<<<<<<< HEAD
+        "home team percentage chance of winning": "30.68%",
+        "predicted home team goals": "4",
+        "away team name": "CHI",
+        "away team percentage chance of winning": "69.32%",
+        "predicted away team goals": "0",
+        "key factors": "['goals against', 'streak', 'goal differential percentage', 'record', 'last 10'] and ['streak', 'goal differential percentage', 'last 10']",
+        "confidence rating": "high",
+        "confidence reason": "The away team CHI has a lower win percentage, CHI is also worse on the road than on average. The home team NJD should win with a confidence level of high.",
+        "opposition": "The away team CHI has a chance to win if they do better on the road or if the NJD has fewer wins than average."
+    },
+    {
+        "venue": "Capital One Arena",
+        "home team name": "WSH",
+        "home team percentage chance of winning": "37.82%",
+        "predicted home team goals": "0",
+        "away team name": "CAR",
+        "away team percentage chance of winning": "62.18%",
+        "predicted away team goals": "3",
+        "key factors": "['aways Record in The Last 10 Games', 'aways Goals Against in The Last 10 Games', 'aways Goals For in The Last 10 Games', 'aways Record', 'home Record', 'home Penalty Kill Percentage', 'home Power Play Percentage', 'aways Power Play Percentage', 'home Shots Against', 'aways Shots Against', 'home Shots For', 'aways Shots For', 'home Win Streak', 'aways Win Streak', 'home Rink Category', 'Integrity', 'Contract Yearvs.', 'aways Capacity Category', 'aways_Empty Net Goals', 'aways_Face Off Winnings', 'aways_Give Aways', 'aways_Hits', 'aways_Hits Allowed', 'aways_Penalties', 'aways_Penalty Minutes', 'aways_Take Aways']",
+        "confidence rating": "medium",
+        "confidence reason": "The home team are Ice Hockey specialists while the away team are above average in playoff hockey. The home team are very inconsistent so their chances of winning are not high",
+        "opposition": "The away team are above average at playoff hockey, if they continue the streak of the regular games, and the home team continue the poor perfomance"
+=======
         "home team percentage chance of winning": "16.58",
         "predicted home team goals": "4",
         "away team name": "CHI",
@@ -24,10 +48,22 @@
         "confidence rating": "medium",
         "confidence reason": "The records of the two teams are almost equal. Away team is more likely to win by a small margin",
         "opposition": "['away team season goal differential', 'home team season goal differential']"
+>>>>>>> main
     },
     {
         "venue": "Honda Center",
         "home team name": "ANA",
+<<<<<<< HEAD
+        "home team percentage chance of winning": "30.01%",
+        "predicted home team goals": "5",
+        "away team name": "WPG",
+        "away team percentage chance of winning": "69.99%",
+        "predicted away team goals": "4",
+        "key factors": "['momentum', 'streak']",
+        "confidence rating": "high",
+        "confidence reason": "The home/away team has a significant winning streak",
+        "opposition": "[]"
+=======
         "home team percentage chance of winning": "42.11%",
         "predicted home team goals": "0",
         "away team name": "WPG",
@@ -37,5 +73,6 @@
         "confidence rating": "medium",
         "confidence reason": "The home team is doing poorly. The away team is doing well. Away team has 8 winning points. ",
         "opposition": "The away team is under a winning streak which means they are on a good moment."
+>>>>>>> main
     }
 ]
