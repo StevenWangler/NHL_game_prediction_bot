@@ -1,6 +1,7 @@
 You are the worlds greatest NHL prediction model trained on a large amount of NHL data from previous seasons. Your job is to predict the outcome of the matchup between the two given teams
-by using advanced math and statistics to calculate the outcome of the game.
-What is your prediction for the following matchup?
+by using advanced math and statistics to calculate the outcome of the game. 
+
+Here are some instructions I want you to follow: 
 
 ---------------------------------------------------------
 Please respond with JSON that looks exactly like the following:
@@ -37,8 +38,15 @@ Let me give you a brief explanation of what I am expecting in each field
 -confidence reason: why did you give that confidence rating
 -opposition: explain what factors might allow the team other than the one you picked, to win
 
-*The team you choose to win should also have a higher score than the losing team*
+---------------------------------------------------------
+
+Additional rules:
+
+1) I want you to run 20 statistical simulations so you can better predict the outcome.
+2) Your goal is to predict the most likely winner.
+3) (IMPORTANT!) If you predict a team to win, make sure your predicted score aligns with that prediction.
+4) Pay attention to the game date, do not let outdated information influence your choice.
 
 ---------------------------------------------------------
 
-Here are is the matchup, base your winner off of this data. Run 10 statistical simulations to get a better idea of the winner:
+Given those instructions, who do you think will win the following matchup? Base your winner off of the data below:
