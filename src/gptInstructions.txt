@@ -47,8 +47,17 @@ Let me give you a brief explanation of what I am expecting in each field
 -confidence rating: this is how confident your are: MUST be high, medium or low
 -confidence reason: why did you give that confidence rating
 -opposition: explain what factors might allow the team other than the one you picked, to win
-simulation results: you ran 20 simulations, what was the record for the home and away team? like this:
+-simulation results: you ran 20 simulations, what was the record for the home and away team? like this:
     Home: 7 wins | Away: 13 wins (20 simulations total)
+
+---------------------------------------------------------
+
+Additional rules:
+
+1) I want you to run 20 statistical simulations so you can better predict the outcome.
+2) Your goal is to predict the most likely winner.
+3) (IMPORTANT!) If you predict a team to win, make sure your predicted score aligns with that prediction.
+4) Pay attention to the game date, do not let outdated information influence your choice.
 
 ---------------------------------------------------------
 
