@@ -33,5 +33,7 @@ Away team current streak (L means losing streak, W means winning streak): {awayS
 Away team current streak length: {awayStreakLength}
 
 -------------------------------------------
+
 Venue: {venue}
 Game Date: {gameDate}
+Reminder: Each team plays 82 games in an NHL season
