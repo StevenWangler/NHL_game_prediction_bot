@@ -11,6 +11,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 NHL_API_BASE_URL = "https://api-web.nhle.com/v1/"
+SEASON="20232024"
 
 def safe_request(url, max_retries=3, backoff_factor=0.5, timeout=10):
     """
@@ -80,8 +81,13 @@ def format_games_today_response(games_today):
         game_id = game.get('id')
         venue = game.get('venue', {}).get('default', 'Unknown Venue')
         start_time_utc = game.get('startTimeUTC')
-        away_team = game.get('awayTeam', {}).get('abbrev', 'Unknown Team')
         home_team = game.get('homeTeam', {}).get('abbrev', 'Unknown Team')
+        away_team = game.get('awayTeam', {}).get('abbrev', 'Unknown Team')
+        game_type = game['gameType']
+
+        home_team_stats = get_current_team_stats(home_team, game_type)
+        away_team_stats = get_current_team_stats(away_team, game_type)
+
 
         formatted_game = {
             'game_id': game_id,
@@ -103,3 +109,10 @@ def get_current_standings():
     standings_payload = safe_request(f"{NHL_API_BASE_URL}standings/now")
     current_standings = standings_payload['standings']
     return current_standings
+
+def get_current_team_stats(team, game_type):
+    """
+    todo
+    """
+    stats_payload = safe_request(f"{NHL_API_BASE_URL}club-stats/{team}/{SEASON}/{game_type}")
+    return stats_payload
