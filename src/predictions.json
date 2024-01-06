@@ -2,7 +2,8 @@
     {
         "venue": "Prudential Center",
         "home team name": "NJD",
-<<<<<<< HEAD
+        "home team percentage chance of winning": "24.24%",
+        "predicted home team goals": "0",
         "home team percentage chance of winning": "30.68%",
         "predicted home team goals": "4",
         "away team name": "CHI",
@@ -25,35 +26,28 @@
         "confidence rating": "medium",
         "confidence reason": "The home team are Ice Hockey specialists while the away team are above average in playoff hockey. The home team are very inconsistent so their chances of winning are not high",
         "opposition": "The away team are above average at playoff hockey, if they continue the streak of the regular games, and the home team continue the poor perfomance"
-=======
         "home team percentage chance of winning": "16.58",
-        "predicted home team goals": "4",
-        "away team name": "CHI",
-        "away team percentage chance of winning": "83.42",
-        "predicted away team goals": "3",
-        "key factors": "['home', 'away', 'draw']",
-        "confidence rating": "high",
-        "confidence reason": "The home team is in a better form, having 6 wins in their last 10 games, compared to the away team, who have 2 wins in their last 10 games. The home team has the home advantage. The home team has maintained 33 goals against in their last 10 games.",
-        "opposition": "The away team could win if they overcome the home team advantage."
+        "predicted home team goals": "4"
     },
     {
         "venue": "Capital One Arena",
         "home team name": "WSH",
-        "home team percentage chance of winning": "37.3%",
-        "predicted home team goals": "3",
+        "home team percentage chance of winning": "33.08%",
+        "predicted home team goals": "1",
         "away team name": "CAR",
-        "away team percentage chance of winning": "62.7%",
-        "predicted away team goals": "2",
-        "key factors": "['away team current streak length', 'home team win percentage', 'away team loss percentage', 'home team goals for', 'away team goals against', 'away team goal differential percentage', 'home team goal differential percentage']",
-        "confidence rating": "medium",
-        "confidence reason": "The records of the two teams are almost equal. Away team is more likely to win by a small margin",
-        "opposition": "['away team season goal differential', 'home team season goal differential']"
->>>>>>> main
+        "away team percentage chance of winning": "66.92%",
+        "predicted away team goals": "0",
+        "key factors": "['win_Percentage_home', 'goalsPerGame_home', 'goalsAgainstPerGame_home', 'powerPlayPercentage_home', 'powerPlayOpportunities_home', 'powerPlayGoals_home', 'powerPlayPercentage_away', 'powerPlayOpportunities_away', 'powerPlayGoals_away', 'penaltyKillPercentage_home', 'penaltyKillOpportunities_home', 'penaltyKillGoalsAgainst_home', 'penaltyKillPercentage_away', 'penaltyKillOpportunities_away', 'penaltyKillGoalsAgainst_away', 'shotsOnGoal_home', 'shotsOnGoal_away', 'savePct_home', 'savePct_away', 'hits_home', 'hits_away', 'pim_home', 'pim_away', 'blocked_home', 'blocked_away', 'takeaways_home', 'takeaways_away', 'giveaways_home', 'giveaways_away', 'mojave_winning_x', 'mojave_winning_y']",
+        "confidence rating": "high",
+        "confidence reason": "the away team is on a 4 game(s) winning streak, while the home team has been on a 1 game(s) losing streak",
+        "opposition": "['win_Percentage', 'powerPlayPercentage', 'powerPlayGoals', 'powerPlayOpportunities', 'penaltyKillOpportunities', 'penaltyKillGoalsAgainst', 'shotsOnGoal', 'savePct', 'pim', 'giveaways', 'takeaways', 'mojave_winning']",
+        "simulation results": "Home: 8 wins | Away: 12 wins (20 simulations total)"
     },
     {
         "venue": "Honda Center",
         "home team name": "ANA",
-<<<<<<< HEAD
+        "home team percentage chance of winning": "45.83%",
+        "predicted home team goals": "1",
         "home team percentage chance of winning": "30.01%",
         "predicted home team goals": "5",
         "away team name": "WPG",
@@ -63,16 +57,17 @@
         "confidence rating": "high",
         "confidence reason": "The home/away team has a significant winning streak",
         "opposition": "[]"
-=======
         "home team percentage chance of winning": "42.11%",
         "predicted home team goals": "0",
         "away team name": "WPG",
-        "away team percentage chance of winning": "57.89%",
-        "predicted away team goals": "7",
+        "away team percentage chance of winning": "54.17%",
+        "predicted away team goals": "3",
         "key factors": "[]",
+        "confidence rating": "low",
+        "confidence reason": "The home team is scoring 2.54 which is less than the away team with 3.32 at away games. The away team is winning with a probability of 54.17%. The home team is losing with a probability of 45.83%. The home team has a better goal differential percentage (-0.8108108108108109) than the away team (0.8648648648648649)",
+        "opposition": "The away team needs to increase their goals per game. The away team could increase their chances of winning by making sure the away team win percentage is higher even though they are behind in goal differential percentage",
+        "simulation results": "Home: 6 wins | Away: 14 wins (20 simulations total)"
         "confidence rating": "medium",
         "confidence reason": "The home team is doing poorly. The away team is doing well. Away team has 8 winning points. ",
-        "opposition": "The away team is under a winning streak which means they are on a good moment."
->>>>>>> main
     }
 ]

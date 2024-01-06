@@ -64,6 +64,9 @@ function displayPredictions(predictions) {
             <div class="reason-section">
                 <p class="reason"><strong>Opposition:</strong> ${prediction['opposition'] ? prediction['opposition'] : 'N/A'}</p>
             </div>
+            <div class="reason-section">
+                <p class="reason"><strong>Simulation Results:</strong> ${prediction['simulation results'] ? prediction['simulation results'] : 'N/A'}</p>
+            </div>
             ${confidenceElement}
         `;
         container.appendChild(predictionElement);
