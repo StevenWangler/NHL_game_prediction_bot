@@ -6,7 +6,7 @@ Here are some instructions I want you to follow:
 
 Rules:
 
-1) I want you to run 20 statistical simulations with the data you have so you can better predict the outcome.
+1) I want you to run 100 statistical simulations with the data you have so you can better predict the outcome.
 2) Your goal is to predict the most likely winner.
 3) (IMPORTANT!) If you predict a team to win, make sure your predicted score aligns with that prediction.
     For example, if the home team has a higher chance of winning, they also need to score more goals than their opposition.

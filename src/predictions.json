@@ -1,4 +1,7 @@
 [
+<<<<<<< HEAD
+    
+=======
     {
         "venue": "Madison Square Garden",
         "home team name": "NYR",
@@ -55,4 +58,5 @@
         "opposition": "['season goal differential', 'goal differential percentage', 'current streak', 'home team record on the year', 'home team goals against in their last 10', 'home team wins at home', 'away team losses in their last 10', 'home team total goals for', 'home team goal differential percentage', 'away team current streak length']",
         "simulation results": "Away: 6 wins | Home: 14 wins (20 simulations total)"
     }
+>>>>>>> fecd65fdd926b6957675e843c7802ef2a8656b6a
 ]
