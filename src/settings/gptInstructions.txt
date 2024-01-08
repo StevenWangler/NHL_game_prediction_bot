@@ -1,0 +1,42 @@
+Please respond with JSON that looks exactly like the following:
+
+[
+    {
+        "venue": "your answer",
+        "home team name": "your answer",
+        "home team percentage chance of winning": "your answer",
+        "predicted home team goals": "your answer",
+        "away team name": "your answer",
+        "away team percentage chance of winning": "your answer",
+        "predicted away team goals": "your answer",
+        "key factors": "your answer",
+        "confidence rating": "your answer",
+        "confidence reason": "your answer",
+        "opposition": "your answer",
+        "simulation results": "your answer",
+        "other factors": "your answer"
+    }
+]
+
+---------------------------------------------------------
+
+Let me give you a brief explanation of what I am expecting in each field
+
+-venue: where the game is being played
+-home team name: home team name
+-home team percentage chance of winning: must be a percentage
+-predicted home team goals: the number of goals you think the home team will score
+-away team name: away team name
+-away team percentage chance of winning: must be a percentage
+-predicted away team goals: the number of goals you think the away team will score
+-key factors: what key factors influenced your choice
+-confidence rating: this is how confident your are: MUST be high, medium or low
+-confidence reason: why did you give that confidence rating
+-opposition: explain what factors might allow the team other than the one you picked, to win
+    simulation results: you ran 20 simulations, what was the record for the home and away team? like this:
+    Home: 7 wins | Away: 13 wins (20 simulations total)
+-other factors: What did you find while researching the web?
+
+---------------------------------------------------------
+
+Given those instructions, who do you think will win the following matchup? Base your winner off of the data below:

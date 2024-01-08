@@ -5,7 +5,7 @@ This module provides functions for generating game predictions based on current 
 standings and game information.
 """
 import datetime
-from openai_actions import openai_formatting as ai_formatting
+import time
 from openai_actions import openai_calls
 
 def generate_game_predictions(games_today, current_standings):
@@ -20,13 +20,36 @@ def generate_game_predictions(games_today, current_standings):
     Returns:
         list: A list of predictions for each game.
     """
+    assistant = openai_calls.get_assistant()
+    thread = openai_calls.create_thread()
     results = []
     for game in games_today:
         try:
             teams_info = get_teams_recent_info(game, current_standings)
             prediction_message = generate_game_prediction_message(game, teams_info)
-            openai_message = ai_formatting.combine_contents_into_message(prediction_message)
-            prediction = openai_calls.generate_chat_completions(openai_message)
+            #openai_message = ai_formatting.combine_contents_into_message(prediction_message)
+            #prediction = openai_calls.generate_chat_completions(openai_message)
+
+            openai_calls.add_message_to_thread(thread.id, prediction_message)
+            run = openai_calls.run_assistant_on_thread(thread.id, assistant)
+            
+            while True:
+                status = openai_calls.check_run_status(thread.id, run.id)
+                if status == 'completed':
+                    break
+                print('Waiting for ai completion...')
+                time.sleep(20)
+            
+            response = openai_calls.get_messages(thread.id)
+            prediction = response.data[0]
+            for content in prediction.content:
+                if not hasattr(content, 'type'):
+                    continue
+
+                if content.type == 'text' and hasattr(content, 'text') and hasattr(content.text, 'value'):
+                    prediction = content.text.value
+                    break
+
             print(f'\n\n\n{prediction}')
             results.append(prediction)
         except Exception as e:

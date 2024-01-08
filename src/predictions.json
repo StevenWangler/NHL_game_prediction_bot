@@ -1,4 +1,7 @@
 [
+<<<<<<< HEAD
+    
+=======
     {
         "venue": "Wells Fargo Center",
         "home team name": "PHI",
@@ -211,4 +214,5 @@
         "confidence rating": "medium",
         "confidence reason": "The home team is doing poorly. The away team is doing well. Away team has 8 winning points. ",
     }
+>>>>>>> fecd65fdd926b6957675e843c7802ef2a8656b6a
 ]
