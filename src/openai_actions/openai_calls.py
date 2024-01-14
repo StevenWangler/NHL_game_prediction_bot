@@ -146,12 +146,27 @@ def check_run_status(thread_id, run_id):
 
 def get_messages(thread_id):
     """
-    TODO
+    Retrieves a list of messages from a specified thread using the OpenAI API.
+
+    This function calls the OpenAI API to fetch all messages belonging to a given thread,
+    identified by its unique thread ID. If the API call is successful, it returns a list of
+    messages. In case of an error (such as a network issue or invalid thread ID), it catches
+    the exception, prints an error message, and returns None.
+
+    Parameters:
+    thread_id (str): The unique identifier of the thread from which messages are to be retrieved.
+
+    Returns:
+    dict or None: Returns a dictionary containing the list of messages if the API call is successful.
+                  Returns None if an error occurs during the API call.
+
+    Raises:
+    Exception: Outputs an error message to the console if an exception occurs during the API call.
     """
     try:
         return openai.beta.threads.messages.list(
-            thread_id = thread_id
+            thread_id=thread_id
         )
     except Exception as e:
-        print('Error getting messages! Error: %s', e)
+        print(f'Error getting messages! Error: {e}')
         return None
