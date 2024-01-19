@@ -59,16 +59,10 @@ function displayPredictions(predictions) {
                 <p><strong>Predicted Score:</strong> ${prediction['home team name']} ${predictedHomeGoals} - ${prediction['away team name']} ${predictedAwayGoals}</p>
             </div>
             <div class="reason-section">
-                <p class="reason"><strong>Key Factors:</strong> ${prediction['key factors'] ? prediction['key factors'] : 'N/A'}</p>
-            </div>
-            <div class="reason-section">
-                <p class="reason"><strong>Opposition:</strong> ${prediction['opposition'] ? prediction['opposition'] : 'N/A'}</p>
-            </div>
-            <div class="reason-section">
                 <p class="reason"><strong>Simulation Results:</strong> ${prediction['simulation results'] ? prediction['simulation results'] : 'N/A'}</p>
             </div>
             <div class="reason-section">
-                <p class="reason"><strong>Other Factors:</strong> ${prediction['other factors'] ? prediction['other factors'] : 'N/A'}</p>
+                <p class="reason"><strong>Explanation:</strong> ${prediction['explanation'] ? prediction['explanation'] : 'N/A'}</p>
             </div>
             ${confidenceElement}
         `;
