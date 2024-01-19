@@ -2,6 +2,7 @@
     {
         "venue": "PNC Arena",
         "home team name": "CAR",
+<<<<<<< HEAD
         "home team percentage chance of winning": "61.54%",
         "predicted home team goals": "13.51",
         "away team name": "DET",
@@ -10,10 +11,24 @@
         "confidence rating": "high",
         "simulation results": "7376-1990-634 (Home-Away-Ties)",
         "explanation": "Using a combination of season statistics, recent performance, and home advantage, the model calculated the probabilities of each team winning. Simulations were run using Poisson distributions to estimate the number of goals, leading to a predicated number of wins for each team over a large number of simulated matches."
+=======
+        "home team percentage chance of winning": "56.07%",
+        "predicted home team goals": 4,
+        "away team name": "DET",
+        "away team percentage chance of winning": "43.93%",
+        "predicted away team goals": 4,
+        "key factors": "Both teams' recent records, home field advantage, and goal differentials",
+        "confidence rating": "medium",
+        "confidence reason": "Both teams have similar recent records, but home advantage could be significant.",
+        "opposition": "If DET continues their current streak and overcomes the home advantage, they could win.",
+        "simulation results": "Home: 66 wins | Away: 34 wins | Ties: 0",
+        "other factors": "Current streaks and performance in last 10 games"
+>>>>>>> main
     },
     {
         "venue": "Nationwide Arena",
         "home team name": "CBJ",
+<<<<<<< HEAD
         "home team percentage chance of winning": "52.90%",
         "predicted home team goals": "8.66",
         "away team name": "NJD",
@@ -22,10 +37,24 @@
         "confidence rating": "medium",
         "simulation results": "958-8647-395 (Home-Away-Ties)",
         "explanation": "This model considers home-ice advantage, team's performance throughout the season, and their recent forms. Using Poisson distributions for simulations, the likelihood of victories and expected goals were calculated, taking into account the teams' offensive and defensive records, particularly in the stated timeframe."
+=======
+        "home team percentage chance of winning": "25.35%",
+        "predicted home team goals": 3,
+        "away team name": "NJD",
+        "away team percentage chance of winning": "74.65%",
+        "predicted away team goals": 3,
+        "key factors": "Both teams' recent records, home field advantage, and goal differentials",
+        "confidence rating": "low",
+        "confidence reason": "The home team has a significantly worse record and goal differential.",
+        "opposition": "The home team could capitalize on their home advantage and recent win to upset the away team.",
+        "simulation results": "Home: 14 wins | Away: 86 wins | Ties: 0",
+        "other factors": "Current streaks and performance in last 10 games"
+>>>>>>> main
     },
     {
         "venue": "Amerant Bank Arena",
         "home team name": "FLA",
+<<<<<<< HEAD
         "home team percentage chance of winning": "52.90%",
         "predicted home team goals": "8.66",
         "away team name": "MIN",
@@ -34,10 +63,24 @@
         "confidence rating": "medium",
         "simulation results": "958-8647-395 (Home-Away-Ties)",
         "explanation": "Given the superior season record, home advantage, and recent form of the home team compared to the away team, the model favors them. Despite the home team's greater number of overtime losses, they have a reasonable amount of home wins and a better goal differential. This influenced the prediction alongside simulated matches which rely on statistical data and recent performances."
+=======
+        "home team percentage chance of winning": "94.67%",
+        "predicted home team goals": 4,
+        "away team name": "MIN",
+        "away team percentage chance of winning": "5.33%",
+        "predicted away team goals": 3,
+        "key factors": "Both teams' recent records, home field advantage, and goal differentials",
+        "confidence rating": "high",
+        "confidence reason": "The home team has a strong recent form and better seasonal performance compared to the away team.",
+        "opposition": "The away team's recent form has been poor, reducing the likelihood of an upset.",
+        "simulation results": "Home: 80 wins | Away: 20 wins | Ties: 0",
+        "other factors": "Current streaks and performance in last 10 games"
+>>>>>>> main
     },
     {
         "venue": "United Center",
         "home team name": "CHI",
+<<<<<<< HEAD
         "home team percentage chance of winning": "46.32%",
         "predicted home team goals": "4.56",
         "away team name": "NYI",
@@ -46,5 +89,18 @@
         "confidence rating": "medium",
         "simulation results": "1002-8356-642 (Home-Away-Ties)",
         "explanation": "The prediction accounts for both the struggling season performance and current form of the home team versus the away team. Despite the home advantage, the away team has a better season record. The model's simulations suggest a higher chance of an away victory but acknowledge the variability inherent in hockey games."
+=======
+        "home team percentage chance of winning": "50.76%",
+        "predicted home team goals": 2,
+        "away team name": "NYI",
+        "away team percentage chance of winning": "49.24%",
+        "predicted away team goals": 3,
+        "key factors": "Both teams' recent records, home field advantage, and goal differentials",
+        "confidence rating": "low",
+        "confidence reason": "The home team is underperforming this season, yet home advantage can't be discounted.",
+        "opposition": "Despite being the away team, NYI has performed better over the season and could likely win.",
+        "simulation results": "Home: 0 wins | Away: 100 wins | Ties: 0",
+        "other factors": "Current streaks and performance in last 10 games"
+>>>>>>> main
     }
 ]
