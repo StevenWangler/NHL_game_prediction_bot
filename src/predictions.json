@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "venue": "Madison Square Garden",
+        "home team name": "NYR",
+        "home team percentage chance of winning": "43%",
+        "predicted home team goals": "3",
+        "away team name": "COL",
+        "away team percentage chance of winning": "57%",
+        "predicted away team goals": "4",
+        "confidence rating": "medium",
+        "simulation results": "NYR 4-6 COL over 10 games",
+        "explanation": "COL has better form going into the match with a 7-3 record in their last 10 games compared to NYR's 4-5. COL also has a better goal differential and has been scoring more goals recently. However NYR is playing at home where they have a strong record of 15 wins and 7 losses, giving them an advantage. Thus, while COL has a higher chance of winning, it is not a high confidence prediction."
+    },
+    {
+        "venue": "Scotiabank Arena",
+        "home team name": "TOR",
+        "home team percentage chance of winning": "65%",
+        "predicted home team goals": "4",
+        "away team name": "NYI",
+        "away team percentage chance of winning": "35%",
+        "predicted away team goals": "2",
+        "confidence rating": "high",
+        "simulation results": "TOR 7-3 NYI over 10 games",
+        "explanation": "TOR has a stronger form compared to NYI with a 5-4 record in their last 10 games compared to NYI's 2-6. TOR has a positive season goal differential, as opposed to NYI's negative one. Thus, TOR being the home team, coupled with their better form, leads to a high confidence prediction of TOR winning this game."
+    }
+]
