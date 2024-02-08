@@ -1,38 +1,86 @@
 [
     {
-        "venue": "Madison Square Garden",
-        "home team name": "NYR",
-        "home team percentage chance of winning": "56%",
+        "venue": "TD Garden",
+        "home team name": "BOS",
+        "home team percentage chance of winning": "43%",
         "predicted home team goals": "3",
-        "away team name": "TBL",
-        "away team percentage chance of winning": "44%",
-        "predicted away team goals": "2",
-        "confidence rating": "Medium",
-        "simulation results": "NYR wins 56 out of 100 games, TBL wins 44",
-        "explanation": "Although TBL has a better recent form with more wins in their last ten games, NYR has a good home record with 16 wins out of 23 games played at home against TBL's mediocre away performance of 10 wins out of 23 away games. Taking this factor into account along with other variables like the season goal differential (more in favor of NYR), the simulations predicts a 56% chance of NYR winning. The game is predicted to be close with NYR scoring 3 goals on average and TBL scoring 2. However, due to the unpredictable nature of the game, the confidence rating is medium."
+        "away team name": "VAN",
+        "away team percentage chance of winning": "57%",
+        "predicted away team goals": "4",
+        "confidence rating": "medium",
+        "simulation results": "VAN wins 6 out of 10 simulations",
+        "explanation": "The data shows that, despite BOS's strong home record this season (16 wins, 5 losses), VAN has been in better form recently winning all of their last 10 games compared to BOS's 7 wins. VAN also has a better seasonal record with a significantly higher goal differential. The simulations conducted showed a slight edge for VAN, with them winning 6 out of 10 simulated matches. Hence, the prediction leans slightly in favor of VAN despite them being the away team."
     },
     {
-        "venue": "Scotiabank Arena",
-        "home team name": "TOR",
+        "venue": "Amerant Bank Arena",
+        "home team name": "FLA",
+        "home team percentage chance of winning": "67%",
+        "predicted home team goals": "4",
+        "away team name": "WSH",
+        "away team percentage chance of winning": "33%",
+        "predicted away team goals": "2",
+        "confidence rating": "high",
+        "simulation results": "FLA wins 7 out of 10 simulations",
+        "explanation": "Looking at the statistics, FLA has a better form in their last 10 games, with more wins and more goals scored than WSH. In addition, FLA has a positive season goal differential and a superior overall record. On the other hand, WSH has struggled recently, losing more than they have won in their last 10 games, and they have a negative goal differential for the season. The home advantage and current form give FLA the upper hand in this matchup, as supported by the simulations conducted."
+    },
+    {
+        "venue": "Prudential Center",
+        "home team name": "NJD",
+        "home team percentage chance of winning": "49%",
+        "predicted home team goals": "3",
+        "away team name": "CGY",
+        "away team percentage chance of winning": "51%",
+        "predicted away team goals": "4",
+        "confidence rating": "low",
+        "simulation results": "CGY wins 5 out of 10 simulations",
+        "explanation": "This is a closely matched game with both teams having similar overall records this season and almost equal performance in their last ten games. However, CGY has a slightly better goal differential percentage and more wins in their last 10 games, which gives them a minor edge over NJD. Despite being the away team, these factors and the simulation results point towards a narrow win for CGY. The low confidence rating underscores the tightness of this contest."
+    },
+    {
+        "venue": "Wells Fargo Center",
+        "home team name": "PHI",
         "home team percentage chance of winning": "40%",
         "predicted home team goals": "2",
-        "away team name": "DAL",
+        "away team name": "WPG",
         "away team percentage chance of winning": "60%",
         "predicted away team goals": "3",
-        "confidence rating": "Medium",
-        "simulation results": "DAL wins 60 out of 100 games, TOR wins 40",
-        "explanation": "In this matchup, the Dallas Stars (DAL) seem to have the edge. Looking at the recent performance, DAL has 7 wins in the last 10 games, while Toronto Maple Leafs (TOR) only secured 4 wins. DAL's season goal differential (33) is also more than double of TOR's (15), implying they have a healthier scoring habit. Additionally, DAL has a stronger record on the road, with 15 victories compared to TOR's 11 home wins. In the simulations, DAL won 60 games out of 100, hence their chances of winning are predicted to be 60%. However, due to the unpredictable nature of the game, the confidence rating is medium."
+        "confidence rating": "medium",
+        "simulation results": "WPG wins 6 out of 10 simulations",
+        "explanation": "WPG has fewer losses and a significantly better goal differential, as well as better overall season record. Despite PHI's home advantage and their current streak of 1 win, WPG has a better overall record. The simulations conducted also favor WPG, further supporting the prediction."
     },
     {
-        "venue": "United Center",
-        "home team name": "CHI",
+        "venue": "PNC Arena",
+        "home team name": "CAR",
+        "home team percentage chance of winning": "48%",
+        "predicted home team goals": "3",
+        "away team name": "COL",
+        "away team percentage chance of winning": "52%",
+        "predicted away team goals": "4",
+        "confidence rating": "medium",
+        "simulation results": "COL wins 5 out of 10 simulations",
+        "explanation": "Both teams have similar recent form with 6 wins in their last 10 games. However, COL has a better season performance with more wins and a higher goal differential percentage. This gives them a slight edge over CAR despite being the away team. The predictions are supported by the simulation results which also indicate a narrow victory for COL."
+    },
+    {
+        "venue": "UBS Arena",
+        "home team name": "NYI",
         "home team percentage chance of winning": "35%",
         "predicted home team goals": "2",
-        "away team name": "MIN",
+        "away team name": "TBL",
         "away team percentage chance of winning": "65%",
+        "predicted away team goals": "4",
+        "confidence rating": "high",
+        "simulation results": "TBL wins 7 out of 10 simulations",
+        "explanation": "TBL has a stronger performance both in their overall season record and their recent 10 games, with twice the number of wins as NYI. They have also scored significantly more goals in their recent games, indicating better offensive prowess. Despite NYI's home advantage, TBL's form makes them likely winners. This is corroborated by the simulation results, further reinforcing TBL's advantage in this matchup."
+    },
+    {
+        "venue": "Mullett Arena",
+        "home team name": "ARI",
+        "home team percentage chance of winning": "40%",
+        "predicted home team goals": "2",
+        "away team name": "VGK",
+        "away team percentage chance of winning": "60%",
         "predicted away team goals": "3",
-        "confidence rating": "Medium",
-        "simulation results": "MIN wins 65 out of 100 games, CHI wins 35",
-        "explanation": "Despite the home advantage for CHI, the recent performances and overall statistics suggest MIN as the more likely winner. CHI has only 2 wins in the last 10 games compared to MIN's 4. Moreover, CHI's season goal differential is significantly negative at -72, which is far worse than MIN's -17. MIN's better performance, both in terms of victories and goal differentials, suggest they are more likely to win this game. Nevertheless, given the unpredictable nature of NHL games, the confidence level remains at medium."
+        "confidence rating": "medium",
+        "simulation results": "VGK wins 6 out of 10 simulations",
+        "explanation": "Despite ARI's home advantage, VGK seems the likely winner thanks to their recent form and overall season record. VGK has won more of their recent games than ARI and has a better goal differential. In addition, VGK's overall wins this season exceed those of ARI. These factors, coupled with the results of simulated matches, suggest that VGK is more likely to emerge victorious in this matchup."
     }
 ]
